@@ -1,0 +1,298 @@
+{
+  "carrera": "Licenciatura en Gastronomía y Administración Culinaria",
+  "universidad": "Galileo",
+  "url": "https://www.galileo.edu/facisa/carrera/lgac/pensum/",
+  "ciclos": [
+    {
+      "nombre": "primer año - 1er ciclo",
+      "materias": [
+        {
+          "codigo": "CU01",
+          "nombre": "TÉCNICAS BÁSICAS CULINARIAS I",
+          "creditos": 4
+        },
+        {
+          "codigo": "CU02",
+          "nombre": "TÉCNICAS BÁSICAS CULINARIAS II",
+          "creditos": 4
+        },
+        {
+          "codigo": "CU03",
+          "nombre": "TÉCNICAS BÁSICAS CULINARIAS III",
+          "creditos": 4
+        },
+        {
+          "codigo": "HGAS01",
+          "nombre": "HISTORIA GASTRONÓMICA",
+          "creditos": 3
+        },
+        {
+          "codigo": "HYGS01",
+          "nombre": "HIGIENE Y SANIDAD",
+          "creditos": 3
+        },
+        {
+          "codigo": "TF003",
+          "nombre": "TÉCNICAS DE INVESTIGACIÓN Y ESTUDIO",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 21
+    },
+    {
+      "nombre": "primer año - 2do ciclo",
+      "materias": [
+        {
+          "codigo": "AH101",
+          "nombre": "PRINCIPIOS DE ADMINISTRACIÓN",
+          "creditos": 3
+        },
+        {
+          "codigo": "CP006",
+          "nombre": "PAQUETES DE SOFTWARE",
+          "creditos": 3
+        },
+        {
+          "codigo": "CU04",
+          "nombre": "TÉCNICAS DE COCCIÓN I",
+          "creditos": 4
+        },
+        {
+          "codigo": "CU05",
+          "nombre": "TÉCNICAS DE COCCIÓN II",
+          "creditos": 4
+        },
+        {
+          "codigo": "CU06",
+          "nombre": "TÉCNICAS DE COCCIÓN III",
+          "creditos": 4
+        },
+        {
+          "codigo": "MA100",
+          "nombre": "MATEMÁTICA",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 21
+    },
+    {
+      "nombre": "segundo año - 3er ciclo",
+      "materias": [
+        {
+          "codigo": "ACO01",
+          "nombre": "COCINA ASIÁTICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "CCF01",
+          "nombre": "COCINA CLÁSICA FRANCESA",
+          "creditos": 3
+        },
+        {
+          "codigo": "COM01",
+          "nombre": "COCINA MEDITERRÁNEA",
+          "creditos": 4
+        },
+        {
+          "codigo": "CU07",
+          "nombre": "COCINA FRANCESA CONTEMPORÁNEA",
+          "creditos": 4
+        },
+        {
+          "codigo": "FG685",
+          "nombre": "COSTOS I",
+          "creditos": 3
+        },
+        {
+          "codigo": "GE001",
+          "nombre": "GESTIÓN EMPRESARIAL",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 21
+    },
+    {
+      "nombre": "segundo año - 4to ciclo",
+      "materias": [
+        {
+          "codigo": "CDM01",
+          "nombre": "CREACIÓN DE MENÚS",
+          "creditos": 3
+        },
+        {
+          "codigo": "CLA01",
+          "nombre": "COCINA LATINOAMERICANA",
+          "creditos": 4
+        },
+        {
+          "codigo": "CU08",
+          "nombre": "COCINA REGIONAL CONTEMPORÁNEA",
+          "creditos": 4
+        },
+        {
+          "codigo": "CU09",
+          "nombre": "COCINA DEL MUNDO",
+          "creditos": 4
+        },
+        {
+          "codigo": "IDL10SC01",
+          "nombre": "SERVICIO AL CLIENTE",
+          "creditos": 3
+        },
+        {
+          "codigo": "TSYE01",
+          "nombre": "TIPOS DE SERVICIO Y ETIQUETA",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 21
+    },
+    {
+      "nombre": "tercer año - 5to ciclo",
+      "materias": [
+        {
+          "codigo": "CU010",
+          "nombre": "ENOLOGÍA",
+          "creditos": 3
+        },
+        {
+          "codigo": "CU011",
+          "nombre": "COCINA GUATEMALTECA I",
+          "creditos": 4
+        },
+        {
+          "codigo": "CU012",
+          "nombre": "COCINA GUATEMALTECA II",
+          "creditos": 4
+        },
+        {
+          "codigo": "CU013",
+          "nombre": "COCINA GUATEMALTECA III",
+          "creditos": 4
+        },
+        {
+          "codigo": "FG107",
+          "nombre": "NUTRICIÓN I",
+          "creditos": 3
+        },
+        {
+          "codigo": "FG687",
+          "nombre": "IDENTIFICACIÓN Y COMPRA DE INSUMOS",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 21
+    },
+    {
+      "nombre": "tercer año - 6to ciclo",
+      "materias": [
+        {
+          "codigo": "CU014",
+          "nombre": "COCINA GUATEMALTECA IV",
+          "creditos": 4
+        },
+        {
+          "codigo": "CU015",
+          "nombre": "PANADERÍA",
+          "creditos": 4
+        },
+        {
+          "codigo": "CU016",
+          "nombre": "BASES DE LA COCINA NUTRITIVA",
+          "creditos": 4
+        },
+        {
+          "codigo": "FG684",
+          "nombre": "LINGÜÍSTICA Y EXPRESIÓN ORAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "FG686",
+          "nombre": "COSTOS II",
+          "creditos": 3
+        },
+        {
+          "codigo": "TUA08",
+          "nombre": "NUTRICIÓN II",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 21
+    },
+    {
+      "nombre": "cuarto año - 7mo ciclo",
+      "materias": [
+        {
+          "codigo": "CU017",
+          "nombre": "TRABAJO DE CAMPO SOBRE LA GASTRONOMÍA E INGREDIENTES DE GUATEMALA",
+          "creditos": 3
+        },
+        {
+          "codigo": "CU018",
+          "nombre": "RECURSOS HUMANOS PARA ALIMENTOS Y BEBIDAS",
+          "creditos": 3
+        },
+        {
+          "codigo": "CU019",
+          "nombre": "MARKETING DE ALIMENTOS Y BEBIDAS",
+          "creditos": 3
+        },
+        {
+          "codigo": "CU020",
+          "nombre": "COCINA MOLECULAR",
+          "creditos": 4
+        },
+        {
+          "codigo": "CU021",
+          "nombre": "COCINA DE COMPETENCIA INTERNACIONAL",
+          "creditos": 4
+        },
+        {
+          "codigo": "FG683",
+          "nombre": "MONTAJE Y PRESENTACIÓN AVANZADO",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 21
+    },
+    {
+      "nombre": "cuarto año - 8vo ciclo",
+      "materias": [
+        {
+          "codigo": "CU022",
+          "nombre": "CATERING",
+          "creditos": 3
+        },
+        {
+          "codigo": "CU023",
+          "nombre": "COCTELERÍA PARA HOTELES Y RESTAURANTES",
+          "creditos": 3
+        },
+        {
+          "codigo": "CU024",
+          "nombre": "COCINA GUATEMALTECA CONTEMPORÁNEA",
+          "creditos": 4
+        },
+        {
+          "codigo": "CU025",
+          "nombre": "COCINA SOUS-VIDE",
+          "creditos": 4
+        },
+        {
+          "codigo": "CU026",
+          "nombre": "COCINA REGENERATIVA",
+          "creditos": 4
+        },
+        {
+          "codigo": "SE004",
+          "nombre": "SEMINARIO DE ALIMENTOS Y BEBIDAS",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 21
+    }
+  ],
+  "materias_totales": 48,
+  "creditos_totales": 168,
+  "texto_completo": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gastronomía y Administración Culinaria\nTotal de materias: 48\nTotal de créditos: 168\nURL: https://www.galileo.edu/facisa/carrera/lgac/pensum/\n================================================================================\n\nprimer año - 1er ciclo\n============================================================\n- TÉCNICAS BÁSICAS CULINARIAS I (CU01) - 4 créditos\n- TÉCNICAS BÁSICAS CULINARIAS II (CU02) - 4 créditos\n- TÉCNICAS BÁSICAS CULINARIAS III (CU03) - 4 créditos\n- HISTORIA GASTRONÓMICA (HGAS01) - 3 créditos\n- HIGIENE Y SANIDAD (HYGS01) - 3 créditos\n- TÉCNICAS DE INVESTIGACIÓN Y ESTUDIO (TF003) - 3 créditos\n\n\nprimer año - 2do ciclo\n============================================================\n- PRINCIPIOS DE ADMINISTRACIÓN (AH101) - 3 créditos\n- PAQUETES DE SOFTWARE (CP006) - 3 créditos\n- TÉCNICAS DE COCCIÓN I (CU04) - 4 créditos\n- TÉCNICAS DE COCCIÓN II (CU05) - 4 créditos\n- TÉCNICAS DE COCCIÓN III (CU06) - 4 créditos\n- MATEMÁTICA (MA100) - 3 créditos\n\n\nsegundo año - 3er ciclo\n============================================================\n- COCINA ASIÁTICA (ACO01) - 4 créditos\n- COCINA CLÁSICA FRANCESA (CCF01) - 3 créditos\n- COCINA MEDITERRÁNEA (COM01) - 4 créditos\n- COCINA FRANCESA CONTEMPORÁNEA (CU07) - 4 créditos\n- COSTOS I (FG685) - 3 créditos\n- GESTIÓN EMPRESARIAL (GE001) - 3 créditos\n\n\nsegundo año - 4to ciclo\n============================================================\n- CREACIÓN DE MENÚS (CDM01) - 3 créditos\n- COCINA LATINOAMERICANA (CLA01) - 4 créditos\n- COCINA REGIONAL CONTEMPORÁNEA (CU08) - 4 créditos\n- COCINA DEL MUNDO (CU09) - 4 créditos\n- SERVICIO AL CLIENTE (IDL10SC01) - 3 créditos\n- TIPOS DE SERVICIO Y ETIQUETA (TSYE01) - 3 créditos\n\n\ntercer año - 5to ciclo\n============================================================\n- ENOLOGÍA (CU010) - 3 créditos\n- COCINA GUATEMALTECA I (CU011) - 4 créditos\n- COCINA GUATEMALTECA II (CU012) - 4 créditos\n- COCINA GUATEMALTECA III (CU013) - 4 créditos\n- NUTRICIÓN I (FG107) - 3 créditos\n- IDENTIFICACIÓN Y COMPRA DE INSUMOS (FG687) - 3 créditos\n\n\ntercer año - 6to ciclo\n============================================================\n- COCINA GUATEMALTECA IV (CU014) - 4 créditos\n- PANADERÍA (CU015) - 4 créditos\n- BASES DE LA COCINA NUTRITIVA (CU016) - 4 créditos\n- LINGÜÍSTICA Y EXPRESIÓN ORAL (FG684) - 3 créditos\n- COSTOS II (FG686) - 3 créditos\n- NUTRICIÓN II (TUA08) - 3 créditos\n\n\ncuarto año - 7mo ciclo\n============================================================\n- TRABAJO DE CAMPO SOBRE LA GASTRONOMÍA E INGREDIENTES DE GUATEMALA (CU017) - 3 créditos\n- RECURSOS HUMANOS PARA ALIMENTOS Y BEBIDAS (CU018) - 3 créditos\n- MARKETING DE ALIMENTOS Y BEBIDAS (CU019) - 3 créditos\n- COCINA MOLECULAR (CU020) - 4 créditos\n- COCINA DE COMPETENCIA INTERNACIONAL (CU021) - 4 créditos\n- MONTAJE Y PRESENTACIÓN AVANZADO (FG683) - 4 créditos\n\n\ncuarto año - 8vo ciclo\n============================================================\n- CATERING (CU022) - 3 créditos\n- COCTELERÍA PARA HOTELES Y RESTAURANTES (CU023) - 3 créditos\n- COCINA GUATEMALTECA CONTEMPORÁNEA (CU024) - 4 créditos\n- COCINA SOUS-VIDE (CU025) - 4 créditos\n- COCINA REGENERATIVA (CU026) - 4 créditos\n- SEMINARIO DE ALIMENTOS Y BEBIDAS (SE004) - 3 créditos\n"
+}

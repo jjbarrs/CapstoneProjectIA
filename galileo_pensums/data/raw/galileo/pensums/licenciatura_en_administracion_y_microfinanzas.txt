@@ -1,0 +1,133 @@
+UNIVERSIDAD GALILEO
+CARRERA: Licenciatura en Administración y Microfinanzas
+Total de materias: 64
+Total de créditos: 192
+URL: https://www.galileo.edu/esec/carrera/licenciatura-administracion-microfinanzas/pensum/
+================================================================================
+
+primer año - 1er ciclo
+============================================================
+- INTRODUCCIÓN A MICROFINANZAS (AC0012) - 3 créditos
+- CONTABILIDAD I (AD201) - 3 créditos
+- ANÁLISIS FINAL I (FG402) - 3 créditos
+- COMUNICACIÓN I (LE111) - 3 créditos
+
+
+primer año - 2do ciclo
+============================================================
+- CONTABILIDAD II (AD202) - 3 créditos
+- ANÁLISIS FINAL II (FG403) - 3 créditos
+- COMUNICACIÓN II (LE112) - 3 créditos
+- GESTIÓN DE CRÉDITO EN MICROFINANZAS (MCFNS01) - 3 créditos
+
+
+primer año - 3er ciclo
+============================================================
+- ANÁLISIS DE ESTADOS FINANCIEROS (EID04) - 3 créditos
+- ÉTICA Y RESPONSABILIDAD EN MICROFINANZAS (FG307) - 3 créditos
+- COMUNICACIÓN III (LE113) - 3 créditos
+- INFORMÁTICA I CON APLICACIÓN A LAS MICROFINANZAS (PC522) - 3 créditos
+
+
+primer año - 4to ciclo
+============================================================
+- MATEMÁTICA I (MA201) - 3 créditos
+- METODOLOGÍA DE CRÉDITOS PARA MICROFINANZAS (MCFNS002) - 3 créditos
+- INFORMÁTICA II CON APLICACIÓN A MICROFINANZAS (MIF002) - 3 créditos
+- ADMINISTRACIÓN DE CARTERA Y CONTROL DE MOROSIDAD (TOB11) - 3 créditos
+
+
+segundo año - 5to ciclo
+============================================================
+- PLAN DE NEGOCIOS CON APLICACIÓN A MICROFINANZAS (AC065) - 3 créditos
+- INCLUSIÓN FINANCIERA (EC125) - 3 créditos
+- MATEMÁTICA II (MA202) - 3 créditos
+- INFORMÁTICA III CON APLICACIÓN A MICROFINANZAS (MIF003) - 3 créditos
+
+
+segundo año - 6to ciclo
+============================================================
+- MERCADEO I (AD316) - 3 créditos
+- INTELIGENCIA EMOCIONAL (DCG001) - 3 créditos
+- GESTIÓN DE DESEMPEÑO SOCIAL (GDS) (GS004) - 3 créditos
+- SOCIOECONOMÍA DE GUATEMALA I (SOEC02) - 3 créditos
+
+
+segundo año - 7mo ciclo
+============================================================
+- MERCADEO II (AD317) - 3 créditos
+- NEGOCIACIÓN I (EC423) - 3 créditos
+- MATEMÁTICA PARA MICROFINANZAS I (MA130) - 3 créditos
+- SOCIOECONOMÍA DE GUATEMALA II (SOEC03) - 3 créditos
+
+
+segundo año - 8vo ciclo
+============================================================
+- PLAN DE MERCADEO (AC610) - 3 créditos
+- NEGOCIACIÓN II (EC425) - 3 créditos
+- MATEMÁTICA PARA MICROFINANZAS II (MA131) - 3 créditos
+- SOCIOECONOMÍA DE GUATEMALA III (SOEC04) - 3 créditos
+
+
+tercer año - 9no ciclo
+============================================================
+- ANÁLISIS DE ESTADOS FINANCIEROS, MOD 4 ESAN (EID09) - 3 créditos
+- ELABORACIÓN DE PROYECTOS (GE609) - 3 créditos
+- MATEMÁTICA FINANCIERA III (MA104) - 3 créditos
+- LEGISLACIÓN PARA MICROFINANZAS I (MIF004) - 3 créditos
+
+
+tercer año - 10mo ciclo
+============================================================
+- ANÁLISIS DE RIESGO CREDITICIO MOD.5 ESAN (AR006) - 3 créditos
+- EVALUACIÓN FINANCIERA DE PROYECTOS (EC413) - 3 créditos
+- AVALÚOS DE BIENES MUEBLES E INMUEBLES PARA MICROFINANZAS (LMF010) - 3 créditos
+- LEGISLACIÓN PARA MICROFINANZAS II (MIF005) - 3 créditos
+
+
+tercer año - 11er ciclo
+============================================================
+- DISEÑO DE PROCESOS I (ME117) - 3 créditos
+- LEGISLACIÓN PARA MICROFINANZAS III (MIF006) - 3 créditos
+- PENSAMIENTO CREATIVO (PENSA00) - 3 créditos
+- TEORÍA GERENCIAL I (RA309) - 3 créditos
+
+
+tercer año - 12do ciclo
+============================================================
+- MEJORA CONTINUA (AC07) - 3 créditos
+- PLANEACIÓN ESTRATÉGICA I (GT002) - 3 créditos
+- DISEÑO DE PROCESOS II (ME118) - 3 créditos
+- TEORÍA GERENCIAL II (RA310) - 3 créditos
+
+
+cuarto año - 13er ciclo
+============================================================
+- ANÁLISIS DE SISTEMAS (AS301) - 3 créditos
+- PRINCIPIOS DE ECONOMÍA (EC0002) - 3 créditos
+- PLANEACIÓN ESTRATÉGICA II (GT003) - 3 créditos
+- TEORÍA GERENCIAL III (TG03) - 3 créditos
+
+
+cuarto año - 14to ciclo
+============================================================
+- PRESUPUESTOS (AC025) - 3 créditos
+- BASE DE DATOS (AS403) - 3 créditos
+- PRINCIPIOS DE AUDITORÍA (AUD001) - 3 créditos
+- MICROECONOMÍA (EC201) - 3 créditos
+
+
+cuarto año - 15to ciclo
+============================================================
+- AUDITORÍA DE SISTEMAS (A3610) - 3 créditos
+- RRHH I (ADRRH003) - 3 créditos
+- DIRECCIÓN ESTRATÉGICA (DE0015) - 3 créditos
+- MACROECONOMÍA (EC202) - 3 créditos
+
+
+cuarto año - 16to ciclo
+============================================================
+- RRHH II (ADRRH004) - 3 créditos
+- GOBERNABILIDAD EN MICROFINANZAS (MIF007) - 3 créditos
+- MODELOS DE DESARROLLO (MIF008) - 3 créditos
+- SEMINARIO DE APLICACIÓN (SA101) - 3 créditos

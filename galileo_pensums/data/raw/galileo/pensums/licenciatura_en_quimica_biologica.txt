@@ -1,0 +1,93 @@
+UNIVERSIDAD GALILEO
+CARRERA: Licenciatura en Química Biológica
+Total de materias: 48
+Total de créditos: 255
+URL: https://www.galileo.edu/facisa/carrera/lbc/pensum/
+================================================================================
+
+primer año - 1er ciclo
+============================================================
+- APLICATIVOS DE SOFTWARE I (APS002) - 3 créditos
+- MATEMÁTICA I (MA201) - 4 créditos
+- QUÍMICA GENERAL I (QU405) - 7 créditos
+- PSICOLOGÍA GENERAL (RG001) - 3 créditos
+- BIOLOGÍA GENERAL I (TAN001) - 7 créditos
+
+
+primer año - 2do ciclo
+============================================================
+- APLICATIVOS DE SOFTWARE II (APS003) - 3 créditos
+- FÍSICA I (FI201) - 4 créditos
+- MATEMÁTICA II (MA202) - 4 créditos
+- QUÍMICA GENERAL II (QU406) - 7 créditos
+- BIOLOGÍA GENERAL II (TAN002) - 7 créditos
+
+
+segundo año - 3er ciclo
+============================================================
+- HÁBITOS DE ORGANIZACIÓN PERSONAL (AD333) - 3 créditos
+- ANATOMÍA Y FISIOLOGÍA 1 (AF001) - 7 créditos
+- FÍSICA II (FI202) - 4 créditos
+- PARASITOLOGÍA (TLC01) - 7 créditos
+- QUÍMICA INORGÁNICA (TN114) - 7 créditos
+
+
+segundo año - 4to ciclo
+============================================================
+- ANATOMÍA Y FISIOLOGÍA 2 (AF002) - 7 créditos
+- BIOESTADÍSTICA (BF002) - 3 créditos
+- BIOÉTICA (DTF012) - 3 créditos
+- QUÍMICA ORGÁNICA (Q3303) - 7 créditos
+- MICROBIOLOGÍA GENERAL (TCT015) - 7 créditos
+
+
+tercer año - 5to ciclo
+============================================================
+- CONTABILIDAD GENERAL (AD203) - 3 créditos
+- GESTIÓN DE LA CALIDAD I (GC100) - 3 créditos
+- HEMATOLOGÍA BÁSICA (LBC05) - 7 créditos
+- CITOHISTOLOGÍA (SL013) - 7 créditos
+- BIOQUÍMICA GENERAL (TCT016) - 7 créditos
+
+
+tercer año - 6to ciclo
+============================================================
+- ANÁLISIS INSTRUMENTAL (AI400) - 4 créditos
+- GESTIÓN DE LA CALIDAD II (GC002) - 3 créditos
+- BIOQUÍMICA CLÍNICA (LBC07) - 7 créditos
+- INMUNOLOGÍA BÁSICA (SL014) - 7 créditos
+- BACTERIOLOGÍA (TLC02) - 7 créditos
+
+
+cuarto año - 7mo ciclo
+============================================================
+- HEMATOLOGÍA CLÍNICA (LBC08) - 7 créditos
+- SALUD PÚBLICA Y LEGISLACIÓN (LBC10) - 3 créditos
+- INTRODUCCIÓN A LA INVESTIGACIÓN (LCTA) - 4 créditos
+- VIROLOGÍA (SL015) - 4 créditos
+- MICROBIOLOGÍA CLÍNICA AVANZADA (SL016) - 7 créditos
+- PRÁCTICA SUPERVISADA I (VSS012) - 4 créditos
+
+
+cuarto año - 8vo ciclo
+============================================================
+- ADMINISTRACIÓN DE LABORATORIO (AM030) - 3 créditos
+- BIOLOGÍA MOLECULAR (BI302) - 7 créditos
+- MICOLOGÍA (LBC16) - 7 créditos
+- INTERPRETACIÓN DE PRUEBAS BIOQUÍMICAS (SL017) - 4 créditos
+- MICROBIOLOGÍA APLICADA I (TN116) - 7 créditos
+- PRÁCTICA SUPERVISADA II (VSS011) - 4 créditos
+
+
+quinto año - 9no ciclo
+============================================================
+- ADMINISTRACIÓN DE RECURSOS HUMANOS (AD302) - 3 créditos
+- EPIDEMIOLOGIA (BF004) - 3 créditos
+- BANCO DE SANGRE (LBC13) - 7 créditos
+- MERCADEO Y PUBLICIDAD (MP001) - 3 créditos
+- MICROBIOLOGÍA APLICADA II (SL018) - 7 créditos
+
+
+quinto año - 10mo ciclo
+============================================================
+- EPS (EJERCICIO PROFESIONAL SUPERVISADO) (LQF16) - 12 créditos

@@ -1,0 +1,133 @@
+UNIVERSIDAD GALILEO
+CARRERA: Licenciatura en Música
+Total de materias: 64
+Total de créditos: 288
+URL: https://www.galileo.edu/esa/carrera/licenciatura-musica/pensum/
+================================================================================
+
+primer año - 1er ciclo
+============================================================
+- ENTRENAMIENTO AUDITIVO Y LECTOESCRITURA MUSICAL I (EM011) - 4 créditos
+- LENGUAJE Y TÉCNICAS DE REDACCIÓN (FG628) - 4 créditos
+- SONIDO BÁSICO I (LIM) - 4 créditos
+- TÉCNICAS DEL INSTRUMENTO I (LIME05) - 6 créditos
+
+
+primer año - 2do ciclo
+============================================================
+- ENTRENAMIENTO AUDITIVO Y LECTOESCRITURA MUSICAL II (EM012) - 4 créditos
+- SONIDO BÁSICO II (LIM002) - 4 créditos
+- TÉCNICA DE INSTRUMENTO II (LIME19) - 6 créditos
+- CABLEADO (LIS019) - 4 créditos
+
+
+primer año - 3er ciclo
+============================================================
+- ENTRENAMIENTO AUDITIVO Y LECTOESCRITURA MUSICAL III (EM013) - 4 créditos
+- ELECTRICIDAD (FI306) - 4 créditos
+- TÉCNICA DE INSTRUMENTO 3 (LIME22) - 6 créditos
+- PROCESOS DEL SONIDO (SN102) - 4 créditos
+
+
+primer año - 4to ciclo
+============================================================
+- USO DE PROCESADORES / SISTEMA MIDI (AATEC01) - 4 créditos
+- ENTRENAMIENTO AUDITIVO Y LECTOESCRITURA MUSICAL IV (EM014) - 4 créditos
+- ESTÉTICA (ESTI01) - 4 créditos
+- TÉCNICA DE INSTRUMENTO IV (LIME23) - 6 créditos
+
+
+segundo año - 5to ciclo
+============================================================
+- PAQUETES DE SOFTWARE I (CP001) - 4 créditos
+- MICROFONÍA (LIM006) - 4 créditos
+- TÉCNICA DE INSTRUMENTO V (LIME25) - 6 créditos
+- ARMONÍA (LIME50) - 4 créditos
+
+
+segundo año - 6to ciclo
+============================================================
+- PAQUETES DE SOFTWARE II (CP002) - 4 créditos
+- TÉCNICA DE INSTRUMENTO VI (LIME27) - 6 créditos
+- ACÚSTICA I (LIS020) - 4 créditos
+- ARMONÍA APLICADA (MUS01) - 4 créditos
+
+
+segundo año - 7mo ciclo
+============================================================
+- APRECIACIÓN DE LA MÚSICA (AM011) - 4 créditos
+- ARTE ESCÉNICO (LIME18) - 4 créditos
+- TÉCNICA DE INSTRUMENTO VII (LIME28) - 6 créditos
+- CONTRAPUNTO (PGAM02) - 4 créditos
+
+
+segundo año - 8vo ciclo
+============================================================
+- FILOSOFÍA DE LA MÚSICA (FM010) - 4 créditos
+- ANÁLISIS DE LA FORMA (LIME12) - 4 créditos
+- SONIDO EN VIVO (LIS001) - 4 créditos
+- TÉCNICA DE INSTRUMENTO 8 (TAL010) - 6 créditos
+
+
+tercer año - 9no ciclo
+============================================================
+- PROCESO DE MERCADO (LIM001) - 4 créditos
+- REPERTORIO DEL INSTRUMENTO I (LIME08) - 6 créditos
+- PSICOLOGÍA DE LA MÚSICA (LIME11) - 4 créditos
+- COMUNICACIÓN EFICAZ Y ALTO DESEMPEÑO (LIS013) - 4 créditos
+
+
+tercer año - 10mo ciclo
+============================================================
+- REPERTORIO DEL INSTRUMENTO II (LIME33) - 6 créditos
+- ORQUESTACIÓN Y COMPOSICIÓN (LIME48) - 4 créditos
+- ETIQUETA Y PROTOCOLO (LIS014) - 4 créditos
+- MERCADEO ESTRATÉGICO (NE202) - 4 créditos
+
+
+tercer año - 11er ciclo
+============================================================
+- PLANEACIÓN ESTRATÉGICA (AD310) - 4 créditos
+- PRÁCTICA Y DIRECCIÓN ORQUESTAL I (LIME17) - 4 créditos
+- CREACIÓN MUSICAL (LIME20) - 4 créditos
+- REPERTORIO DEL INSTRUMENTO III (LIME34) - 6 créditos
+
+
+tercer año - 12do ciclo
+============================================================
+- EMPRESARIALIDAD (EM020) - 4 créditos
+- REPERTORIO DEL INSTRUMENTO IV (LIME35) - 6 créditos
+- PRÁCTICA Y DIRECCIÓN ORQUESTAL II (LIME41) - 4 créditos
+- TECNOLOGÍA Y PRODUCCIÓN (LIS003) - 4 créditos
+
+
+cuarto año - 13er ciclo
+============================================================
+- ADMINISTRACIÓN DE RECURSOS HUMANOS (AD302) - 4 créditos
+- PRODUCCIÓN ARTÍSTICA (LAR28) - 4 créditos
+- MATEMÁTICA (MA100) - 4 créditos
+- PRÁCTICA PROFESIONAL I (PP1) - 6 créditos
+
+
+cuarto año - 14to ciclo
+============================================================
+- DIRECCIÓN ARTÍSTICA (LAR30) - 4 créditos
+- DERECHO Y LEGISLACIÓN (LIS026) - 4 créditos
+- PRÁCTICA PROFESIONAL II (PP2) - 6 créditos
+- ADMINISTRACIÓN FINANCIERA (RA303) - 4 créditos
+
+
+cuarto año - 15to ciclo
+============================================================
+- LÓGICA (FG106) - 4 créditos
+- DISEÑO Y PRODUCCIÓN (LIS004) - 4 créditos
+- DIRECCIÓN MUSICAL (RÍTMICA, MÉTRICA Y AGÓGICA) (MUS02) - 4 créditos
+- PROYECTO DE GRADUACIÓN I (PGI) - 6 créditos
+
+
+cuarto año - 16to ciclo
+============================================================
+- ÉTICA (FG305) - 4 créditos
+- PRODUCCIÓN DE ESPECTÁCULOS (LIME49) - 4 créditos
+- MANAGEMENT (LIS036) - 4 créditos
+- PROYECTO DE GRADUACIÓN II (PGII) - 6 créditos

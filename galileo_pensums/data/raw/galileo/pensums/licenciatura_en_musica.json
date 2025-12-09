@@ -1,0 +1,426 @@
+{
+  "carrera": "Licenciatura en Música",
+  "universidad": "Galileo",
+  "url": "https://www.galileo.edu/esa/carrera/licenciatura-musica/pensum/",
+  "ciclos": [
+    {
+      "nombre": "primer año - 1er ciclo",
+      "materias": [
+        {
+          "codigo": "EM011",
+          "nombre": "ENTRENAMIENTO AUDITIVO Y LECTOESCRITURA MUSICAL I",
+          "creditos": 4
+        },
+        {
+          "codigo": "FG628",
+          "nombre": "LENGUAJE Y TÉCNICAS DE REDACCIÓN",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIM",
+          "nombre": "SONIDO BÁSICO I",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIME05",
+          "nombre": "TÉCNICAS DEL INSTRUMENTO I",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "primer año - 2do ciclo",
+      "materias": [
+        {
+          "codigo": "EM012",
+          "nombre": "ENTRENAMIENTO AUDITIVO Y LECTOESCRITURA MUSICAL II",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIM002",
+          "nombre": "SONIDO BÁSICO II",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIME19",
+          "nombre": "TÉCNICA DE INSTRUMENTO II",
+          "creditos": 6
+        },
+        {
+          "codigo": "LIS019",
+          "nombre": "CABLEADO",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "primer año - 3er ciclo",
+      "materias": [
+        {
+          "codigo": "EM013",
+          "nombre": "ENTRENAMIENTO AUDITIVO Y LECTOESCRITURA MUSICAL III",
+          "creditos": 4
+        },
+        {
+          "codigo": "FI306",
+          "nombre": "ELECTRICIDAD",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIME22",
+          "nombre": "TÉCNICA DE INSTRUMENTO 3",
+          "creditos": 6
+        },
+        {
+          "codigo": "SN102",
+          "nombre": "PROCESOS DEL SONIDO",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "primer año - 4to ciclo",
+      "materias": [
+        {
+          "codigo": "AATEC01",
+          "nombre": "USO DE PROCESADORES / SISTEMA MIDI",
+          "creditos": 4
+        },
+        {
+          "codigo": "EM014",
+          "nombre": "ENTRENAMIENTO AUDITIVO Y LECTOESCRITURA MUSICAL IV",
+          "creditos": 4
+        },
+        {
+          "codigo": "ESTI01",
+          "nombre": "ESTÉTICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIME23",
+          "nombre": "TÉCNICA DE INSTRUMENTO IV",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "segundo año - 5to ciclo",
+      "materias": [
+        {
+          "codigo": "CP001",
+          "nombre": "PAQUETES DE SOFTWARE I",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIM006",
+          "nombre": "MICROFONÍA",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIME25",
+          "nombre": "TÉCNICA DE INSTRUMENTO V",
+          "creditos": 6
+        },
+        {
+          "codigo": "LIME50",
+          "nombre": "ARMONÍA",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "segundo año - 6to ciclo",
+      "materias": [
+        {
+          "codigo": "CP002",
+          "nombre": "PAQUETES DE SOFTWARE II",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIME27",
+          "nombre": "TÉCNICA DE INSTRUMENTO VI",
+          "creditos": 6
+        },
+        {
+          "codigo": "LIS020",
+          "nombre": "ACÚSTICA I",
+          "creditos": 4
+        },
+        {
+          "codigo": "MUS01",
+          "nombre": "ARMONÍA APLICADA",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "segundo año - 7mo ciclo",
+      "materias": [
+        {
+          "codigo": "AM011",
+          "nombre": "APRECIACIÓN DE LA MÚSICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIME18",
+          "nombre": "ARTE ESCÉNICO",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIME28",
+          "nombre": "TÉCNICA DE INSTRUMENTO VII",
+          "creditos": 6
+        },
+        {
+          "codigo": "PGAM02",
+          "nombre": "CONTRAPUNTO",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "segundo año - 8vo ciclo",
+      "materias": [
+        {
+          "codigo": "FM010",
+          "nombre": "FILOSOFÍA DE LA MÚSICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIME12",
+          "nombre": "ANÁLISIS DE LA FORMA",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIS001",
+          "nombre": "SONIDO EN VIVO",
+          "creditos": 4
+        },
+        {
+          "codigo": "TAL010",
+          "nombre": "TÉCNICA DE INSTRUMENTO 8",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "tercer año - 9no ciclo",
+      "materias": [
+        {
+          "codigo": "LIM001",
+          "nombre": "PROCESO DE MERCADO",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIME08",
+          "nombre": "REPERTORIO DEL INSTRUMENTO I",
+          "creditos": 6
+        },
+        {
+          "codigo": "LIME11",
+          "nombre": "PSICOLOGÍA DE LA MÚSICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIS013",
+          "nombre": "COMUNICACIÓN EFICAZ Y ALTO DESEMPEÑO",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "tercer año - 10mo ciclo",
+      "materias": [
+        {
+          "codigo": "LIME33",
+          "nombre": "REPERTORIO DEL INSTRUMENTO II",
+          "creditos": 6
+        },
+        {
+          "codigo": "LIME48",
+          "nombre": "ORQUESTACIÓN Y COMPOSICIÓN",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIS014",
+          "nombre": "ETIQUETA Y PROTOCOLO",
+          "creditos": 4
+        },
+        {
+          "codigo": "NE202",
+          "nombre": "MERCADEO ESTRATÉGICO",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "tercer año - 11er ciclo",
+      "materias": [
+        {
+          "codigo": "AD310",
+          "nombre": "PLANEACIÓN ESTRATÉGICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIME17",
+          "nombre": "PRÁCTICA Y DIRECCIÓN ORQUESTAL I",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIME20",
+          "nombre": "CREACIÓN MUSICAL",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIME34",
+          "nombre": "REPERTORIO DEL INSTRUMENTO III",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "tercer año - 12do ciclo",
+      "materias": [
+        {
+          "codigo": "EM020",
+          "nombre": "EMPRESARIALIDAD",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIME35",
+          "nombre": "REPERTORIO DEL INSTRUMENTO IV",
+          "creditos": 6
+        },
+        {
+          "codigo": "LIME41",
+          "nombre": "PRÁCTICA Y DIRECCIÓN ORQUESTAL II",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIS003",
+          "nombre": "TECNOLOGÍA Y PRODUCCIÓN",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "cuarto año - 13er ciclo",
+      "materias": [
+        {
+          "codigo": "AD302",
+          "nombre": "ADMINISTRACIÓN DE RECURSOS HUMANOS",
+          "creditos": 4
+        },
+        {
+          "codigo": "LAR28",
+          "nombre": "PRODUCCIÓN ARTÍSTICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "MA100",
+          "nombre": "MATEMÁTICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "PP1",
+          "nombre": "PRÁCTICA PROFESIONAL I",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "cuarto año - 14to ciclo",
+      "materias": [
+        {
+          "codigo": "LAR30",
+          "nombre": "DIRECCIÓN ARTÍSTICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIS026",
+          "nombre": "DERECHO Y LEGISLACIÓN",
+          "creditos": 4
+        },
+        {
+          "codigo": "PP2",
+          "nombre": "PRÁCTICA PROFESIONAL II",
+          "creditos": 6
+        },
+        {
+          "codigo": "RA303",
+          "nombre": "ADMINISTRACIÓN FINANCIERA",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "cuarto año - 15to ciclo",
+      "materias": [
+        {
+          "codigo": "FG106",
+          "nombre": "LÓGICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIS004",
+          "nombre": "DISEÑO Y PRODUCCIÓN",
+          "creditos": 4
+        },
+        {
+          "codigo": "MUS02",
+          "nombre": "DIRECCIÓN MUSICAL (RÍTMICA, MÉTRICA Y AGÓGICA)",
+          "creditos": 4
+        },
+        {
+          "codigo": "PGI",
+          "nombre": "PROYECTO DE GRADUACIÓN I",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "cuarto año - 16to ciclo",
+      "materias": [
+        {
+          "codigo": "FG305",
+          "nombre": "ÉTICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIME49",
+          "nombre": "PRODUCCIÓN DE ESPECTÁCULOS",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIS036",
+          "nombre": "MANAGEMENT",
+          "creditos": 4
+        },
+        {
+          "codigo": "PGII",
+          "nombre": "PROYECTO DE GRADUACIÓN II",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 18
+    }
+  ],
+  "materias_totales": 64,
+  "creditos_totales": 288,
+  "texto_completo": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Música\nTotal de materias: 64\nTotal de créditos: 288\nURL: https://www.galileo.edu/esa/carrera/licenciatura-musica/pensum/\n================================================================================\n\nprimer año - 1er ciclo\n============================================================\n- ENTRENAMIENTO AUDITIVO Y LECTOESCRITURA MUSICAL I (EM011) - 4 créditos\n- LENGUAJE Y TÉCNICAS DE REDACCIÓN (FG628) - 4 créditos\n- SONIDO BÁSICO I (LIM) - 4 créditos\n- TÉCNICAS DEL INSTRUMENTO I (LIME05) - 6 créditos\n\n\nprimer año - 2do ciclo\n============================================================\n- ENTRENAMIENTO AUDITIVO Y LECTOESCRITURA MUSICAL II (EM012) - 4 créditos\n- SONIDO BÁSICO II (LIM002) - 4 créditos\n- TÉCNICA DE INSTRUMENTO II (LIME19) - 6 créditos\n- CABLEADO (LIS019) - 4 créditos\n\n\nprimer año - 3er ciclo\n============================================================\n- ENTRENAMIENTO AUDITIVO Y LECTOESCRITURA MUSICAL III (EM013) - 4 créditos\n- ELECTRICIDAD (FI306) - 4 créditos\n- TÉCNICA DE INSTRUMENTO 3 (LIME22) - 6 créditos\n- PROCESOS DEL SONIDO (SN102) - 4 créditos\n\n\nprimer año - 4to ciclo\n============================================================\n- USO DE PROCESADORES / SISTEMA MIDI (AATEC01) - 4 créditos\n- ENTRENAMIENTO AUDITIVO Y LECTOESCRITURA MUSICAL IV (EM014) - 4 créditos\n- ESTÉTICA (ESTI01) - 4 créditos\n- TÉCNICA DE INSTRUMENTO IV (LIME23) - 6 créditos\n\n\nsegundo año - 5to ciclo\n============================================================\n- PAQUETES DE SOFTWARE I (CP001) - 4 créditos\n- MICROFONÍA (LIM006) - 4 créditos\n- TÉCNICA DE INSTRUMENTO V (LIME25) - 6 créditos\n- ARMONÍA (LIME50) - 4 créditos\n\n\nsegundo año - 6to ciclo\n============================================================\n- PAQUETES DE SOFTWARE II (CP002) - 4 créditos\n- TÉCNICA DE INSTRUMENTO VI (LIME27) - 6 créditos\n- ACÚSTICA I (LIS020) - 4 créditos\n- ARMONÍA APLICADA (MUS01) - 4 créditos\n\n\nsegundo año - 7mo ciclo\n============================================================\n- APRECIACIÓN DE LA MÚSICA (AM011) - 4 créditos\n- ARTE ESCÉNICO (LIME18) - 4 créditos\n- TÉCNICA DE INSTRUMENTO VII (LIME28) - 6 créditos\n- CONTRAPUNTO (PGAM02) - 4 créditos\n\n\nsegundo año - 8vo ciclo\n============================================================\n- FILOSOFÍA DE LA MÚSICA (FM010) - 4 créditos\n- ANÁLISIS DE LA FORMA (LIME12) - 4 créditos\n- SONIDO EN VIVO (LIS001) - 4 créditos\n- TÉCNICA DE INSTRUMENTO 8 (TAL010) - 6 créditos\n\n\ntercer año - 9no ciclo\n============================================================\n- PROCESO DE MERCADO (LIM001) - 4 créditos\n- REPERTORIO DEL INSTRUMENTO I (LIME08) - 6 créditos\n- PSICOLOGÍA DE LA MÚSICA (LIME11) - 4 créditos\n- COMUNICACIÓN EFICAZ Y ALTO DESEMPEÑO (LIS013) - 4 créditos\n\n\ntercer año - 10mo ciclo\n============================================================\n- REPERTORIO DEL INSTRUMENTO II (LIME33) - 6 créditos\n- ORQUESTACIÓN Y COMPOSICIÓN (LIME48) - 4 créditos\n- ETIQUETA Y PROTOCOLO (LIS014) - 4 créditos\n- MERCADEO ESTRATÉGICO (NE202) - 4 créditos\n\n\ntercer año - 11er ciclo\n============================================================\n- PLANEACIÓN ESTRATÉGICA (AD310) - 4 créditos\n- PRÁCTICA Y DIRECCIÓN ORQUESTAL I (LIME17) - 4 créditos\n- CREACIÓN MUSICAL (LIME20) - 4 créditos\n- REPERTORIO DEL INSTRUMENTO III (LIME34) - 6 créditos\n\n\ntercer año - 12do ciclo\n============================================================\n- EMPRESARIALIDAD (EM020) - 4 créditos\n- REPERTORIO DEL INSTRUMENTO IV (LIME35) - 6 créditos\n- PRÁCTICA Y DIRECCIÓN ORQUESTAL II (LIME41) - 4 créditos\n- TECNOLOGÍA Y PRODUCCIÓN (LIS003) - 4 créditos\n\n\ncuarto año - 13er ciclo\n============================================================\n- ADMINISTRACIÓN DE RECURSOS HUMANOS (AD302) - 4 créditos\n- PRODUCCIÓN ARTÍSTICA (LAR28) - 4 créditos\n- MATEMÁTICA (MA100) - 4 créditos\n- PRÁCTICA PROFESIONAL I (PP1) - 6 créditos\n\n\ncuarto año - 14to ciclo\n============================================================\n- DIRECCIÓN ARTÍSTICA (LAR30) - 4 créditos\n- DERECHO Y LEGISLACIÓN (LIS026) - 4 créditos\n- PRÁCTICA PROFESIONAL II (PP2) - 6 créditos\n- ADMINISTRACIÓN FINANCIERA (RA303) - 4 créditos\n\n\ncuarto año - 15to ciclo\n============================================================\n- LÓGICA (FG106) - 4 créditos\n- DISEÑO Y PRODUCCIÓN (LIS004) - 4 créditos\n- DIRECCIÓN MUSICAL (RÍTMICA, MÉTRICA Y AGÓGICA) (MUS02) - 4 créditos\n- PROYECTO DE GRADUACIÓN I (PGI) - 6 créditos\n\n\ncuarto año - 16to ciclo\n============================================================\n- ÉTICA (FG305) - 4 créditos\n- PRODUCCIÓN DE ESPECTÁCULOS (LIME49) - 4 créditos\n- MANAGEMENT (LIS036) - 4 créditos\n- PROYECTO DE GRADUACIÓN II (PGII) - 6 créditos\n"
+}

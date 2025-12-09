@@ -1,0 +1,74 @@
+UNIVERSIDAD GALILEO
+CARRERA: Licenciatura en Gerencia de Negocios y Servicios
+Total de materias: 37
+Total de créditos: 180
+URL: https://www.galileo.edu/pensums/?gphcarrera=LGNS5
+================================================================================
+
+primer año - 1er ciclo
+============================================================
+- SERVICIO Y ATENCIÓN AL CLIENTE (AC708) - 4 créditos
+- ADMINISTRACIÓN I (AD110) - 4 créditos
+- COMPUTACIÓN APLICADA I (CP028) - 4 créditos
+- HERRAMIENTAS PARA LA PRODUCTIVIDAD (HP101) - 4 créditos
+- TÉCNICAS DE INVESTIGACIÓN Y PRESENTACIÓN DE INFORMES (LGNS08) - 4 créditos
+
+
+primer año - 2do ciclo
+============================================================
+- INTRODUCCIÓN A LA GESTIÓN DE LA CALIDAD (AC709) - 4 créditos
+- SEGURIDAD OCUPACIONAL (AC710) - 4 créditos
+- COMPUTACIÓN APLICADA II (CP029) - 4 créditos
+- ÉTICA Y LIDERAZGO (ET215) - 4 créditos
+- ADMINISTRACIÓN II (GE303) - 4 créditos
+
+
+segundo año - 3er ciclo
+============================================================
+- KAIZEN Y BUENAS PRÁCTICAS EN LOS PROCESOS (AC711) - 4 créditos
+- FUNDAMENTOS DE CONTABILIDAD (FC100) - 6 créditos
+- COMPORTAMIENTO DEL CONSUMIDOR (IAM001) - 4 créditos
+- FUNDAMENTOS MATEMÁTICOS (MA707) - 6 créditos
+- GESTIÓN DEL RECURSO HUMANO (MAN03) - 4 créditos
+
+
+segundo año - 4to ciclo
+============================================================
+- TÉCNICAS PRÁCTICAS PARA MEJORAR LA CALIDAD (AC712) - 4 créditos
+- CONTABILIDAD GENERAL (AD203) - 6 créditos
+- COMPETENCIAS GERENCIALES (CPG002) - 4 créditos
+- MATEMÁTICA PARA ADMINISTRACIÓN (MPA100) - 6 créditos
+
+
+tercer año - 5to ciclo
+============================================================
+- MERCADOTECNIA GENERAL (AD331) - 4 créditos
+- FUNDAMENTOS DE ECONOMÍA (FDEC01) - 4 créditos
+- ESTADÍSTICA GENERAL (IN403) - 6 créditos
+- CONTABILIDAD INTERMEDIA (LSA02) - 6 créditos
+- ORGANIZACIÓN Y MÉTODOS (OM102) - 6 créditos
+
+
+tercer año - 6to ciclo
+============================================================
+- COSTOS Y PRESUPUESTOS (DI0100) - 6 créditos
+- ANÁLISIS E INTERPRETACIÓN DE DATOS (EC005) - 6 créditos
+- EMPRESARIALIDAD (EM020) - 4 créditos
+- ADMINISTRACIÓN DE OPERACIONES (IY08) - 6 créditos
+- FUNDAMENTOS DE MICROECONOMÍA (LGNS13) - 6 créditos
+
+
+cuarto año - 7mo ciclo
+============================================================
+- ADMINISTRACIÓN FINANCIERA I (AC114) - 6 créditos
+- PLANEACIÓN Y DESARROLLO DE PROYECTOS (AC713) - 4 créditos
+- LOGÍSTICA Y DISTRIBUCIÓN (LGNS09) - 6 créditos
+- FUNDAMENTOS DE MACROECONOMÍA (LGNS14) - 6 créditos
+
+
+cuarto año - 8vo ciclo
+============================================================
+- ADMINISTRACIÓN DE INVENTARIOS (AD106) - 4 créditos
+- ADMINISTRACIÓN FINANCIERA II (AE405) - 6 créditos
+- LEGISLACIÓN (CS318) - 6 créditos
+- EVALUACIÓN Y ADMINISTRACIÓN DE PROYECTOS (EADP1) - 4 créditos

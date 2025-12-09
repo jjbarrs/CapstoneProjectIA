@@ -1,0 +1,243 @@
+{
+  "carrera": "Licenciatura en Gerencia de Negocios y Servicios",
+  "universidad": "Galileo",
+  "url": "https://www.galileo.edu/pensums/?gphcarrera=LGNS5",
+  "ciclos": [
+    {
+      "nombre": "primer año - 1er ciclo",
+      "materias": [
+        {
+          "codigo": "AC708",
+          "nombre": "SERVICIO Y ATENCIÓN AL CLIENTE",
+          "creditos": 4
+        },
+        {
+          "codigo": "AD110",
+          "nombre": "ADMINISTRACIÓN I",
+          "creditos": 4
+        },
+        {
+          "codigo": "CP028",
+          "nombre": "COMPUTACIÓN APLICADA I",
+          "creditos": 4
+        },
+        {
+          "codigo": "HP101",
+          "nombre": "HERRAMIENTAS PARA LA PRODUCTIVIDAD",
+          "creditos": 4
+        },
+        {
+          "codigo": "LGNS08",
+          "nombre": "TÉCNICAS DE INVESTIGACIÓN Y PRESENTACIÓN DE INFORMES",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 20
+    },
+    {
+      "nombre": "primer año - 2do ciclo",
+      "materias": [
+        {
+          "codigo": "AC709",
+          "nombre": "INTRODUCCIÓN A LA GESTIÓN DE LA CALIDAD",
+          "creditos": 4
+        },
+        {
+          "codigo": "AC710",
+          "nombre": "SEGURIDAD OCUPACIONAL",
+          "creditos": 4
+        },
+        {
+          "codigo": "CP029",
+          "nombre": "COMPUTACIÓN APLICADA II",
+          "creditos": 4
+        },
+        {
+          "codigo": "ET215",
+          "nombre": "ÉTICA Y LIDERAZGO",
+          "creditos": 4
+        },
+        {
+          "codigo": "GE303",
+          "nombre": "ADMINISTRACIÓN II",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 20
+    },
+    {
+      "nombre": "segundo año - 3er ciclo",
+      "materias": [
+        {
+          "codigo": "AC711",
+          "nombre": "KAIZEN Y BUENAS PRÁCTICAS EN LOS PROCESOS",
+          "creditos": 4
+        },
+        {
+          "codigo": "FC100",
+          "nombre": "FUNDAMENTOS DE CONTABILIDAD",
+          "creditos": 6
+        },
+        {
+          "codigo": "IAM001",
+          "nombre": "COMPORTAMIENTO DEL CONSUMIDOR",
+          "creditos": 4
+        },
+        {
+          "codigo": "MA707",
+          "nombre": "FUNDAMENTOS MATEMÁTICOS",
+          "creditos": 6
+        },
+        {
+          "codigo": "MAN03",
+          "nombre": "GESTIÓN DEL RECURSO HUMANO",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 24
+    },
+    {
+      "nombre": "segundo año - 4to ciclo",
+      "materias": [
+        {
+          "codigo": "AC712",
+          "nombre": "TÉCNICAS PRÁCTICAS PARA MEJORAR LA CALIDAD",
+          "creditos": 4
+        },
+        {
+          "codigo": "AD203",
+          "nombre": "CONTABILIDAD GENERAL",
+          "creditos": 6
+        },
+        {
+          "codigo": "CPG002",
+          "nombre": "COMPETENCIAS GERENCIALES",
+          "creditos": 4
+        },
+        {
+          "codigo": "MPA100",
+          "nombre": "MATEMÁTICA PARA ADMINISTRACIÓN",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 20
+    },
+    {
+      "nombre": "tercer año - 5to ciclo",
+      "materias": [
+        {
+          "codigo": "AD331",
+          "nombre": "MERCADOTECNIA GENERAL",
+          "creditos": 4
+        },
+        {
+          "codigo": "FDEC01",
+          "nombre": "FUNDAMENTOS DE ECONOMÍA",
+          "creditos": 4
+        },
+        {
+          "codigo": "IN403",
+          "nombre": "ESTADÍSTICA GENERAL",
+          "creditos": 6
+        },
+        {
+          "codigo": "LSA02",
+          "nombre": "CONTABILIDAD INTERMEDIA",
+          "creditos": 6
+        },
+        {
+          "codigo": "OM102",
+          "nombre": "ORGANIZACIÓN Y MÉTODOS",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 26
+    },
+    {
+      "nombre": "tercer año - 6to ciclo",
+      "materias": [
+        {
+          "codigo": "DI0100",
+          "nombre": "COSTOS Y PRESUPUESTOS",
+          "creditos": 6
+        },
+        {
+          "codigo": "EC005",
+          "nombre": "ANÁLISIS E INTERPRETACIÓN DE DATOS",
+          "creditos": 6
+        },
+        {
+          "codigo": "EM020",
+          "nombre": "EMPRESARIALIDAD",
+          "creditos": 4
+        },
+        {
+          "codigo": "IY08",
+          "nombre": "ADMINISTRACIÓN DE OPERACIONES",
+          "creditos": 6
+        },
+        {
+          "codigo": "LGNS13",
+          "nombre": "FUNDAMENTOS DE MICROECONOMÍA",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 28
+    },
+    {
+      "nombre": "cuarto año - 7mo ciclo",
+      "materias": [
+        {
+          "codigo": "AC114",
+          "nombre": "ADMINISTRACIÓN FINANCIERA I",
+          "creditos": 6
+        },
+        {
+          "codigo": "AC713",
+          "nombre": "PLANEACIÓN Y DESARROLLO DE PROYECTOS",
+          "creditos": 4
+        },
+        {
+          "codigo": "LGNS09",
+          "nombre": "LOGÍSTICA Y DISTRIBUCIÓN",
+          "creditos": 6
+        },
+        {
+          "codigo": "LGNS14",
+          "nombre": "FUNDAMENTOS DE MACROECONOMÍA",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 22
+    },
+    {
+      "nombre": "cuarto año - 8vo ciclo",
+      "materias": [
+        {
+          "codigo": "AD106",
+          "nombre": "ADMINISTRACIÓN DE INVENTARIOS",
+          "creditos": 4
+        },
+        {
+          "codigo": "AE405",
+          "nombre": "ADMINISTRACIÓN FINANCIERA II",
+          "creditos": 6
+        },
+        {
+          "codigo": "CS318",
+          "nombre": "LEGISLACIÓN",
+          "creditos": 6
+        },
+        {
+          "codigo": "EADP1",
+          "nombre": "EVALUACIÓN Y ADMINISTRACIÓN DE PROYECTOS",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 20
+    }
+  ],
+  "materias_totales": 37,
+  "creditos_totales": 180,
+  "texto_completo": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gerencia de Negocios y Servicios\nTotal de materias: 37\nTotal de créditos: 180\nURL: https://www.galileo.edu/pensums/?gphcarrera=LGNS5\n================================================================================\n\nprimer año - 1er ciclo\n============================================================\n- SERVICIO Y ATENCIÓN AL CLIENTE (AC708) - 4 créditos\n- ADMINISTRACIÓN I (AD110) - 4 créditos\n- COMPUTACIÓN APLICADA I (CP028) - 4 créditos\n- HERRAMIENTAS PARA LA PRODUCTIVIDAD (HP101) - 4 créditos\n- TÉCNICAS DE INVESTIGACIÓN Y PRESENTACIÓN DE INFORMES (LGNS08) - 4 créditos\n\n\nprimer año - 2do ciclo\n============================================================\n- INTRODUCCIÓN A LA GESTIÓN DE LA CALIDAD (AC709) - 4 créditos\n- SEGURIDAD OCUPACIONAL (AC710) - 4 créditos\n- COMPUTACIÓN APLICADA II (CP029) - 4 créditos\n- ÉTICA Y LIDERAZGO (ET215) - 4 créditos\n- ADMINISTRACIÓN II (GE303) - 4 créditos\n\n\nsegundo año - 3er ciclo\n============================================================\n- KAIZEN Y BUENAS PRÁCTICAS EN LOS PROCESOS (AC711) - 4 créditos\n- FUNDAMENTOS DE CONTABILIDAD (FC100) - 6 créditos\n- COMPORTAMIENTO DEL CONSUMIDOR (IAM001) - 4 créditos\n- FUNDAMENTOS MATEMÁTICOS (MA707) - 6 créditos\n- GESTIÓN DEL RECURSO HUMANO (MAN03) - 4 créditos\n\n\nsegundo año - 4to ciclo\n============================================================\n- TÉCNICAS PRÁCTICAS PARA MEJORAR LA CALIDAD (AC712) - 4 créditos\n- CONTABILIDAD GENERAL (AD203) - 6 créditos\n- COMPETENCIAS GERENCIALES (CPG002) - 4 créditos\n- MATEMÁTICA PARA ADMINISTRACIÓN (MPA100) - 6 créditos\n\n\ntercer año - 5to ciclo\n============================================================\n- MERCADOTECNIA GENERAL (AD331) - 4 créditos\n- FUNDAMENTOS DE ECONOMÍA (FDEC01) - 4 créditos\n- ESTADÍSTICA GENERAL (IN403) - 6 créditos\n- CONTABILIDAD INTERMEDIA (LSA02) - 6 créditos\n- ORGANIZACIÓN Y MÉTODOS (OM102) - 6 créditos\n\n\ntercer año - 6to ciclo\n============================================================\n- COSTOS Y PRESUPUESTOS (DI0100) - 6 créditos\n- ANÁLISIS E INTERPRETACIÓN DE DATOS (EC005) - 6 créditos\n- EMPRESARIALIDAD (EM020) - 4 créditos\n- ADMINISTRACIÓN DE OPERACIONES (IY08) - 6 créditos\n- FUNDAMENTOS DE MICROECONOMÍA (LGNS13) - 6 créditos\n\n\ncuarto año - 7mo ciclo\n============================================================\n- ADMINISTRACIÓN FINANCIERA I (AC114) - 6 créditos\n- PLANEACIÓN Y DESARROLLO DE PROYECTOS (AC713) - 4 créditos\n- LOGÍSTICA Y DISTRIBUCIÓN (LGNS09) - 6 créditos\n- FUNDAMENTOS DE MACROECONOMÍA (LGNS14) - 6 créditos\n\n\ncuarto año - 8vo ciclo\n============================================================\n- ADMINISTRACIÓN DE INVENTARIOS (AD106) - 4 créditos\n- ADMINISTRACIÓN FINANCIERA II (AE405) - 6 créditos\n- LEGISLACIÓN (CS318) - 6 créditos\n- EVALUACIÓN Y ADMINISTRACIÓN DE PROYECTOS (EADP1) - 4 créditos\n"
+}

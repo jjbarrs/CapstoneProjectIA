@@ -1,0 +1,114 @@
+{
+  "carrera": "Licenciatura en Enfermería",
+  "universidad": "Galileo",
+  "url": "https://www.galileo.edu/facisa/carrera/len/pensum-2/",
+  "ciclos": [
+    {
+      "nombre": "primer año - 7mo ciclo",
+      "materias": [
+        {
+          "codigo": "AE004",
+          "nombre": "SALUD MENTAL",
+          "creditos": 4
+        },
+        {
+          "codigo": "DTF012",
+          "nombre": "BIOÉTICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "LEN",
+          "nombre": "TEORÍAS Y MODELOS DE ENFERMERÍA",
+          "creditos": 5
+        },
+        {
+          "codigo": "LEN00",
+          "nombre": "ENFERMERÍA GERIÁTRICA",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 17
+    },
+    {
+      "nombre": "primer año - 8vo ciclo",
+      "materias": [
+        {
+          "codigo": "LEN001",
+          "nombre": "ENFERMERÍA EN URGENCIAS Y DESASTRES",
+          "creditos": 4
+        },
+        {
+          "codigo": "LEN003",
+          "nombre": "INVESTIGACIÓN EN ENFERMERÍA I",
+          "creditos": 4
+        },
+        {
+          "codigo": "LEN004",
+          "nombre": "CUIDADOS DE ENFERMERÍA A PACIENTES CRÓNICOS",
+          "creditos": 4
+        },
+        {
+          "codigo": "LEN005",
+          "nombre": "ENFERMERÍA EN GÉNERO, INTERCULTURALIDAD Y SALUD",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 16
+    },
+    {
+      "nombre": "segundo año - 9no ciclo",
+      "materias": [
+        {
+          "codigo": "AE019",
+          "nombre": "SALUD PÚBLICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "LEN006",
+          "nombre": "ENFERMERÍA LABORAL",
+          "creditos": 4
+        },
+        {
+          "codigo": "LEN007",
+          "nombre": "ENFERMERÍA AMBIENTAL",
+          "creditos": 4
+        },
+        {
+          "codigo": "LEN008",
+          "nombre": "ENFERMERÍA FAMILIAR Y COMUNITARIA",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 16
+    },
+    {
+      "nombre": "segundo año - 10mo ciclo",
+      "materias": [
+        {
+          "codigo": "LEN009",
+          "nombre": "ADMINISTRACIÓN Y GESTIÓN DE LA CALIDAD",
+          "creditos": 6
+        },
+        {
+          "codigo": "LEN010",
+          "nombre": "PLANIFICACIÓN ESTRATÉGICA EN ENFERMERÍA",
+          "creditos": 6
+        },
+        {
+          "codigo": "LEN011",
+          "nombre": "INVESTIGACIÓN EN ENFERMERÍA II",
+          "creditos": 6
+        },
+        {
+          "codigo": "LEN012",
+          "nombre": "ENFERMERÍA EN DISEÑO, GESTIÓN Y DESARROLLO DE PROYECTOS",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 22
+    }
+  ],
+  "materias_totales": 16,
+  "creditos_totales": 71,
+  "texto_completo": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Enfermería\nTotal de materias: 16\nTotal de créditos: 71\nURL: https://www.galileo.edu/facisa/carrera/len/pensum-2/\n================================================================================\n\nprimer año - 7mo ciclo\n============================================================\n- SALUD MENTAL (AE004) - 4 créditos\n- BIOÉTICA (DTF012) - 4 créditos\n- TEORÍAS Y MODELOS DE ENFERMERÍA (LEN) - 5 créditos\n- ENFERMERÍA GERIÁTRICA (LEN00) - 4 créditos\n\n\nprimer año - 8vo ciclo\n============================================================\n- ENFERMERÍA EN URGENCIAS Y DESASTRES (LEN001) - 4 créditos\n- INVESTIGACIÓN EN ENFERMERÍA I (LEN003) - 4 créditos\n- CUIDADOS DE ENFERMERÍA A PACIENTES CRÓNICOS (LEN004) - 4 créditos\n- ENFERMERÍA EN GÉNERO, INTERCULTURALIDAD Y SALUD (LEN005) - 4 créditos\n\n\nsegundo año - 9no ciclo\n============================================================\n- SALUD PÚBLICA (AE019) - 4 créditos\n- ENFERMERÍA LABORAL (LEN006) - 4 créditos\n- ENFERMERÍA AMBIENTAL (LEN007) - 4 créditos\n- ENFERMERÍA FAMILIAR Y COMUNITARIA (LEN008) - 4 créditos\n\n\nsegundo año - 10mo ciclo\n============================================================\n- ADMINISTRACIÓN Y GESTIÓN DE LA CALIDAD (LEN009) - 6 créditos\n- PLANIFICACIÓN ESTRATÉGICA EN ENFERMERÍA (LEN010) - 6 créditos\n- INVESTIGACIÓN EN ENFERMERÍA II (LEN011) - 6 créditos\n- ENFERMERÍA EN DISEÑO, GESTIÓN Y DESARROLLO DE PROYECTOS (LEN012) - 4 créditos\n"
+}

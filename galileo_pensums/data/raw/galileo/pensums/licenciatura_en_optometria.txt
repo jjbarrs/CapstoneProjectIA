@@ -1,0 +1,90 @@
+UNIVERSIDAD GALILEO
+CARRERA: Licenciatura en Optometría
+Total de materias: 49
+Total de créditos: 243
+URL: https://www.galileo.edu/facisa/carrera/lopt/pensum/
+================================================================================
+
+primer año - 1er ciclo
+============================================================
+- ANATOMÍA OCULAR (AO010) - 6 créditos
+- BIOLOGÍA APLICADA A LA OPTOMETRÍA (BO010) - 6 créditos
+- PAQUETES DE SOFTWARE I (CP001) - 6 créditos
+- FÍSICA APLICADA PARA LA OPTOMETRÍA (FO010) - 6 créditos
+- MATEMÁTICA APLICADA PARA LA OPTOMETRÍA (MO010) - 6 créditos
+- QUÍMICA APLICADA A LA OPTOMETRÍA (QO010) - 6 créditos
+
+
+primer año - 2do ciclo
+============================================================
+- PAQUETES DE SOFTWARE II (CP002) - 6 créditos
+- EMBRIOLOGÍA OCULAR (EO110) - 6 créditos
+- FUNDAMENTOS DE MICROBIOLOGÍA (FM001) - 6 créditos
+- ÓPTICA FÍSICA (OPF00) - 6 créditos
+- ÓPTICA OFTÁLMICA (OPF01) - 6 créditos
+- SERVICIO AL CLIENTE (SC010) - 6 créditos
+
+
+segundo año - 3er ciclo
+============================================================
+- ANATOMÍA OCULAR Y DE LA ORBITA (ATM07) - 6 créditos
+- CLÍNICA DE REFRACCIÓN I (CR001) - 6 créditos
+- LENTES DE CONTACTO I (OF015) - 6 créditos
+- CONTROL DE CALIDAD (TC026) - 6 créditos
+- ÓPTICA GEOMÉTRICA (TO215) - 6 créditos
+- VISIÓN FUNCIONAL (VF005) - 6 créditos
+
+
+segundo año - 4to ciclo
+============================================================
+- CLÍNICA INTEGRAL Y PRIMEROS AUXILIOS (CI001) - 6 créditos
+- CLÍNICA DE REFRACCIÓN II (CR002) - 6 créditos
+- FUNDAMENTOS DE PLANEACIÓN ESTRATÉGICA (FP001) - 6 créditos
+- LENTES DE CONTACTO II (OF016) - 3 créditos
+- ÓPTICA FÍSICA E INSTRUMENTAL (OF017) - 6 créditos
+- VISIÓN SUBNORMAL (VS001) - 6 créditos
+
+
+tercer año - 5to ciclo
+============================================================
+- EXAMEN FINAL TEÓRICO PRÁCTICO (EFT01) - 6 créditos
+- EJERCICIO PROFESIONAL SUPERVISADO (EJPS01) - 6 créditos
+- INTRODUCCIÓN A LA EPIDEMIOLOGIA (IE006) - 6 créditos
+- OPTOMETRÍA CLÍNICA INTEGRAL (OC003) - 6 créditos
+- TÉCNICAS DE INVESTIGACIÓN Y ELABORACIÓN DE INFORMES (TI010) - 6 créditos
+
+
+primer año - 6to ciclo
+============================================================
+- CALCULO MATEMÁTICO (CAM00) - 3 créditos
+- CONCEPTOS DE PATOLOGÍA GENERAL (COPG00) - 3 créditos
+- FISIOLOGÍA GENERAL (FIGE00) - 3 créditos
+- ÓPTICA FISIOLÓGICA CLÍNICA (OP602) - 3 créditos
+- OPTOMETRÍA TERAPÉUTICA I (OPT01) - 3 créditos
+- ORGANIZACIÓN DE EMPRESAS (RA311) - 3 créditos
+
+
+primer año - 7mo ciclo
+============================================================
+- CONCEPTOS DE PATOLOGÍA OCULAR (CPO00) - 3 créditos
+- FUNDAMENTOS DE FARMACOLOGÍA (FUF00) - 3 créditos
+- INTRODUCCIÓN A LA ORTÓPTICA (INRO00) - 3 créditos
+- INTRODUCCIÓN AL TRATAMIENTO PLEOPTICO (INTP00) - 3 créditos
+- OPTOMETRÍA TERAPÉUTICA II (OPT02) - 3 créditos
+- TERAPÉUTICA EN PRIMEROS AUXILIOS (TEPA00) - 3 créditos
+
+
+segundo año - 8vo ciclo
+============================================================
+- ÉTICA PROFESIONAL Y DEONTOLÓGICA (ETPYD) - 3 créditos
+- INTRODUCCIÓN A LA SALUD PÚBLICA (ILSP00) - 3 créditos
+- INTRODUCCIÓN A LA TECNOLOGÍA DE FRENTE DE ONDA (ITFO00) - 3 créditos
+- LEGISLACIÓN SANITARIA (LESA00) - 3 créditos
+- OPTOMETRÍA GERIÁTRICA APLICADA (OGA00) - 3 créditos
+- OPTOMETRÍA PEDIÁTRICA APLICADA (OPA00) - 3 créditos
+
+
+segundo año - 9no ciclo
+============================================================
+- TESIS O PROYECTO (LCTA16) - 6 créditos
+- EJERCICIO PROFESIONAL SUPERVISADO II (MOI033) - 12 créditos

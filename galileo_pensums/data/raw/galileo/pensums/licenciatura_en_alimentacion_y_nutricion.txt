@@ -1,0 +1,119 @@
+UNIVERSIDAD GALILEO
+CARRERA: LICENCIATURA EN ALIMENTACION Y NUTRICION
+Total de materias: 74
+Total de créditos: 219
+URL: https://www.galileo.edu/pensums/?gphcarrera=LAN
+================================================================================
+
+primer año - 1er ciclo
+============================================================
+- PAQUETES DE SOFTWARE I (CP001) - 2 créditos
+- LABORATORIO DE BIOLOGÍA GENERAL I (LQ002) - 2 créditos
+- LABORATORIO DE QUÍMICA INORGÁNICA (LQ115) - 2 créditos
+- MATEMÁTICA GENERAL (MA301) - 4 créditos
+- METODOLOGÍA DE LA INVESTIGACIÓN (MEI01) - 2 créditos
+- SOCIOLOGÍA (RH310) - 2 créditos
+- BIOLOGÍA GENERAL I (TAN001) - 3 créditos
+- QUÍMICA INORGÁNICA (TN114) - 4 créditos
+
+
+primer año - 2do ciclo
+============================================================
+- PAQUETES DE SOFTWARE II (CP002) - 2 créditos
+- LABORATORIO DE BIOLOGÍA GENERAL II (LAN024) - 2 créditos
+- LABORATORIO DE QUÍMICA ORGÁNICA (LAN025) - 2 créditos
+- MATEMÁTICA APLICADA (MA708) - 4 créditos
+- QUÍMICA ORGÁNICA (Q3303) - 4 créditos
+- PSICOLOGÍA GENERAL (RG001) - 2 créditos
+- BIOLOGÍA GENERAL II (TAN002) - 3 créditos
+- ECONOMÍA ALIMENTARIA (TAN003) - 2 créditos
+- ANTROPOLOGÍA NUTRICIONAL (TAN004) - 2 créditos
+
+
+segundo año - 3er ciclo
+============================================================
+- BIOQUÍMICA I (BIO1) - 3 créditos
+- ESTADÍSTICA BÁSICA (EB402) - 4 créditos
+- LABORATORIO DE ANATOMÍA Y FISIOLOGÍA HUMANA (LAN019) - 2 créditos
+- LABORATORIO DE MICROBIOLOGÍA BÁSICA (LAN020) - 2 créditos
+- LABORATORIO DE BIOQUÍMICA I (LAN028) - 2 créditos
+- MICROBIOLOGÍA BÁSICA (TAN005) - 3 créditos
+- ANTROPOMETRÍA (TAN018) - 3 créditos
+- ANATOMÍA Y FISIOLOGÍA HUMANA (TESO2) - 3 créditos
+
+
+segundo año - 4to ciclo
+============================================================
+- BIOQUÍMICA II (BI309) - 3 créditos
+- DISEÑO Y ANÁLISIS DE EXPERIMENTOS (LAN002) - 3 créditos
+- EVALUACIÓN DEL ESTADO NUTRICIONAL (LAN008) - 3 créditos
+- LABORATORIO DE MICROBIOLOGÍA APLICADA (LAN029) - 2 créditos
+- FISIOPATOLOGÍA NUTRICIONAL I (LAN24) - 3 créditos
+- LABORATORIO DE BIOQUÍMICA II (LQ401) - 2 créditos
+- PEDAGOGÍA Y DIDÁCTICA (TAN007) - 2 créditos
+- EPIDEMIOLOGIA GENERAL (TAN008) - 2 créditos
+- MICROBIOLOGÍA APLICADA (TAN011) - 3 créditos
+
+
+tercer año - 5to ciclo
+============================================================
+- BROMATOLOGÍA (LAN001) - 3 créditos
+- EPIDEMIOLOGIA NUTRICIONAL (LAN003) - 3 créditos
+- FISIOPATOLOGÍA NUTRICIONAL II (LAN005) - 3 créditos
+- ADMINISTRACIÓN DE RECURSOS HUMANOS Y PERSONAL (LAN027) - 2 créditos
+- LABORATORIO DE BROMATOLOGÍA (LAN031) - 2 créditos
+- ASEGURAMIENTO DE LA CALIDAD I (LAN20) - 3 créditos
+- NUTRICIÓN BÁSICA I (TAN009) - 4 créditos
+- DIETÉTICA I (TAN014) - 4 créditos
+
+
+tercer año - 6to ciclo
+============================================================
+- ASEGURAMIENTO DE LA CALIDAD II (AC325) - 3 créditos
+- DIETÉTICA II (LAN004) - 4 créditos
+- SITUACIÓN ALIMENTARIA NUTRICIONAL DE GUATEMALA (LAN026) - 3 créditos
+- LABORATORIO DE INTRODUCCIÓN A LA TECNOLOGÍA DE ALIMENTOS (LTA601) - 2 créditos
+- INTRODUCCIÓN A LA TECNOLOGÍA DE ALIMENTOS (TAN013) - 3 créditos
+- SERVICIOS DE ALIMENTACIÓN (TAN015) - 2 créditos
+- NUTRICIÓN BÁSICA II (TAN016) - 4 créditos
+- INVESTIGACIÓN APLICADA I (TAN017) - 3 créditos
+
+
+cuarto año - 7mo ciclo
+============================================================
+- FORMULACIÓN DE PROYECTOS (IS310) - 3 créditos
+- ANÁLISIS SENSORIAL DE ALIMENTOS (LAN009) - 3 créditos
+- NUTRICIÓN APLICADA (LAN017) - 2 créditos
+- LABORATORIO DE NUTRICIÓN APLICADA (LAN023) - 3 créditos
+- LABORATORIO DE TECNOLOGÍA APLICADA DE ALIMENTOS I (LAN030) - 2 créditos
+- TECNOLOGÍA APLICADA A ALIMENTOS I (LAN22) - 3 créditos
+- FARMACOLOGÍA GENERAL Y TOXICOLOGÍA DE ALIMENTOS (LAN23) - 4 créditos
+
+
+cuarto año - 8vo ciclo
+============================================================
+- PLANIFICACIÓN ESTRATÉGICA (AD010) - 3 créditos
+- ADMINISTRACIÓN DE EMPRESAS (AD305) - 2 créditos
+- LEGISLACIÓN (CS318) - 2 créditos
+- DIETOTERAPIA I ADULTOS (DT1A) - 4 créditos
+- TECNOLOGÍA APLICADA DE ALIMENTOS II (LAN011) - 3 créditos
+- MERCADOTECNIA Y PUBLICIDAD (LAN014) - 2 créditos
+- LABORATORIO DE DIETOTERAPIA I ADULTOS (LDDA) - 3 créditos
+- LABORATORIO DE TECNOLOGÍA APLICADA DE ALIMENTOS II (LTA801) - 2 créditos
+- PRÁCTICA INSTITUCIONAL SUPERVISADA (PIS) - 3 créditos
+
+
+quinto año - 9no ciclo
+============================================================
+- TEORÍA GERENCIAL (AD301) - 2 créditos
+- DIETOTERAPIA II PEDIÁTRICO (DT2) - 4 créditos
+- GERENCIA DE PROYECTOS (F009) - 2 créditos
+- INVESTIGACIÓN APLICADA II (LAN016) - 3 créditos
+- INVESTIGACIÓN Y DESARROLLO DE PRODUCTOS ALIMENTICIOS (LAN018) - 3 créditos
+- NUTRICIÓN DEL DEPORTE (LCT018) - 3 créditos
+- LABORATORIO DE DIETOTERAPIA II PEDIÁTRICO (LDT2P) - 3 créditos
+
+
+quinto año - 10mo ciclo
+============================================================
+- EPS (EJERCICIO PROFESIONAL SUPERVISADO) (LQF16) - 18 créditos

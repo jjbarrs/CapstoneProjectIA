@@ -1,0 +1,346 @@
+{
+  "carrera": "Licenciatura en Medios de Comunicación e Informativos",
+  "universidad": "Galileo",
+  "url": "https://www.galileo.edu/esip/carrera/licenciatura-medios-comunicacion-informativos-pensum/",
+  "ciclos": [
+    {
+      "nombre": "primer año - 1er ciclo",
+      "materias": [
+        {
+          "codigo": "LMCI",
+          "nombre": "MEDIOS DE COMUNICACIÓN",
+          "creditos": 3
+        },
+        {
+          "codigo": "LMCI00",
+          "nombre": "ORTOGRAFÍA",
+          "creditos": 3
+        },
+        {
+          "codigo": "NT034",
+          "nombre": "COMUNICACIÓN",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "primer año - 2do ciclo",
+      "materias": [
+        {
+          "codigo": "LCD312",
+          "nombre": "ESTILÍSTICA",
+          "creditos": 3
+        },
+        {
+          "codigo": "LMCI01",
+          "nombre": "INTRODUCCIÓN AL PERIODISMO",
+          "creditos": 3
+        },
+        {
+          "codigo": "RH309",
+          "nombre": "PSICOLOGÍA",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "primer año - 3er ciclo",
+      "materias": [
+        {
+          "codigo": "HP015",
+          "nombre": "HISTORIA",
+          "creditos": 3
+        },
+        {
+          "codigo": "LMCI02",
+          "nombre": "LA TELEVISIÓN",
+          "creditos": 3
+        },
+        {
+          "codigo": "RP022",
+          "nombre": "REDACCIÓN PERIODÍSTICA",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "primer año - 4to ciclo",
+      "materias": [
+        {
+          "codigo": "DGL01",
+          "nombre": "INTRODUCCIÓN AL DERECHO",
+          "creditos": 3
+        },
+        {
+          "codigo": "HU350",
+          "nombre": "HISTORIA UNIVERSAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "LMCI03",
+          "nombre": "SOCIEDAD DE LA INFORMACIÓN",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "segundo año - 5to ciclo",
+      "materias": [
+        {
+          "codigo": "LMCI04",
+          "nombre": "TEMAS DE ACTUALIDAD PERIODÍSTICA",
+          "creditos": 3
+        },
+        {
+          "codigo": "LMCI05",
+          "nombre": "LENGUAJE ORAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "LMCI06",
+          "nombre": "LIBERTAD DE EXPRESIÓN",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "segundo año - 6to ciclo",
+      "materias": [
+        {
+          "codigo": "EC010",
+          "nombre": "INTRODUCCIÓN A LA ECONOMÍA",
+          "creditos": 3
+        },
+        {
+          "codigo": "LMCI07",
+          "nombre": "TECNOLOGÍA",
+          "creditos": 3
+        },
+        {
+          "codigo": "LMCI08",
+          "nombre": "PRINCIPIOS FOTOGRÁFICOS",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "segundo año - 7mo ciclo",
+      "materias": [
+        {
+          "codigo": "AC038",
+          "nombre": "ANÁLISIS DE LA OPINIÓN PÚBLICA",
+          "creditos": 3
+        },
+        {
+          "codigo": "AD322",
+          "nombre": "LIDERAZGO",
+          "creditos": 3
+        },
+        {
+          "codigo": "LMCI09",
+          "nombre": "INTRODUCCIÓN A LA POLÍTICA",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "segundo año - 8vo ciclo",
+      "materias": [
+        {
+          "codigo": "AH101",
+          "nombre": "PRINCIPIOS DE ADMINISTRACIÓN",
+          "creditos": 3
+        },
+        {
+          "codigo": "LMCI10",
+          "nombre": "INVESTIGACIÓN SOCIAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "LMCI11",
+          "nombre": "FUNDAMENTOS DEL PERIODISMO ESPECIALIZADO",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "tercer año - 9no ciclo",
+      "materias": [
+        {
+          "codigo": "LCD115",
+          "nombre": "ANÁLISIS DE MEDIOS DE COMUNICACIÓN",
+          "creditos": 3
+        },
+        {
+          "codigo": "LMCI12",
+          "nombre": "TEORÍA DE LA COMUNICACIÓN DE MASAS",
+          "creditos": 3
+        },
+        {
+          "codigo": "LMCI13",
+          "nombre": "REDACCIÓN Y LENGUAJE",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "tercer año - 10mo ciclo",
+      "materias": [
+        {
+          "codigo": "FG407",
+          "nombre": "ANÁLISIS FINAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "IPG001",
+          "nombre": "GÉNEROS PERIODÍSTICOS I",
+          "creditos": 3
+        },
+        {
+          "codigo": "LMCI14",
+          "nombre": "HISTORIA DEL PERIODISMO EN GUATEMALA",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "tercer año - 11er ciclo",
+      "materias": [
+        {
+          "codigo": "GP006",
+          "nombre": "GÉNEROS PERIODÍSTICOS II",
+          "creditos": 3
+        },
+        {
+          "codigo": "LMCI15",
+          "nombre": "REALIDAD DE GUATEMALA",
+          "creditos": 3
+        },
+        {
+          "codigo": "LMCI16",
+          "nombre": "PERIODISMO TELEVISIVO Y RADIAL",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "tercer año - 12do ciclo",
+      "materias": [
+        {
+          "codigo": "LMCI17",
+          "nombre": "PRINCIPIOS DE DERECHO Y ORGANIZACIÓN DEL ESTADO",
+          "creditos": 3
+        },
+        {
+          "codigo": "LMCI18",
+          "nombre": "PERIODISMO ESCRITO Y DIGITAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "LMCI19",
+          "nombre": "ENTORNO INTERNACIONAL",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "cuarto año - 13er ciclo",
+      "materias": [
+        {
+          "codigo": "LMCI20",
+          "nombre": "PERIODISMO DE INVESTIGACIÓN",
+          "creditos": 3
+        },
+        {
+          "codigo": "LMCI21",
+          "nombre": "COMUNICACIÓN Y EXPRESIÓN ORAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "LPD011",
+          "nombre": "LEGISLACIÓN EN LOS MEDIOS DE COMUNICACIÓN",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "cuarto año - 14to ciclo",
+      "materias": [
+        {
+          "codigo": "EC221",
+          "nombre": "ECONOMÍA",
+          "creditos": 3
+        },
+        {
+          "codigo": "LMCI22",
+          "nombre": "FOTOGRAFÍA PERIODÍSTICA",
+          "creditos": 3
+        },
+        {
+          "codigo": "TECO1",
+          "nombre": "TECNOLOGÍAS DE LA COMUNICACIÓN",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "cuarto año - 15to ciclo",
+      "materias": [
+        {
+          "codigo": "CS326",
+          "nombre": "OPINIÓN PÚBLICA",
+          "creditos": 3
+        },
+        {
+          "codigo": "LMCI23",
+          "nombre": "SOCIOPOLÍTICA",
+          "creditos": 3
+        },
+        {
+          "codigo": "LMCI24",
+          "nombre": "DIRECCIÓN DE LA SALA DE REDACCIÓN Y AGENDA SETTING",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "cuarto año - 16to ciclo",
+      "materias": [
+        {
+          "codigo": "LMCI25",
+          "nombre": "ADMINISTRACIÓN DE MEDIOS DE COMUNICACIÓN",
+          "creditos": 3
+        },
+        {
+          "codigo": "LMCI26",
+          "nombre": "TÉCNICAS DE INVESTIGACIÓN SOCIAL (TESIS)",
+          "creditos": 3
+        },
+        {
+          "codigo": "LMCI27",
+          "nombre": "PERIODISMO ESPECIALIZADO (CULTURAL, DEPORTIVO, CIENTÍFICO Y ECONÓMICO)",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    }
+  ],
+  "materias_totales": 48,
+  "creditos_totales": 144,
+  "texto_completo": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Medios de Comunicación e Informativos\nTotal de materias: 48\nTotal de créditos: 144\nURL: https://www.galileo.edu/esip/carrera/licenciatura-medios-comunicacion-informativos-pensum/\n================================================================================\n\nprimer año - 1er ciclo\n============================================================\n- MEDIOS DE COMUNICACIÓN (LMCI) - 3 créditos\n- ORTOGRAFÍA (LMCI00) - 3 créditos\n- COMUNICACIÓN (NT034) - 3 créditos\n\n\nprimer año - 2do ciclo\n============================================================\n- ESTILÍSTICA (LCD312) - 3 créditos\n- INTRODUCCIÓN AL PERIODISMO (LMCI01) - 3 créditos\n- PSICOLOGÍA (RH309) - 3 créditos\n\n\nprimer año - 3er ciclo\n============================================================\n- HISTORIA (HP015) - 3 créditos\n- LA TELEVISIÓN (LMCI02) - 3 créditos\n- REDACCIÓN PERIODÍSTICA (RP022) - 3 créditos\n\n\nprimer año - 4to ciclo\n============================================================\n- INTRODUCCIÓN AL DERECHO (DGL01) - 3 créditos\n- HISTORIA UNIVERSAL (HU350) - 3 créditos\n- SOCIEDAD DE LA INFORMACIÓN (LMCI03) - 3 créditos\n\n\nsegundo año - 5to ciclo\n============================================================\n- TEMAS DE ACTUALIDAD PERIODÍSTICA (LMCI04) - 3 créditos\n- LENGUAJE ORAL (LMCI05) - 3 créditos\n- LIBERTAD DE EXPRESIÓN (LMCI06) - 3 créditos\n\n\nsegundo año - 6to ciclo\n============================================================\n- INTRODUCCIÓN A LA ECONOMÍA (EC010) - 3 créditos\n- TECNOLOGÍA (LMCI07) - 3 créditos\n- PRINCIPIOS FOTOGRÁFICOS (LMCI08) - 3 créditos\n\n\nsegundo año - 7mo ciclo\n============================================================\n- ANÁLISIS DE LA OPINIÓN PÚBLICA (AC038) - 3 créditos\n- LIDERAZGO (AD322) - 3 créditos\n- INTRODUCCIÓN A LA POLÍTICA (LMCI09) - 3 créditos\n\n\nsegundo año - 8vo ciclo\n============================================================\n- PRINCIPIOS DE ADMINISTRACIÓN (AH101) - 3 créditos\n- INVESTIGACIÓN SOCIAL (LMCI10) - 3 créditos\n- FUNDAMENTOS DEL PERIODISMO ESPECIALIZADO (LMCI11) - 3 créditos\n\n\ntercer año - 9no ciclo\n============================================================\n- ANÁLISIS DE MEDIOS DE COMUNICACIÓN (LCD115) - 3 créditos\n- TEORÍA DE LA COMUNICACIÓN DE MASAS (LMCI12) - 3 créditos\n- REDACCIÓN Y LENGUAJE (LMCI13) - 3 créditos\n\n\ntercer año - 10mo ciclo\n============================================================\n- ANÁLISIS FINAL (FG407) - 3 créditos\n- GÉNEROS PERIODÍSTICOS I (IPG001) - 3 créditos\n- HISTORIA DEL PERIODISMO EN GUATEMALA (LMCI14) - 3 créditos\n\n\ntercer año - 11er ciclo\n============================================================\n- GÉNEROS PERIODÍSTICOS II (GP006) - 3 créditos\n- REALIDAD DE GUATEMALA (LMCI15) - 3 créditos\n- PERIODISMO TELEVISIVO Y RADIAL (LMCI16) - 3 créditos\n\n\ntercer año - 12do ciclo\n============================================================\n- PRINCIPIOS DE DERECHO Y ORGANIZACIÓN DEL ESTADO (LMCI17) - 3 créditos\n- PERIODISMO ESCRITO Y DIGITAL (LMCI18) - 3 créditos\n- ENTORNO INTERNACIONAL (LMCI19) - 3 créditos\n\n\ncuarto año - 13er ciclo\n============================================================\n- PERIODISMO DE INVESTIGACIÓN (LMCI20) - 3 créditos\n- COMUNICACIÓN Y EXPRESIÓN ORAL (LMCI21) - 3 créditos\n- LEGISLACIÓN EN LOS MEDIOS DE COMUNICACIÓN (LPD011) - 3 créditos\n\n\ncuarto año - 14to ciclo\n============================================================\n- ECONOMÍA (EC221) - 3 créditos\n- FOTOGRAFÍA PERIODÍSTICA (LMCI22) - 3 créditos\n- TECNOLOGÍAS DE LA COMUNICACIÓN (TECO1) - 3 créditos\n\n\ncuarto año - 15to ciclo\n============================================================\n- OPINIÓN PÚBLICA (CS326) - 3 créditos\n- SOCIOPOLÍTICA (LMCI23) - 3 créditos\n- DIRECCIÓN DE LA SALA DE REDACCIÓN Y AGENDA SETTING (LMCI24) - 3 créditos\n\n\ncuarto año - 16to ciclo\n============================================================\n- ADMINISTRACIÓN DE MEDIOS DE COMUNICACIÓN (LMCI25) - 3 créditos\n- TÉCNICAS DE INVESTIGACIÓN SOCIAL (TESIS) (LMCI26) - 3 créditos\n- PERIODISMO ESPECIALIZADO (CULTURAL, DEPORTIVO, CIENTÍFICO Y ECONÓMICO) (LMCI27) - 3 créditos\n"
+}

@@ -1,0 +1,556 @@
+{
+  "carrera": "Licenciatura en Comunicacion y Diseño",
+  "universidad": "Galileo",
+  "url": "https://www.galileo.edu/pensums/?gphcarrera=LCD",
+  "ciclos": [
+    {
+      "nombre": "primer año - 1er ciclo",
+      "materias": [
+        {
+          "codigo": "CAX101",
+          "nombre": "GEOMETRÍA BÁSICA",
+          "creditos": 3
+        },
+        {
+          "codigo": "HISARU",
+          "nombre": "HISTORIA DEL ARTE UNIVERSAL",
+          "creditos": 2
+        },
+        {
+          "codigo": "LE111",
+          "nombre": "COMUNICACIÓN I",
+          "creditos": 2
+        },
+        {
+          "codigo": "TCDF1",
+          "nombre": "FUNDAMENTOS PARA EL DISEÑO",
+          "creditos": 2
+        },
+        {
+          "codigo": "TCDS1",
+          "nombre": "SOFTWARE I",
+          "creditos": 2
+        },
+        {
+          "codigo": "TCDV1",
+          "nombre": "VISUALIZACIÓN GRAFICA I",
+          "creditos": 2
+        }
+      ],
+      "total_creditos": 13
+    },
+    {
+      "nombre": "primer año - 2do ciclo",
+      "materias": [
+        {
+          "codigo": "CAX201",
+          "nombre": "LÓGICA PARA EL DISEÑO",
+          "creditos": 3
+        },
+        {
+          "codigo": "LCD011",
+          "nombre": "HISTORIA DEL DISEÑO GRAFICO",
+          "creditos": 3
+        },
+        {
+          "codigo": "LE112",
+          "nombre": "COMUNICACIÓN II",
+          "creditos": 2
+        },
+        {
+          "codigo": "TCDD2",
+          "nombre": "DISEÑO VISUAL Y COMPOSICIÓN",
+          "creditos": 2
+        },
+        {
+          "codigo": "TCDS2",
+          "nombre": "SOFTWARE II",
+          "creditos": 2
+        },
+        {
+          "codigo": "TCDV2",
+          "nombre": "VISUALIZACIÓN GRAFICA II",
+          "creditos": 2
+        }
+      ],
+      "total_creditos": 14
+    },
+    {
+      "nombre": "primer año - 3er ciclo",
+      "materias": [
+        {
+          "codigo": "BIM01",
+          "nombre": "ESTADÍSTICA DESCRIPTIVA",
+          "creditos": 3
+        },
+        {
+          "codigo": "IA003",
+          "nombre": "FUNDAMENTOS DE INTELIGENCIA ARTIFICIAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "IG012",
+          "nombre": "DISEÑO PUBLICITARIO",
+          "creditos": 2
+        },
+        {
+          "codigo": "LE113",
+          "nombre": "COMUNICACIÓN III",
+          "creditos": 2
+        },
+        {
+          "codigo": "TCDS3",
+          "nombre": "SOFTWARE III",
+          "creditos": 2
+        },
+        {
+          "codigo": "TCDV3",
+          "nombre": "VISUALIZACIÓN GRAFICA III",
+          "creditos": 2
+        }
+      ],
+      "total_creditos": 14
+    },
+    {
+      "nombre": "primer año - 4to ciclo",
+      "materias": [
+        {
+          "codigo": "FG407",
+          "nombre": "ANÁLISIS FINAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "IA108",
+          "nombre": "CREACIÓN DE CONTENIDOS CON INTELIGENCIA ARTIFICIAL",
+          "creditos": 2
+        },
+        {
+          "codigo": "LE205",
+          "nombre": "COMUNICACIÓN IV",
+          "creditos": 2
+        },
+        {
+          "codigo": "TCDD4",
+          "nombre": "DISEÑO EDITORIAL",
+          "creditos": 2
+        },
+        {
+          "codigo": "TCDS4",
+          "nombre": "SOFTWARE IV",
+          "creditos": 2
+        },
+        {
+          "codigo": "TCDV4",
+          "nombre": "VISUALIZACIÓN GRAFICA IV",
+          "creditos": 2
+        }
+      ],
+      "total_creditos": 13
+    },
+    {
+      "nombre": "segundo año - 5to ciclo",
+      "materias": [
+        {
+          "codigo": "IC002",
+          "nombre": "INTRODUCCIÓN A LA ADMINISTRACIÓN",
+          "creditos": 2
+        },
+        {
+          "codigo": "IG007",
+          "nombre": "DISEÑO GRAFICO ELECTRÓNICO",
+          "creditos": 2
+        },
+        {
+          "codigo": "LCCL1",
+          "nombre": "LENGUAJE Y GRAMÁTICA",
+          "creditos": 3
+        },
+        {
+          "codigo": "LCD001",
+          "nombre": "PSICOLOGÍA DE LA COMUNICACIÓN",
+          "creditos": 3
+        },
+        {
+          "codigo": "TCDS5",
+          "nombre": "SOFTWARE V",
+          "creditos": 2
+        },
+        {
+          "codigo": "VS501",
+          "nombre": "FUNDAMENTOS DE FOTOGRAFÍA",
+          "creditos": 2
+        }
+      ],
+      "total_creditos": 14
+    },
+    {
+      "nombre": "segundo año - 6to ciclo",
+      "materias": [
+        {
+          "codigo": "AM104",
+          "nombre": "PLANEACIÓN ESTRATÉGICA APLICADA",
+          "creditos": 3
+        },
+        {
+          "codigo": "FD110",
+          "nombre": "FOTOGRAFÍA DIGITAL",
+          "creditos": 2
+        },
+        {
+          "codigo": "LCCP5",
+          "nombre": "PSICOLOGÍA DEL CONSUMIDOR",
+          "creditos": 3
+        },
+        {
+          "codigo": "LCCT3",
+          "nombre": "TÉCNICAS DE REDACCIÓN",
+          "creditos": 3
+        },
+        {
+          "codigo": "TCDD6",
+          "nombre": "DISEÑO INTERACTIVO",
+          "creditos": 2
+        },
+        {
+          "codigo": "TCDS6",
+          "nombre": "SOFTWARE VI",
+          "creditos": 2
+        }
+      ],
+      "total_creditos": 15
+    },
+    {
+      "nombre": "segundo año - 7mo ciclo",
+      "materias": [
+        {
+          "codigo": "AD302",
+          "nombre": "ADMINISTRACIÓN DE RECURSOS HUMANOS",
+          "creditos": 3
+        },
+        {
+          "codigo": "CL701",
+          "nombre": "ESCRITURA CREATIVA",
+          "creditos": 3
+        },
+        {
+          "codigo": "SM010",
+          "nombre": "SEMIOLOGÍA",
+          "creditos": 3
+        },
+        {
+          "codigo": "TCDS7",
+          "nombre": "SOFTWARE VII",
+          "creditos": 2
+        },
+        {
+          "codigo": "TCDW7",
+          "nombre": "DISEÑO DE PAGINAS WEB",
+          "creditos": 2
+        },
+        {
+          "codigo": "VS701",
+          "nombre": "FOTOGRAFÍA PERSUASIVA",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 16
+    },
+    {
+      "nombre": "segundo año - 8vo ciclo",
+      "materias": [
+        {
+          "codigo": "CM802",
+          "nombre": "COMUNICACIÓN ORAL Y DESARROLLO PERSONAL",
+          "creditos": 2
+        },
+        {
+          "codigo": "DI0107",
+          "nombre": "CREATIVIDAD I",
+          "creditos": 3
+        },
+        {
+          "codigo": "DI801",
+          "nombre": "DISEÑO DE LA EXPERIENCIA LABORAL",
+          "creditos": 6
+        },
+        {
+          "codigo": "LCA11",
+          "nombre": "ADMINISTRACIÓN DE EMPRESAS DE COMUNICACIÓN",
+          "creditos": 3
+        },
+        {
+          "codigo": "LCCC4",
+          "nombre": "COMUNICACIÓN AUDIOVISUAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "MPS801",
+          "nombre": "SOFTWARE VIII",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 23
+    },
+    {
+      "nombre": "tercer año - 9no ciclo",
+      "materias": [
+        {
+          "codigo": "AM902",
+          "nombre": "TÉCNICAS GERENCIALES",
+          "creditos": 3
+        },
+        {
+          "codigo": "DG002",
+          "nombre": "CREATIVIDAD II",
+          "creditos": 3
+        },
+        {
+          "codigo": "IG100",
+          "nombre": "DISEÑO GRAFICO I",
+          "creditos": 3
+        },
+        {
+          "codigo": "LCCT9",
+          "nombre": "TALLER I",
+          "creditos": 3
+        },
+        {
+          "codigo": "LCD116",
+          "nombre": "SEMIOLOGÍA DE LA IMAGEN",
+          "creditos": 3
+        },
+        {
+          "codigo": "LG107",
+          "nombre": "COMUNICACIÓN ORGANIZACIONAL",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "tercer año - 10mo ciclo",
+      "materias": [
+        {
+          "codigo": "CAX902",
+          "nombre": "ADMINISTRACIÓN DE LA INNOVACIÓN Y LA CONECTIVIDAD",
+          "creditos": 3
+        },
+        {
+          "codigo": "DI0114",
+          "nombre": "CREATIVIDAD III",
+          "creditos": 3
+        },
+        {
+          "codigo": "DI0130",
+          "nombre": "COMUNICACIÓN CORPORATIVA",
+          "creditos": 3
+        },
+        {
+          "codigo": "IG008",
+          "nombre": "DISEÑO GRAFICO II",
+          "creditos": 3
+        },
+        {
+          "codigo": "LCDT10",
+          "nombre": "TALLER II",
+          "creditos": 3
+        },
+        {
+          "codigo": "MER105",
+          "nombre": "FUNDAMENTOS DE MARKETING",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "tercer año - 11er ciclo",
+      "materias": [
+        {
+          "codigo": "CI0108",
+          "nombre": "DISEÑO GRAFICO III",
+          "creditos": 3
+        },
+        {
+          "codigo": "DI0101",
+          "nombre": "INVESTIGACIÓN DE MERCADOS",
+          "creditos": 3
+        },
+        {
+          "codigo": "ED100",
+          "nombre": "ÉTICA Y DEONTOLOGÍA",
+          "creditos": 3
+        },
+        {
+          "codigo": "LCCC7",
+          "nombre": "COMUNICACIÓN Y PODER",
+          "creditos": 3
+        },
+        {
+          "codigo": "LCCT11",
+          "nombre": "TALLER III",
+          "creditos": 3
+        },
+        {
+          "codigo": "LCD002",
+          "nombre": "CREATIVIDAD IV",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "tercer año - 12do ciclo",
+      "materias": [
+        {
+          "codigo": "DG001",
+          "nombre": "DISEÑO GRAFICO IV",
+          "creditos": 3
+        },
+        {
+          "codigo": "FP121",
+          "nombre": "METODOLOGÍA PARA PROYECTO DE GRADUACIÓN",
+          "creditos": 3
+        },
+        {
+          "codigo": "LCCM5",
+          "nombre": "MANEJO DE CAMPAÑAS PUBLICITARIAS",
+          "creditos": 3
+        },
+        {
+          "codigo": "LCCT12",
+          "nombre": "TALLER IV",
+          "creditos": 3
+        },
+        {
+          "codigo": "MAE14",
+          "nombre": "MODELOS INNOVADORES DE COMUNICACIÓN",
+          "creditos": 3
+        },
+        {
+          "codigo": "TCDP7",
+          "nombre": "PRE-PRENSA Y REPRODUCCIÓN",
+          "creditos": 2
+        }
+      ],
+      "total_creditos": 17
+    },
+    {
+      "nombre": "cuarto año - 13er ciclo",
+      "materias": [
+        {
+          "codigo": "EMC101",
+          "nombre": "EMPRENDIMIENTO CREATIVO",
+          "creditos": 3
+        },
+        {
+          "codigo": "FP131",
+          "nombre": "DESARROLLO Y POSICIONAMIENTO DE MARCAS",
+          "creditos": 3
+        },
+        {
+          "codigo": "FP132",
+          "nombre": "DISEÑO DE ESTRATEGIAS DE COMPETITIVIDAD",
+          "creditos": 3
+        },
+        {
+          "codigo": "LCCI6",
+          "nombre": "COMUNICACIÓN INTERCULTURAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "MAE10",
+          "nombre": "MERCADEO EN EL PUNTO DE VENTA",
+          "creditos": 3
+        },
+        {
+          "codigo": "PY001",
+          "nombre": "PROYECTOS I",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "cuarto año - 14to ciclo",
+      "materias": [
+        {
+          "codigo": "CM105",
+          "nombre": "COYUNTURA DE LA EVOLUCIÓN DIGITAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "LCCR12",
+          "nombre": "RELACIONES PÚBLICAS Y DIPLOMÁTICAS",
+          "creditos": 3
+        },
+        {
+          "codigo": "MCM008",
+          "nombre": "E-MARKETING",
+          "creditos": 3
+        },
+        {
+          "codigo": "PY002",
+          "nombre": "PROYECTOS II",
+          "creditos": 3
+        },
+        {
+          "codigo": "TE001",
+          "nombre": "TESIS I",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 15
+    },
+    {
+      "nombre": "cuarto año - 15to ciclo",
+      "materias": [
+        {
+          "codigo": "CS313",
+          "nombre": "FUNDAMENTOS DE DERECHO",
+          "creditos": 3
+        },
+        {
+          "codigo": "FG523",
+          "nombre": "PROYECTOS III",
+          "creditos": 3
+        },
+        {
+          "codigo": "FP151",
+          "nombre": "ESTRATEGIAS INNOVADORAS EN REDES SOCIALES",
+          "creditos": 3
+        },
+        {
+          "codigo": "TE002",
+          "nombre": "TESIS II",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 12
+    },
+    {
+      "nombre": "cuarto año - 16to ciclo",
+      "materias": [
+        {
+          "codigo": "FP161",
+          "nombre": "EDICIÓN Y PUBLICACIÓN DE TESIS",
+          "creditos": 3
+        },
+        {
+          "codigo": "PRY401",
+          "nombre": "PROYECTOS IV",
+          "creditos": 3
+        },
+        {
+          "codigo": "TE003",
+          "nombre": "TESIS III",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    }
+  ],
+  "materias_totales": 90,
+  "creditos_totales": 247,
+  "texto_completo": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Comunicacion y Diseño\nTotal de materias: 90\nTotal de créditos: 247\nURL: https://www.galileo.edu/pensums/?gphcarrera=LCD\n================================================================================\n\nprimer año - 1er ciclo\n============================================================\n- GEOMETRÍA BÁSICA (CAX101) - 3 créditos\n- HISTORIA DEL ARTE UNIVERSAL (HISARU) - 2 créditos\n- COMUNICACIÓN I (LE111) - 2 créditos\n- FUNDAMENTOS PARA EL DISEÑO (TCDF1) - 2 créditos\n- SOFTWARE I (TCDS1) - 2 créditos\n- VISUALIZACIÓN GRAFICA I (TCDV1) - 2 créditos\n\n\nprimer año - 2do ciclo\n============================================================\n- LÓGICA PARA EL DISEÑO (CAX201) - 3 créditos\n- HISTORIA DEL DISEÑO GRAFICO (LCD011) - 3 créditos\n- COMUNICACIÓN II (LE112) - 2 créditos\n- DISEÑO VISUAL Y COMPOSICIÓN (TCDD2) - 2 créditos\n- SOFTWARE II (TCDS2) - 2 créditos\n- VISUALIZACIÓN GRAFICA II (TCDV2) - 2 créditos\n\n\nprimer año - 3er ciclo\n============================================================\n- ESTADÍSTICA DESCRIPTIVA (BIM01) - 3 créditos\n- FUNDAMENTOS DE INTELIGENCIA ARTIFICIAL (IA003) - 3 créditos\n- DISEÑO PUBLICITARIO (IG012) - 2 créditos\n- COMUNICACIÓN III (LE113) - 2 créditos\n- SOFTWARE III (TCDS3) - 2 créditos\n- VISUALIZACIÓN GRAFICA III (TCDV3) - 2 créditos\n\n\nprimer año - 4to ciclo\n============================================================\n- ANÁLISIS FINAL (FG407) - 3 créditos\n- CREACIÓN DE CONTENIDOS CON INTELIGENCIA ARTIFICIAL (IA108) - 2 créditos\n- COMUNICACIÓN IV (LE205) - 2 créditos\n- DISEÑO EDITORIAL (TCDD4) - 2 créditos\n- SOFTWARE IV (TCDS4) - 2 créditos\n- VISUALIZACIÓN GRAFICA IV (TCDV4) - 2 créditos\n\n\nsegundo año - 5to ciclo\n============================================================\n- INTRODUCCIÓN A LA ADMINISTRACIÓN (IC002) - 2 créditos\n- DISEÑO GRAFICO ELECTRÓNICO (IG007) - 2 créditos\n- LENGUAJE Y GRAMÁTICA (LCCL1) - 3 créditos\n- PSICOLOGÍA DE LA COMUNICACIÓN (LCD001) - 3 créditos\n- SOFTWARE V (TCDS5) - 2 créditos\n- FUNDAMENTOS DE FOTOGRAFÍA (VS501) - 2 créditos\n\n\nsegundo año - 6to ciclo\n============================================================\n- PLANEACIÓN ESTRATÉGICA APLICADA (AM104) - 3 créditos\n- FOTOGRAFÍA DIGITAL (FD110) - 2 créditos\n- PSICOLOGÍA DEL CONSUMIDOR (LCCP5) - 3 créditos\n- TÉCNICAS DE REDACCIÓN (LCCT3) - 3 créditos\n- DISEÑO INTERACTIVO (TCDD6) - 2 créditos\n- SOFTWARE VI (TCDS6) - 2 créditos\n\n\nsegundo año - 7mo ciclo\n============================================================\n- ADMINISTRACIÓN DE RECURSOS HUMANOS (AD302) - 3 créditos\n- ESCRITURA CREATIVA (CL701) - 3 créditos\n- SEMIOLOGÍA (SM010) - 3 créditos\n- SOFTWARE VII (TCDS7) - 2 créditos\n- DISEÑO DE PAGINAS WEB (TCDW7) - 2 créditos\n- FOTOGRAFÍA PERSUASIVA (VS701) - 3 créditos\n\n\nsegundo año - 8vo ciclo\n============================================================\n- COMUNICACIÓN ORAL Y DESARROLLO PERSONAL (CM802) - 2 créditos\n- CREATIVIDAD I (DI0107) - 3 créditos\n- DISEÑO DE LA EXPERIENCIA LABORAL (DI801) - 6 créditos\n- ADMINISTRACIÓN DE EMPRESAS DE COMUNICACIÓN (LCA11) - 3 créditos\n- COMUNICACIÓN AUDIOVISUAL (LCCC4) - 3 créditos\n- SOFTWARE VIII (MPS801) - 6 créditos\n\n\ntercer año - 9no ciclo\n============================================================\n- TÉCNICAS GERENCIALES (AM902) - 3 créditos\n- CREATIVIDAD II (DG002) - 3 créditos\n- DISEÑO GRAFICO I (IG100) - 3 créditos\n- TALLER I (LCCT9) - 3 créditos\n- SEMIOLOGÍA DE LA IMAGEN (LCD116) - 3 créditos\n- COMUNICACIÓN ORGANIZACIONAL (LG107) - 3 créditos\n\n\ntercer año - 10mo ciclo\n============================================================\n- ADMINISTRACIÓN DE LA INNOVACIÓN Y LA CONECTIVIDAD (CAX902) - 3 créditos\n- CREATIVIDAD III (DI0114) - 3 créditos\n- COMUNICACIÓN CORPORATIVA (DI0130) - 3 créditos\n- DISEÑO GRAFICO II (IG008) - 3 créditos\n- TALLER II (LCDT10) - 3 créditos\n- FUNDAMENTOS DE MARKETING (MER105) - 3 créditos\n\n\ntercer año - 11er ciclo\n============================================================\n- DISEÑO GRAFICO III (CI0108) - 3 créditos\n- INVESTIGACIÓN DE MERCADOS (DI0101) - 3 créditos\n- ÉTICA Y DEONTOLOGÍA (ED100) - 3 créditos\n- COMUNICACIÓN Y PODER (LCCC7) - 3 créditos\n- TALLER III (LCCT11) - 3 créditos\n- CREATIVIDAD IV (LCD002) - 3 créditos\n\n\ntercer año - 12do ciclo\n============================================================\n- DISEÑO GRAFICO IV (DG001) - 3 créditos\n- METODOLOGÍA PARA PROYECTO DE GRADUACIÓN (FP121) - 3 créditos\n- MANEJO DE CAMPAÑAS PUBLICITARIAS (LCCM5) - 3 créditos\n- TALLER IV (LCCT12) - 3 créditos\n- MODELOS INNOVADORES DE COMUNICACIÓN (MAE14) - 3 créditos\n- PRE-PRENSA Y REPRODUCCIÓN (TCDP7) - 2 créditos\n\n\ncuarto año - 13er ciclo\n============================================================\n- EMPRENDIMIENTO CREATIVO (EMC101) - 3 créditos\n- DESARROLLO Y POSICIONAMIENTO DE MARCAS (FP131) - 3 créditos\n- DISEÑO DE ESTRATEGIAS DE COMPETITIVIDAD (FP132) - 3 créditos\n- COMUNICACIÓN INTERCULTURAL (LCCI6) - 3 créditos\n- MERCADEO EN EL PUNTO DE VENTA (MAE10) - 3 créditos\n- PROYECTOS I (PY001) - 3 créditos\n\n\ncuarto año - 14to ciclo\n============================================================\n- COYUNTURA DE LA EVOLUCIÓN DIGITAL (CM105) - 3 créditos\n- RELACIONES PÚBLICAS Y DIPLOMÁTICAS (LCCR12) - 3 créditos\n- E-MARKETING (MCM008) - 3 créditos\n- PROYECTOS II (PY002) - 3 créditos\n- TESIS I (TE001) - 3 créditos\n\n\ncuarto año - 15to ciclo\n============================================================\n- FUNDAMENTOS DE DERECHO (CS313) - 3 créditos\n- PROYECTOS III (FG523) - 3 créditos\n- ESTRATEGIAS INNOVADORAS EN REDES SOCIALES (FP151) - 3 créditos\n- TESIS II (TE002) - 3 créditos\n\n\ncuarto año - 16to ciclo\n============================================================\n- EDICIÓN Y PUBLICACIÓN DE TESIS (FP161) - 3 créditos\n- PROYECTOS IV (PRY401) - 3 créditos\n- TESIS III (TE003) - 3 créditos\n"
+}

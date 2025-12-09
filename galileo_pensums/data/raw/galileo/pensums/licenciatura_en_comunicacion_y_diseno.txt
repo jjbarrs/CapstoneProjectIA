@@ -1,0 +1,159 @@
+UNIVERSIDAD GALILEO
+CARRERA: Licenciatura en Comunicacion y Diseño
+Total de materias: 90
+Total de créditos: 247
+URL: https://www.galileo.edu/pensums/?gphcarrera=LCD
+================================================================================
+
+primer año - 1er ciclo
+============================================================
+- GEOMETRÍA BÁSICA (CAX101) - 3 créditos
+- HISTORIA DEL ARTE UNIVERSAL (HISARU) - 2 créditos
+- COMUNICACIÓN I (LE111) - 2 créditos
+- FUNDAMENTOS PARA EL DISEÑO (TCDF1) - 2 créditos
+- SOFTWARE I (TCDS1) - 2 créditos
+- VISUALIZACIÓN GRAFICA I (TCDV1) - 2 créditos
+
+
+primer año - 2do ciclo
+============================================================
+- LÓGICA PARA EL DISEÑO (CAX201) - 3 créditos
+- HISTORIA DEL DISEÑO GRAFICO (LCD011) - 3 créditos
+- COMUNICACIÓN II (LE112) - 2 créditos
+- DISEÑO VISUAL Y COMPOSICIÓN (TCDD2) - 2 créditos
+- SOFTWARE II (TCDS2) - 2 créditos
+- VISUALIZACIÓN GRAFICA II (TCDV2) - 2 créditos
+
+
+primer año - 3er ciclo
+============================================================
+- ESTADÍSTICA DESCRIPTIVA (BIM01) - 3 créditos
+- FUNDAMENTOS DE INTELIGENCIA ARTIFICIAL (IA003) - 3 créditos
+- DISEÑO PUBLICITARIO (IG012) - 2 créditos
+- COMUNICACIÓN III (LE113) - 2 créditos
+- SOFTWARE III (TCDS3) - 2 créditos
+- VISUALIZACIÓN GRAFICA III (TCDV3) - 2 créditos
+
+
+primer año - 4to ciclo
+============================================================
+- ANÁLISIS FINAL (FG407) - 3 créditos
+- CREACIÓN DE CONTENIDOS CON INTELIGENCIA ARTIFICIAL (IA108) - 2 créditos
+- COMUNICACIÓN IV (LE205) - 2 créditos
+- DISEÑO EDITORIAL (TCDD4) - 2 créditos
+- SOFTWARE IV (TCDS4) - 2 créditos
+- VISUALIZACIÓN GRAFICA IV (TCDV4) - 2 créditos
+
+
+segundo año - 5to ciclo
+============================================================
+- INTRODUCCIÓN A LA ADMINISTRACIÓN (IC002) - 2 créditos
+- DISEÑO GRAFICO ELECTRÓNICO (IG007) - 2 créditos
+- LENGUAJE Y GRAMÁTICA (LCCL1) - 3 créditos
+- PSICOLOGÍA DE LA COMUNICACIÓN (LCD001) - 3 créditos
+- SOFTWARE V (TCDS5) - 2 créditos
+- FUNDAMENTOS DE FOTOGRAFÍA (VS501) - 2 créditos
+
+
+segundo año - 6to ciclo
+============================================================
+- PLANEACIÓN ESTRATÉGICA APLICADA (AM104) - 3 créditos
+- FOTOGRAFÍA DIGITAL (FD110) - 2 créditos
+- PSICOLOGÍA DEL CONSUMIDOR (LCCP5) - 3 créditos
+- TÉCNICAS DE REDACCIÓN (LCCT3) - 3 créditos
+- DISEÑO INTERACTIVO (TCDD6) - 2 créditos
+- SOFTWARE VI (TCDS6) - 2 créditos
+
+
+segundo año - 7mo ciclo
+============================================================
+- ADMINISTRACIÓN DE RECURSOS HUMANOS (AD302) - 3 créditos
+- ESCRITURA CREATIVA (CL701) - 3 créditos
+- SEMIOLOGÍA (SM010) - 3 créditos
+- SOFTWARE VII (TCDS7) - 2 créditos
+- DISEÑO DE PAGINAS WEB (TCDW7) - 2 créditos
+- FOTOGRAFÍA PERSUASIVA (VS701) - 3 créditos
+
+
+segundo año - 8vo ciclo
+============================================================
+- COMUNICACIÓN ORAL Y DESARROLLO PERSONAL (CM802) - 2 créditos
+- CREATIVIDAD I (DI0107) - 3 créditos
+- DISEÑO DE LA EXPERIENCIA LABORAL (DI801) - 6 créditos
+- ADMINISTRACIÓN DE EMPRESAS DE COMUNICACIÓN (LCA11) - 3 créditos
+- COMUNICACIÓN AUDIOVISUAL (LCCC4) - 3 créditos
+- SOFTWARE VIII (MPS801) - 6 créditos
+
+
+tercer año - 9no ciclo
+============================================================
+- TÉCNICAS GERENCIALES (AM902) - 3 créditos
+- CREATIVIDAD II (DG002) - 3 créditos
+- DISEÑO GRAFICO I (IG100) - 3 créditos
+- TALLER I (LCCT9) - 3 créditos
+- SEMIOLOGÍA DE LA IMAGEN (LCD116) - 3 créditos
+- COMUNICACIÓN ORGANIZACIONAL (LG107) - 3 créditos
+
+
+tercer año - 10mo ciclo
+============================================================
+- ADMINISTRACIÓN DE LA INNOVACIÓN Y LA CONECTIVIDAD (CAX902) - 3 créditos
+- CREATIVIDAD III (DI0114) - 3 créditos
+- COMUNICACIÓN CORPORATIVA (DI0130) - 3 créditos
+- DISEÑO GRAFICO II (IG008) - 3 créditos
+- TALLER II (LCDT10) - 3 créditos
+- FUNDAMENTOS DE MARKETING (MER105) - 3 créditos
+
+
+tercer año - 11er ciclo
+============================================================
+- DISEÑO GRAFICO III (CI0108) - 3 créditos
+- INVESTIGACIÓN DE MERCADOS (DI0101) - 3 créditos
+- ÉTICA Y DEONTOLOGÍA (ED100) - 3 créditos
+- COMUNICACIÓN Y PODER (LCCC7) - 3 créditos
+- TALLER III (LCCT11) - 3 créditos
+- CREATIVIDAD IV (LCD002) - 3 créditos
+
+
+tercer año - 12do ciclo
+============================================================
+- DISEÑO GRAFICO IV (DG001) - 3 créditos
+- METODOLOGÍA PARA PROYECTO DE GRADUACIÓN (FP121) - 3 créditos
+- MANEJO DE CAMPAÑAS PUBLICITARIAS (LCCM5) - 3 créditos
+- TALLER IV (LCCT12) - 3 créditos
+- MODELOS INNOVADORES DE COMUNICACIÓN (MAE14) - 3 créditos
+- PRE-PRENSA Y REPRODUCCIÓN (TCDP7) - 2 créditos
+
+
+cuarto año - 13er ciclo
+============================================================
+- EMPRENDIMIENTO CREATIVO (EMC101) - 3 créditos
+- DESARROLLO Y POSICIONAMIENTO DE MARCAS (FP131) - 3 créditos
+- DISEÑO DE ESTRATEGIAS DE COMPETITIVIDAD (FP132) - 3 créditos
+- COMUNICACIÓN INTERCULTURAL (LCCI6) - 3 créditos
+- MERCADEO EN EL PUNTO DE VENTA (MAE10) - 3 créditos
+- PROYECTOS I (PY001) - 3 créditos
+
+
+cuarto año - 14to ciclo
+============================================================
+- COYUNTURA DE LA EVOLUCIÓN DIGITAL (CM105) - 3 créditos
+- RELACIONES PÚBLICAS Y DIPLOMÁTICAS (LCCR12) - 3 créditos
+- E-MARKETING (MCM008) - 3 créditos
+- PROYECTOS II (PY002) - 3 créditos
+- TESIS I (TE001) - 3 créditos
+
+
+cuarto año - 15to ciclo
+============================================================
+- FUNDAMENTOS DE DERECHO (CS313) - 3 créditos
+- PROYECTOS III (FG523) - 3 créditos
+- ESTRATEGIAS INNOVADORAS EN REDES SOCIALES (FP151) - 3 créditos
+- TESIS II (TE002) - 3 créditos
+
+
+cuarto año - 16to ciclo
+============================================================
+- EDICIÓN Y PUBLICACIÓN DE TESIS (FP161) - 3 créditos
+- PROYECTOS IV (PRY401) - 3 créditos
+- TESIS III (TE003) - 3 créditos

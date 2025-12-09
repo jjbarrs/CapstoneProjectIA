@@ -1,0 +1,309 @@
+{
+  "carrera": "Licenciatura en Optometría",
+  "universidad": "Galileo",
+  "url": "https://www.galileo.edu/facisa/carrera/lopt/pensum/",
+  "ciclos": [
+    {
+      "nombre": "primer año - 1er ciclo",
+      "materias": [
+        {
+          "codigo": "AO010",
+          "nombre": "ANATOMÍA OCULAR",
+          "creditos": 6
+        },
+        {
+          "codigo": "BO010",
+          "nombre": "BIOLOGÍA APLICADA A LA OPTOMETRÍA",
+          "creditos": 6
+        },
+        {
+          "codigo": "CP001",
+          "nombre": "PAQUETES DE SOFTWARE I",
+          "creditos": 6
+        },
+        {
+          "codigo": "FO010",
+          "nombre": "FÍSICA APLICADA PARA LA OPTOMETRÍA",
+          "creditos": 6
+        },
+        {
+          "codigo": "MO010",
+          "nombre": "MATEMÁTICA APLICADA PARA LA OPTOMETRÍA",
+          "creditos": 6
+        },
+        {
+          "codigo": "QO010",
+          "nombre": "QUÍMICA APLICADA A LA OPTOMETRÍA",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 36
+    },
+    {
+      "nombre": "primer año - 2do ciclo",
+      "materias": [
+        {
+          "codigo": "CP002",
+          "nombre": "PAQUETES DE SOFTWARE II",
+          "creditos": 6
+        },
+        {
+          "codigo": "EO110",
+          "nombre": "EMBRIOLOGÍA OCULAR",
+          "creditos": 6
+        },
+        {
+          "codigo": "FM001",
+          "nombre": "FUNDAMENTOS DE MICROBIOLOGÍA",
+          "creditos": 6
+        },
+        {
+          "codigo": "OPF00",
+          "nombre": "ÓPTICA FÍSICA",
+          "creditos": 6
+        },
+        {
+          "codigo": "OPF01",
+          "nombre": "ÓPTICA OFTÁLMICA",
+          "creditos": 6
+        },
+        {
+          "codigo": "SC010",
+          "nombre": "SERVICIO AL CLIENTE",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 36
+    },
+    {
+      "nombre": "segundo año - 3er ciclo",
+      "materias": [
+        {
+          "codigo": "ATM07",
+          "nombre": "ANATOMÍA OCULAR Y DE LA ORBITA",
+          "creditos": 6
+        },
+        {
+          "codigo": "CR001",
+          "nombre": "CLÍNICA DE REFRACCIÓN I",
+          "creditos": 6
+        },
+        {
+          "codigo": "OF015",
+          "nombre": "LENTES DE CONTACTO I",
+          "creditos": 6
+        },
+        {
+          "codigo": "TC026",
+          "nombre": "CONTROL DE CALIDAD",
+          "creditos": 6
+        },
+        {
+          "codigo": "TO215",
+          "nombre": "ÓPTICA GEOMÉTRICA",
+          "creditos": 6
+        },
+        {
+          "codigo": "VF005",
+          "nombre": "VISIÓN FUNCIONAL",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 36
+    },
+    {
+      "nombre": "segundo año - 4to ciclo",
+      "materias": [
+        {
+          "codigo": "CI001",
+          "nombre": "CLÍNICA INTEGRAL Y PRIMEROS AUXILIOS",
+          "creditos": 6
+        },
+        {
+          "codigo": "CR002",
+          "nombre": "CLÍNICA DE REFRACCIÓN II",
+          "creditos": 6
+        },
+        {
+          "codigo": "FP001",
+          "nombre": "FUNDAMENTOS DE PLANEACIÓN ESTRATÉGICA",
+          "creditos": 6
+        },
+        {
+          "codigo": "OF016",
+          "nombre": "LENTES DE CONTACTO II",
+          "creditos": 3
+        },
+        {
+          "codigo": "OF017",
+          "nombre": "ÓPTICA FÍSICA E INSTRUMENTAL",
+          "creditos": 6
+        },
+        {
+          "codigo": "VS001",
+          "nombre": "VISIÓN SUBNORMAL",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 33
+    },
+    {
+      "nombre": "tercer año - 5to ciclo",
+      "materias": [
+        {
+          "codigo": "EFT01",
+          "nombre": "EXAMEN FINAL TEÓRICO PRÁCTICO",
+          "creditos": 6
+        },
+        {
+          "codigo": "EJPS01",
+          "nombre": "EJERCICIO PROFESIONAL SUPERVISADO",
+          "creditos": 6
+        },
+        {
+          "codigo": "IE006",
+          "nombre": "INTRODUCCIÓN A LA EPIDEMIOLOGIA",
+          "creditos": 6
+        },
+        {
+          "codigo": "OC003",
+          "nombre": "OPTOMETRÍA CLÍNICA INTEGRAL",
+          "creditos": 6
+        },
+        {
+          "codigo": "TI010",
+          "nombre": "TÉCNICAS DE INVESTIGACIÓN Y ELABORACIÓN DE INFORMES",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 30
+    },
+    {
+      "nombre": "primer año - 6to ciclo",
+      "materias": [
+        {
+          "codigo": "CAM00",
+          "nombre": "CALCULO MATEMÁTICO",
+          "creditos": 3
+        },
+        {
+          "codigo": "COPG00",
+          "nombre": "CONCEPTOS DE PATOLOGÍA GENERAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "FIGE00",
+          "nombre": "FISIOLOGÍA GENERAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "OP602",
+          "nombre": "ÓPTICA FISIOLÓGICA CLÍNICA",
+          "creditos": 3
+        },
+        {
+          "codigo": "OPT01",
+          "nombre": "OPTOMETRÍA TERAPÉUTICA I",
+          "creditos": 3
+        },
+        {
+          "codigo": "RA311",
+          "nombre": "ORGANIZACIÓN DE EMPRESAS",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "primer año - 7mo ciclo",
+      "materias": [
+        {
+          "codigo": "CPO00",
+          "nombre": "CONCEPTOS DE PATOLOGÍA OCULAR",
+          "creditos": 3
+        },
+        {
+          "codigo": "FUF00",
+          "nombre": "FUNDAMENTOS DE FARMACOLOGÍA",
+          "creditos": 3
+        },
+        {
+          "codigo": "INRO00",
+          "nombre": "INTRODUCCIÓN A LA ORTÓPTICA",
+          "creditos": 3
+        },
+        {
+          "codigo": "INTP00",
+          "nombre": "INTRODUCCIÓN AL TRATAMIENTO PLEOPTICO",
+          "creditos": 3
+        },
+        {
+          "codigo": "OPT02",
+          "nombre": "OPTOMETRÍA TERAPÉUTICA II",
+          "creditos": 3
+        },
+        {
+          "codigo": "TEPA00",
+          "nombre": "TERAPÉUTICA EN PRIMEROS AUXILIOS",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "segundo año - 8vo ciclo",
+      "materias": [
+        {
+          "codigo": "ETPYD",
+          "nombre": "ÉTICA PROFESIONAL Y DEONTOLÓGICA",
+          "creditos": 3
+        },
+        {
+          "codigo": "ILSP00",
+          "nombre": "INTRODUCCIÓN A LA SALUD PÚBLICA",
+          "creditos": 3
+        },
+        {
+          "codigo": "ITFO00",
+          "nombre": "INTRODUCCIÓN A LA TECNOLOGÍA DE FRENTE DE ONDA",
+          "creditos": 3
+        },
+        {
+          "codigo": "LESA00",
+          "nombre": "LEGISLACIÓN SANITARIA",
+          "creditos": 3
+        },
+        {
+          "codigo": "OGA00",
+          "nombre": "OPTOMETRÍA GERIÁTRICA APLICADA",
+          "creditos": 3
+        },
+        {
+          "codigo": "OPA00",
+          "nombre": "OPTOMETRÍA PEDIÁTRICA APLICADA",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "segundo año - 9no ciclo",
+      "materias": [
+        {
+          "codigo": "LCTA16",
+          "nombre": "TESIS O PROYECTO",
+          "creditos": 6
+        },
+        {
+          "codigo": "MOI033",
+          "nombre": "EJERCICIO PROFESIONAL SUPERVISADO II",
+          "creditos": 12
+        }
+      ],
+      "total_creditos": 18
+    }
+  ],
+  "materias_totales": 49,
+  "creditos_totales": 243,
+  "texto_completo": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Optometría\nTotal de materias: 49\nTotal de créditos: 243\nURL: https://www.galileo.edu/facisa/carrera/lopt/pensum/\n================================================================================\n\nprimer año - 1er ciclo\n============================================================\n- ANATOMÍA OCULAR (AO010) - 6 créditos\n- BIOLOGÍA APLICADA A LA OPTOMETRÍA (BO010) - 6 créditos\n- PAQUETES DE SOFTWARE I (CP001) - 6 créditos\n- FÍSICA APLICADA PARA LA OPTOMETRÍA (FO010) - 6 créditos\n- MATEMÁTICA APLICADA PARA LA OPTOMETRÍA (MO010) - 6 créditos\n- QUÍMICA APLICADA A LA OPTOMETRÍA (QO010) - 6 créditos\n\n\nprimer año - 2do ciclo\n============================================================\n- PAQUETES DE SOFTWARE II (CP002) - 6 créditos\n- EMBRIOLOGÍA OCULAR (EO110) - 6 créditos\n- FUNDAMENTOS DE MICROBIOLOGÍA (FM001) - 6 créditos\n- ÓPTICA FÍSICA (OPF00) - 6 créditos\n- ÓPTICA OFTÁLMICA (OPF01) - 6 créditos\n- SERVICIO AL CLIENTE (SC010) - 6 créditos\n\n\nsegundo año - 3er ciclo\n============================================================\n- ANATOMÍA OCULAR Y DE LA ORBITA (ATM07) - 6 créditos\n- CLÍNICA DE REFRACCIÓN I (CR001) - 6 créditos\n- LENTES DE CONTACTO I (OF015) - 6 créditos\n- CONTROL DE CALIDAD (TC026) - 6 créditos\n- ÓPTICA GEOMÉTRICA (TO215) - 6 créditos\n- VISIÓN FUNCIONAL (VF005) - 6 créditos\n\n\nsegundo año - 4to ciclo\n============================================================\n- CLÍNICA INTEGRAL Y PRIMEROS AUXILIOS (CI001) - 6 créditos\n- CLÍNICA DE REFRACCIÓN II (CR002) - 6 créditos\n- FUNDAMENTOS DE PLANEACIÓN ESTRATÉGICA (FP001) - 6 créditos\n- LENTES DE CONTACTO II (OF016) - 3 créditos\n- ÓPTICA FÍSICA E INSTRUMENTAL (OF017) - 6 créditos\n- VISIÓN SUBNORMAL (VS001) - 6 créditos\n\n\ntercer año - 5to ciclo\n============================================================\n- EXAMEN FINAL TEÓRICO PRÁCTICO (EFT01) - 6 créditos\n- EJERCICIO PROFESIONAL SUPERVISADO (EJPS01) - 6 créditos\n- INTRODUCCIÓN A LA EPIDEMIOLOGIA (IE006) - 6 créditos\n- OPTOMETRÍA CLÍNICA INTEGRAL (OC003) - 6 créditos\n- TÉCNICAS DE INVESTIGACIÓN Y ELABORACIÓN DE INFORMES (TI010) - 6 créditos\n\n\nprimer año - 6to ciclo\n============================================================\n- CALCULO MATEMÁTICO (CAM00) - 3 créditos\n- CONCEPTOS DE PATOLOGÍA GENERAL (COPG00) - 3 créditos\n- FISIOLOGÍA GENERAL (FIGE00) - 3 créditos\n- ÓPTICA FISIOLÓGICA CLÍNICA (OP602) - 3 créditos\n- OPTOMETRÍA TERAPÉUTICA I (OPT01) - 3 créditos\n- ORGANIZACIÓN DE EMPRESAS (RA311) - 3 créditos\n\n\nprimer año - 7mo ciclo\n============================================================\n- CONCEPTOS DE PATOLOGÍA OCULAR (CPO00) - 3 créditos\n- FUNDAMENTOS DE FARMACOLOGÍA (FUF00) - 3 créditos\n- INTRODUCCIÓN A LA ORTÓPTICA (INRO00) - 3 créditos\n- INTRODUCCIÓN AL TRATAMIENTO PLEOPTICO (INTP00) - 3 créditos\n- OPTOMETRÍA TERAPÉUTICA II (OPT02) - 3 créditos\n- TERAPÉUTICA EN PRIMEROS AUXILIOS (TEPA00) - 3 créditos\n\n\nsegundo año - 8vo ciclo\n============================================================\n- ÉTICA PROFESIONAL Y DEONTOLÓGICA (ETPYD) - 3 créditos\n- INTRODUCCIÓN A LA SALUD PÚBLICA (ILSP00) - 3 créditos\n- INTRODUCCIÓN A LA TECNOLOGÍA DE FRENTE DE ONDA (ITFO00) - 3 créditos\n- LEGISLACIÓN SANITARIA (LESA00) - 3 créditos\n- OPTOMETRÍA GERIÁTRICA APLICADA (OGA00) - 3 créditos\n- OPTOMETRÍA PEDIÁTRICA APLICADA (OPA00) - 3 créditos\n\n\nsegundo año - 9no ciclo\n============================================================\n- TESIS O PROYECTO (LCTA16) - 6 créditos\n- EJERCICIO PROFESIONAL SUPERVISADO II (MOI033) - 12 créditos\n"
+}

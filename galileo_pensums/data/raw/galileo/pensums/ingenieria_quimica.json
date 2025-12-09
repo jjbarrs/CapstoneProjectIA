@@ -1,0 +1,276 @@
+{
+  "carrera": "INGENIERIA QUIMICA",
+  "universidad": "Galileo",
+  "url": "https://www.galileo.edu/pensums/?gphcarrera=INQ",
+  "ciclos": [
+    {
+      "nombre": "primer año - 1er ciclo",
+      "materias": [
+        {
+          "codigo": "BB001",
+          "nombre": "BIOLOGÍA",
+          "creditos": 3
+        },
+        {
+          "codigo": "BQU01",
+          "nombre": "QUÍMICA I",
+          "creditos": 4
+        },
+        {
+          "codigo": "LE007",
+          "nombre": "TÉCNICAS DE COMUNICACIÓN ORAL Y ESCRITA",
+          "creditos": 3
+        },
+        {
+          "codigo": "LQ101",
+          "nombre": "LABORATORIO DE QUÍMICA I",
+          "creditos": 2
+        },
+        {
+          "codigo": "MA201",
+          "nombre": "MATEMÁTICA I",
+          "creditos": 8
+        },
+        {
+          "codigo": "PC111",
+          "nombre": "CIENCIAS DE LA COMPUTACIÓN I",
+          "creditos": 5
+        },
+        {
+          "codigo": "SOS101",
+          "nombre": "TALLER DE INTRODUCCIÓN A LA INGENIERÍA QUÍMICA",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 28
+    },
+    {
+      "nombre": "primer año - 2do ciclo",
+      "materias": [
+        {
+          "codigo": "BQU02",
+          "nombre": "QUÍMICA II",
+          "creditos": 4
+        },
+        {
+          "codigo": "FG514",
+          "nombre": "CIENCIAS AMBIENTALES",
+          "creditos": 3
+        },
+        {
+          "codigo": "FI105",
+          "nombre": "LABORATORIO DE FÍSICA I",
+          "creditos": 1
+        },
+        {
+          "codigo": "FI201",
+          "nombre": "FÍSICA I",
+          "creditos": 4
+        },
+        {
+          "codigo": "MA202",
+          "nombre": "MATEMÁTICA II",
+          "creditos": 8
+        },
+        {
+          "codigo": "MEI01",
+          "nombre": "METODOLOGÍA DE LA INVESTIGACIÓN",
+          "creditos": 3
+        },
+        {
+          "codigo": "PC112",
+          "nombre": "CIENCIAS DE LA COMPUTACIÓN II",
+          "creditos": 5
+        },
+        {
+          "codigo": "QU101",
+          "nombre": "LABORATORIO DE QUÍMICA II",
+          "creditos": 2
+        }
+      ],
+      "total_creditos": 30
+    },
+    {
+      "nombre": "segundo año - 3er ciclo",
+      "materias": [
+        {
+          "codigo": "FI106",
+          "nombre": "LABORATORIO DE FÍSICA II",
+          "creditos": 1
+        },
+        {
+          "codigo": "FI202",
+          "nombre": "FÍSICA II",
+          "creditos": 4
+        },
+        {
+          "codigo": "LQF25",
+          "nombre": "LABORATORIO DE QUÍMICA ORGÁNICA I",
+          "creditos": 2
+        },
+        {
+          "codigo": "MA203",
+          "nombre": "MATEMÁTICA III",
+          "creditos": 8
+        },
+        {
+          "codigo": "MA208",
+          "nombre": "ÁLGEBRA LINEAL",
+          "creditos": 4
+        },
+        {
+          "codigo": "MA304",
+          "nombre": "ESTADÍSTICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "Q3304",
+          "nombre": "QUÍMICA ORGÁNICA I",
+          "creditos": 4
+        },
+        {
+          "codigo": "TIU301",
+          "nombre": "TECNOLOGÍA INDUSTRIAL",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 30
+    },
+    {
+      "nombre": "segundo año - 4to ciclo",
+      "materias": [
+        {
+          "codigo": "LG601",
+          "nombre": "LEGISLACIÓN",
+          "creditos": 3
+        },
+        {
+          "codigo": "LQF27",
+          "nombre": "LABORATORIO QUÍMICA ORGÁNICA II",
+          "creditos": 2
+        },
+        {
+          "codigo": "LQF31",
+          "nombre": "LABORATORIO DE FISICOQUÍMICA",
+          "creditos": 2
+        },
+        {
+          "codigo": "MA204",
+          "nombre": "MATEMÁTICA IV",
+          "creditos": 6
+        },
+        {
+          "codigo": "MA415",
+          "nombre": "ECUACIONES DIFERENCIALES ORDINARIAS",
+          "creditos": 4
+        },
+        {
+          "codigo": "Q3305",
+          "nombre": "FISICOQUÍMICA",
+          "creditos": 3
+        },
+        {
+          "codigo": "Q3307",
+          "nombre": "QUÍMICA ORGÁNICA II",
+          "creditos": 4
+        },
+        {
+          "codigo": "QA002",
+          "nombre": "QUÍMICA ANALÍTICA I",
+          "creditos": 3
+        },
+        {
+          "codigo": "QA004",
+          "nombre": "LABORATORIO DE QUÍMICA ANALÍTICA I",
+          "creditos": 2
+        }
+      ],
+      "total_creditos": 29
+    },
+    {
+      "nombre": "tercer año - 5to ciclo",
+      "materias": [
+        {
+          "codigo": "AI400",
+          "nombre": "ANÁLISIS INSTRUMENTAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "DPI501",
+          "nombre": "DISEÑO DE PROYECTOS E INNOVACIÓN",
+          "creditos": 3
+        },
+        {
+          "codigo": "HU320",
+          "nombre": "CIENCIA DE LOS MATERIALES",
+          "creditos": 4
+        },
+        {
+          "codigo": "MA205",
+          "nombre": "MATEMÁTICA V",
+          "creditos": 6
+        },
+        {
+          "codigo": "QA003",
+          "nombre": "QUÍMICA ANALÍTICA II",
+          "creditos": 3
+        },
+        {
+          "codigo": "QA005",
+          "nombre": "LABORATORIO DE QUÍMICA ANALÍTICA II",
+          "creditos": 2
+        },
+        {
+          "codigo": "QU501",
+          "nombre": "BALANCE DE MASA Y ENERGÍA",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 25
+    },
+    {
+      "nombre": "tercer año - 6to ciclo",
+      "materias": [
+        {
+          "codigo": "AD305",
+          "nombre": "ADMINISTRACIÓN DE EMPRESAS",
+          "creditos": 3
+        },
+        {
+          "codigo": "CP601",
+          "nombre": "COMPUTACIÓN CIENTÍFICA",
+          "creditos": 5
+        },
+        {
+          "codigo": "EC204",
+          "nombre": "FINANZAS",
+          "creditos": 3
+        },
+        {
+          "codigo": "LMB601",
+          "nombre": "LABORATORIO DE MICROBIOLOGÍA INDUSTRIAL",
+          "creditos": 2
+        },
+        {
+          "codigo": "MF100",
+          "nombre": "MECÁNICA DE FLUIDOS",
+          "creditos": 4
+        },
+        {
+          "codigo": "PRI601",
+          "nombre": "SISTEMAS ENERGÉTICOS",
+          "creditos": 5
+        },
+        {
+          "codigo": "QU602",
+          "nombre": "MICROBIOLOGÍA INDUSTRIAL",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 25
+    }
+  ],
+  "materias_totales": 46,
+  "creditos_totales": 167,
+  "texto_completo": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERIA QUIMICA\nTotal de materias: 46\nTotal de créditos: 167\nURL: https://www.galileo.edu/pensums/?gphcarrera=INQ\n================================================================================\n\nprimer año - 1er ciclo\n============================================================\n- BIOLOGÍA (BB001) - 3 créditos\n- QUÍMICA I (BQU01) - 4 créditos\n- TÉCNICAS DE COMUNICACIÓN ORAL Y ESCRITA (LE007) - 3 créditos\n- LABORATORIO DE QUÍMICA I (LQ101) - 2 créditos\n- MATEMÁTICA I (MA201) - 8 créditos\n- CIENCIAS DE LA COMPUTACIÓN I (PC111) - 5 créditos\n- TALLER DE INTRODUCCIÓN A LA INGENIERÍA QUÍMICA (SOS101) - 3 créditos\n\n\nprimer año - 2do ciclo\n============================================================\n- QUÍMICA II (BQU02) - 4 créditos\n- CIENCIAS AMBIENTALES (FG514) - 3 créditos\n- LABORATORIO DE FÍSICA I (FI105) - 1 créditos\n- FÍSICA I (FI201) - 4 créditos\n- MATEMÁTICA II (MA202) - 8 créditos\n- METODOLOGÍA DE LA INVESTIGACIÓN (MEI01) - 3 créditos\n- CIENCIAS DE LA COMPUTACIÓN II (PC112) - 5 créditos\n- LABORATORIO DE QUÍMICA II (QU101) - 2 créditos\n\n\nsegundo año - 3er ciclo\n============================================================\n- LABORATORIO DE FÍSICA II (FI106) - 1 créditos\n- FÍSICA II (FI202) - 4 créditos\n- LABORATORIO DE QUÍMICA ORGÁNICA I (LQF25) - 2 créditos\n- MATEMÁTICA III (MA203) - 8 créditos\n- ÁLGEBRA LINEAL (MA208) - 4 créditos\n- ESTADÍSTICA (MA304) - 4 créditos\n- QUÍMICA ORGÁNICA I (Q3304) - 4 créditos\n- TECNOLOGÍA INDUSTRIAL (TIU301) - 3 créditos\n\n\nsegundo año - 4to ciclo\n============================================================\n- LEGISLACIÓN (LG601) - 3 créditos\n- LABORATORIO QUÍMICA ORGÁNICA II (LQF27) - 2 créditos\n- LABORATORIO DE FISICOQUÍMICA (LQF31) - 2 créditos\n- MATEMÁTICA IV (MA204) - 6 créditos\n- ECUACIONES DIFERENCIALES ORDINARIAS (MA415) - 4 créditos\n- FISICOQUÍMICA (Q3305) - 3 créditos\n- QUÍMICA ORGÁNICA II (Q3307) - 4 créditos\n- QUÍMICA ANALÍTICA I (QA002) - 3 créditos\n- LABORATORIO DE QUÍMICA ANALÍTICA I (QA004) - 2 créditos\n\n\ntercer año - 5to ciclo\n============================================================\n- ANÁLISIS INSTRUMENTAL (AI400) - 3 créditos\n- DISEÑO DE PROYECTOS E INNOVACIÓN (DPI501) - 3 créditos\n- CIENCIA DE LOS MATERIALES (HU320) - 4 créditos\n- MATEMÁTICA V (MA205) - 6 créditos\n- QUÍMICA ANALÍTICA II (QA003) - 3 créditos\n- LABORATORIO DE QUÍMICA ANALÍTICA II (QA005) - 2 créditos\n- BALANCE DE MASA Y ENERGÍA (QU501) - 4 créditos\n\n\ntercer año - 6to ciclo\n============================================================\n- ADMINISTRACIÓN DE EMPRESAS (AD305) - 3 créditos\n- COMPUTACIÓN CIENTÍFICA (CP601) - 5 créditos\n- FINANZAS (EC204) - 3 créditos\n- LABORATORIO DE MICROBIOLOGÍA INDUSTRIAL (LMB601) - 2 créditos\n- MECÁNICA DE FLUIDOS (MF100) - 4 créditos\n- SISTEMAS ENERGÉTICOS (PRI601) - 5 créditos\n- MICROBIOLOGÍA INDUSTRIAL (QU602) - 3 créditos\n"
+}

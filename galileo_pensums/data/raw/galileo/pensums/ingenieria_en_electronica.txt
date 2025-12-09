@@ -1,0 +1,88 @@
+UNIVERSIDAD GALILEO
+CARRERA: INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN
+Total de materias: 51
+Total de créditos: 227
+URL: https://www.galileo.edu/pensums/?gphcarrera=IE
+================================================================================
+
+primer año - 1er ciclo
+============================================================
+- TÉCNICAS DE INVESTIGACIÓN Y APRENDIZAJE (FG050) - 3 créditos
+- FÍSICA I (FI201) - 5 créditos
+- INFORMÁTICA I (IN301) - 4 créditos
+- TECNOLOGÍA DESCRIPTIVA (IS425) - 3 créditos
+- MATEMÁTICA I (MA201) - 8 créditos
+- CIENCIAS DE LA COMPUTACIÓN I (PC111) - 5 créditos
+
+
+primer año - 2do ciclo
+============================================================
+- EVOLUCIÓN DE LA CIENCIA Y LA TECNOLOGÍA (FG051) - 3 créditos
+- FÍSICA II (FI202) - 5 créditos
+- INFORMÁTICA II (IN302) - 4 créditos
+- MATEMÁTICA II (MA202) - 8 créditos
+- CIENCIAS DE LA COMPUTACIÓN II (PC112) - 5 créditos
+- DIBUJO TÉCNICO (PC403) - 3 créditos
+
+
+segundo año - 3er ciclo
+============================================================
+- ELECTRICIDAD I (EL103) - 3 créditos
+- FÍSICA III (FI203) - 5 créditos
+- INFORMÁTICA III (IN303) - 4 créditos
+- MATEMÁTICA III (MA203) - 8 créditos
+- ÁLGEBRA LINEAL I (MA206) - 4 créditos
+- CIENCIAS DE LA COMPUTACIÓN III (PC117) - 7 créditos
+
+
+segundo año - 4to ciclo
+============================================================
+- ELECTRICIDAD II (EL104) - 3 créditos
+- ELECTRÓNICA I (EL201) - 4 créditos
+- FÍSICA IV (FI204) - 4 créditos
+- MATEMÁTICA IV (MA204) - 6 créditos
+- ÁLGEBRA LINEAL II (MA207) - 4 créditos
+- ECUACIONES DIFERENCIALES ORDINARIAS (MA415) - 4 créditos
+- CIENCIAS DE LA COMPUTACIÓN IV(E) (PC121) - 3 créditos
+
+
+tercer año - 5to ciclo
+============================================================
+- INSTRUMENTACIÓN ELECTRÓNICA (DICA05) - 4 créditos
+- ELECTRÓNICA II (EL204) - 4 créditos
+- ELECTRÓNICA III (EL206) - 3 créditos
+- FÍSICA V (FI210) - 4 créditos
+- MATEMÁTICA V (MA205) - 6 créditos
+- ESTADÍSTICA MATEMÁTICA (MA212) - 4 créditos
+- DISEÑO Y CONSTRUCCIÓN DE DISPOSITIVOS ELECTRÓNICOS (PC212) - 3 créditos
+
+
+tercer año - 6to ciclo
+============================================================
+- INSTALACIONES ELÉCTRICAS (EL205) - 3 créditos
+- MICROPROCESADORES (EL207) - 5 créditos
+- ELECTRÓNICA IV (EL208) - 6 créditos
+- INFORMÁTICA IV (IN205) - 4 créditos
+- TEORÍA DE CONTROL (IN211) - 5 créditos
+- MATEMÁTICA VI (MA213) - 5 créditos
+
+
+cuarto año - 7mo ciclo
+============================================================
+- APLICACIONES DE MICROPROCESADORES (AM100) - 5 créditos
+- TEORÍA DE SISTEMAS I (CO209) - 4 créditos
+- ECONOMÍA I (EC213) - 3 créditos
+- POTENCIA Y MOTORES (EL210) - 5 créditos
+- MATEMÁTICA VII (MA214) - 4 créditos
+- SEMINARIO DE INVESTIGACIÓN DE OPERACIONES I (MA229) - 4 créditos
+- MEDIOS DE TRANSMISIÓN I (TR201) - 3 créditos
+
+
+cuarto año - 8vo ciclo
+============================================================
+- TEORÍA DE SISTEMAS II (CO206) - 4 créditos
+- ECONOMÍA II (EC214) - 3 créditos
+- AUTOMATIZACIÓN INDUSTRIAL (EL209) - 6 créditos
+- ROBÓTICA (IN212) - 6 créditos
+- SEMINARIO DE INVESTIGACIÓN DE OPERACIONES II (MA228) - 4 créditos
+- TELECOMUNICACIONES (PC315) - 5 créditos

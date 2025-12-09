@@ -1,0 +1,105 @@
+UNIVERSIDAD GALILEO
+CARRERA: Licenciatura en Psicopedagogía
+Total de materias: 60
+Total de créditos: 127
+URL: https://www.galileo.edu/faced/carrera/licenciatura-psicopedagogia/pensum/
+================================================================================
+
+primer año - 1er ciclo
+============================================================
+- INSTRUMENTOS DE EVALUACIÓN DE LA CONDUCTA (INEC00) - 2 créditos
+- INTRODUCCIÓN A LOS PROBLEMAS DE APRENDIZAJE (IPA00) - 2 créditos
+- MATEMÁTICA I (MA201) - 2 créditos
+- PSICOPEDAGOGÍA DEL DESARROLLO I (PD001) - 2 créditos
+- PEDAGOGÍA Y ANDRAGOGÍA (PEAN) - 2 créditos
+- TALLER DE LECTURA Y ESCRITURA (TALEC) - 3 créditos
+
+
+primer año - 2do ciclo
+============================================================
+- TÉCNICAS DE COMUNICACIÓN ORAL Y ESCRITA (LE007) - 2 créditos
+- PSICOPEDAGOGÍA DE LA DIVERSIDAD (LPP103) - 2 créditos
+- TÉCNICAS DE INVESTIGACIÓN I (MOI027) - 2 créditos
+- PSICOPEDAGOGÍA DE LOS TRASTORNOS DE APRENDIZAJE (PTA00) - 2 créditos
+- MANEJO DE PAQUETES DE SOFTWARE I (RT309) - 2 créditos
+- TEORÍAS DEL APRENDIZAJE (TEA01) - 2 créditos
+
+
+segundo año - 3er ciclo
+============================================================
+- ABORDAJE DEL BAJO RENDIMIENTO ESCOLAR Y PROBLEMAS DE DISCIPLINA (ABEREP) - 2 créditos
+- TECNOLOGÍA EDUCATIVA (C0310) - 2 créditos
+- EVALUACIÓN PSICOPEDAGÓGICA I (EPSI01) - 2 créditos
+- HISTORIA DE GUATEMALA (HU312) - 2 créditos
+- PSICOPEDAGOGÍA DEL DESARROLLO II (LPP004) - 2 créditos
+- NEUROCIENCIAS DE LA CONDUCTA (LPP010) - 2 créditos
+
+
+segundo año - 4to ciclo
+============================================================
+- ABORDAJE DE LA DISCALCULIA (ABDI00) - 2 créditos
+- ABORDAJE DE LA DISLEXIA Y LA DISGRAFÍA (ADDI00) - 2 créditos
+- ESTRATEGIAS CONSTRUCTIVISTAS DEL APRENDIZAJE (ECDA00) - 2 créditos
+- DISEÑO Y ELABORACIÓN DE MATERIAL EDUCATIVO (LPP03) - 2 créditos
+- ESTADÍSTICA I (MA311) - 2 créditos
+- PSICOPEDAGOGÍA DE LOS TRASTORNOS DE COMUNICACIÓN ORAL (PTCO00) - 2 créditos
+
+
+tercer año - 5to ciclo
+============================================================
+- EVALUACIÓN PSICOPEDAGÓGICA II (EPSI02) - 2 créditos
+- EVALUACIÓN DEL RENDIMIENTO ESCOLAR (EU313) - 2 créditos
+- HISTORIA DE LA EDUCACIÓN Y LEGISLACIÓN EDUCATIVA (HELE00) - 2 créditos
+- PSICOPEDAGOGÍA DEL DESARROLLO III (LPP014) - 2 créditos
+- PRÁCTICA PROFESIONAL I (PP1) - 3 créditos
+- TEORÍA DE LA PERSONALIDAD (TELP00) - 2 créditos
+
+
+tercer año - 6to ciclo
+============================================================
+- INTRODUCCIÓN AL PENSAMIENTO SISTÉMICO (CS304) - 2 créditos
+- INVESTIGACIÓN EDUCATIVA I (LEH02) - 3 créditos
+- PSICODIAGNÓSTICO I (LPP102) - 2 créditos
+- PSICOPEDAGOGÍA DEL EJERCICIO Y DEPORTE (PEJD00) - 2 créditos
+- PSICOPEDAGOGÍA DE LA DISCAPACIDAD INTELECTUAL (PSDI00) - 2 créditos
+- MANEJO DE PAQUETES DE SOFTWARE II (RT310) - 2 créditos
+
+
+cuarto año - 7mo ciclo
+============================================================
+- ESTRATEGIAS PARA ENFRENTAR PROBLEMAS DEL SISTEMA EDUCATIVO GUATEMALTECO (EAL02) - 2 créditos
+- EDUCACIÓN POR COMPETENCIAS (EPCA) - 3 créditos
+- COMUNICACIÓN Y ÉTICA PROFESIONAL (LPP028) - 2 créditos
+- PSICOPEDAGOGÍA DE LA SOBREDOTACIÓN (PDSO00) - 2 créditos
+- PSICOPEDAGOGÍA DE LOS PROCESOS COGNITIVOS DEFICIENTES (PPCD00) - 2 créditos
+- PSICOPEDAGOGÍA DE LOS TRASTORNOS DEL ESPECTRO AUTISTA (PTEA00) - 2 créditos
+
+
+cuarto año - 8vo ciclo
+============================================================
+- DISEÑO Y ELABORACIÓN DE PROYECTOS EDUCATIVOS (LPP025) - 2 créditos
+- PSICOLOGÍA COMUNITARIA (LPP033) - 2 créditos
+- ESTADÍSTICA II (MA312) - 2 créditos
+- PSICOPEDAGOGÍA DE LAS DISCAPACIDADES MOTORAS (PDMO00) - 2 créditos
+- PRÁCTICA PROFESIONAL II (PP2) - 3 créditos
+- PSICOPEDAGOGÍA DE LAS DISCAPACIDADES SENSORIALES (PSDS00) - 2 créditos
+
+
+quinto año - 9no ciclo
+============================================================
+- DISEÑO CURRICULAR (DC010) - 2 créditos
+- INVESTIGACIÓN EDUCATIVA II (IE112) - 2 créditos
+- INTEGRACIÓN ESCOLAR Y LABORAL (IELA00) - 2 créditos
+- MÉTODOS ALTERNATIVOS PARA LA COMUNICACIÓN (MACO00) - 3 créditos
+- PROGRAMAS ESPECÍFICOS PARA EL ABORDAJE DE LAS NECESIDADES EDUCATIVAS ESPECIALES (PANE00) - 2 créditos
+- MANEJO DE PAQUETES DE SOFTWARE III (RT314) - 2 créditos
+
+
+quinto año - 10mo ciclo
+============================================================
+- INTRODUCCIÓN A LA PSICOLOGÍA CLÍNICA (INPC00) - 2 créditos
+- ADMINISTRACIÓN ESCOLAR (LPP031) - 2 créditos
+- INVESTIGACIÓN CUALITATIVA (LPP035) - 2 créditos
+- ORIENTACIÓN VOCACIONAL Y OCUPACIONAL (OVOC00) - 2 créditos
+- PENSAMIENTO ADLERIANO (PADL00) - 2 créditos
+- PRÁCTICA PROFESIONAL III (PP3) - 3 créditos

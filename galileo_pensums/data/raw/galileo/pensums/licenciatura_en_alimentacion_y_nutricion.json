@@ -1,0 +1,440 @@
+{
+  "carrera": "LICENCIATURA EN ALIMENTACION Y NUTRICION",
+  "universidad": "Galileo",
+  "url": "https://www.galileo.edu/pensums/?gphcarrera=LAN",
+  "ciclos": [
+    {
+      "nombre": "primer año - 1er ciclo",
+      "materias": [
+        {
+          "codigo": "CP001",
+          "nombre": "PAQUETES DE SOFTWARE I",
+          "creditos": 2
+        },
+        {
+          "codigo": "LQ002",
+          "nombre": "LABORATORIO DE BIOLOGÍA GENERAL I",
+          "creditos": 2
+        },
+        {
+          "codigo": "LQ115",
+          "nombre": "LABORATORIO DE QUÍMICA INORGÁNICA",
+          "creditos": 2
+        },
+        {
+          "codigo": "MA301",
+          "nombre": "MATEMÁTICA GENERAL",
+          "creditos": 4
+        },
+        {
+          "codigo": "MEI01",
+          "nombre": "METODOLOGÍA DE LA INVESTIGACIÓN",
+          "creditos": 2
+        },
+        {
+          "codigo": "RH310",
+          "nombre": "SOCIOLOGÍA",
+          "creditos": 2
+        },
+        {
+          "codigo": "TAN001",
+          "nombre": "BIOLOGÍA GENERAL I",
+          "creditos": 3
+        },
+        {
+          "codigo": "TN114",
+          "nombre": "QUÍMICA INORGÁNICA",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 21
+    },
+    {
+      "nombre": "primer año - 2do ciclo",
+      "materias": [
+        {
+          "codigo": "CP002",
+          "nombre": "PAQUETES DE SOFTWARE II",
+          "creditos": 2
+        },
+        {
+          "codigo": "LAN024",
+          "nombre": "LABORATORIO DE BIOLOGÍA GENERAL II",
+          "creditos": 2
+        },
+        {
+          "codigo": "LAN025",
+          "nombre": "LABORATORIO DE QUÍMICA ORGÁNICA",
+          "creditos": 2
+        },
+        {
+          "codigo": "MA708",
+          "nombre": "MATEMÁTICA APLICADA",
+          "creditos": 4
+        },
+        {
+          "codigo": "Q3303",
+          "nombre": "QUÍMICA ORGÁNICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "RG001",
+          "nombre": "PSICOLOGÍA GENERAL",
+          "creditos": 2
+        },
+        {
+          "codigo": "TAN002",
+          "nombre": "BIOLOGÍA GENERAL II",
+          "creditos": 3
+        },
+        {
+          "codigo": "TAN003",
+          "nombre": "ECONOMÍA ALIMENTARIA",
+          "creditos": 2
+        },
+        {
+          "codigo": "TAN004",
+          "nombre": "ANTROPOLOGÍA NUTRICIONAL",
+          "creditos": 2
+        }
+      ],
+      "total_creditos": 23
+    },
+    {
+      "nombre": "segundo año - 3er ciclo",
+      "materias": [
+        {
+          "codigo": "BIO1",
+          "nombre": "BIOQUÍMICA I",
+          "creditos": 3
+        },
+        {
+          "codigo": "EB402",
+          "nombre": "ESTADÍSTICA BÁSICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "LAN019",
+          "nombre": "LABORATORIO DE ANATOMÍA Y FISIOLOGÍA HUMANA",
+          "creditos": 2
+        },
+        {
+          "codigo": "LAN020",
+          "nombre": "LABORATORIO DE MICROBIOLOGÍA BÁSICA",
+          "creditos": 2
+        },
+        {
+          "codigo": "LAN028",
+          "nombre": "LABORATORIO DE BIOQUÍMICA I",
+          "creditos": 2
+        },
+        {
+          "codigo": "TAN005",
+          "nombre": "MICROBIOLOGÍA BÁSICA",
+          "creditos": 3
+        },
+        {
+          "codigo": "TAN018",
+          "nombre": "ANTROPOMETRÍA",
+          "creditos": 3
+        },
+        {
+          "codigo": "TESO2",
+          "nombre": "ANATOMÍA Y FISIOLOGÍA HUMANA",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 22
+    },
+    {
+      "nombre": "segundo año - 4to ciclo",
+      "materias": [
+        {
+          "codigo": "BI309",
+          "nombre": "BIOQUÍMICA II",
+          "creditos": 3
+        },
+        {
+          "codigo": "LAN002",
+          "nombre": "DISEÑO Y ANÁLISIS DE EXPERIMENTOS",
+          "creditos": 3
+        },
+        {
+          "codigo": "LAN008",
+          "nombre": "EVALUACIÓN DEL ESTADO NUTRICIONAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "LAN029",
+          "nombre": "LABORATORIO DE MICROBIOLOGÍA APLICADA",
+          "creditos": 2
+        },
+        {
+          "codigo": "LAN24",
+          "nombre": "FISIOPATOLOGÍA NUTRICIONAL I",
+          "creditos": 3
+        },
+        {
+          "codigo": "LQ401",
+          "nombre": "LABORATORIO DE BIOQUÍMICA II",
+          "creditos": 2
+        },
+        {
+          "codigo": "TAN007",
+          "nombre": "PEDAGOGÍA Y DIDÁCTICA",
+          "creditos": 2
+        },
+        {
+          "codigo": "TAN008",
+          "nombre": "EPIDEMIOLOGIA GENERAL",
+          "creditos": 2
+        },
+        {
+          "codigo": "TAN011",
+          "nombre": "MICROBIOLOGÍA APLICADA",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 23
+    },
+    {
+      "nombre": "tercer año - 5to ciclo",
+      "materias": [
+        {
+          "codigo": "LAN001",
+          "nombre": "BROMATOLOGÍA",
+          "creditos": 3
+        },
+        {
+          "codigo": "LAN003",
+          "nombre": "EPIDEMIOLOGIA NUTRICIONAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "LAN005",
+          "nombre": "FISIOPATOLOGÍA NUTRICIONAL II",
+          "creditos": 3
+        },
+        {
+          "codigo": "LAN027",
+          "nombre": "ADMINISTRACIÓN DE RECURSOS HUMANOS Y PERSONAL",
+          "creditos": 2
+        },
+        {
+          "codigo": "LAN031",
+          "nombre": "LABORATORIO DE BROMATOLOGÍA",
+          "creditos": 2
+        },
+        {
+          "codigo": "LAN20",
+          "nombre": "ASEGURAMIENTO DE LA CALIDAD I",
+          "creditos": 3
+        },
+        {
+          "codigo": "TAN009",
+          "nombre": "NUTRICIÓN BÁSICA I",
+          "creditos": 4
+        },
+        {
+          "codigo": "TAN014",
+          "nombre": "DIETÉTICA I",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 24
+    },
+    {
+      "nombre": "tercer año - 6to ciclo",
+      "materias": [
+        {
+          "codigo": "AC325",
+          "nombre": "ASEGURAMIENTO DE LA CALIDAD II",
+          "creditos": 3
+        },
+        {
+          "codigo": "LAN004",
+          "nombre": "DIETÉTICA II",
+          "creditos": 4
+        },
+        {
+          "codigo": "LAN026",
+          "nombre": "SITUACIÓN ALIMENTARIA NUTRICIONAL DE GUATEMALA",
+          "creditos": 3
+        },
+        {
+          "codigo": "LTA601",
+          "nombre": "LABORATORIO DE INTRODUCCIÓN A LA TECNOLOGÍA DE ALIMENTOS",
+          "creditos": 2
+        },
+        {
+          "codigo": "TAN013",
+          "nombre": "INTRODUCCIÓN A LA TECNOLOGÍA DE ALIMENTOS",
+          "creditos": 3
+        },
+        {
+          "codigo": "TAN015",
+          "nombre": "SERVICIOS DE ALIMENTACIÓN",
+          "creditos": 2
+        },
+        {
+          "codigo": "TAN016",
+          "nombre": "NUTRICIÓN BÁSICA II",
+          "creditos": 4
+        },
+        {
+          "codigo": "TAN017",
+          "nombre": "INVESTIGACIÓN APLICADA I",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 24
+    },
+    {
+      "nombre": "cuarto año - 7mo ciclo",
+      "materias": [
+        {
+          "codigo": "IS310",
+          "nombre": "FORMULACIÓN DE PROYECTOS",
+          "creditos": 3
+        },
+        {
+          "codigo": "LAN009",
+          "nombre": "ANÁLISIS SENSORIAL DE ALIMENTOS",
+          "creditos": 3
+        },
+        {
+          "codigo": "LAN017",
+          "nombre": "NUTRICIÓN APLICADA",
+          "creditos": 2
+        },
+        {
+          "codigo": "LAN023",
+          "nombre": "LABORATORIO DE NUTRICIÓN APLICADA",
+          "creditos": 3
+        },
+        {
+          "codigo": "LAN030",
+          "nombre": "LABORATORIO DE TECNOLOGÍA APLICADA DE ALIMENTOS I",
+          "creditos": 2
+        },
+        {
+          "codigo": "LAN22",
+          "nombre": "TECNOLOGÍA APLICADA A ALIMENTOS I",
+          "creditos": 3
+        },
+        {
+          "codigo": "LAN23",
+          "nombre": "FARMACOLOGÍA GENERAL Y TOXICOLOGÍA DE ALIMENTOS",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 20
+    },
+    {
+      "nombre": "cuarto año - 8vo ciclo",
+      "materias": [
+        {
+          "codigo": "AD010",
+          "nombre": "PLANIFICACIÓN ESTRATÉGICA",
+          "creditos": 3
+        },
+        {
+          "codigo": "AD305",
+          "nombre": "ADMINISTRACIÓN DE EMPRESAS",
+          "creditos": 2
+        },
+        {
+          "codigo": "CS318",
+          "nombre": "LEGISLACIÓN",
+          "creditos": 2
+        },
+        {
+          "codigo": "DT1A",
+          "nombre": "DIETOTERAPIA I ADULTOS",
+          "creditos": 4
+        },
+        {
+          "codigo": "LAN011",
+          "nombre": "TECNOLOGÍA APLICADA DE ALIMENTOS II",
+          "creditos": 3
+        },
+        {
+          "codigo": "LAN014",
+          "nombre": "MERCADOTECNIA Y PUBLICIDAD",
+          "creditos": 2
+        },
+        {
+          "codigo": "LDDA",
+          "nombre": "LABORATORIO DE DIETOTERAPIA I ADULTOS",
+          "creditos": 3
+        },
+        {
+          "codigo": "LTA801",
+          "nombre": "LABORATORIO DE TECNOLOGÍA APLICADA DE ALIMENTOS II",
+          "creditos": 2
+        },
+        {
+          "codigo": "PIS",
+          "nombre": "PRÁCTICA INSTITUCIONAL SUPERVISADA",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 24
+    },
+    {
+      "nombre": "quinto año - 9no ciclo",
+      "materias": [
+        {
+          "codigo": "AD301",
+          "nombre": "TEORÍA GERENCIAL",
+          "creditos": 2
+        },
+        {
+          "codigo": "DT2",
+          "nombre": "DIETOTERAPIA II PEDIÁTRICO",
+          "creditos": 4
+        },
+        {
+          "codigo": "F009",
+          "nombre": "GERENCIA DE PROYECTOS",
+          "creditos": 2
+        },
+        {
+          "codigo": "LAN016",
+          "nombre": "INVESTIGACIÓN APLICADA II",
+          "creditos": 3
+        },
+        {
+          "codigo": "LAN018",
+          "nombre": "INVESTIGACIÓN Y DESARROLLO DE PRODUCTOS ALIMENTICIOS",
+          "creditos": 3
+        },
+        {
+          "codigo": "LCT018",
+          "nombre": "NUTRICIÓN DEL DEPORTE",
+          "creditos": 3
+        },
+        {
+          "codigo": "LDT2P",
+          "nombre": "LABORATORIO DE DIETOTERAPIA II PEDIÁTRICO",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 20
+    },
+    {
+      "nombre": "quinto año - 10mo ciclo",
+      "materias": [
+        {
+          "codigo": "LQF16",
+          "nombre": "EPS (EJERCICIO PROFESIONAL SUPERVISADO)",
+          "creditos": 18
+        }
+      ],
+      "total_creditos": 18
+    }
+  ],
+  "materias_totales": 74,
+  "creditos_totales": 219,
+  "texto_completo": "UNIVERSIDAD GALILEO\nCARRERA: LICENCIATURA EN ALIMENTACION Y NUTRICION\nTotal de materias: 74\nTotal de créditos: 219\nURL: https://www.galileo.edu/pensums/?gphcarrera=LAN\n================================================================================\n\nprimer año - 1er ciclo\n============================================================\n- PAQUETES DE SOFTWARE I (CP001) - 2 créditos\n- LABORATORIO DE BIOLOGÍA GENERAL I (LQ002) - 2 créditos\n- LABORATORIO DE QUÍMICA INORGÁNICA (LQ115) - 2 créditos\n- MATEMÁTICA GENERAL (MA301) - 4 créditos\n- METODOLOGÍA DE LA INVESTIGACIÓN (MEI01) - 2 créditos\n- SOCIOLOGÍA (RH310) - 2 créditos\n- BIOLOGÍA GENERAL I (TAN001) - 3 créditos\n- QUÍMICA INORGÁNICA (TN114) - 4 créditos\n\n\nprimer año - 2do ciclo\n============================================================\n- PAQUETES DE SOFTWARE II (CP002) - 2 créditos\n- LABORATORIO DE BIOLOGÍA GENERAL II (LAN024) - 2 créditos\n- LABORATORIO DE QUÍMICA ORGÁNICA (LAN025) - 2 créditos\n- MATEMÁTICA APLICADA (MA708) - 4 créditos\n- QUÍMICA ORGÁNICA (Q3303) - 4 créditos\n- PSICOLOGÍA GENERAL (RG001) - 2 créditos\n- BIOLOGÍA GENERAL II (TAN002) - 3 créditos\n- ECONOMÍA ALIMENTARIA (TAN003) - 2 créditos\n- ANTROPOLOGÍA NUTRICIONAL (TAN004) - 2 créditos\n\n\nsegundo año - 3er ciclo\n============================================================\n- BIOQUÍMICA I (BIO1) - 3 créditos\n- ESTADÍSTICA BÁSICA (EB402) - 4 créditos\n- LABORATORIO DE ANATOMÍA Y FISIOLOGÍA HUMANA (LAN019) - 2 créditos\n- LABORATORIO DE MICROBIOLOGÍA BÁSICA (LAN020) - 2 créditos\n- LABORATORIO DE BIOQUÍMICA I (LAN028) - 2 créditos\n- MICROBIOLOGÍA BÁSICA (TAN005) - 3 créditos\n- ANTROPOMETRÍA (TAN018) - 3 créditos\n- ANATOMÍA Y FISIOLOGÍA HUMANA (TESO2) - 3 créditos\n\n\nsegundo año - 4to ciclo\n============================================================\n- BIOQUÍMICA II (BI309) - 3 créditos\n- DISEÑO Y ANÁLISIS DE EXPERIMENTOS (LAN002) - 3 créditos\n- EVALUACIÓN DEL ESTADO NUTRICIONAL (LAN008) - 3 créditos\n- LABORATORIO DE MICROBIOLOGÍA APLICADA (LAN029) - 2 créditos\n- FISIOPATOLOGÍA NUTRICIONAL I (LAN24) - 3 créditos\n- LABORATORIO DE BIOQUÍMICA II (LQ401) - 2 créditos\n- PEDAGOGÍA Y DIDÁCTICA (TAN007) - 2 créditos\n- EPIDEMIOLOGIA GENERAL (TAN008) - 2 créditos\n- MICROBIOLOGÍA APLICADA (TAN011) - 3 créditos\n\n\ntercer año - 5to ciclo\n============================================================\n- BROMATOLOGÍA (LAN001) - 3 créditos\n- EPIDEMIOLOGIA NUTRICIONAL (LAN003) - 3 créditos\n- FISIOPATOLOGÍA NUTRICIONAL II (LAN005) - 3 créditos\n- ADMINISTRACIÓN DE RECURSOS HUMANOS Y PERSONAL (LAN027) - 2 créditos\n- LABORATORIO DE BROMATOLOGÍA (LAN031) - 2 créditos\n- ASEGURAMIENTO DE LA CALIDAD I (LAN20) - 3 créditos\n- NUTRICIÓN BÁSICA I (TAN009) - 4 créditos\n- DIETÉTICA I (TAN014) - 4 créditos\n\n\ntercer año - 6to ciclo\n============================================================\n- ASEGURAMIENTO DE LA CALIDAD II (AC325) - 3 créditos\n- DIETÉTICA II (LAN004) - 4 créditos\n- SITUACIÓN ALIMENTARIA NUTRICIONAL DE GUATEMALA (LAN026) - 3 créditos\n- LABORATORIO DE INTRODUCCIÓN A LA TECNOLOGÍA DE ALIMENTOS (LTA601) - 2 créditos\n- INTRODUCCIÓN A LA TECNOLOGÍA DE ALIMENTOS (TAN013) - 3 créditos\n- SERVICIOS DE ALIMENTACIÓN (TAN015) - 2 créditos\n- NUTRICIÓN BÁSICA II (TAN016) - 4 créditos\n- INVESTIGACIÓN APLICADA I (TAN017) - 3 créditos\n\n\ncuarto año - 7mo ciclo\n============================================================\n- FORMULACIÓN DE PROYECTOS (IS310) - 3 créditos\n- ANÁLISIS SENSORIAL DE ALIMENTOS (LAN009) - 3 créditos\n- NUTRICIÓN APLICADA (LAN017) - 2 créditos\n- LABORATORIO DE NUTRICIÓN APLICADA (LAN023) - 3 créditos\n- LABORATORIO DE TECNOLOGÍA APLICADA DE ALIMENTOS I (LAN030) - 2 créditos\n- TECNOLOGÍA APLICADA A ALIMENTOS I (LAN22) - 3 créditos\n- FARMACOLOGÍA GENERAL Y TOXICOLOGÍA DE ALIMENTOS (LAN23) - 4 créditos\n\n\ncuarto año - 8vo ciclo\n============================================================\n- PLANIFICACIÓN ESTRATÉGICA (AD010) - 3 créditos\n- ADMINISTRACIÓN DE EMPRESAS (AD305) - 2 créditos\n- LEGISLACIÓN (CS318) - 2 créditos\n- DIETOTERAPIA I ADULTOS (DT1A) - 4 créditos\n- TECNOLOGÍA APLICADA DE ALIMENTOS II (LAN011) - 3 créditos\n- MERCADOTECNIA Y PUBLICIDAD (LAN014) - 2 créditos\n- LABORATORIO DE DIETOTERAPIA I ADULTOS (LDDA) - 3 créditos\n- LABORATORIO DE TECNOLOGÍA APLICADA DE ALIMENTOS II (LTA801) - 2 créditos\n- PRÁCTICA INSTITUCIONAL SUPERVISADA (PIS) - 3 créditos\n\n\nquinto año - 9no ciclo\n============================================================\n- TEORÍA GERENCIAL (AD301) - 2 créditos\n- DIETOTERAPIA II PEDIÁTRICO (DT2) - 4 créditos\n- GERENCIA DE PROYECTOS (F009) - 2 créditos\n- INVESTIGACIÓN APLICADA II (LAN016) - 3 créditos\n- INVESTIGACIÓN Y DESARROLLO DE PRODUCTOS ALIMENTICIOS (LAN018) - 3 créditos\n- NUTRICIÓN DEL DEPORTE (LCT018) - 3 créditos\n- LABORATORIO DE DIETOTERAPIA II PEDIÁTRICO (LDT2P) - 3 créditos\n\n\nquinto año - 10mo ciclo\n============================================================\n- EPS (EJERCICIO PROFESIONAL SUPERVISADO) (LQF16) - 18 créditos\n"
+}

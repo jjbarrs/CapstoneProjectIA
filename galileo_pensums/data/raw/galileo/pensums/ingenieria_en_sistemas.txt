@@ -1,0 +1,85 @@
+UNIVERSIDAD GALILEO
+CARRERA: INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN
+Total de materias: 48
+Total de créditos: 227
+URL: https://www.galileo.edu/pensums/?gphcarrera=ii
+================================================================================
+
+primer año - 1er ciclo
+============================================================
+- TÉCNICAS DE INVESTIGACIÓN Y APRENDIZAJE (FG050) - 3 créditos
+- FÍSICA I (FI201) - 5 créditos
+- INFORMÁTICA I (IN301) - 4 créditos
+- TECNOLOGÍA DESCRIPTIVA (IS425) - 3 créditos
+- MATEMÁTICA I (MA201) - 8 créditos
+- CIENCIAS DE LA COMPUTACIÓN I (PC111) - 5 créditos
+
+
+primer año - 2do ciclo
+============================================================
+- EVOLUCIÓN DE LA CIENCIA Y LA TECNOLOGÍA (FG051) - 3 créditos
+- FÍSICA II (FI202) - 5 créditos
+- INFORMÁTICA II (IN302) - 4 créditos
+- MATEMÁTICA II (MA202) - 8 créditos
+- CIENCIAS DE LA COMPUTACIÓN II (PC112) - 5 créditos
+- DIBUJO TÉCNICO (PC403) - 3 créditos
+
+
+segundo año - 3er ciclo
+============================================================
+- FÍSICA III (FI203) - 5 créditos
+- ELECTRICIDAD (FI306) - 3 créditos
+- INFORMÁTICA III (IN303) - 4 créditos
+- MATEMÁTICA III (MA203) - 8 créditos
+- ÁLGEBRA LINEAL I (MA206) - 4 créditos
+- CIENCIAS DE LA COMPUTACIÓN III (PC117) - 7 créditos
+
+
+segundo año - 4to ciclo
+============================================================
+- ELECTRÓNICA I(S) (EL216) - 3 créditos
+- FÍSICA IV (FI204) - 4 créditos
+- MATEMÁTICA IV (MA204) - 6 créditos
+- ÁLGEBRA LINEAL II (MA207) - 4 créditos
+- ECUACIONES DIFERENCIALES ORDINARIAS (MA415) - 4 créditos
+- CIENCIAS DE LA COMPUTACIÓN IV (PC118) - 7 créditos
+
+
+tercer año - 5to ciclo
+============================================================
+- SISTEMAS DE ARQUITECTURA (CO210) - 4 créditos
+- FUNDAMENTOS DE APLICACIONES WEB (EL501) - 3 créditos
+- FÍSICA V (FI210) - 4 créditos
+- MATEMÁTICA V (MA205) - 6 créditos
+- ESTADÍSTICA MATEMÁTICA (MA212) - 4 créditos
+- CIENCIAS DE LA COMPUTACIÓN V (PC119) - 7 créditos
+
+
+tercer año - 6to ciclo
+============================================================
+- MICROPROCESADORES (EL207) - 5 créditos
+- CLOUD COMPUTING (EL601) - 4 créditos
+- INFORMÁTICA IV (IN205) - 4 créditos
+- INGENIERÍA DE SOFTWARE (IS100) - 4 créditos
+- MATEMÁTICA VI (MA213) - 5 créditos
+- CIENCIAS DE LA COMPUTACIÓN VI (PC226) - 6 créditos
+
+
+cuarto año - 7mo ciclo
+============================================================
+- TEORÍA DE SISTEMAS I (CO209) - 4 créditos
+- ECONOMÍA I (EC213) - 3 créditos
+- MATEMÁTICA VII (MA214) - 4 créditos
+- SEMINARIO DE INVESTIGACIÓN DE OPERACIONES I (MA229) - 4 créditos
+- CIENCIAS DE LA COMPUTACIÓN VII (PC227) - 8 créditos
+- SEMINARIO PROFESIONAL I (SP101) - 5 créditos
+
+
+cuarto año - 8vo ciclo
+============================================================
+- TEORÍA DE SISTEMAS II (CO206) - 4 créditos
+- ECONOMÍA II (EC214) - 3 créditos
+- INGENIERÍA DE PROCESOS (IP100) - 4 créditos
+- SEMINARIO DE INVESTIGACIÓN DE OPERACIONES II (MA228) - 4 créditos
+- CIENCIAS DE LA COMPUTACIÓN VIII (PC228) - 8 créditos
+- SEMINARIO PROFESIONAL II (SP102) - 5 créditos

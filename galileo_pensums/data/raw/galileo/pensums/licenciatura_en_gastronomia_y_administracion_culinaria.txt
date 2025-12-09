@@ -1,0 +1,85 @@
+UNIVERSIDAD GALILEO
+CARRERA: Licenciatura en Gastronomía y Administración Culinaria
+Total de materias: 48
+Total de créditos: 168
+URL: https://www.galileo.edu/facisa/carrera/lgac/pensum/
+================================================================================
+
+primer año - 1er ciclo
+============================================================
+- TÉCNICAS BÁSICAS CULINARIAS I (CU01) - 4 créditos
+- TÉCNICAS BÁSICAS CULINARIAS II (CU02) - 4 créditos
+- TÉCNICAS BÁSICAS CULINARIAS III (CU03) - 4 créditos
+- HISTORIA GASTRONÓMICA (HGAS01) - 3 créditos
+- HIGIENE Y SANIDAD (HYGS01) - 3 créditos
+- TÉCNICAS DE INVESTIGACIÓN Y ESTUDIO (TF003) - 3 créditos
+
+
+primer año - 2do ciclo
+============================================================
+- PRINCIPIOS DE ADMINISTRACIÓN (AH101) - 3 créditos
+- PAQUETES DE SOFTWARE (CP006) - 3 créditos
+- TÉCNICAS DE COCCIÓN I (CU04) - 4 créditos
+- TÉCNICAS DE COCCIÓN II (CU05) - 4 créditos
+- TÉCNICAS DE COCCIÓN III (CU06) - 4 créditos
+- MATEMÁTICA (MA100) - 3 créditos
+
+
+segundo año - 3er ciclo
+============================================================
+- COCINA ASIÁTICA (ACO01) - 4 créditos
+- COCINA CLÁSICA FRANCESA (CCF01) - 3 créditos
+- COCINA MEDITERRÁNEA (COM01) - 4 créditos
+- COCINA FRANCESA CONTEMPORÁNEA (CU07) - 4 créditos
+- COSTOS I (FG685) - 3 créditos
+- GESTIÓN EMPRESARIAL (GE001) - 3 créditos
+
+
+segundo año - 4to ciclo
+============================================================
+- CREACIÓN DE MENÚS (CDM01) - 3 créditos
+- COCINA LATINOAMERICANA (CLA01) - 4 créditos
+- COCINA REGIONAL CONTEMPORÁNEA (CU08) - 4 créditos
+- COCINA DEL MUNDO (CU09) - 4 créditos
+- SERVICIO AL CLIENTE (IDL10SC01) - 3 créditos
+- TIPOS DE SERVICIO Y ETIQUETA (TSYE01) - 3 créditos
+
+
+tercer año - 5to ciclo
+============================================================
+- ENOLOGÍA (CU010) - 3 créditos
+- COCINA GUATEMALTECA I (CU011) - 4 créditos
+- COCINA GUATEMALTECA II (CU012) - 4 créditos
+- COCINA GUATEMALTECA III (CU013) - 4 créditos
+- NUTRICIÓN I (FG107) - 3 créditos
+- IDENTIFICACIÓN Y COMPRA DE INSUMOS (FG687) - 3 créditos
+
+
+tercer año - 6to ciclo
+============================================================
+- COCINA GUATEMALTECA IV (CU014) - 4 créditos
+- PANADERÍA (CU015) - 4 créditos
+- BASES DE LA COCINA NUTRITIVA (CU016) - 4 créditos
+- LINGÜÍSTICA Y EXPRESIÓN ORAL (FG684) - 3 créditos
+- COSTOS II (FG686) - 3 créditos
+- NUTRICIÓN II (TUA08) - 3 créditos
+
+
+cuarto año - 7mo ciclo
+============================================================
+- TRABAJO DE CAMPO SOBRE LA GASTRONOMÍA E INGREDIENTES DE GUATEMALA (CU017) - 3 créditos
+- RECURSOS HUMANOS PARA ALIMENTOS Y BEBIDAS (CU018) - 3 créditos
+- MARKETING DE ALIMENTOS Y BEBIDAS (CU019) - 3 créditos
+- COCINA MOLECULAR (CU020) - 4 créditos
+- COCINA DE COMPETENCIA INTERNACIONAL (CU021) - 4 créditos
+- MONTAJE Y PRESENTACIÓN AVANZADO (FG683) - 4 créditos
+
+
+cuarto año - 8vo ciclo
+============================================================
+- CATERING (CU022) - 3 créditos
+- COCTELERÍA PARA HOTELES Y RESTAURANTES (CU023) - 3 créditos
+- COCINA GUATEMALTECA CONTEMPORÁNEA (CU024) - 4 créditos
+- COCINA SOUS-VIDE (CU025) - 4 créditos
+- COCINA REGENERATIVA (CU026) - 4 créditos
+- SEMINARIO DE ALIMENTOS Y BEBIDAS (SE004) - 3 créditos

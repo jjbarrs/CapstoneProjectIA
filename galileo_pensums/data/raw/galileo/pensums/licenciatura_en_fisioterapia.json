@@ -1,0 +1,313 @@
+{
+  "carrera": "Licenciatura en Fisioterapia",
+  "universidad": "Galileo",
+  "url": "https://www.galileo.edu/facisa/carrera/lf/pensum/",
+  "ciclos": [
+    {
+      "nombre": "primer año - 1er ciclo",
+      "materias": [
+        {
+          "codigo": "FG435",
+          "nombre": "ÉTICA Y SENTIDO HUMANO",
+          "creditos": 6
+        },
+        {
+          "codigo": "FG437",
+          "nombre": "ENFOQUE PSICOLÓGICO DE LA DISCAPACIDAD",
+          "creditos": 6
+        },
+        {
+          "codigo": "SL024",
+          "nombre": "ANATOMÍA MUSCULO ESQUELÉTICA",
+          "creditos": 8
+        },
+        {
+          "codigo": "SL025",
+          "nombre": "FISIOLOGÍA APLICADA A LA FISIOTERAPIA I",
+          "creditos": 8
+        },
+        {
+          "codigo": "SL026",
+          "nombre": "BIOQUÍMICA APLICADA A LA FISIOTERAPIA",
+          "creditos": 8
+        },
+        {
+          "codigo": "SL027",
+          "nombre": "INTRODUCCIÓN A LA FISIOTERAPIA",
+          "creditos": 6
+        },
+        {
+          "codigo": "SL029",
+          "nombre": "TÉCNICAS DOCUMENTALES",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 46
+    },
+    {
+      "nombre": "primer año - 2do ciclo",
+      "materias": [
+        {
+          "codigo": "SL028",
+          "nombre": "ANATOMÍA DE APARATOS Y SISTEMAS",
+          "creditos": 8
+        },
+        {
+          "codigo": "SL030",
+          "nombre": "FISIOLOGÍA APLICADA A LA FISIOTERAPIA II",
+          "creditos": 8
+        },
+        {
+          "codigo": "SL032",
+          "nombre": "FÍSICA APLICADA A LA FISIOTERAPIA",
+          "creditos": 6
+        },
+        {
+          "codigo": "SL033",
+          "nombre": "CRECIMIENTO Y DESARROLLO HUMANO",
+          "creditos": 6
+        },
+        {
+          "codigo": "SL035",
+          "nombre": "KINESIOLOGÍA I",
+          "creditos": 6
+        },
+        {
+          "codigo": "SL039",
+          "nombre": "CLÍNICA PROPEDÉUTICA I",
+          "creditos": 8
+        },
+        {
+          "codigo": "TA0009",
+          "nombre": "METODOLOGÍA DE LA INVESTIGACIÓN I",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 48
+    },
+    {
+      "nombre": "segundo año - 3er ciclo",
+      "materias": [
+        {
+          "codigo": "SL031",
+          "nombre": "KINESIOLOGÍA II",
+          "creditos": 6
+        },
+        {
+          "codigo": "SL034",
+          "nombre": "CLÍNICA PROPEDÉUTICA II",
+          "creditos": 6
+        },
+        {
+          "codigo": "SL036",
+          "nombre": "AGENTES FÍSICOS Y SU APLICACIÓN TERAPÉUTICA I",
+          "creditos": 6
+        },
+        {
+          "codigo": "SL037",
+          "nombre": "EJERCICIO TERAPÉUTICO I",
+          "creditos": 6
+        },
+        {
+          "codigo": "SL038",
+          "nombre": "INTRODUCCIÓN A LA PRÁCTICA TERAPÉUTICA",
+          "creditos": 12
+        },
+        {
+          "codigo": "SL041",
+          "nombre": "EJERCICIO TERAPÉUTICO II",
+          "creditos": 6
+        },
+        {
+          "codigo": "SL044",
+          "nombre": "KINEFILAXIA",
+          "creditos": 6
+        },
+        {
+          "codigo": "TUA13",
+          "nombre": "FISIOLOGÍA DEL EJERCICIO",
+          "creditos": 8
+        }
+      ],
+      "total_creditos": 56
+    },
+    {
+      "nombre": "segundo año - 4to ciclo",
+      "materias": [
+        {
+          "codigo": "BBI05",
+          "nombre": "GENÉTICA HUMANA",
+          "creditos": 6
+        },
+        {
+          "codigo": "DTF031",
+          "nombre": "PRÁCTICA CLÍNICA I",
+          "creditos": 12
+        },
+        {
+          "codigo": "FG444",
+          "nombre": "INGLÉS TÉCNICO APLICADO I",
+          "creditos": 6
+        },
+        {
+          "codigo": "SL040",
+          "nombre": "AGENTES FÍSICOS Y SU APLICACIÓN TERAPÉUTICA II",
+          "creditos": 6
+        },
+        {
+          "codigo": "SL042",
+          "nombre": "FISIOTERAPIA NEUROLÓGICA I",
+          "creditos": 8
+        },
+        {
+          "codigo": "SL043",
+          "nombre": "FISIOTERAPIA EN TRAUMATOLOGÍA Y ORTOPEDIA I",
+          "creditos": 8
+        },
+        {
+          "codigo": "SL045",
+          "nombre": "EPIDEMIOLOGIA EN REHABILITACIÓN",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 52
+    },
+    {
+      "nombre": "tercer año - 5to ciclo",
+      "materias": [
+        {
+          "codigo": "DTF036",
+          "nombre": "PRÁCTICA CLÍNICA II",
+          "creditos": 12
+        },
+        {
+          "codigo": "FG447",
+          "nombre": "INGLÉS TÉCNICO APLICADO II",
+          "creditos": 6
+        },
+        {
+          "codigo": "FG448",
+          "nombre": "CULTURA EMPRENDEDORA",
+          "creditos": 4
+        },
+        {
+          "codigo": "SL046",
+          "nombre": "FISIOTERAPIA NEUROLÓGICA II",
+          "creditos": 8
+        },
+        {
+          "codigo": "SL047",
+          "nombre": "FISIOTERAPIA EN PEDIATRÍA",
+          "creditos": 8
+        },
+        {
+          "codigo": "SL048",
+          "nombre": "FISIOTERAPIA EN TRAUMATOLOGÍA Y ORTOPEDIA II",
+          "creditos": 8
+        },
+        {
+          "codigo": "SL050",
+          "nombre": "FISIOTERAPIA EN MANO",
+          "creditos": 8
+        }
+      ],
+      "total_creditos": 54
+    },
+    {
+      "nombre": "tercer año - 6to ciclo",
+      "materias": [
+        {
+          "codigo": "FG451",
+          "nombre": "INGLÉS TÉCNICO APLICADO III",
+          "creditos": 6
+        },
+        {
+          "codigo": "PR346",
+          "nombre": "PRÁCTICA CLÍNICA III",
+          "creditos": 12
+        },
+        {
+          "codigo": "SL049",
+          "nombre": "TEMAS SELECTOS EN FISIOTERAPIA",
+          "creditos": 4
+        },
+        {
+          "codigo": "SL051",
+          "nombre": "FISIOTERAPIA NEUROLÓGICA III",
+          "creditos": 8
+        },
+        {
+          "codigo": "SL052",
+          "nombre": "FISIOTERAPIA EN REUMATOLOGÍA",
+          "creditos": 8
+        },
+        {
+          "codigo": "SL053",
+          "nombre": "FISIOTERAPIA EN GERIATRÍA",
+          "creditos": 8
+        },
+        {
+          "codigo": "SL055",
+          "nombre": "TEMAS CONTEMPORÁNEOS DE FISIOTERAPIA",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 50
+    },
+    {
+      "nombre": "cuarto año - 7mo ciclo",
+      "materias": [
+        {
+          "codigo": "DTF012",
+          "nombre": "BIOÉTICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "PR347",
+          "nombre": "PRÁCTICA CLÍNICA IV",
+          "creditos": 12
+        },
+        {
+          "codigo": "SL054",
+          "nombre": "TÉCNICAS DE APLICACIÓN EN FISIOTERAPIA",
+          "creditos": 6
+        },
+        {
+          "codigo": "SL056",
+          "nombre": "FISIOTERAPIA CARDIOPULMONAR",
+          "creditos": 8
+        },
+        {
+          "codigo": "SL057",
+          "nombre": "REHABILITACIÓN EN CUIDADOS PALIATIVOS",
+          "creditos": 8
+        },
+        {
+          "codigo": "TA0110",
+          "nombre": "METODOLOGÍA DE LA INVESTIGACIÓN II",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 44
+    },
+    {
+      "nombre": "cuarto año - 8vo ciclo",
+      "materias": [
+        {
+          "codigo": "RN001",
+          "nombre": "SERVICIO SOCIAL I",
+          "creditos": 6
+        },
+        {
+          "codigo": "RN002",
+          "nombre": "SERVICIO SOCIAL II",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 12
+    }
+  ],
+  "materias_totales": 51,
+  "creditos_totales": 362,
+  "texto_completo": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Fisioterapia\nTotal de materias: 51\nTotal de créditos: 362\nURL: https://www.galileo.edu/facisa/carrera/lf/pensum/\n================================================================================\n\nprimer año - 1er ciclo\n============================================================\n- ÉTICA Y SENTIDO HUMANO (FG435) - 6 créditos\n- ENFOQUE PSICOLÓGICO DE LA DISCAPACIDAD (FG437) - 6 créditos\n- ANATOMÍA MUSCULO ESQUELÉTICA (SL024) - 8 créditos\n- FISIOLOGÍA APLICADA A LA FISIOTERAPIA I (SL025) - 8 créditos\n- BIOQUÍMICA APLICADA A LA FISIOTERAPIA (SL026) - 8 créditos\n- INTRODUCCIÓN A LA FISIOTERAPIA (SL027) - 6 créditos\n- TÉCNICAS DOCUMENTALES (SL029) - 4 créditos\n\n\nprimer año - 2do ciclo\n============================================================\n- ANATOMÍA DE APARATOS Y SISTEMAS (SL028) - 8 créditos\n- FISIOLOGÍA APLICADA A LA FISIOTERAPIA II (SL030) - 8 créditos\n- FÍSICA APLICADA A LA FISIOTERAPIA (SL032) - 6 créditos\n- CRECIMIENTO Y DESARROLLO HUMANO (SL033) - 6 créditos\n- KINESIOLOGÍA I (SL035) - 6 créditos\n- CLÍNICA PROPEDÉUTICA I (SL039) - 8 créditos\n- METODOLOGÍA DE LA INVESTIGACIÓN I (TA0009) - 6 créditos\n\n\nsegundo año - 3er ciclo\n============================================================\n- KINESIOLOGÍA II (SL031) - 6 créditos\n- CLÍNICA PROPEDÉUTICA II (SL034) - 6 créditos\n- AGENTES FÍSICOS Y SU APLICACIÓN TERAPÉUTICA I (SL036) - 6 créditos\n- EJERCICIO TERAPÉUTICO I (SL037) - 6 créditos\n- INTRODUCCIÓN A LA PRÁCTICA TERAPÉUTICA (SL038) - 12 créditos\n- EJERCICIO TERAPÉUTICO II (SL041) - 6 créditos\n- KINEFILAXIA (SL044) - 6 créditos\n- FISIOLOGÍA DEL EJERCICIO (TUA13) - 8 créditos\n\n\nsegundo año - 4to ciclo\n============================================================\n- GENÉTICA HUMANA (BBI05) - 6 créditos\n- PRÁCTICA CLÍNICA I (DTF031) - 12 créditos\n- INGLÉS TÉCNICO APLICADO I (FG444) - 6 créditos\n- AGENTES FÍSICOS Y SU APLICACIÓN TERAPÉUTICA II (SL040) - 6 créditos\n- FISIOTERAPIA NEUROLÓGICA I (SL042) - 8 créditos\n- FISIOTERAPIA EN TRAUMATOLOGÍA Y ORTOPEDIA I (SL043) - 8 créditos\n- EPIDEMIOLOGIA EN REHABILITACIÓN (SL045) - 6 créditos\n\n\ntercer año - 5to ciclo\n============================================================\n- PRÁCTICA CLÍNICA II (DTF036) - 12 créditos\n- INGLÉS TÉCNICO APLICADO II (FG447) - 6 créditos\n- CULTURA EMPRENDEDORA (FG448) - 4 créditos\n- FISIOTERAPIA NEUROLÓGICA II (SL046) - 8 créditos\n- FISIOTERAPIA EN PEDIATRÍA (SL047) - 8 créditos\n- FISIOTERAPIA EN TRAUMATOLOGÍA Y ORTOPEDIA II (SL048) - 8 créditos\n- FISIOTERAPIA EN MANO (SL050) - 8 créditos\n\n\ntercer año - 6to ciclo\n============================================================\n- INGLÉS TÉCNICO APLICADO III (FG451) - 6 créditos\n- PRÁCTICA CLÍNICA III (PR346) - 12 créditos\n- TEMAS SELECTOS EN FISIOTERAPIA (SL049) - 4 créditos\n- FISIOTERAPIA NEUROLÓGICA III (SL051) - 8 créditos\n- FISIOTERAPIA EN REUMATOLOGÍA (SL052) - 8 créditos\n- FISIOTERAPIA EN GERIATRÍA (SL053) - 8 créditos\n- TEMAS CONTEMPORÁNEOS DE FISIOTERAPIA (SL055) - 4 créditos\n\n\ncuarto año - 7mo ciclo\n============================================================\n- BIOÉTICA (DTF012) - 4 créditos\n- PRÁCTICA CLÍNICA IV (PR347) - 12 créditos\n- TÉCNICAS DE APLICACIÓN EN FISIOTERAPIA (SL054) - 6 créditos\n- FISIOTERAPIA CARDIOPULMONAR (SL056) - 8 créditos\n- REHABILITACIÓN EN CUIDADOS PALIATIVOS (SL057) - 8 créditos\n- METODOLOGÍA DE LA INVESTIGACIÓN II (TA0110) - 6 créditos\n\n\ncuarto año - 8vo ciclo\n============================================================\n- SERVICIO SOCIAL I (RN001) - 6 créditos\n- SERVICIO SOCIAL II (RN002) - 6 créditos\n"
+}

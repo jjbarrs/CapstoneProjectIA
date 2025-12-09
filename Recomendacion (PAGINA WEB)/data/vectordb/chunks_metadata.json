@@ -1,0 +1,382 @@
+[
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN MECATRÓNICA\n============================================================\n\nprimer año - 1er ciclo\nTotal de créditos del ciclo: 28\n\n- TÉCNICAS DE INVESTIGACIÓN Y APRENDIZAJE (Código: FG050) - 3 créditos\n- FÍSICA I (Código: FI201) - 5 créditos\n- INFORMÁTICA I (Código: IN301) - 4 créditos\n- TECNOLOGÍA DESCRIPTIVA (Código: IS425) - 3 créditos\n- MATEMÁTICA I (Código: MA201) - 8 créditos\n- CIENCIAS DE LA COMPUTACIÓN I (Código: PC111) - 5 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN MECATRÓNICA",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 1er ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_mecatronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN MECATRÓNICA\n============================================================\n\nprimer año - 2do ciclo\nTotal de créditos del ciclo: 28\n\n- EVOLUCIÓN DE LA CIENCIA Y LA TECNOLOGÍA (Código: FG051) - 3 créditos\n- FÍSICA II (Código: FI202) - 5 créditos\n- INFORMÁTICA II (Código: IN302) - 4 créditos\n- MATEMÁTICA II (Código: MA202) - 8 créditos\n- CIENCIAS DE LA COMPUTACIÓN II (Código: PC112) - 5 créditos\n- DIBUJO TÉCNICO (Código: PC403) - 3 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN MECATRÓNICA",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 2do ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_mecatronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN MECATRÓNICA\n============================================================\n\nsegundo año - 3er ciclo\nTotal de créditos del ciclo: 31\n\n- ELECTRICIDAD I (Código: EL103) - 3 créditos\n- FÍSICA III (Código: FI203) - 5 créditos\n- INFORMÁTICA III (Código: IN303) - 4 créditos\n- MATEMÁTICA III (Código: MA203) - 8 créditos\n- ÁLGEBRA LINEAL I (Código: MA206) - 4 créditos\n- CIENCIAS DE LA COMPUTACIÓN III (Código: PC117) - 7 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN MECATRÓNICA",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 3er ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_mecatronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN MECATRÓNICA\n============================================================\n\nsegundo año - 4to ciclo\nTotal de créditos del ciclo: 29\n\n- ELECTRICIDAD II (Código: EL104) - 3 créditos\n- ELECTRÓNICA I (Código: EL201) - 4 créditos\n- FÍSICA IV (Código: FI204) - 4 créditos\n- DIBUJO ASISTIDO POR COMPUTADORA (Código: IME10) - 4 créditos\n- MATEMÁTICA IV (Código: MA204) - 6 créditos\n- ÁLGEBRA LINEAL II (Código: MA207) - 4 créditos\n- ECUACIONES DIFERENCIALES ORDINARIAS (Código: MA415) - 4 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN MECATRÓNICA",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 4to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_mecatronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN MECATRÓNICA\n============================================================\n\ntercer año - 5to ciclo\nTotal de créditos del ciclo: 29\n\n- INSTRUMENTACIÓN ELECTRÓNICA (Código: DICA05) - 4 créditos\n- ELECTRÓNICA II (Código: EL204) - 4 créditos\n- ELECTRÓNICA III (Código: EL206) - 3 créditos\n- MANUFACTURA ASISTIDA POR COMPUTADORA (Código: IME01) - 4 créditos\n- CIENCIA DE LOS MATERIALES I (Código: IS416) - 4 créditos\n- MATEMÁTICA V (Código: MA205) - 6 créditos\n- ESTADÍSTICA MATEMÁTICA (Código: MA212) - 4 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN MECATRÓNICA",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 5to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_mecatronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN MECATRÓNICA\n============================================================\n\ntercer año - 6to ciclo\nTotal de créditos del ciclo: 28\n\n- INSTALACIONES ELÉCTRICAS (Código: EL205) - 3 créditos\n- MICROPROCESADORES (Código: EL207) - 5 créditos\n- DISEÑO DE MECANISMOS Y MAQUINAS I (Código: IME02) - 6 créditos\n- TEORÍA DE CONTROL (Código: IN211) - 5 créditos\n- CIENCIA DE LOS MATERIALES II (Código: IS417) - 4 créditos\n- MATEMÁTICA VI (Código: MA213) - 5 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN MECATRÓNICA",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 6to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_mecatronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN MECATRÓNICA\n============================================================\n\ncuarto año - 7mo ciclo\nTotal de créditos del ciclo: 32\n\n- APLICACIONES DE MICROPROCESADORES (Código: AM100) - 5 créditos\n- ECONOMÍA I (Código: EC213) - 3 créditos\n- AUTOMATIZACIÓN INDUSTRIAL (Código: EL209) - 5 créditos\n- POTENCIA Y MOTORES (Código: EL210) - 5 créditos\n- DISEÑO DE MECANISMOS Y MAQUINAS II (Código: IME03) - 6 créditos\n- MATEMÁTICA VII (Código: MA214) - 4 créditos\n- SEMINARIO DE INVESTIGACIÓN DE OPERACIONES I (Código: MA229) - 4 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN MECATRÓNICA",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 7mo ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_mecatronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN MECATRÓNICA\n============================================================\n\ncuarto año - 8vo ciclo\nTotal de créditos del ciclo: 28\n\n- ECONOMÍA II (Código: EC214) - 3 créditos\n- ACTUADORES Y SENSORES (Código: IME04) - 4 créditos\n- REDES INDUSTRIALES (Código: IME05) - 5 créditos\n- INTEGRACIÓN DE SISTEMAS DE MANUFACTURA (Código: IME06) - 6 créditos\n- ROBÓTICA (Código: IN212) - 6 créditos\n- SEMINARIO DE INVESTIGACIÓN DE OPERACIONES II (Código: MA228) - 4 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN MECATRÓNICA",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 8vo ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_mecatronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\nprimer año - 1er ciclo\nTotal de créditos del ciclo: 28\n\n- TÉCNICAS DE INVESTIGACIÓN Y APRENDIZAJE (Código: FG050) - 3 créditos\n- FÍSICA I (Código: FI201) - 5 créditos\n- INFORMÁTICA I (Código: IN301) - 4 créditos\n- TECNOLOGÍA DESCRIPTIVA (Código: IS425) - 3 créditos\n- MATEMÁTICA I (Código: MA201) - 8 créditos\n- CIENCIAS DE LA COMPUTACIÓN I (Código: PC111) - 5 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 1er ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_electronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\nprimer año - 2do ciclo\nTotal de créditos del ciclo: 28\n\n- EVOLUCIÓN DE LA CIENCIA Y LA TECNOLOGÍA (Código: FG051) - 3 créditos\n- FÍSICA II (Código: FI202) - 5 créditos\n- INFORMÁTICA II (Código: IN302) - 4 créditos\n- MATEMÁTICA II (Código: MA202) - 8 créditos\n- CIENCIAS DE LA COMPUTACIÓN II (Código: PC112) - 5 créditos\n- DIBUJO TÉCNICO (Código: PC403) - 3 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 2do ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_electronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\nsegundo año - 3er ciclo\nTotal de créditos del ciclo: 31\n\n- ELECTRICIDAD I (Código: EL103) - 3 créditos\n- FÍSICA III (Código: FI203) - 5 créditos\n- INFORMÁTICA III (Código: IN303) - 4 créditos\n- MATEMÁTICA III (Código: MA203) - 8 créditos\n- ÁLGEBRA LINEAL I (Código: MA206) - 4 créditos\n- CIENCIAS DE LA COMPUTACIÓN III (Código: PC117) - 7 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 3er ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_electronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\nsegundo año - 4to ciclo\nTotal de créditos del ciclo: 28\n\n- ELECTRICIDAD II (Código: EL104) - 3 créditos\n- ELECTRÓNICA I (Código: EL201) - 4 créditos\n- FÍSICA IV (Código: FI204) - 4 créditos\n- MATEMÁTICA IV (Código: MA204) - 6 créditos\n- ÁLGEBRA LINEAL II (Código: MA207) - 4 créditos\n- ECUACIONES DIFERENCIALES ORDINARIAS (Código: MA415) - 4 créditos\n- CIENCIAS DE LA COMPUTACIÓN IV(E) (Código: PC121) - 3 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 4to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_electronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\ntercer año - 5to ciclo\nTotal de créditos del ciclo: 28\n\n- INSTRUMENTACIÓN ELECTRÓNICA (Código: DICA05) - 4 créditos\n- ELECTRÓNICA II (Código: EL204) - 4 créditos\n- ELECTRÓNICA III (Código: EL206) - 3 créditos\n- FÍSICA V (Código: FI210) - 4 créditos\n- MATEMÁTICA V (Código: MA205) - 6 créditos\n- ESTADÍSTICA MATEMÁTICA (Código: MA212) - 4 créditos\n- DISEÑO Y CONSTRUCCIÓN DE DISPOSITIVOS ELECTRÓNICOS (Código: PC212) - 3 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 5to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_electronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\ntercer año - 6to ciclo\nTotal de créditos del ciclo: 28\n\n- INSTALACIONES ELÉCTRICAS (Código: EL205) - 3 créditos\n- MICROPROCESADORES (Código: EL207) - 5 créditos\n- ELECTRÓNICA IV (Código: EL208) - 6 créditos\n- INFORMÁTICA IV (Código: IN205) - 4 créditos\n- TEORÍA DE CONTROL (Código: IN211) - 5 créditos\n- MATEMÁTICA VI (Código: MA213) - 5 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 6to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_electronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\ncuarto año - 7mo ciclo\nTotal de créditos del ciclo: 28\n\n- APLICACIONES DE MICROPROCESADORES (Código: AM100) - 5 créditos\n- TEORÍA DE SISTEMAS I (Código: CO209) - 4 créditos\n- ECONOMÍA I (Código: EC213) - 3 créditos\n- POTENCIA Y MOTORES (Código: EL210) - 5 créditos\n- MATEMÁTICA VII (Código: MA214) - 4 créditos\n- SEMINARIO DE INVESTIGACIÓN DE OPERACIONES I (Código: MA229) - 4 créditos\n- MEDIOS DE TRANSMISIÓN I (Código: TR201) - 3 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 7mo ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_electronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\ncuarto año - 8vo ciclo\nTotal de créditos del ciclo: 28\n\n- TEORÍA DE SISTEMAS II (Código: CO206) - 4 créditos\n- ECONOMÍA II (Código: EC214) - 3 créditos\n- AUTOMATIZACIÓN INDUSTRIAL (Código: EL209) - 6 créditos\n- ROBÓTICA (Código: IN212) - 6 créditos\n- SEMINARIO DE INVESTIGACIÓN DE OPERACIONES II (Código: MA228) - 4 créditos\n- TELECOMUNICACIONES (Código: PC315) - 5 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 8vo ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_electronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\nprimer año - 1er ciclo\nTotal de créditos del ciclo: 28\n\n- TÉCNICAS DE INVESTIGACIÓN Y APRENDIZAJE (Código: FG050) - 3 créditos\n- FÍSICA I (Código: FI201) - 5 créditos\n- INFORMÁTICA I (Código: IN301) - 4 créditos\n- TECNOLOGÍA DESCRIPTIVA (Código: IS425) - 3 créditos\n- MATEMÁTICA I (Código: MA201) - 8 créditos\n- CIENCIAS DE LA COMPUTACIÓN I (Código: PC111) - 5 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 1er ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_sistemas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\nprimer año - 2do ciclo\nTotal de créditos del ciclo: 28\n\n- EVOLUCIÓN DE LA CIENCIA Y LA TECNOLOGÍA (Código: FG051) - 3 créditos\n- FÍSICA II (Código: FI202) - 5 créditos\n- INFORMÁTICA II (Código: IN302) - 4 créditos\n- MATEMÁTICA II (Código: MA202) - 8 créditos\n- CIENCIAS DE LA COMPUTACIÓN II (Código: PC112) - 5 créditos\n- DIBUJO TÉCNICO (Código: PC403) - 3 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 2do ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_sistemas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\nsegundo año - 3er ciclo\nTotal de créditos del ciclo: 31\n\n- FÍSICA III (Código: FI203) - 5 créditos\n- ELECTRICIDAD (Código: FI306) - 3 créditos\n- INFORMÁTICA III (Código: IN303) - 4 créditos\n- MATEMÁTICA III (Código: MA203) - 8 créditos\n- ÁLGEBRA LINEAL I (Código: MA206) - 4 créditos\n- CIENCIAS DE LA COMPUTACIÓN III (Código: PC117) - 7 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 3er ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_sistemas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\nsegundo año - 4to ciclo\nTotal de créditos del ciclo: 28\n\n- ELECTRÓNICA I(S) (Código: EL216) - 3 créditos\n- FÍSICA IV (Código: FI204) - 4 créditos\n- MATEMÁTICA IV (Código: MA204) - 6 créditos\n- ÁLGEBRA LINEAL II (Código: MA207) - 4 créditos\n- ECUACIONES DIFERENCIALES ORDINARIAS (Código: MA415) - 4 créditos\n- CIENCIAS DE LA COMPUTACIÓN IV (Código: PC118) - 7 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 4to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_sistemas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\ntercer año - 5to ciclo\nTotal de créditos del ciclo: 28\n\n- SISTEMAS DE ARQUITECTURA (Código: CO210) - 4 créditos\n- FUNDAMENTOS DE APLICACIONES WEB (Código: EL501) - 3 créditos\n- FÍSICA V (Código: FI210) - 4 créditos\n- MATEMÁTICA V (Código: MA205) - 6 créditos\n- ESTADÍSTICA MATEMÁTICA (Código: MA212) - 4 créditos\n- CIENCIAS DE LA COMPUTACIÓN V (Código: PC119) - 7 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 5to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_sistemas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\ntercer año - 6to ciclo\nTotal de créditos del ciclo: 28\n\n- MICROPROCESADORES (Código: EL207) - 5 créditos\n- CLOUD COMPUTING (Código: EL601) - 4 créditos\n- INFORMÁTICA IV (Código: IN205) - 4 créditos\n- INGENIERÍA DE SOFTWARE (Código: IS100) - 4 créditos\n- MATEMÁTICA VI (Código: MA213) - 5 créditos\n- CIENCIAS DE LA COMPUTACIÓN VI (Código: PC226) - 6 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 6to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_sistemas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\ncuarto año - 7mo ciclo\nTotal de créditos del ciclo: 28\n\n- TEORÍA DE SISTEMAS I (Código: CO209) - 4 créditos\n- ECONOMÍA I (Código: EC213) - 3 créditos\n- MATEMÁTICA VII (Código: MA214) - 4 créditos\n- SEMINARIO DE INVESTIGACIÓN DE OPERACIONES I (Código: MA229) - 4 créditos\n- CIENCIAS DE LA COMPUTACIÓN VII (Código: PC227) - 8 créditos\n- SEMINARIO PROFESIONAL I (Código: SP101) - 5 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 7mo ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_sistemas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\ncuarto año - 8vo ciclo\nTotal de créditos del ciclo: 28\n\n- TEORÍA DE SISTEMAS II (Código: CO206) - 4 créditos\n- ECONOMÍA II (Código: EC214) - 3 créditos\n- INGENIERÍA DE PROCESOS (Código: IP100) - 4 créditos\n- SEMINARIO DE INVESTIGACIÓN DE OPERACIONES II (Código: MA228) - 4 créditos\n- CIENCIAS DE LA COMPUTACIÓN VIII (Código: PC228) - 8 créditos\n- SEMINARIO PROFESIONAL II (Código: SP102) - 5 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 8vo ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_sistemas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Ingeniería Industrial\n============================================================\n\nprimer año - 1er ciclo\nTotal de créditos del ciclo: 29\n\n- TECNOLOGÍA DESCRIPTIVA (Código: IS425) - 3 créditos\n- INICIATIVA EMPRESARIAL (Código: IU01) - 3 créditos\n- NIVELACIÓN MATEMÁTICA (Código: IU02) - 8 créditos\n- LABORATORIO DE QUÍMICA GENERAL (Código: LQ001) - 1 créditos\n- CIENCIAS DE LA COMPUTACIÓN I (Código: PC111) - 5 créditos\n- DIBUJO TÉCNICO (Código: PC403) - 5 créditos\n- QUÍMICA GENERAL (Código: QU401) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Ingeniería Industrial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 1er ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_industrial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Ingeniería Industrial\n============================================================\n\nprimer año - 2do ciclo\nTotal de créditos del ciclo: 29\n\n- INTRODUCCIÓN A LA ADMINISTRACIÓN DE EMPRESAS (Código: AD501) - 4 créditos\n- FÍSICA GENERAL I (Código: FI402) - 4 créditos\n- CONTABILIDAD GENERAL I (Código: IAD01) - 3 créditos\n- LABORATORIO DE FÍSICA GENERAL I (Código: LFG01) - 1 créditos\n- MATEMÁTICA 108 (Código: MA0101) - 8 créditos\n- CIENCIAS DE LA COMPUTACIÓN II (Código: PC112) - 5 créditos\n- DISEÑO ASISTIDO POR COMPUTADORAS (Código: PC404) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Ingeniería Industrial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 2do ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_industrial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Ingeniería Industrial\n============================================================\n\nsegundo año - 3er ciclo\nTotal de créditos del ciclo: 30\n\n- CONTABILIDAD II (Código: AD202) - 4 créditos\n- LEGISLACIÓN (Código: CS318) - 4 créditos\n- FÍSICA GENERAL II (Código: FI403) - 4 créditos\n- DISEÑO GRAFICO (Código: IG006) - 4 créditos\n- LABORATORIO DE FÍSICA GENERAL II (Código: LFG02) - 1 créditos\n- MATEMÁTICA 208 (Código: MA0208) - 8 créditos\n- CIENCIAS DE LA COMPUTACIÓN III (Código: PC117) - 5 créditos\n",
+    "metadata": {
+      "carrera": "Ingeniería Industrial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 3er ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_industrial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Ingeniería Industrial\n============================================================\n\nsegundo año - 4to ciclo\nTotal de créditos del ciclo: 30\n\n- MERCADOTECNIA (Código: EC411) - 4 créditos\n- NORMAS Y REGULACIONES (Código: IAD02) - 4 créditos\n- PSICOLOGÍA INDUSTRIAL (Código: IS422) - 4 créditos\n- MATEMÁTICA 308 (Código: MA0308) - 6 créditos\n- ESTADÍSTICA I (Código: MA311) - 4 créditos\n- MECÁNICA PARA INGENIEROS (Código: MPI01) - 4 créditos\n- CONTABILIDAD FINANCIERA (Código: RA301) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Ingeniería Industrial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 4to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_industrial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Ingeniería Industrial\n============================================================\n\ntercer año - 5to ciclo\nTotal de créditos del ciclo: 26\n\n- ADMINISTRACIÓN DE RECURSOS HUMANOS (Código: AD302) - 4 créditos\n- COMERCIO ELECTRÓNICO (Código: CE005) - 4 créditos\n- DISEÑO INDUSTRIAL (Código: DI101) - 4 créditos\n- GERENCIA (Código: GE100) - 4 créditos\n- MÉTODOS APLICADOS I (Código: IU10) - 5 créditos\n- ESTADÍSTICA II (Código: MA312) - 5 créditos\n",
+    "metadata": {
+      "carrera": "Ingeniería Industrial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 5to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_industrial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Ingeniería Industrial\n============================================================\n\ntercer año - 6to ciclo\nTotal de créditos del ciclo: 29\n\n- ESTADÍSTICA PARA LA CALIDAD (Código: IS407) - 5 créditos\n- INGENIERÍA DE MÉTODOS (Código: IS411) - 5 créditos\n- FORMULACIÓN Y EVALUACIÓN DE PROYECTOS (Código: IS420) - 5 créditos\n- MÉTODOS APLICADOS II (Código: IU06) - 5 créditos\n- COMERCIO INTERNACIONAL (Código: LABF20) - 5 créditos\n- ADMINISTRACIÓN FINANCIERA (Código: RA303) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Ingeniería Industrial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 6to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_industrial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Ingeniería Industrial\n============================================================\n\ncuarto año - 7mo ciclo\nTotal de créditos del ciclo: 29\n\n- ECONOMÍA I (Código: EC213) - 4 créditos\n- INGENIERÍA DE COSTOS (Código: IS409) - 4 créditos\n- MONEDA Y BANCA (Código: IU07) - 4 créditos\n- INVESTIGACIÓN DE OPERACIONES I (Código: MA307) - 5 créditos\n- SEGURIDAD INDUSTRIAL (Código: RA313) - 4 créditos\n- TEORÍA DE DECISIONES (Código: RA315) - 4 créditos\n- SEMINARIO DE NEGOCIOS Y PROCESOS DE ADMINISTRACIÓN (Código: SNP10) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Ingeniería Industrial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 7mo ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_industrial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Ingeniería Industrial\n============================================================\n\ncuarto año - 8vo ciclo\nTotal de créditos del ciclo: 26\n\n- ADMINISTRACIÓN DE LA PRODUCCIÓN (Código: AR501) - 4 créditos\n- APLICACIONES DE SOFTWARE PARA ADMINISTRACIÓN (Código: AS010) - 4 créditos\n- ECONOMÍA II (Código: EC214) - 5 créditos\n- LOGÍSTICA (Código: IG005) - 4 créditos\n- ECONOMETRÍA (Código: MA216) - 4 créditos\n- INVESTIGACIÓN DE OPERACIONES II (Código: MA308) - 5 créditos\n",
+    "metadata": {
+      "carrera": "Ingeniería Industrial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 8vo ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_industrial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERIA QUIMICA\n============================================================\n\nprimer año - 1er ciclo\nTotal de créditos del ciclo: 28\n\n- BIOLOGÍA (Código: BB001) - 3 créditos\n- QUÍMICA I (Código: BQU01) - 4 créditos\n- TÉCNICAS DE COMUNICACIÓN ORAL Y ESCRITA (Código: LE007) - 3 créditos\n- LABORATORIO DE QUÍMICA I (Código: LQ101) - 2 créditos\n- MATEMÁTICA I (Código: MA201) - 8 créditos\n- CIENCIAS DE LA COMPUTACIÓN I (Código: PC111) - 5 créditos\n- TALLER DE INTRODUCCIÓN A LA INGENIERÍA QUÍMICA (Código: SOS101) - 3 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERIA QUIMICA",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 1er ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_quimica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERIA QUIMICA\n============================================================\n\nprimer año - 2do ciclo\nTotal de créditos del ciclo: 30\n\n- QUÍMICA II (Código: BQU02) - 4 créditos\n- CIENCIAS AMBIENTALES (Código: FG514) - 3 créditos\n- LABORATORIO DE FÍSICA I (Código: FI105) - 1 créditos\n- FÍSICA I (Código: FI201) - 4 créditos\n- MATEMÁTICA II (Código: MA202) - 8 créditos\n- METODOLOGÍA DE LA INVESTIGACIÓN (Código: MEI01) - 3 créditos\n- CIENCIAS DE LA COMPUTACIÓN II (Código: PC112) - 5 créditos\n- LABORATORIO DE QUÍMICA II (Código: QU101) - 2 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERIA QUIMICA",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 2do ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_quimica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERIA QUIMICA\n============================================================\n\nsegundo año - 3er ciclo\nTotal de créditos del ciclo: 30\n\n- LABORATORIO DE FÍSICA II (Código: FI106) - 1 créditos\n- FÍSICA II (Código: FI202) - 4 créditos\n- LABORATORIO DE QUÍMICA ORGÁNICA I (Código: LQF25) - 2 créditos\n- MATEMÁTICA III (Código: MA203) - 8 créditos\n- ÁLGEBRA LINEAL (Código: MA208) - 4 créditos\n- ESTADÍSTICA (Código: MA304) - 4 créditos\n- QUÍMICA ORGÁNICA I (Código: Q3304) - 4 créditos\n- TECNOLOGÍA INDUSTRIAL (Código: TIU301) - 3 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERIA QUIMICA",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 3er ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_quimica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERIA QUIMICA\n============================================================\n\nsegundo año - 4to ciclo\nTotal de créditos del ciclo: 29\n\n- LEGISLACIÓN (Código: LG601) - 3 créditos\n- LABORATORIO QUÍMICA ORGÁNICA II (Código: LQF27) - 2 créditos\n- LABORATORIO DE FISICOQUÍMICA (Código: LQF31) - 2 créditos\n- MATEMÁTICA IV (Código: MA204) - 6 créditos\n- ECUACIONES DIFERENCIALES ORDINARIAS (Código: MA415) - 4 créditos\n- FISICOQUÍMICA (Código: Q3305) - 3 créditos\n- QUÍMICA ORGÁNICA II (Código: Q3307) - 4 créditos\n- QUÍMICA ANALÍTICA I (Código: QA002) - 3 créditos\n- LABORATORIO DE QUÍMICA ANALÍTICA I (Código: QA004) - 2 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERIA QUIMICA",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 4to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_quimica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERIA QUIMICA\n============================================================\n\ntercer año - 5to ciclo\nTotal de créditos del ciclo: 25\n\n- ANÁLISIS INSTRUMENTAL (Código: AI400) - 3 créditos\n- DISEÑO DE PROYECTOS E INNOVACIÓN (Código: DPI501) - 3 créditos\n- CIENCIA DE LOS MATERIALES (Código: HU320) - 4 créditos\n- MATEMÁTICA V (Código: MA205) - 6 créditos\n- QUÍMICA ANALÍTICA II (Código: QA003) - 3 créditos\n- LABORATORIO DE QUÍMICA ANALÍTICA II (Código: QA005) - 2 créditos\n- BALANCE DE MASA Y ENERGÍA (Código: QU501) - 4 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERIA QUIMICA",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 5to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_quimica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERIA QUIMICA\n============================================================\n\ntercer año - 6to ciclo\nTotal de créditos del ciclo: 25\n\n- ADMINISTRACIÓN DE EMPRESAS (Código: AD305) - 3 créditos\n- COMPUTACIÓN CIENTÍFICA (Código: CP601) - 5 créditos\n- FINANZAS (Código: EC204) - 3 créditos\n- LABORATORIO DE MICROBIOLOGÍA INDUSTRIAL (Código: LMB601) - 2 créditos\n- MECÁNICA DE FLUIDOS (Código: MF100) - 4 créditos\n- SISTEMAS ENERGÉTICOS (Código: PRI601) - 5 créditos\n- MICROBIOLOGÍA INDUSTRIAL (Código: QU602) - 3 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERIA QUIMICA",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 6to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_quimica.json"
+    }
+  }
+]

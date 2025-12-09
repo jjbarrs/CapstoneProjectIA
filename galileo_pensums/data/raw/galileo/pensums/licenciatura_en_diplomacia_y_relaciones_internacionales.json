@@ -1,0 +1,386 @@
+{
+  "carrera": "Licenciatura en Diplomacia y Relaciones Internacionales",
+  "universidad": "Galileo",
+  "url": "https://www.galileo.edu/pensums/?gphcarrera=LDRI",
+  "ciclos": [
+    {
+      "nombre": "primer año - 1er ciclo",
+      "materias": [
+        {
+          "codigo": "AD322",
+          "nombre": "LIDERAZGO",
+          "creditos": 3
+        },
+        {
+          "codigo": "DPG",
+          "nombre": "INTRODUCCIÓN AL PROTOCOLO Y CEREMONIAL DIPLOMÁTICO INTERNACIONAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "LIS013",
+          "nombre": "COMUNICACIÓN EFICAZ Y ALTO DESEMPEÑO",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "primer año - 2do ciclo",
+      "materias": [
+        {
+          "codigo": "APA201",
+          "nombre": "TALLER APA Y METODOLOGÍA DE LA ELABORACIÓN DE TRABAJOS",
+          "creditos": 3
+        },
+        {
+          "codigo": "DPG00",
+          "nombre": "PROTOCOLO Y CEREMONIAL DIPLOMÁTICO INTERNACIONAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "HOG01",
+          "nombre": "HERRAMIENTAS ORTOGRÁFICAS Y GRAMATICALES",
+          "creditos": 3
+        },
+        {
+          "codigo": "METINV",
+          "nombre": "METODOLOGÍA DE LA INVESTIGACIÓN APLICADA",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 12
+    },
+    {
+      "nombre": "primer año - 3er ciclo",
+      "materias": [
+        {
+          "codigo": "DPG03",
+          "nombre": "IMAGEN PÚBLICA",
+          "creditos": 3
+        },
+        {
+          "codigo": "MRIP03",
+          "nombre": "ETIQUETA Y ANFITRIONÍA",
+          "creditos": 3
+        },
+        {
+          "codigo": "NRC01",
+          "nombre": "NEGOCIACIÓN Y RESOLUCIÓN DE CONFLICTOS",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "primer año - 4to ciclo",
+      "materias": [
+        {
+          "codigo": "DIP004",
+          "nombre": "TALLER DE NEGOCIACIÓN, RESOLUCIÓN DE CONFLICTOS Y MANEJO DE CRISIS",
+          "creditos": 2
+        },
+        {
+          "codigo": "DPG04",
+          "nombre": "USO Y COMPRENSIÓN DE MEDIOS DE COMUNICACIÓN",
+          "creditos": 3
+        },
+        {
+          "codigo": "DPG05",
+          "nombre": "DISCURSO Y PRESENTACIONES EN PUBLICO",
+          "creditos": 3
+        },
+        {
+          "codigo": "TRE001",
+          "nombre": "TALLER DE REDACCIÓN",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 11
+    },
+    {
+      "nombre": "segundo año - 5to ciclo",
+      "materias": [
+        {
+          "codigo": "CI405",
+          "nombre": "SEMINARIO DE INFORMÁTICA",
+          "creditos": 3
+        },
+        {
+          "codigo": "LEV01",
+          "nombre": "LOGÍSTICA DE EVENTOS ESPECIALES",
+          "creditos": 3
+        },
+        {
+          "codigo": "TLI001",
+          "nombre": "TALLER DE LITERATURA",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "segundo año - 6to ciclo",
+      "materias": [
+        {
+          "codigo": "DIP006",
+          "nombre": "TALLER DE FORMULACIÓN, EVALUACIÓN, GESTIÓN Y COOPERACIÓN DE PROYECTOS",
+          "creditos": 2
+        },
+        {
+          "codigo": "FDCP1",
+          "nombre": "FUNDAMENTOS DE LA COMUNICACIÓN POLÍTICA",
+          "creditos": 3
+        },
+        {
+          "codigo": "FG407",
+          "nombre": "ANÁLISIS FINAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "IS420",
+          "nombre": "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 11
+    },
+    {
+      "nombre": "segundo año - 7mo ciclo",
+      "materias": [
+        {
+          "codigo": "FDEC01",
+          "nombre": "FUNDAMENTOS DE ECONOMÍA",
+          "creditos": 3
+        },
+        {
+          "codigo": "IS301",
+          "nombre": "HISTORIA DE LA CIENCIA Y TECNOLOGÍA",
+          "creditos": 3
+        },
+        {
+          "codigo": "TN005",
+          "nombre": "GRUPOMÁTICA",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "segundo año - 8vo ciclo",
+      "materias": [
+        {
+          "codigo": "DGL01",
+          "nombre": "INTRODUCCIÓN AL DERECHO",
+          "creditos": 3
+        },
+        {
+          "codigo": "DIP008",
+          "nombre": "TALLER DE LOBBY Y RELACIONES PÚBLICAS",
+          "creditos": 2
+        },
+        {
+          "codigo": "FG305",
+          "nombre": "ÉTICA",
+          "creditos": 3
+        },
+        {
+          "codigo": "RPLOF",
+          "nombre": "RELACIONES PÚBLICAS, LOBBING Y COORDINACIÓN DE LA OFICINA DE PRENSA",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 11
+    },
+    {
+      "nombre": "tercer año - 9no ciclo",
+      "materias": [
+        {
+          "codigo": "DPG01",
+          "nombre": "FUNDAMENTOS DE E-COMMERCE",
+          "creditos": 3
+        },
+        {
+          "codigo": "HDLFI1",
+          "nombre": "HISTORIA DE LA FILOSOFÍA",
+          "creditos": 3
+        },
+        {
+          "codigo": "REIN01",
+          "nombre": "TEORÍA DE LAS RELACIONES INTERNACIONALES",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "tercer año - 10mo ciclo",
+      "materias": [
+        {
+          "codigo": "ANHIS1",
+          "nombre": "ANÁLISIS DE HECHOS HISTÓRICOS",
+          "creditos": 3
+        },
+        {
+          "codigo": "DIP001",
+          "nombre": "DIPLOMACIA",
+          "creditos": 3
+        },
+        {
+          "codigo": "DIP010",
+          "nombre": "TALLER DE IMAGEN PÚBLICA Y PROYECCIÓN INTERNACIONAL",
+          "creditos": 2
+        },
+        {
+          "codigo": "FDLIM",
+          "nombre": "FUNDAMENTOS DE LA IMAGEN PÚBLICA",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 11
+    },
+    {
+      "nombre": "tercer año - 11er ciclo",
+      "materias": [
+        {
+          "codigo": "DIP011",
+          "nombre": "INTRODUCCIÓN AL DERECHO DIPLOMÁTICO Y CONSULAR",
+          "creditos": 3
+        },
+        {
+          "codigo": "INTGE",
+          "nombre": "INTRODUCCIÓN A LA TEORÍA GENERAL DEL ESTADO",
+          "creditos": 3
+        },
+        {
+          "codigo": "RMUN01",
+          "nombre": "REALIDAD MUNDIAL",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "tercer año - 12do ciclo",
+      "materias": [
+        {
+          "codigo": "DIP012",
+          "nombre": "TALLER PLANEACIÓN ESTRATÉGICA Y GEOPOLÍTICA",
+          "creditos": 3
+        },
+        {
+          "codigo": "GEOPM",
+          "nombre": "GEOPOLÍTICA MODERNA",
+          "creditos": 3
+        },
+        {
+          "codigo": "INTDCP",
+          "nombre": "INTRODUCCIÓN AL DERECHO CONSTITUCIONAL POLÍTICO",
+          "creditos": 3
+        },
+        {
+          "codigo": "LCCS2",
+          "nombre": "SEMIOLOGÍA DEL DISCURSO",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 12
+    },
+    {
+      "nombre": "cuarto año - 13er ciclo",
+      "materias": [
+        {
+          "codigo": "DIP013",
+          "nombre": "CONVENIOS INTERNACIONALES, TRATADOS Y CONVENCIÓN DEL MAR",
+          "creditos": 3
+        },
+        {
+          "codigo": "IDIP01",
+          "nombre": "INTRODUCCIÓN AL DERECHO INTERNACIONAL PUBLICO",
+          "creditos": 3
+        },
+        {
+          "codigo": "IECI01",
+          "nombre": "INTEGRACIÓN ECONÓMICA INTERNACIONAL",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "cuarto año - 14to ciclo",
+      "materias": [
+        {
+          "codigo": "ASPCH",
+          "nombre": "ASIA-PACIFICO HISTÓRICO POLÍTICO",
+          "creditos": 3
+        },
+        {
+          "codigo": "CASP",
+          "nombre": "CASOS DE PROTOCOLO",
+          "creditos": 3
+        },
+        {
+          "codigo": "DIP014",
+          "nombre": "TALLER INTEGRACIÓN ECONÓMICA INTERNACIONAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "DIPRIV",
+          "nombre": "DERECHO INTERNACIONAL PRIVADO",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 12
+    },
+    {
+      "nombre": "cuarto año - 15to ciclo",
+      "materias": [
+        {
+          "codigo": "ANP001",
+          "nombre": "ANÁLISIS POLÍTICO",
+          "creditos": 3
+        },
+        {
+          "codigo": "DIP015",
+          "nombre": "DERECHO INTERNACIONAL DE LOS DERECHOS HUMANOS",
+          "creditos": 3
+        },
+        {
+          "codigo": "PDPEG",
+          "nombre": "PRINCIPIOS DE POLÍTICA EXTERIOR DE GUATEMALA",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "cuarto año - 16to ciclo",
+      "materias": [
+        {
+          "codigo": "DIP016",
+          "nombre": "TALLER DE ORGANISMOS INTERNACIONALES, REGIONALES Y ONG'S",
+          "creditos": 3
+        },
+        {
+          "codigo": "OINRE",
+          "nombre": "ORGANISMOS INTERNACIONALES Y REGIONALES",
+          "creditos": 3
+        },
+        {
+          "codigo": "SE00T",
+          "nombre": "SEMINARIO DE TESIS",
+          "creditos": 3
+        },
+        {
+          "codigo": "TUR001",
+          "nombre": "TURISMO INTERNO",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 12
+    }
+  ],
+  "materias_totales": 56,
+  "creditos_totales": 164,
+  "texto_completo": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Diplomacia y Relaciones Internacionales\nTotal de materias: 56\nTotal de créditos: 164\nURL: https://www.galileo.edu/pensums/?gphcarrera=LDRI\n================================================================================\n\nprimer año - 1er ciclo\n============================================================\n- LIDERAZGO (AD322) - 3 créditos\n- INTRODUCCIÓN AL PROTOCOLO Y CEREMONIAL DIPLOMÁTICO INTERNACIONAL (DPG) - 3 créditos\n- COMUNICACIÓN EFICAZ Y ALTO DESEMPEÑO (LIS013) - 3 créditos\n\n\nprimer año - 2do ciclo\n============================================================\n- TALLER APA Y METODOLOGÍA DE LA ELABORACIÓN DE TRABAJOS (APA201) - 3 créditos\n- PROTOCOLO Y CEREMONIAL DIPLOMÁTICO INTERNACIONAL (DPG00) - 3 créditos\n- HERRAMIENTAS ORTOGRÁFICAS Y GRAMATICALES (HOG01) - 3 créditos\n- METODOLOGÍA DE LA INVESTIGACIÓN APLICADA (METINV) - 3 créditos\n\n\nprimer año - 3er ciclo\n============================================================\n- IMAGEN PÚBLICA (DPG03) - 3 créditos\n- ETIQUETA Y ANFITRIONÍA (MRIP03) - 3 créditos\n- NEGOCIACIÓN Y RESOLUCIÓN DE CONFLICTOS (NRC01) - 3 créditos\n\n\nprimer año - 4to ciclo\n============================================================\n- TALLER DE NEGOCIACIÓN, RESOLUCIÓN DE CONFLICTOS Y MANEJO DE CRISIS (DIP004) - 2 créditos\n- USO Y COMPRENSIÓN DE MEDIOS DE COMUNICACIÓN (DPG04) - 3 créditos\n- DISCURSO Y PRESENTACIONES EN PUBLICO (DPG05) - 3 créditos\n- TALLER DE REDACCIÓN (TRE001) - 3 créditos\n\n\nsegundo año - 5to ciclo\n============================================================\n- SEMINARIO DE INFORMÁTICA (CI405) - 3 créditos\n- LOGÍSTICA DE EVENTOS ESPECIALES (LEV01) - 3 créditos\n- TALLER DE LITERATURA (TLI001) - 3 créditos\n\n\nsegundo año - 6to ciclo\n============================================================\n- TALLER DE FORMULACIÓN, EVALUACIÓN, GESTIÓN Y COOPERACIÓN DE PROYECTOS (DIP006) - 2 créditos\n- FUNDAMENTOS DE LA COMUNICACIÓN POLÍTICA (FDCP1) - 3 créditos\n- ANÁLISIS FINAL (FG407) - 3 créditos\n- FORMULACIÓN Y EVALUACIÓN DE PROYECTOS (IS420) - 3 créditos\n\n\nsegundo año - 7mo ciclo\n============================================================\n- FUNDAMENTOS DE ECONOMÍA (FDEC01) - 3 créditos\n- HISTORIA DE LA CIENCIA Y TECNOLOGÍA (IS301) - 3 créditos\n- GRUPOMÁTICA (TN005) - 3 créditos\n\n\nsegundo año - 8vo ciclo\n============================================================\n- INTRODUCCIÓN AL DERECHO (DGL01) - 3 créditos\n- TALLER DE LOBBY Y RELACIONES PÚBLICAS (DIP008) - 2 créditos\n- ÉTICA (FG305) - 3 créditos\n- RELACIONES PÚBLICAS, LOBBING Y COORDINACIÓN DE LA OFICINA DE PRENSA (RPLOF) - 3 créditos\n\n\ntercer año - 9no ciclo\n============================================================\n- FUNDAMENTOS DE E-COMMERCE (DPG01) - 3 créditos\n- HISTORIA DE LA FILOSOFÍA (HDLFI1) - 3 créditos\n- TEORÍA DE LAS RELACIONES INTERNACIONALES (REIN01) - 3 créditos\n\n\ntercer año - 10mo ciclo\n============================================================\n- ANÁLISIS DE HECHOS HISTÓRICOS (ANHIS1) - 3 créditos\n- DIPLOMACIA (DIP001) - 3 créditos\n- TALLER DE IMAGEN PÚBLICA Y PROYECCIÓN INTERNACIONAL (DIP010) - 2 créditos\n- FUNDAMENTOS DE LA IMAGEN PÚBLICA (FDLIM) - 3 créditos\n\n\ntercer año - 11er ciclo\n============================================================\n- INTRODUCCIÓN AL DERECHO DIPLOMÁTICO Y CONSULAR (DIP011) - 3 créditos\n- INTRODUCCIÓN A LA TEORÍA GENERAL DEL ESTADO (INTGE) - 3 créditos\n- REALIDAD MUNDIAL (RMUN01) - 3 créditos\n\n\ntercer año - 12do ciclo\n============================================================\n- TALLER PLANEACIÓN ESTRATÉGICA Y GEOPOLÍTICA (DIP012) - 3 créditos\n- GEOPOLÍTICA MODERNA (GEOPM) - 3 créditos\n- INTRODUCCIÓN AL DERECHO CONSTITUCIONAL POLÍTICO (INTDCP) - 3 créditos\n- SEMIOLOGÍA DEL DISCURSO (LCCS2) - 3 créditos\n\n\ncuarto año - 13er ciclo\n============================================================\n- CONVENIOS INTERNACIONALES, TRATADOS Y CONVENCIÓN DEL MAR (DIP013) - 3 créditos\n- INTRODUCCIÓN AL DERECHO INTERNACIONAL PUBLICO (IDIP01) - 3 créditos\n- INTEGRACIÓN ECONÓMICA INTERNACIONAL (IECI01) - 3 créditos\n\n\ncuarto año - 14to ciclo\n============================================================\n- ASIA-PACIFICO HISTÓRICO POLÍTICO (ASPCH) - 3 créditos\n- CASOS DE PROTOCOLO (CASP) - 3 créditos\n- TALLER INTEGRACIÓN ECONÓMICA INTERNACIONAL (DIP014) - 3 créditos\n- DERECHO INTERNACIONAL PRIVADO (DIPRIV) - 3 créditos\n\n\ncuarto año - 15to ciclo\n============================================================\n- ANÁLISIS POLÍTICO (ANP001) - 3 créditos\n- DERECHO INTERNACIONAL DE LOS DERECHOS HUMANOS (DIP015) - 3 créditos\n- PRINCIPIOS DE POLÍTICA EXTERIOR DE GUATEMALA (PDPEG) - 3 créditos\n\n\ncuarto año - 16to ciclo\n============================================================\n- TALLER DE ORGANISMOS INTERNACIONALES, REGIONALES Y ONG'S (DIP016) - 3 créditos\n- ORGANISMOS INTERNACIONALES Y REGIONALES (OINRE) - 3 créditos\n- SEMINARIO DE TESIS (SE00T) - 3 créditos\n- TURISMO INTERNO (TUR001) - 3 créditos\n"
+}

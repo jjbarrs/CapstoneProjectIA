@@ -1,0 +1,88 @@
+UNIVERSIDAD GALILEO
+CARRERA: Licenciatura en Fisioterapia
+Total de materias: 51
+Total de créditos: 362
+URL: https://www.galileo.edu/facisa/carrera/lf/pensum/
+================================================================================
+
+primer año - 1er ciclo
+============================================================
+- ÉTICA Y SENTIDO HUMANO (FG435) - 6 créditos
+- ENFOQUE PSICOLÓGICO DE LA DISCAPACIDAD (FG437) - 6 créditos
+- ANATOMÍA MUSCULO ESQUELÉTICA (SL024) - 8 créditos
+- FISIOLOGÍA APLICADA A LA FISIOTERAPIA I (SL025) - 8 créditos
+- BIOQUÍMICA APLICADA A LA FISIOTERAPIA (SL026) - 8 créditos
+- INTRODUCCIÓN A LA FISIOTERAPIA (SL027) - 6 créditos
+- TÉCNICAS DOCUMENTALES (SL029) - 4 créditos
+
+
+primer año - 2do ciclo
+============================================================
+- ANATOMÍA DE APARATOS Y SISTEMAS (SL028) - 8 créditos
+- FISIOLOGÍA APLICADA A LA FISIOTERAPIA II (SL030) - 8 créditos
+- FÍSICA APLICADA A LA FISIOTERAPIA (SL032) - 6 créditos
+- CRECIMIENTO Y DESARROLLO HUMANO (SL033) - 6 créditos
+- KINESIOLOGÍA I (SL035) - 6 créditos
+- CLÍNICA PROPEDÉUTICA I (SL039) - 8 créditos
+- METODOLOGÍA DE LA INVESTIGACIÓN I (TA0009) - 6 créditos
+
+
+segundo año - 3er ciclo
+============================================================
+- KINESIOLOGÍA II (SL031) - 6 créditos
+- CLÍNICA PROPEDÉUTICA II (SL034) - 6 créditos
+- AGENTES FÍSICOS Y SU APLICACIÓN TERAPÉUTICA I (SL036) - 6 créditos
+- EJERCICIO TERAPÉUTICO I (SL037) - 6 créditos
+- INTRODUCCIÓN A LA PRÁCTICA TERAPÉUTICA (SL038) - 12 créditos
+- EJERCICIO TERAPÉUTICO II (SL041) - 6 créditos
+- KINEFILAXIA (SL044) - 6 créditos
+- FISIOLOGÍA DEL EJERCICIO (TUA13) - 8 créditos
+
+
+segundo año - 4to ciclo
+============================================================
+- GENÉTICA HUMANA (BBI05) - 6 créditos
+- PRÁCTICA CLÍNICA I (DTF031) - 12 créditos
+- INGLÉS TÉCNICO APLICADO I (FG444) - 6 créditos
+- AGENTES FÍSICOS Y SU APLICACIÓN TERAPÉUTICA II (SL040) - 6 créditos
+- FISIOTERAPIA NEUROLÓGICA I (SL042) - 8 créditos
+- FISIOTERAPIA EN TRAUMATOLOGÍA Y ORTOPEDIA I (SL043) - 8 créditos
+- EPIDEMIOLOGIA EN REHABILITACIÓN (SL045) - 6 créditos
+
+
+tercer año - 5to ciclo
+============================================================
+- PRÁCTICA CLÍNICA II (DTF036) - 12 créditos
+- INGLÉS TÉCNICO APLICADO II (FG447) - 6 créditos
+- CULTURA EMPRENDEDORA (FG448) - 4 créditos
+- FISIOTERAPIA NEUROLÓGICA II (SL046) - 8 créditos
+- FISIOTERAPIA EN PEDIATRÍA (SL047) - 8 créditos
+- FISIOTERAPIA EN TRAUMATOLOGÍA Y ORTOPEDIA II (SL048) - 8 créditos
+- FISIOTERAPIA EN MANO (SL050) - 8 créditos
+
+
+tercer año - 6to ciclo
+============================================================
+- INGLÉS TÉCNICO APLICADO III (FG451) - 6 créditos
+- PRÁCTICA CLÍNICA III (PR346) - 12 créditos
+- TEMAS SELECTOS EN FISIOTERAPIA (SL049) - 4 créditos
+- FISIOTERAPIA NEUROLÓGICA III (SL051) - 8 créditos
+- FISIOTERAPIA EN REUMATOLOGÍA (SL052) - 8 créditos
+- FISIOTERAPIA EN GERIATRÍA (SL053) - 8 créditos
+- TEMAS CONTEMPORÁNEOS DE FISIOTERAPIA (SL055) - 4 créditos
+
+
+cuarto año - 7mo ciclo
+============================================================
+- BIOÉTICA (DTF012) - 4 créditos
+- PRÁCTICA CLÍNICA IV (PR347) - 12 créditos
+- TÉCNICAS DE APLICACIÓN EN FISIOTERAPIA (SL054) - 6 créditos
+- FISIOTERAPIA CARDIOPULMONAR (SL056) - 8 créditos
+- REHABILITACIÓN EN CUIDADOS PALIATIVOS (SL057) - 8 créditos
+- METODOLOGÍA DE LA INVESTIGACIÓN II (TA0110) - 6 créditos
+
+
+cuarto año - 8vo ciclo
+============================================================
+- SERVICIO SOCIAL I (RN001) - 6 créditos
+- SERVICIO SOCIAL II (RN002) - 6 créditos

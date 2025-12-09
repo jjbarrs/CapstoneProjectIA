@@ -1,0 +1,133 @@
+UNIVERSIDAD GALILEO
+CARRERA: Licenciatura en Arte
+Total de materias: 64
+Total de créditos: 288
+URL: https://www.galileo.edu/esa/carrera/licenciatura-arte/pensum/
+================================================================================
+
+primer año - 1er ciclo
+============================================================
+- LENGUAJE Y TÉCNICAS DE REDACCIÓN (FG628) - 4 créditos
+- HISTORIA Y ARTE (LAR00) - 4 créditos
+- TALLER INTEGRAL 1 (LAR01) - 6 créditos
+- SONIDO BÁSICO I (LIM) - 4 créditos
+
+
+primer año - 2do ciclo
+============================================================
+- FILOSOFÍA Y ARTE (LAR02) - 4 créditos
+- TALLER INTEGRAL 2 (LAR04) - 6 créditos
+- ARMONÍA DEL ARTE (LAR17) - 4 créditos
+- SONIDO BÁSICO II (LIM002) - 4 créditos
+
+
+primer año - 3er ciclo
+============================================================
+- COMPOSICIÓN (IM007) - 4 créditos
+- ARTES Y OFICIOS (LAR03) - 4 créditos
+- SOCIOLOGÍA Y ARTE (LAR05) - 4 créditos
+- TALLER INTEGRAL 3 (LAR07) - 6 créditos
+
+
+primer año - 4to ciclo
+============================================================
+- BELLAS ARTES (LAR06) - 4 créditos
+- ANTROPOLOGÍA Y ARTE (LAR08) - 4 créditos
+- ELEMENTOS DEL FENÓMENO ARTÍSTICO (LAR09) - 4 créditos
+- TALLER INTEGRAL 4 (LAR10) - 6 créditos
+
+
+segundo año - 5to ciclo
+============================================================
+- ARTE CONTEMPORÁNEO (ART11) - 4 créditos
+- PAQUETES DE SOFTWARE I (CP001) - 4 créditos
+- TALLER INTEGRAL 5 (LAR13) - 6 créditos
+- ARMONÍA (LIME50) - 4 créditos
+
+
+segundo año - 6to ciclo
+============================================================
+- CURADURÍA (ART612) - 4 créditos
+- PAQUETES DE SOFTWARE II (CP002) - 4 créditos
+- ARTE Y ESTÉTICA (LAR12) - 4 créditos
+- TALLER INTEGRAL 6 (LAR15) - 6 créditos
+
+
+segundo año - 7mo ciclo
+============================================================
+- APRECIACIÓN DE LA MÚSICA (AM011) - 4 créditos
+- GESTIÓN CULTURAL (ART613) - 4 créditos
+- TALLER INTEGRAL 7 (LAR16) - 6 créditos
+- ARTE ESCÉNICO (LIME18) - 4 créditos
+
+
+segundo año - 8vo ciclo
+============================================================
+- GESTIÓN DEL ARTE (ART614) - 4 créditos
+- FILOSOFÍA DE LA MÚSICA (FM010) - 4 créditos
+- ARTE REGIONAL (LAR14) - 4 créditos
+- TALLER INTEGRAL 8 (LAR18) - 6 créditos
+
+
+tercer año - 9no ciclo
+============================================================
+- TALLER DE ESPECIALIDAD I (ART101) - 6 créditos
+- ARTES VISUALES (LAR59) - 4 créditos
+- PROCESO DE MERCADO (LIM001) - 4 créditos
+- COMUNICACIÓN EFICAZ Y ALTO DESEMPEÑO (LIS013) - 4 créditos
+
+
+tercer año - 10mo ciclo
+============================================================
+- TALLER DE ESPECIALIDAD II (ART102) - 6 créditos
+- ARTES LITERARIAS (LAR26) - 4 créditos
+- ETIQUETA Y PROTOCOLO (LIS014) - 4 créditos
+- MERCADEO ESTRATÉGICO (NE202) - 4 créditos
+
+
+tercer año - 11er ciclo
+============================================================
+- PLANIFICACIÓN ESTRATÉGICA (AD010) - 4 créditos
+- TALLER DE ESPECIALIDAD III (ART103) - 6 créditos
+- TEORÍA DEL CONSUMIDOR (FG629) - 4 créditos
+- ARTES MUSICALES (LAR23) - 4 créditos
+
+
+tercer año - 12do ciclo
+============================================================
+- ARTES ESCÉNICAS (ARES01) - 4 créditos
+- TALLER DE ESPECIALIDAD IV (ART104) - 6 créditos
+- EMPRESARIALIDAD (EM020) - 4 créditos
+- TECNOLOGÍA Y PRODUCCIÓN (ARTE Y TECNOLOGÍA) (FG630) - 4 créditos
+
+
+cuarto año - 13er ciclo
+============================================================
+- ADMINISTRACIÓN DE RECURSOS HUMANOS (AD302) - 4 créditos
+- PRODUCCIÓN ARTÍSTICA (LAR28) - 4 créditos
+- MATEMÁTICA (MA100) - 4 créditos
+- PRÁCTICA PROFESIONAL I (PP1) - 6 créditos
+
+
+cuarto año - 14to ciclo
+============================================================
+- DIRECCIÓN ARTÍSTICA (LAR30) - 4 créditos
+- DERECHO Y LEGISLACIÓN (LIS026) - 4 créditos
+- PRÁCTICA PROFESIONAL II (PP2) - 6 créditos
+- ADMINISTRACIÓN FINANCIERA (RA303) - 4 créditos
+
+
+cuarto año - 15to ciclo
+============================================================
+- ESCENOGRAFÍA (ART631) - 4 créditos
+- LÓGICA (FG106) - 4 créditos
+- DISEÑO Y PRODUCCIÓN (LIS004) - 4 créditos
+- SEMINARIO DE GRADUACIÓN 1 (MPG012) - 6 créditos
+
+
+cuarto año - 16to ciclo
+============================================================
+- ÉTICA (FG305) - 4 créditos
+- PRODUCCIÓN DE ESPECTÁCULOS (LIME49) - 4 créditos
+- MANAGEMENT (LIS036) - 4 créditos
+- SEMINARIO DE GRADUACIÓN 2 (MPG013) - 6 créditos

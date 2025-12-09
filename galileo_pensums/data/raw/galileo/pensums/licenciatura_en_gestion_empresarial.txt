@@ -1,0 +1,109 @@
+UNIVERSIDAD GALILEO
+CARRERA: Licenciatura en Gestión Empresarial
+Total de materias: 40
+Total de créditos: 120
+URL: https://www.galileo.edu/facisa/carrera/lge/pensum/
+================================================================================
+
+primer año - 1er ciclo
+============================================================
+- ANÁLISIS FINAL (FG407) - 3 créditos
+- MATEMÁTICA BÁSICA (MA001) - 3 créditos
+- MANEJO DE PAQUETES DE SOFTWARE I (RT309) - 3 créditos
+
+
+primer año - 2do ciclo
+============================================================
+- ESTADÍSTICA I (MA311) - 3 créditos
+- MANEJO DE PAQUETES DE SOFTWARE II (RT310) - 3 créditos
+- SERVICIO AL CLIENTE (SC010) - 3 créditos
+
+
+primer año - 3er ciclo
+============================================================
+- TEORÍA DE LA CALIDAD (LGE001) - 3 créditos
+- ESTADÍSTICA II (MA312) - 3 créditos
+- MANEJO DE PAQUETES DE SOFTWARE III (RT314) - 3 créditos
+
+
+primer año - 4to ciclo
+============================================================
+- CONTABILIDAD GENERAL (AD203) - 3 créditos
+- ELABORACIÓN DE PROYECTOS (GE609) - 3 créditos
+- MANEJO DE PAQUETES DE SOFTWARE IV (RT315) - 3 créditos
+
+
+segundo año - 5to ciclo
+============================================================
+- AUTOMATIZACIÓN DE OFICINAS (AD308) - 3 créditos
+- PRINCIPIOS DE ADMINISTRACIÓN (AH101) - 3 créditos
+- LA CALIDAD EN EL SERVICIO (CS100) - 3 créditos
+
+
+segundo año - 6to ciclo
+============================================================
+- FUNDAMENTOS DE DERECHO (CS313) - 3 créditos
+- EMPRESARIALIDAD (EM020) - 3 créditos
+- PRUEBAS DE EVALUACIÓN DE PERSONAL (LGE002) - 3 créditos
+
+
+segundo año - 7mo ciclo
+============================================================
+- ANÁLISIS DE INFORMACIÓN (D0001) - 3 créditos
+- TÉCNICAS DE INVESTIGACIÓN (FG205) - 3 créditos
+- PRINCIPIOS ECONÓMICOS (LGE003) - 3 créditos
+
+
+segundo año - 8vo ciclo
+============================================================
+- EMPRESARIALIDAD II (EM021) - 3 créditos
+- ÉTICA (FG305) - 3 créditos
+- MERCADEO BÁSICO (LGE004) - 3 créditos
+
+
+tercer año - 9no ciclo
+============================================================
+- LIDERAZGO Y TRABAJO EN EQUIPO (LGE005) - 3 créditos
+- DERECHO EMPRESARIAL (LGE006) - 3 créditos
+
+
+tercer año - 10mo ciclo
+============================================================
+- PLANIFICACIÓN ESTRATÉGICA (AD010) - 3 créditos
+- SEMINARIO DE INFORMÁTICA (CI405) - 3 créditos
+
+
+tercer año - 11er ciclo
+============================================================
+- CONTABILIDAD GERENCIAL (AD204) - 3 créditos
+- MATEMÁTICA FINANCIERA I (LGE007) - 3 créditos
+
+
+tercer año - 12do ciclo
+============================================================
+- MATEMÁTICA FINANCIERA II (MA103) - 3 créditos
+- MERCADEO ESTRATÉGICO (NE202) - 3 créditos
+
+
+cuarto año - 13er ciclo
+============================================================
+- CONTROL Y EVALUACIÓN DE PROYECTOS (CE100) - 3 créditos
+- CALIDAD TOTAL (FR032) - 3 créditos
+
+
+cuarto año - 14to ciclo
+============================================================
+- ADMINISTRACIÓN DE RECURSOS HUMANOS (AD302) - 3 créditos
+- ADMINISTRACIÓN FINANCIERA (RA303) - 3 créditos
+
+
+cuarto año - 15to ciclo
+============================================================
+- TEORÍA GERENCIAL (AD301) - 3 créditos
+- ESTADÍSTICA APLICADA (CS325) - 3 créditos
+
+
+cuarto año - 16to ciclo
+============================================================
+- COMERCIO ELECTRÓNICO (CE005) - 3 créditos
+- SEMINARIO DE GESTIÓN EMPRESARIAL (LGE008) - 3 créditos

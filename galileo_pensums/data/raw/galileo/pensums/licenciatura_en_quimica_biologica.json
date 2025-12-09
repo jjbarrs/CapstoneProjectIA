@@ -1,0 +1,310 @@
+{
+  "carrera": "Licenciatura en Química Biológica",
+  "universidad": "Galileo",
+  "url": "https://www.galileo.edu/facisa/carrera/lbc/pensum/",
+  "ciclos": [
+    {
+      "nombre": "primer año - 1er ciclo",
+      "materias": [
+        {
+          "codigo": "APS002",
+          "nombre": "APLICATIVOS DE SOFTWARE I",
+          "creditos": 3
+        },
+        {
+          "codigo": "MA201",
+          "nombre": "MATEMÁTICA I",
+          "creditos": 4
+        },
+        {
+          "codigo": "QU405",
+          "nombre": "QUÍMICA GENERAL I",
+          "creditos": 7
+        },
+        {
+          "codigo": "RG001",
+          "nombre": "PSICOLOGÍA GENERAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "TAN001",
+          "nombre": "BIOLOGÍA GENERAL I",
+          "creditos": 7
+        }
+      ],
+      "total_creditos": 24
+    },
+    {
+      "nombre": "primer año - 2do ciclo",
+      "materias": [
+        {
+          "codigo": "APS003",
+          "nombre": "APLICATIVOS DE SOFTWARE II",
+          "creditos": 3
+        },
+        {
+          "codigo": "FI201",
+          "nombre": "FÍSICA I",
+          "creditos": 4
+        },
+        {
+          "codigo": "MA202",
+          "nombre": "MATEMÁTICA II",
+          "creditos": 4
+        },
+        {
+          "codigo": "QU406",
+          "nombre": "QUÍMICA GENERAL II",
+          "creditos": 7
+        },
+        {
+          "codigo": "TAN002",
+          "nombre": "BIOLOGÍA GENERAL II",
+          "creditos": 7
+        }
+      ],
+      "total_creditos": 25
+    },
+    {
+      "nombre": "segundo año - 3er ciclo",
+      "materias": [
+        {
+          "codigo": "AD333",
+          "nombre": "HÁBITOS DE ORGANIZACIÓN PERSONAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "AF001",
+          "nombre": "ANATOMÍA Y FISIOLOGÍA 1",
+          "creditos": 7
+        },
+        {
+          "codigo": "FI202",
+          "nombre": "FÍSICA II",
+          "creditos": 4
+        },
+        {
+          "codigo": "TLC01",
+          "nombre": "PARASITOLOGÍA",
+          "creditos": 7
+        },
+        {
+          "codigo": "TN114",
+          "nombre": "QUÍMICA INORGÁNICA",
+          "creditos": 7
+        }
+      ],
+      "total_creditos": 28
+    },
+    {
+      "nombre": "segundo año - 4to ciclo",
+      "materias": [
+        {
+          "codigo": "AF002",
+          "nombre": "ANATOMÍA Y FISIOLOGÍA 2",
+          "creditos": 7
+        },
+        {
+          "codigo": "BF002",
+          "nombre": "BIOESTADÍSTICA",
+          "creditos": 3
+        },
+        {
+          "codigo": "DTF012",
+          "nombre": "BIOÉTICA",
+          "creditos": 3
+        },
+        {
+          "codigo": "Q3303",
+          "nombre": "QUÍMICA ORGÁNICA",
+          "creditos": 7
+        },
+        {
+          "codigo": "TCT015",
+          "nombre": "MICROBIOLOGÍA GENERAL",
+          "creditos": 7
+        }
+      ],
+      "total_creditos": 27
+    },
+    {
+      "nombre": "tercer año - 5to ciclo",
+      "materias": [
+        {
+          "codigo": "AD203",
+          "nombre": "CONTABILIDAD GENERAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "GC100",
+          "nombre": "GESTIÓN DE LA CALIDAD I",
+          "creditos": 3
+        },
+        {
+          "codigo": "LBC05",
+          "nombre": "HEMATOLOGÍA BÁSICA",
+          "creditos": 7
+        },
+        {
+          "codigo": "SL013",
+          "nombre": "CITOHISTOLOGÍA",
+          "creditos": 7
+        },
+        {
+          "codigo": "TCT016",
+          "nombre": "BIOQUÍMICA GENERAL",
+          "creditos": 7
+        }
+      ],
+      "total_creditos": 27
+    },
+    {
+      "nombre": "tercer año - 6to ciclo",
+      "materias": [
+        {
+          "codigo": "AI400",
+          "nombre": "ANÁLISIS INSTRUMENTAL",
+          "creditos": 4
+        },
+        {
+          "codigo": "GC002",
+          "nombre": "GESTIÓN DE LA CALIDAD II",
+          "creditos": 3
+        },
+        {
+          "codigo": "LBC07",
+          "nombre": "BIOQUÍMICA CLÍNICA",
+          "creditos": 7
+        },
+        {
+          "codigo": "SL014",
+          "nombre": "INMUNOLOGÍA BÁSICA",
+          "creditos": 7
+        },
+        {
+          "codigo": "TLC02",
+          "nombre": "BACTERIOLOGÍA",
+          "creditos": 7
+        }
+      ],
+      "total_creditos": 28
+    },
+    {
+      "nombre": "cuarto año - 7mo ciclo",
+      "materias": [
+        {
+          "codigo": "LBC08",
+          "nombre": "HEMATOLOGÍA CLÍNICA",
+          "creditos": 7
+        },
+        {
+          "codigo": "LBC10",
+          "nombre": "SALUD PÚBLICA Y LEGISLACIÓN",
+          "creditos": 3
+        },
+        {
+          "codigo": "LCTA",
+          "nombre": "INTRODUCCIÓN A LA INVESTIGACIÓN",
+          "creditos": 4
+        },
+        {
+          "codigo": "SL015",
+          "nombre": "VIROLOGÍA",
+          "creditos": 4
+        },
+        {
+          "codigo": "SL016",
+          "nombre": "MICROBIOLOGÍA CLÍNICA AVANZADA",
+          "creditos": 7
+        },
+        {
+          "codigo": "VSS012",
+          "nombre": "PRÁCTICA SUPERVISADA I",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 29
+    },
+    {
+      "nombre": "cuarto año - 8vo ciclo",
+      "materias": [
+        {
+          "codigo": "AM030",
+          "nombre": "ADMINISTRACIÓN DE LABORATORIO",
+          "creditos": 3
+        },
+        {
+          "codigo": "BI302",
+          "nombre": "BIOLOGÍA MOLECULAR",
+          "creditos": 7
+        },
+        {
+          "codigo": "LBC16",
+          "nombre": "MICOLOGÍA",
+          "creditos": 7
+        },
+        {
+          "codigo": "SL017",
+          "nombre": "INTERPRETACIÓN DE PRUEBAS BIOQUÍMICAS",
+          "creditos": 4
+        },
+        {
+          "codigo": "TN116",
+          "nombre": "MICROBIOLOGÍA APLICADA I",
+          "creditos": 7
+        },
+        {
+          "codigo": "VSS011",
+          "nombre": "PRÁCTICA SUPERVISADA II",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 32
+    },
+    {
+      "nombre": "quinto año - 9no ciclo",
+      "materias": [
+        {
+          "codigo": "AD302",
+          "nombre": "ADMINISTRACIÓN DE RECURSOS HUMANOS",
+          "creditos": 3
+        },
+        {
+          "codigo": "BF004",
+          "nombre": "EPIDEMIOLOGIA",
+          "creditos": 3
+        },
+        {
+          "codigo": "LBC13",
+          "nombre": "BANCO DE SANGRE",
+          "creditos": 7
+        },
+        {
+          "codigo": "MP001",
+          "nombre": "MERCADEO Y PUBLICIDAD",
+          "creditos": 3
+        },
+        {
+          "codigo": "SL018",
+          "nombre": "MICROBIOLOGÍA APLICADA II",
+          "creditos": 7
+        }
+      ],
+      "total_creditos": 23
+    },
+    {
+      "nombre": "quinto año - 10mo ciclo",
+      "materias": [
+        {
+          "codigo": "LQF16",
+          "nombre": "EPS (EJERCICIO PROFESIONAL SUPERVISADO)",
+          "creditos": 12
+        }
+      ],
+      "total_creditos": 12
+    }
+  ],
+  "materias_totales": 48,
+  "creditos_totales": 255,
+  "texto_completo": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Química Biológica\nTotal de materias: 48\nTotal de créditos: 255\nURL: https://www.galileo.edu/facisa/carrera/lbc/pensum/\n================================================================================\n\nprimer año - 1er ciclo\n============================================================\n- APLICATIVOS DE SOFTWARE I (APS002) - 3 créditos\n- MATEMÁTICA I (MA201) - 4 créditos\n- QUÍMICA GENERAL I (QU405) - 7 créditos\n- PSICOLOGÍA GENERAL (RG001) - 3 créditos\n- BIOLOGÍA GENERAL I (TAN001) - 7 créditos\n\n\nprimer año - 2do ciclo\n============================================================\n- APLICATIVOS DE SOFTWARE II (APS003) - 3 créditos\n- FÍSICA I (FI201) - 4 créditos\n- MATEMÁTICA II (MA202) - 4 créditos\n- QUÍMICA GENERAL II (QU406) - 7 créditos\n- BIOLOGÍA GENERAL II (TAN002) - 7 créditos\n\n\nsegundo año - 3er ciclo\n============================================================\n- HÁBITOS DE ORGANIZACIÓN PERSONAL (AD333) - 3 créditos\n- ANATOMÍA Y FISIOLOGÍA 1 (AF001) - 7 créditos\n- FÍSICA II (FI202) - 4 créditos\n- PARASITOLOGÍA (TLC01) - 7 créditos\n- QUÍMICA INORGÁNICA (TN114) - 7 créditos\n\n\nsegundo año - 4to ciclo\n============================================================\n- ANATOMÍA Y FISIOLOGÍA 2 (AF002) - 7 créditos\n- BIOESTADÍSTICA (BF002) - 3 créditos\n- BIOÉTICA (DTF012) - 3 créditos\n- QUÍMICA ORGÁNICA (Q3303) - 7 créditos\n- MICROBIOLOGÍA GENERAL (TCT015) - 7 créditos\n\n\ntercer año - 5to ciclo\n============================================================\n- CONTABILIDAD GENERAL (AD203) - 3 créditos\n- GESTIÓN DE LA CALIDAD I (GC100) - 3 créditos\n- HEMATOLOGÍA BÁSICA (LBC05) - 7 créditos\n- CITOHISTOLOGÍA (SL013) - 7 créditos\n- BIOQUÍMICA GENERAL (TCT016) - 7 créditos\n\n\ntercer año - 6to ciclo\n============================================================\n- ANÁLISIS INSTRUMENTAL (AI400) - 4 créditos\n- GESTIÓN DE LA CALIDAD II (GC002) - 3 créditos\n- BIOQUÍMICA CLÍNICA (LBC07) - 7 créditos\n- INMUNOLOGÍA BÁSICA (SL014) - 7 créditos\n- BACTERIOLOGÍA (TLC02) - 7 créditos\n\n\ncuarto año - 7mo ciclo\n============================================================\n- HEMATOLOGÍA CLÍNICA (LBC08) - 7 créditos\n- SALUD PÚBLICA Y LEGISLACIÓN (LBC10) - 3 créditos\n- INTRODUCCIÓN A LA INVESTIGACIÓN (LCTA) - 4 créditos\n- VIROLOGÍA (SL015) - 4 créditos\n- MICROBIOLOGÍA CLÍNICA AVANZADA (SL016) - 7 créditos\n- PRÁCTICA SUPERVISADA I (VSS012) - 4 créditos\n\n\ncuarto año - 8vo ciclo\n============================================================\n- ADMINISTRACIÓN DE LABORATORIO (AM030) - 3 créditos\n- BIOLOGÍA MOLECULAR (BI302) - 7 créditos\n- MICOLOGÍA (LBC16) - 7 créditos\n- INTERPRETACIÓN DE PRUEBAS BIOQUÍMICAS (SL017) - 4 créditos\n- MICROBIOLOGÍA APLICADA I (TN116) - 7 créditos\n- PRÁCTICA SUPERVISADA II (VSS011) - 4 créditos\n\n\nquinto año - 9no ciclo\n============================================================\n- ADMINISTRACIÓN DE RECURSOS HUMANOS (AD302) - 3 créditos\n- EPIDEMIOLOGIA (BF004) - 3 créditos\n- BANCO DE SANGRE (LBC13) - 7 créditos\n- MERCADEO Y PUBLICIDAD (MP001) - 3 créditos\n- MICROBIOLOGÍA APLICADA II (SL018) - 7 créditos\n\n\nquinto año - 10mo ciclo\n============================================================\n- EPS (EJERCICIO PROFESIONAL SUPERVISADO) (LQF16) - 12 créditos\n"
+}

@@ -1,0 +1,426 @@
+{
+  "carrera": "Licenciatura en Administración y Microfinanzas",
+  "universidad": "Galileo",
+  "url": "https://www.galileo.edu/esec/carrera/licenciatura-administracion-microfinanzas/pensum/",
+  "ciclos": [
+    {
+      "nombre": "primer año - 1er ciclo",
+      "materias": [
+        {
+          "codigo": "AC0012",
+          "nombre": "INTRODUCCIÓN A MICROFINANZAS",
+          "creditos": 3
+        },
+        {
+          "codigo": "AD201",
+          "nombre": "CONTABILIDAD I",
+          "creditos": 3
+        },
+        {
+          "codigo": "FG402",
+          "nombre": "ANÁLISIS FINAL I",
+          "creditos": 3
+        },
+        {
+          "codigo": "LE111",
+          "nombre": "COMUNICACIÓN I",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 12
+    },
+    {
+      "nombre": "primer año - 2do ciclo",
+      "materias": [
+        {
+          "codigo": "AD202",
+          "nombre": "CONTABILIDAD II",
+          "creditos": 3
+        },
+        {
+          "codigo": "FG403",
+          "nombre": "ANÁLISIS FINAL II",
+          "creditos": 3
+        },
+        {
+          "codigo": "LE112",
+          "nombre": "COMUNICACIÓN II",
+          "creditos": 3
+        },
+        {
+          "codigo": "MCFNS01",
+          "nombre": "GESTIÓN DE CRÉDITO EN MICROFINANZAS",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 12
+    },
+    {
+      "nombre": "primer año - 3er ciclo",
+      "materias": [
+        {
+          "codigo": "EID04",
+          "nombre": "ANÁLISIS DE ESTADOS FINANCIEROS",
+          "creditos": 3
+        },
+        {
+          "codigo": "FG307",
+          "nombre": "ÉTICA Y RESPONSABILIDAD EN MICROFINANZAS",
+          "creditos": 3
+        },
+        {
+          "codigo": "LE113",
+          "nombre": "COMUNICACIÓN III",
+          "creditos": 3
+        },
+        {
+          "codigo": "PC522",
+          "nombre": "INFORMÁTICA I CON APLICACIÓN A LAS MICROFINANZAS",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 12
+    },
+    {
+      "nombre": "primer año - 4to ciclo",
+      "materias": [
+        {
+          "codigo": "MA201",
+          "nombre": "MATEMÁTICA I",
+          "creditos": 3
+        },
+        {
+          "codigo": "MCFNS002",
+          "nombre": "METODOLOGÍA DE CRÉDITOS PARA MICROFINANZAS",
+          "creditos": 3
+        },
+        {
+          "codigo": "MIF002",
+          "nombre": "INFORMÁTICA II CON APLICACIÓN A MICROFINANZAS",
+          "creditos": 3
+        },
+        {
+          "codigo": "TOB11",
+          "nombre": "ADMINISTRACIÓN DE CARTERA Y CONTROL DE MOROSIDAD",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 12
+    },
+    {
+      "nombre": "segundo año - 5to ciclo",
+      "materias": [
+        {
+          "codigo": "AC065",
+          "nombre": "PLAN DE NEGOCIOS CON APLICACIÓN A MICROFINANZAS",
+          "creditos": 3
+        },
+        {
+          "codigo": "EC125",
+          "nombre": "INCLUSIÓN FINANCIERA",
+          "creditos": 3
+        },
+        {
+          "codigo": "MA202",
+          "nombre": "MATEMÁTICA II",
+          "creditos": 3
+        },
+        {
+          "codigo": "MIF003",
+          "nombre": "INFORMÁTICA III CON APLICACIÓN A MICROFINANZAS",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 12
+    },
+    {
+      "nombre": "segundo año - 6to ciclo",
+      "materias": [
+        {
+          "codigo": "AD316",
+          "nombre": "MERCADEO I",
+          "creditos": 3
+        },
+        {
+          "codigo": "DCG001",
+          "nombre": "INTELIGENCIA EMOCIONAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "GS004",
+          "nombre": "GESTIÓN DE DESEMPEÑO SOCIAL (GDS)",
+          "creditos": 3
+        },
+        {
+          "codigo": "SOEC02",
+          "nombre": "SOCIOECONOMÍA DE GUATEMALA I",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 12
+    },
+    {
+      "nombre": "segundo año - 7mo ciclo",
+      "materias": [
+        {
+          "codigo": "AD317",
+          "nombre": "MERCADEO II",
+          "creditos": 3
+        },
+        {
+          "codigo": "EC423",
+          "nombre": "NEGOCIACIÓN I",
+          "creditos": 3
+        },
+        {
+          "codigo": "MA130",
+          "nombre": "MATEMÁTICA PARA MICROFINANZAS I",
+          "creditos": 3
+        },
+        {
+          "codigo": "SOEC03",
+          "nombre": "SOCIOECONOMÍA DE GUATEMALA II",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 12
+    },
+    {
+      "nombre": "segundo año - 8vo ciclo",
+      "materias": [
+        {
+          "codigo": "AC610",
+          "nombre": "PLAN DE MERCADEO",
+          "creditos": 3
+        },
+        {
+          "codigo": "EC425",
+          "nombre": "NEGOCIACIÓN II",
+          "creditos": 3
+        },
+        {
+          "codigo": "MA131",
+          "nombre": "MATEMÁTICA PARA MICROFINANZAS II",
+          "creditos": 3
+        },
+        {
+          "codigo": "SOEC04",
+          "nombre": "SOCIOECONOMÍA DE GUATEMALA III",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 12
+    },
+    {
+      "nombre": "tercer año - 9no ciclo",
+      "materias": [
+        {
+          "codigo": "EID09",
+          "nombre": "ANÁLISIS DE ESTADOS FINANCIEROS, MOD 4 ESAN",
+          "creditos": 3
+        },
+        {
+          "codigo": "GE609",
+          "nombre": "ELABORACIÓN DE PROYECTOS",
+          "creditos": 3
+        },
+        {
+          "codigo": "MA104",
+          "nombre": "MATEMÁTICA FINANCIERA III",
+          "creditos": 3
+        },
+        {
+          "codigo": "MIF004",
+          "nombre": "LEGISLACIÓN PARA MICROFINANZAS I",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 12
+    },
+    {
+      "nombre": "tercer año - 10mo ciclo",
+      "materias": [
+        {
+          "codigo": "AR006",
+          "nombre": "ANÁLISIS DE RIESGO CREDITICIO MOD.5 ESAN",
+          "creditos": 3
+        },
+        {
+          "codigo": "EC413",
+          "nombre": "EVALUACIÓN FINANCIERA DE PROYECTOS",
+          "creditos": 3
+        },
+        {
+          "codigo": "LMF010",
+          "nombre": "AVALÚOS DE BIENES MUEBLES E INMUEBLES PARA MICROFINANZAS",
+          "creditos": 3
+        },
+        {
+          "codigo": "MIF005",
+          "nombre": "LEGISLACIÓN PARA MICROFINANZAS II",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 12
+    },
+    {
+      "nombre": "tercer año - 11er ciclo",
+      "materias": [
+        {
+          "codigo": "ME117",
+          "nombre": "DISEÑO DE PROCESOS I",
+          "creditos": 3
+        },
+        {
+          "codigo": "MIF006",
+          "nombre": "LEGISLACIÓN PARA MICROFINANZAS III",
+          "creditos": 3
+        },
+        {
+          "codigo": "PENSA00",
+          "nombre": "PENSAMIENTO CREATIVO",
+          "creditos": 3
+        },
+        {
+          "codigo": "RA309",
+          "nombre": "TEORÍA GERENCIAL I",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 12
+    },
+    {
+      "nombre": "tercer año - 12do ciclo",
+      "materias": [
+        {
+          "codigo": "AC07",
+          "nombre": "MEJORA CONTINUA",
+          "creditos": 3
+        },
+        {
+          "codigo": "GT002",
+          "nombre": "PLANEACIÓN ESTRATÉGICA I",
+          "creditos": 3
+        },
+        {
+          "codigo": "ME118",
+          "nombre": "DISEÑO DE PROCESOS II",
+          "creditos": 3
+        },
+        {
+          "codigo": "RA310",
+          "nombre": "TEORÍA GERENCIAL II",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 12
+    },
+    {
+      "nombre": "cuarto año - 13er ciclo",
+      "materias": [
+        {
+          "codigo": "AS301",
+          "nombre": "ANÁLISIS DE SISTEMAS",
+          "creditos": 3
+        },
+        {
+          "codigo": "EC0002",
+          "nombre": "PRINCIPIOS DE ECONOMÍA",
+          "creditos": 3
+        },
+        {
+          "codigo": "GT003",
+          "nombre": "PLANEACIÓN ESTRATÉGICA II",
+          "creditos": 3
+        },
+        {
+          "codigo": "TG03",
+          "nombre": "TEORÍA GERENCIAL III",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 12
+    },
+    {
+      "nombre": "cuarto año - 14to ciclo",
+      "materias": [
+        {
+          "codigo": "AC025",
+          "nombre": "PRESUPUESTOS",
+          "creditos": 3
+        },
+        {
+          "codigo": "AS403",
+          "nombre": "BASE DE DATOS",
+          "creditos": 3
+        },
+        {
+          "codigo": "AUD001",
+          "nombre": "PRINCIPIOS DE AUDITORÍA",
+          "creditos": 3
+        },
+        {
+          "codigo": "EC201",
+          "nombre": "MICROECONOMÍA",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 12
+    },
+    {
+      "nombre": "cuarto año - 15to ciclo",
+      "materias": [
+        {
+          "codigo": "A3610",
+          "nombre": "AUDITORÍA DE SISTEMAS",
+          "creditos": 3
+        },
+        {
+          "codigo": "ADRRH003",
+          "nombre": "RRHH I",
+          "creditos": 3
+        },
+        {
+          "codigo": "DE0015",
+          "nombre": "DIRECCIÓN ESTRATÉGICA",
+          "creditos": 3
+        },
+        {
+          "codigo": "EC202",
+          "nombre": "MACROECONOMÍA",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 12
+    },
+    {
+      "nombre": "cuarto año - 16to ciclo",
+      "materias": [
+        {
+          "codigo": "ADRRH004",
+          "nombre": "RRHH II",
+          "creditos": 3
+        },
+        {
+          "codigo": "MIF007",
+          "nombre": "GOBERNABILIDAD EN MICROFINANZAS",
+          "creditos": 3
+        },
+        {
+          "codigo": "MIF008",
+          "nombre": "MODELOS DE DESARROLLO",
+          "creditos": 3
+        },
+        {
+          "codigo": "SA101",
+          "nombre": "SEMINARIO DE APLICACIÓN",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 12
+    }
+  ],
+  "materias_totales": 64,
+  "creditos_totales": 192,
+  "texto_completo": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Administración y Microfinanzas\nTotal de materias: 64\nTotal de créditos: 192\nURL: https://www.galileo.edu/esec/carrera/licenciatura-administracion-microfinanzas/pensum/\n================================================================================\n\nprimer año - 1er ciclo\n============================================================\n- INTRODUCCIÓN A MICROFINANZAS (AC0012) - 3 créditos\n- CONTABILIDAD I (AD201) - 3 créditos\n- ANÁLISIS FINAL I (FG402) - 3 créditos\n- COMUNICACIÓN I (LE111) - 3 créditos\n\n\nprimer año - 2do ciclo\n============================================================\n- CONTABILIDAD II (AD202) - 3 créditos\n- ANÁLISIS FINAL II (FG403) - 3 créditos\n- COMUNICACIÓN II (LE112) - 3 créditos\n- GESTIÓN DE CRÉDITO EN MICROFINANZAS (MCFNS01) - 3 créditos\n\n\nprimer año - 3er ciclo\n============================================================\n- ANÁLISIS DE ESTADOS FINANCIEROS (EID04) - 3 créditos\n- ÉTICA Y RESPONSABILIDAD EN MICROFINANZAS (FG307) - 3 créditos\n- COMUNICACIÓN III (LE113) - 3 créditos\n- INFORMÁTICA I CON APLICACIÓN A LAS MICROFINANZAS (PC522) - 3 créditos\n\n\nprimer año - 4to ciclo\n============================================================\n- MATEMÁTICA I (MA201) - 3 créditos\n- METODOLOGÍA DE CRÉDITOS PARA MICROFINANZAS (MCFNS002) - 3 créditos\n- INFORMÁTICA II CON APLICACIÓN A MICROFINANZAS (MIF002) - 3 créditos\n- ADMINISTRACIÓN DE CARTERA Y CONTROL DE MOROSIDAD (TOB11) - 3 créditos\n\n\nsegundo año - 5to ciclo\n============================================================\n- PLAN DE NEGOCIOS CON APLICACIÓN A MICROFINANZAS (AC065) - 3 créditos\n- INCLUSIÓN FINANCIERA (EC125) - 3 créditos\n- MATEMÁTICA II (MA202) - 3 créditos\n- INFORMÁTICA III CON APLICACIÓN A MICROFINANZAS (MIF003) - 3 créditos\n\n\nsegundo año - 6to ciclo\n============================================================\n- MERCADEO I (AD316) - 3 créditos\n- INTELIGENCIA EMOCIONAL (DCG001) - 3 créditos\n- GESTIÓN DE DESEMPEÑO SOCIAL (GDS) (GS004) - 3 créditos\n- SOCIOECONOMÍA DE GUATEMALA I (SOEC02) - 3 créditos\n\n\nsegundo año - 7mo ciclo\n============================================================\n- MERCADEO II (AD317) - 3 créditos\n- NEGOCIACIÓN I (EC423) - 3 créditos\n- MATEMÁTICA PARA MICROFINANZAS I (MA130) - 3 créditos\n- SOCIOECONOMÍA DE GUATEMALA II (SOEC03) - 3 créditos\n\n\nsegundo año - 8vo ciclo\n============================================================\n- PLAN DE MERCADEO (AC610) - 3 créditos\n- NEGOCIACIÓN II (EC425) - 3 créditos\n- MATEMÁTICA PARA MICROFINANZAS II (MA131) - 3 créditos\n- SOCIOECONOMÍA DE GUATEMALA III (SOEC04) - 3 créditos\n\n\ntercer año - 9no ciclo\n============================================================\n- ANÁLISIS DE ESTADOS FINANCIEROS, MOD 4 ESAN (EID09) - 3 créditos\n- ELABORACIÓN DE PROYECTOS (GE609) - 3 créditos\n- MATEMÁTICA FINANCIERA III (MA104) - 3 créditos\n- LEGISLACIÓN PARA MICROFINANZAS I (MIF004) - 3 créditos\n\n\ntercer año - 10mo ciclo\n============================================================\n- ANÁLISIS DE RIESGO CREDITICIO MOD.5 ESAN (AR006) - 3 créditos\n- EVALUACIÓN FINANCIERA DE PROYECTOS (EC413) - 3 créditos\n- AVALÚOS DE BIENES MUEBLES E INMUEBLES PARA MICROFINANZAS (LMF010) - 3 créditos\n- LEGISLACIÓN PARA MICROFINANZAS II (MIF005) - 3 créditos\n\n\ntercer año - 11er ciclo\n============================================================\n- DISEÑO DE PROCESOS I (ME117) - 3 créditos\n- LEGISLACIÓN PARA MICROFINANZAS III (MIF006) - 3 créditos\n- PENSAMIENTO CREATIVO (PENSA00) - 3 créditos\n- TEORÍA GERENCIAL I (RA309) - 3 créditos\n\n\ntercer año - 12do ciclo\n============================================================\n- MEJORA CONTINUA (AC07) - 3 créditos\n- PLANEACIÓN ESTRATÉGICA I (GT002) - 3 créditos\n- DISEÑO DE PROCESOS II (ME118) - 3 créditos\n- TEORÍA GERENCIAL II (RA310) - 3 créditos\n\n\ncuarto año - 13er ciclo\n============================================================\n- ANÁLISIS DE SISTEMAS (AS301) - 3 créditos\n- PRINCIPIOS DE ECONOMÍA (EC0002) - 3 créditos\n- PLANEACIÓN ESTRATÉGICA II (GT003) - 3 créditos\n- TEORÍA GERENCIAL III (TG03) - 3 créditos\n\n\ncuarto año - 14to ciclo\n============================================================\n- PRESUPUESTOS (AC025) - 3 créditos\n- BASE DE DATOS (AS403) - 3 créditos\n- PRINCIPIOS DE AUDITORÍA (AUD001) - 3 créditos\n- MICROECONOMÍA (EC201) - 3 créditos\n\n\ncuarto año - 15to ciclo\n============================================================\n- AUDITORÍA DE SISTEMAS (A3610) - 3 créditos\n- RRHH I (ADRRH003) - 3 créditos\n- DIRECCIÓN ESTRATÉGICA (DE0015) - 3 créditos\n- MACROECONOMÍA (EC202) - 3 créditos\n\n\ncuarto año - 16to ciclo\n============================================================\n- RRHH II (ADRRH004) - 3 créditos\n- GOBERNABILIDAD EN MICROFINANZAS (MIF007) - 3 créditos\n- MODELOS DE DESARROLLO (MIF008) - 3 créditos\n- SEMINARIO DE APLICACIÓN (SA101) - 3 créditos\n"
+}

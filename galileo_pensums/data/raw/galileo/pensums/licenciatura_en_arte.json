@@ -1,0 +1,426 @@
+{
+  "carrera": "Licenciatura en Arte",
+  "universidad": "Galileo",
+  "url": "https://www.galileo.edu/esa/carrera/licenciatura-arte/pensum/",
+  "ciclos": [
+    {
+      "nombre": "primer año - 1er ciclo",
+      "materias": [
+        {
+          "codigo": "FG628",
+          "nombre": "LENGUAJE Y TÉCNICAS DE REDACCIÓN",
+          "creditos": 4
+        },
+        {
+          "codigo": "LAR00",
+          "nombre": "HISTORIA Y ARTE",
+          "creditos": 4
+        },
+        {
+          "codigo": "LAR01",
+          "nombre": "TALLER INTEGRAL 1",
+          "creditos": 6
+        },
+        {
+          "codigo": "LIM",
+          "nombre": "SONIDO BÁSICO I",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "primer año - 2do ciclo",
+      "materias": [
+        {
+          "codigo": "LAR02",
+          "nombre": "FILOSOFÍA Y ARTE",
+          "creditos": 4
+        },
+        {
+          "codigo": "LAR04",
+          "nombre": "TALLER INTEGRAL 2",
+          "creditos": 6
+        },
+        {
+          "codigo": "LAR17",
+          "nombre": "ARMONÍA DEL ARTE",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIM002",
+          "nombre": "SONIDO BÁSICO II",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "primer año - 3er ciclo",
+      "materias": [
+        {
+          "codigo": "IM007",
+          "nombre": "COMPOSICIÓN",
+          "creditos": 4
+        },
+        {
+          "codigo": "LAR03",
+          "nombre": "ARTES Y OFICIOS",
+          "creditos": 4
+        },
+        {
+          "codigo": "LAR05",
+          "nombre": "SOCIOLOGÍA Y ARTE",
+          "creditos": 4
+        },
+        {
+          "codigo": "LAR07",
+          "nombre": "TALLER INTEGRAL 3",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "primer año - 4to ciclo",
+      "materias": [
+        {
+          "codigo": "LAR06",
+          "nombre": "BELLAS ARTES",
+          "creditos": 4
+        },
+        {
+          "codigo": "LAR08",
+          "nombre": "ANTROPOLOGÍA Y ARTE",
+          "creditos": 4
+        },
+        {
+          "codigo": "LAR09",
+          "nombre": "ELEMENTOS DEL FENÓMENO ARTÍSTICO",
+          "creditos": 4
+        },
+        {
+          "codigo": "LAR10",
+          "nombre": "TALLER INTEGRAL 4",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "segundo año - 5to ciclo",
+      "materias": [
+        {
+          "codigo": "ART11",
+          "nombre": "ARTE CONTEMPORÁNEO",
+          "creditos": 4
+        },
+        {
+          "codigo": "CP001",
+          "nombre": "PAQUETES DE SOFTWARE I",
+          "creditos": 4
+        },
+        {
+          "codigo": "LAR13",
+          "nombre": "TALLER INTEGRAL 5",
+          "creditos": 6
+        },
+        {
+          "codigo": "LIME50",
+          "nombre": "ARMONÍA",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "segundo año - 6to ciclo",
+      "materias": [
+        {
+          "codigo": "ART612",
+          "nombre": "CURADURÍA",
+          "creditos": 4
+        },
+        {
+          "codigo": "CP002",
+          "nombre": "PAQUETES DE SOFTWARE II",
+          "creditos": 4
+        },
+        {
+          "codigo": "LAR12",
+          "nombre": "ARTE Y ESTÉTICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "LAR15",
+          "nombre": "TALLER INTEGRAL 6",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "segundo año - 7mo ciclo",
+      "materias": [
+        {
+          "codigo": "AM011",
+          "nombre": "APRECIACIÓN DE LA MÚSICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "ART613",
+          "nombre": "GESTIÓN CULTURAL",
+          "creditos": 4
+        },
+        {
+          "codigo": "LAR16",
+          "nombre": "TALLER INTEGRAL 7",
+          "creditos": 6
+        },
+        {
+          "codigo": "LIME18",
+          "nombre": "ARTE ESCÉNICO",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "segundo año - 8vo ciclo",
+      "materias": [
+        {
+          "codigo": "ART614",
+          "nombre": "GESTIÓN DEL ARTE",
+          "creditos": 4
+        },
+        {
+          "codigo": "FM010",
+          "nombre": "FILOSOFÍA DE LA MÚSICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "LAR14",
+          "nombre": "ARTE REGIONAL",
+          "creditos": 4
+        },
+        {
+          "codigo": "LAR18",
+          "nombre": "TALLER INTEGRAL 8",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "tercer año - 9no ciclo",
+      "materias": [
+        {
+          "codigo": "ART101",
+          "nombre": "TALLER DE ESPECIALIDAD I",
+          "creditos": 6
+        },
+        {
+          "codigo": "LAR59",
+          "nombre": "ARTES VISUALES",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIM001",
+          "nombre": "PROCESO DE MERCADO",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIS013",
+          "nombre": "COMUNICACIÓN EFICAZ Y ALTO DESEMPEÑO",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "tercer año - 10mo ciclo",
+      "materias": [
+        {
+          "codigo": "ART102",
+          "nombre": "TALLER DE ESPECIALIDAD II",
+          "creditos": 6
+        },
+        {
+          "codigo": "LAR26",
+          "nombre": "ARTES LITERARIAS",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIS014",
+          "nombre": "ETIQUETA Y PROTOCOLO",
+          "creditos": 4
+        },
+        {
+          "codigo": "NE202",
+          "nombre": "MERCADEO ESTRATÉGICO",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "tercer año - 11er ciclo",
+      "materias": [
+        {
+          "codigo": "AD010",
+          "nombre": "PLANIFICACIÓN ESTRATÉGICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "ART103",
+          "nombre": "TALLER DE ESPECIALIDAD III",
+          "creditos": 6
+        },
+        {
+          "codigo": "FG629",
+          "nombre": "TEORÍA DEL CONSUMIDOR",
+          "creditos": 4
+        },
+        {
+          "codigo": "LAR23",
+          "nombre": "ARTES MUSICALES",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "tercer año - 12do ciclo",
+      "materias": [
+        {
+          "codigo": "ARES01",
+          "nombre": "ARTES ESCÉNICAS",
+          "creditos": 4
+        },
+        {
+          "codigo": "ART104",
+          "nombre": "TALLER DE ESPECIALIDAD IV",
+          "creditos": 6
+        },
+        {
+          "codigo": "EM020",
+          "nombre": "EMPRESARIALIDAD",
+          "creditos": 4
+        },
+        {
+          "codigo": "FG630",
+          "nombre": "TECNOLOGÍA Y PRODUCCIÓN (ARTE Y TECNOLOGÍA)",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "cuarto año - 13er ciclo",
+      "materias": [
+        {
+          "codigo": "AD302",
+          "nombre": "ADMINISTRACIÓN DE RECURSOS HUMANOS",
+          "creditos": 4
+        },
+        {
+          "codigo": "LAR28",
+          "nombre": "PRODUCCIÓN ARTÍSTICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "MA100",
+          "nombre": "MATEMÁTICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "PP1",
+          "nombre": "PRÁCTICA PROFESIONAL I",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "cuarto año - 14to ciclo",
+      "materias": [
+        {
+          "codigo": "LAR30",
+          "nombre": "DIRECCIÓN ARTÍSTICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIS026",
+          "nombre": "DERECHO Y LEGISLACIÓN",
+          "creditos": 4
+        },
+        {
+          "codigo": "PP2",
+          "nombre": "PRÁCTICA PROFESIONAL II",
+          "creditos": 6
+        },
+        {
+          "codigo": "RA303",
+          "nombre": "ADMINISTRACIÓN FINANCIERA",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "cuarto año - 15to ciclo",
+      "materias": [
+        {
+          "codigo": "ART631",
+          "nombre": "ESCENOGRAFÍA",
+          "creditos": 4
+        },
+        {
+          "codigo": "FG106",
+          "nombre": "LÓGICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIS004",
+          "nombre": "DISEÑO Y PRODUCCIÓN",
+          "creditos": 4
+        },
+        {
+          "codigo": "MPG012",
+          "nombre": "SEMINARIO DE GRADUACIÓN 1",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 18
+    },
+    {
+      "nombre": "cuarto año - 16to ciclo",
+      "materias": [
+        {
+          "codigo": "FG305",
+          "nombre": "ÉTICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIME49",
+          "nombre": "PRODUCCIÓN DE ESPECTÁCULOS",
+          "creditos": 4
+        },
+        {
+          "codigo": "LIS036",
+          "nombre": "MANAGEMENT",
+          "creditos": 4
+        },
+        {
+          "codigo": "MPG013",
+          "nombre": "SEMINARIO DE GRADUACIÓN 2",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 18
+    }
+  ],
+  "materias_totales": 64,
+  "creditos_totales": 288,
+  "texto_completo": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Arte\nTotal de materias: 64\nTotal de créditos: 288\nURL: https://www.galileo.edu/esa/carrera/licenciatura-arte/pensum/\n================================================================================\n\nprimer año - 1er ciclo\n============================================================\n- LENGUAJE Y TÉCNICAS DE REDACCIÓN (FG628) - 4 créditos\n- HISTORIA Y ARTE (LAR00) - 4 créditos\n- TALLER INTEGRAL 1 (LAR01) - 6 créditos\n- SONIDO BÁSICO I (LIM) - 4 créditos\n\n\nprimer año - 2do ciclo\n============================================================\n- FILOSOFÍA Y ARTE (LAR02) - 4 créditos\n- TALLER INTEGRAL 2 (LAR04) - 6 créditos\n- ARMONÍA DEL ARTE (LAR17) - 4 créditos\n- SONIDO BÁSICO II (LIM002) - 4 créditos\n\n\nprimer año - 3er ciclo\n============================================================\n- COMPOSICIÓN (IM007) - 4 créditos\n- ARTES Y OFICIOS (LAR03) - 4 créditos\n- SOCIOLOGÍA Y ARTE (LAR05) - 4 créditos\n- TALLER INTEGRAL 3 (LAR07) - 6 créditos\n\n\nprimer año - 4to ciclo\n============================================================\n- BELLAS ARTES (LAR06) - 4 créditos\n- ANTROPOLOGÍA Y ARTE (LAR08) - 4 créditos\n- ELEMENTOS DEL FENÓMENO ARTÍSTICO (LAR09) - 4 créditos\n- TALLER INTEGRAL 4 (LAR10) - 6 créditos\n\n\nsegundo año - 5to ciclo\n============================================================\n- ARTE CONTEMPORÁNEO (ART11) - 4 créditos\n- PAQUETES DE SOFTWARE I (CP001) - 4 créditos\n- TALLER INTEGRAL 5 (LAR13) - 6 créditos\n- ARMONÍA (LIME50) - 4 créditos\n\n\nsegundo año - 6to ciclo\n============================================================\n- CURADURÍA (ART612) - 4 créditos\n- PAQUETES DE SOFTWARE II (CP002) - 4 créditos\n- ARTE Y ESTÉTICA (LAR12) - 4 créditos\n- TALLER INTEGRAL 6 (LAR15) - 6 créditos\n\n\nsegundo año - 7mo ciclo\n============================================================\n- APRECIACIÓN DE LA MÚSICA (AM011) - 4 créditos\n- GESTIÓN CULTURAL (ART613) - 4 créditos\n- TALLER INTEGRAL 7 (LAR16) - 6 créditos\n- ARTE ESCÉNICO (LIME18) - 4 créditos\n\n\nsegundo año - 8vo ciclo\n============================================================\n- GESTIÓN DEL ARTE (ART614) - 4 créditos\n- FILOSOFÍA DE LA MÚSICA (FM010) - 4 créditos\n- ARTE REGIONAL (LAR14) - 4 créditos\n- TALLER INTEGRAL 8 (LAR18) - 6 créditos\n\n\ntercer año - 9no ciclo\n============================================================\n- TALLER DE ESPECIALIDAD I (ART101) - 6 créditos\n- ARTES VISUALES (LAR59) - 4 créditos\n- PROCESO DE MERCADO (LIM001) - 4 créditos\n- COMUNICACIÓN EFICAZ Y ALTO DESEMPEÑO (LIS013) - 4 créditos\n\n\ntercer año - 10mo ciclo\n============================================================\n- TALLER DE ESPECIALIDAD II (ART102) - 6 créditos\n- ARTES LITERARIAS (LAR26) - 4 créditos\n- ETIQUETA Y PROTOCOLO (LIS014) - 4 créditos\n- MERCADEO ESTRATÉGICO (NE202) - 4 créditos\n\n\ntercer año - 11er ciclo\n============================================================\n- PLANIFICACIÓN ESTRATÉGICA (AD010) - 4 créditos\n- TALLER DE ESPECIALIDAD III (ART103) - 6 créditos\n- TEORÍA DEL CONSUMIDOR (FG629) - 4 créditos\n- ARTES MUSICALES (LAR23) - 4 créditos\n\n\ntercer año - 12do ciclo\n============================================================\n- ARTES ESCÉNICAS (ARES01) - 4 créditos\n- TALLER DE ESPECIALIDAD IV (ART104) - 6 créditos\n- EMPRESARIALIDAD (EM020) - 4 créditos\n- TECNOLOGÍA Y PRODUCCIÓN (ARTE Y TECNOLOGÍA) (FG630) - 4 créditos\n\n\ncuarto año - 13er ciclo\n============================================================\n- ADMINISTRACIÓN DE RECURSOS HUMANOS (AD302) - 4 créditos\n- PRODUCCIÓN ARTÍSTICA (LAR28) - 4 créditos\n- MATEMÁTICA (MA100) - 4 créditos\n- PRÁCTICA PROFESIONAL I (PP1) - 6 créditos\n\n\ncuarto año - 14to ciclo\n============================================================\n- DIRECCIÓN ARTÍSTICA (LAR30) - 4 créditos\n- DERECHO Y LEGISLACIÓN (LIS026) - 4 créditos\n- PRÁCTICA PROFESIONAL II (PP2) - 6 créditos\n- ADMINISTRACIÓN FINANCIERA (RA303) - 4 créditos\n\n\ncuarto año - 15to ciclo\n============================================================\n- ESCENOGRAFÍA (ART631) - 4 créditos\n- LÓGICA (FG106) - 4 créditos\n- DISEÑO Y PRODUCCIÓN (LIS004) - 4 créditos\n- SEMINARIO DE GRADUACIÓN 1 (MPG012) - 6 créditos\n\n\ncuarto año - 16to ciclo\n============================================================\n- ÉTICA (FG305) - 4 créditos\n- PRODUCCIÓN DE ESPECTÁCULOS (LIME49) - 4 créditos\n- MANAGEMENT (LIS036) - 4 créditos\n- SEMINARIO DE GRADUACIÓN 2 (MPG013) - 6 créditos\n"
+}

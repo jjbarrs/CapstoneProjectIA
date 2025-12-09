@@ -1,0 +1,323 @@
+{
+  "carrera": "Ingeniería Administrativa",
+  "universidad": "Galileo",
+  "url": "https://www.galileo.edu/facti/carrera/iad/informacion-de-la-carrera/pensum/",
+  "ciclos": [
+    {
+      "nombre": "primer año - 1er ciclo",
+      "materias": [
+        {
+          "codigo": "IS425",
+          "nombre": "TECNOLOGÍA DESCRIPTIVA",
+          "creditos": 3
+        },
+        {
+          "codigo": "IU01",
+          "nombre": "INICIATIVA EMPRESARIAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "IU02",
+          "nombre": "NIVELACIÓN MATEMÁTICA",
+          "creditos": 8
+        },
+        {
+          "codigo": "LQ001",
+          "nombre": "LABORATORIO DE QUÍMICA GENERAL",
+          "creditos": 1
+        },
+        {
+          "codigo": "PC111",
+          "nombre": "CIENCIAS DE LA COMPUTACIÓN I",
+          "creditos": 5
+        },
+        {
+          "codigo": "PC403",
+          "nombre": "DIBUJO TÉCNICO",
+          "creditos": 5
+        },
+        {
+          "codigo": "QU401",
+          "nombre": "QUÍMICA GENERAL",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 29
+    },
+    {
+      "nombre": "primer año - 2do ciclo",
+      "materias": [
+        {
+          "codigo": "AD501",
+          "nombre": "INTRODUCCIÓN A LA ADMINISTRACIÓN DE EMPRESAS",
+          "creditos": 4
+        },
+        {
+          "codigo": "FI402",
+          "nombre": "FÍSICA GENERAL I",
+          "creditos": 4
+        },
+        {
+          "codigo": "IAD01",
+          "nombre": "CONTABILIDAD GENERAL I",
+          "creditos": 3
+        },
+        {
+          "codigo": "LFG01",
+          "nombre": "LABORATORIO DE FÍSICA GENERAL I",
+          "creditos": 1
+        },
+        {
+          "codigo": "MA0101",
+          "nombre": "MATEMÁTICA 108",
+          "creditos": 8
+        },
+        {
+          "codigo": "PC112",
+          "nombre": "CIENCIAS DE LA COMPUTACIÓN II",
+          "creditos": 5
+        },
+        {
+          "codigo": "PC404",
+          "nombre": "DISEÑO ASISTIDO POR COMPUTADORAS",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 29
+    },
+    {
+      "nombre": "segundo año - 3er ciclo",
+      "materias": [
+        {
+          "codigo": "AD202",
+          "nombre": "CONTABILIDAD II",
+          "creditos": 4
+        },
+        {
+          "codigo": "CS318",
+          "nombre": "LEGISLACIÓN",
+          "creditos": 4
+        },
+        {
+          "codigo": "FI403",
+          "nombre": "FÍSICA GENERAL II",
+          "creditos": 4
+        },
+        {
+          "codigo": "IG006",
+          "nombre": "DISEÑO GRAFICO",
+          "creditos": 4
+        },
+        {
+          "codigo": "LFG02",
+          "nombre": "LABORATORIO DE FÍSICA GENERAL II",
+          "creditos": 1
+        },
+        {
+          "codigo": "MA0208",
+          "nombre": "MATEMÁTICA 208",
+          "creditos": 8
+        },
+        {
+          "codigo": "PC117",
+          "nombre": "CIENCIAS DE LA COMPUTACIÓN III",
+          "creditos": 5
+        }
+      ],
+      "total_creditos": 30
+    },
+    {
+      "nombre": "segundo año - 4to ciclo",
+      "materias": [
+        {
+          "codigo": "EC411",
+          "nombre": "MERCADOTECNIA",
+          "creditos": 4
+        },
+        {
+          "codigo": "IAD02",
+          "nombre": "NORMAS Y REGULACIONES",
+          "creditos": 4
+        },
+        {
+          "codigo": "IS422",
+          "nombre": "PSICOLOGÍA INDUSTRIAL",
+          "creditos": 4
+        },
+        {
+          "codigo": "MA0308",
+          "nombre": "MATEMÁTICA 308",
+          "creditos": 6
+        },
+        {
+          "codigo": "MA311",
+          "nombre": "ESTADÍSTICA I",
+          "creditos": 4
+        },
+        {
+          "codigo": "MPI01",
+          "nombre": "MECÁNICA PARA INGENIEROS",
+          "creditos": 4
+        },
+        {
+          "codigo": "RA301",
+          "nombre": "CONTABILIDAD FINANCIERA",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 30
+    },
+    {
+      "nombre": "tercer año - 5to ciclo",
+      "materias": [
+        {
+          "codigo": "AD302",
+          "nombre": "ADMINISTRACIÓN DE RECURSOS HUMANOS",
+          "creditos": 4
+        },
+        {
+          "codigo": "CE005",
+          "nombre": "COMERCIO ELECTRÓNICO",
+          "creditos": 4
+        },
+        {
+          "codigo": "DI101",
+          "nombre": "DISEÑO INDUSTRIAL",
+          "creditos": 4
+        },
+        {
+          "codigo": "GE100",
+          "nombre": "GERENCIA",
+          "creditos": 4
+        },
+        {
+          "codigo": "IU10",
+          "nombre": "MÉTODOS APLICADOS I",
+          "creditos": 5
+        },
+        {
+          "codigo": "MA312",
+          "nombre": "ESTADÍSTICA II",
+          "creditos": 5
+        }
+      ],
+      "total_creditos": 26
+    },
+    {
+      "nombre": "tercer año - 6to ciclo",
+      "materias": [
+        {
+          "codigo": "IS407",
+          "nombre": "ESTADÍSTICA PARA LA CALIDAD",
+          "creditos": 5
+        },
+        {
+          "codigo": "IS411",
+          "nombre": "INGENIERÍA DE MÉTODOS",
+          "creditos": 5
+        },
+        {
+          "codigo": "IS420",
+          "nombre": "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS",
+          "creditos": 5
+        },
+        {
+          "codigo": "IU06",
+          "nombre": "MÉTODOS APLICADOS II",
+          "creditos": 5
+        },
+        {
+          "codigo": "LABF20",
+          "nombre": "COMERCIO INTERNACIONAL",
+          "creditos": 5
+        },
+        {
+          "codigo": "RA303",
+          "nombre": "ADMINISTRACIÓN FINANCIERA",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 29
+    },
+    {
+      "nombre": "cuarto año - 7mo ciclo",
+      "materias": [
+        {
+          "codigo": "EC213",
+          "nombre": "ECONOMÍA I",
+          "creditos": 4
+        },
+        {
+          "codigo": "IS409",
+          "nombre": "INGENIERÍA DE COSTOS",
+          "creditos": 4
+        },
+        {
+          "codigo": "IU07",
+          "nombre": "MONEDA Y BANCA",
+          "creditos": 4
+        },
+        {
+          "codigo": "MA307",
+          "nombre": "INVESTIGACIÓN DE OPERACIONES I",
+          "creditos": 5
+        },
+        {
+          "codigo": "RA313",
+          "nombre": "SEGURIDAD INDUSTRIAL",
+          "creditos": 4
+        },
+        {
+          "codigo": "RA315",
+          "nombre": "TEORÍA DE DECISIONES",
+          "creditos": 4
+        },
+        {
+          "codigo": "SNP10",
+          "nombre": "SEMINARIO DE NEGOCIOS Y PROCESOS DE ADMINISTRACIÓN",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 29
+    },
+    {
+      "nombre": "cuarto año - 8vo ciclo",
+      "materias": [
+        {
+          "codigo": "AR501",
+          "nombre": "ADMINISTRACIÓN DE LA PRODUCCIÓN",
+          "creditos": 4
+        },
+        {
+          "codigo": "AS010",
+          "nombre": "APLICACIONES DE SOFTWARE PARA ADMINISTRACIÓN",
+          "creditos": 4
+        },
+        {
+          "codigo": "EC214",
+          "nombre": "ECONOMÍA II",
+          "creditos": 5
+        },
+        {
+          "codigo": "IG005",
+          "nombre": "LOGÍSTICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "MA216",
+          "nombre": "ECONOMETRÍA",
+          "creditos": 4
+        },
+        {
+          "codigo": "MA308",
+          "nombre": "INVESTIGACIÓN DE OPERACIONES II",
+          "creditos": 5
+        }
+      ],
+      "total_creditos": 26
+    }
+  ],
+  "materias_totales": 53,
+  "creditos_totales": 228,
+  "texto_completo": "UNIVERSIDAD GALILEO\nCARRERA: Ingeniería Administrativa\nTotal de materias: 53\nTotal de créditos: 228\nURL: https://www.galileo.edu/facti/carrera/iad/informacion-de-la-carrera/pensum/\n================================================================================\n\nprimer año - 1er ciclo\n============================================================\n- TECNOLOGÍA DESCRIPTIVA (IS425) - 3 créditos\n- INICIATIVA EMPRESARIAL (IU01) - 3 créditos\n- NIVELACIÓN MATEMÁTICA (IU02) - 8 créditos\n- LABORATORIO DE QUÍMICA GENERAL (LQ001) - 1 créditos\n- CIENCIAS DE LA COMPUTACIÓN I (PC111) - 5 créditos\n- DIBUJO TÉCNICO (PC403) - 5 créditos\n- QUÍMICA GENERAL (QU401) - 4 créditos\n\n\nprimer año - 2do ciclo\n============================================================\n- INTRODUCCIÓN A LA ADMINISTRACIÓN DE EMPRESAS (AD501) - 4 créditos\n- FÍSICA GENERAL I (FI402) - 4 créditos\n- CONTABILIDAD GENERAL I (IAD01) - 3 créditos\n- LABORATORIO DE FÍSICA GENERAL I (LFG01) - 1 créditos\n- MATEMÁTICA 108 (MA0101) - 8 créditos\n- CIENCIAS DE LA COMPUTACIÓN II (PC112) - 5 créditos\n- DISEÑO ASISTIDO POR COMPUTADORAS (PC404) - 4 créditos\n\n\nsegundo año - 3er ciclo\n============================================================\n- CONTABILIDAD II (AD202) - 4 créditos\n- LEGISLACIÓN (CS318) - 4 créditos\n- FÍSICA GENERAL II (FI403) - 4 créditos\n- DISEÑO GRAFICO (IG006) - 4 créditos\n- LABORATORIO DE FÍSICA GENERAL II (LFG02) - 1 créditos\n- MATEMÁTICA 208 (MA0208) - 8 créditos\n- CIENCIAS DE LA COMPUTACIÓN III (PC117) - 5 créditos\n\n\nsegundo año - 4to ciclo\n============================================================\n- MERCADOTECNIA (EC411) - 4 créditos\n- NORMAS Y REGULACIONES (IAD02) - 4 créditos\n- PSICOLOGÍA INDUSTRIAL (IS422) - 4 créditos\n- MATEMÁTICA 308 (MA0308) - 6 créditos\n- ESTADÍSTICA I (MA311) - 4 créditos\n- MECÁNICA PARA INGENIEROS (MPI01) - 4 créditos\n- CONTABILIDAD FINANCIERA (RA301) - 4 créditos\n\n\ntercer año - 5to ciclo\n============================================================\n- ADMINISTRACIÓN DE RECURSOS HUMANOS (AD302) - 4 créditos\n- COMERCIO ELECTRÓNICO (CE005) - 4 créditos\n- DISEÑO INDUSTRIAL (DI101) - 4 créditos\n- GERENCIA (GE100) - 4 créditos\n- MÉTODOS APLICADOS I (IU10) - 5 créditos\n- ESTADÍSTICA II (MA312) - 5 créditos\n\n\ntercer año - 6to ciclo\n============================================================\n- ESTADÍSTICA PARA LA CALIDAD (IS407) - 5 créditos\n- INGENIERÍA DE MÉTODOS (IS411) - 5 créditos\n- FORMULACIÓN Y EVALUACIÓN DE PROYECTOS (IS420) - 5 créditos\n- MÉTODOS APLICADOS II (IU06) - 5 créditos\n- COMERCIO INTERNACIONAL (LABF20) - 5 créditos\n- ADMINISTRACIÓN FINANCIERA (RA303) - 4 créditos\n\n\ncuarto año - 7mo ciclo\n============================================================\n- ECONOMÍA I (EC213) - 4 créditos\n- INGENIERÍA DE COSTOS (IS409) - 4 créditos\n- MONEDA Y BANCA (IU07) - 4 créditos\n- INVESTIGACIÓN DE OPERACIONES I (MA307) - 5 créditos\n- SEGURIDAD INDUSTRIAL (RA313) - 4 créditos\n- TEORÍA DE DECISIONES (RA315) - 4 créditos\n- SEMINARIO DE NEGOCIOS Y PROCESOS DE ADMINISTRACIÓN (SNP10) - 4 créditos\n\n\ncuarto año - 8vo ciclo\n============================================================\n- ADMINISTRACIÓN DE LA PRODUCCIÓN (AR501) - 4 créditos\n- APLICACIONES DE SOFTWARE PARA ADMINISTRACIÓN (AS010) - 4 créditos\n- ECONOMÍA II (EC214) - 5 créditos\n- LOGÍSTICA (IG005) - 4 créditos\n- ECONOMETRÍA (MA216) - 4 créditos\n- INVESTIGACIÓN DE OPERACIONES II (MA308) - 5 créditos\n"
+}

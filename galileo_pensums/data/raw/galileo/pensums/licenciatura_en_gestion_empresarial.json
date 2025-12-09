@@ -1,0 +1,306 @@
+{
+  "carrera": "Licenciatura en Gestión Empresarial",
+  "universidad": "Galileo",
+  "url": "https://www.galileo.edu/facisa/carrera/lge/pensum/",
+  "ciclos": [
+    {
+      "nombre": "primer año - 1er ciclo",
+      "materias": [
+        {
+          "codigo": "FG407",
+          "nombre": "ANÁLISIS FINAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "MA001",
+          "nombre": "MATEMÁTICA BÁSICA",
+          "creditos": 3
+        },
+        {
+          "codigo": "RT309",
+          "nombre": "MANEJO DE PAQUETES DE SOFTWARE I",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "primer año - 2do ciclo",
+      "materias": [
+        {
+          "codigo": "MA311",
+          "nombre": "ESTADÍSTICA I",
+          "creditos": 3
+        },
+        {
+          "codigo": "RT310",
+          "nombre": "MANEJO DE PAQUETES DE SOFTWARE II",
+          "creditos": 3
+        },
+        {
+          "codigo": "SC010",
+          "nombre": "SERVICIO AL CLIENTE",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "primer año - 3er ciclo",
+      "materias": [
+        {
+          "codigo": "LGE001",
+          "nombre": "TEORÍA DE LA CALIDAD",
+          "creditos": 3
+        },
+        {
+          "codigo": "MA312",
+          "nombre": "ESTADÍSTICA II",
+          "creditos": 3
+        },
+        {
+          "codigo": "RT314",
+          "nombre": "MANEJO DE PAQUETES DE SOFTWARE III",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "primer año - 4to ciclo",
+      "materias": [
+        {
+          "codigo": "AD203",
+          "nombre": "CONTABILIDAD GENERAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "GE609",
+          "nombre": "ELABORACIÓN DE PROYECTOS",
+          "creditos": 3
+        },
+        {
+          "codigo": "RT315",
+          "nombre": "MANEJO DE PAQUETES DE SOFTWARE IV",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "segundo año - 5to ciclo",
+      "materias": [
+        {
+          "codigo": "AD308",
+          "nombre": "AUTOMATIZACIÓN DE OFICINAS",
+          "creditos": 3
+        },
+        {
+          "codigo": "AH101",
+          "nombre": "PRINCIPIOS DE ADMINISTRACIÓN",
+          "creditos": 3
+        },
+        {
+          "codigo": "CS100",
+          "nombre": "LA CALIDAD EN EL SERVICIO",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "segundo año - 6to ciclo",
+      "materias": [
+        {
+          "codigo": "CS313",
+          "nombre": "FUNDAMENTOS DE DERECHO",
+          "creditos": 3
+        },
+        {
+          "codigo": "EM020",
+          "nombre": "EMPRESARIALIDAD",
+          "creditos": 3
+        },
+        {
+          "codigo": "LGE002",
+          "nombre": "PRUEBAS DE EVALUACIÓN DE PERSONAL",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "segundo año - 7mo ciclo",
+      "materias": [
+        {
+          "codigo": "D0001",
+          "nombre": "ANÁLISIS DE INFORMACIÓN",
+          "creditos": 3
+        },
+        {
+          "codigo": "FG205",
+          "nombre": "TÉCNICAS DE INVESTIGACIÓN",
+          "creditos": 3
+        },
+        {
+          "codigo": "LGE003",
+          "nombre": "PRINCIPIOS ECONÓMICOS",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "segundo año - 8vo ciclo",
+      "materias": [
+        {
+          "codigo": "EM021",
+          "nombre": "EMPRESARIALIDAD II",
+          "creditos": 3
+        },
+        {
+          "codigo": "FG305",
+          "nombre": "ÉTICA",
+          "creditos": 3
+        },
+        {
+          "codigo": "LGE004",
+          "nombre": "MERCADEO BÁSICO",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 9
+    },
+    {
+      "nombre": "tercer año - 9no ciclo",
+      "materias": [
+        {
+          "codigo": "LGE005",
+          "nombre": "LIDERAZGO Y TRABAJO EN EQUIPO",
+          "creditos": 3
+        },
+        {
+          "codigo": "LGE006",
+          "nombre": "DERECHO EMPRESARIAL",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 6
+    },
+    {
+      "nombre": "tercer año - 10mo ciclo",
+      "materias": [
+        {
+          "codigo": "AD010",
+          "nombre": "PLANIFICACIÓN ESTRATÉGICA",
+          "creditos": 3
+        },
+        {
+          "codigo": "CI405",
+          "nombre": "SEMINARIO DE INFORMÁTICA",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 6
+    },
+    {
+      "nombre": "tercer año - 11er ciclo",
+      "materias": [
+        {
+          "codigo": "AD204",
+          "nombre": "CONTABILIDAD GERENCIAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "LGE007",
+          "nombre": "MATEMÁTICA FINANCIERA I",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 6
+    },
+    {
+      "nombre": "tercer año - 12do ciclo",
+      "materias": [
+        {
+          "codigo": "MA103",
+          "nombre": "MATEMÁTICA FINANCIERA II",
+          "creditos": 3
+        },
+        {
+          "codigo": "NE202",
+          "nombre": "MERCADEO ESTRATÉGICO",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 6
+    },
+    {
+      "nombre": "cuarto año - 13er ciclo",
+      "materias": [
+        {
+          "codigo": "CE100",
+          "nombre": "CONTROL Y EVALUACIÓN DE PROYECTOS",
+          "creditos": 3
+        },
+        {
+          "codigo": "FR032",
+          "nombre": "CALIDAD TOTAL",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 6
+    },
+    {
+      "nombre": "cuarto año - 14to ciclo",
+      "materias": [
+        {
+          "codigo": "AD302",
+          "nombre": "ADMINISTRACIÓN DE RECURSOS HUMANOS",
+          "creditos": 3
+        },
+        {
+          "codigo": "RA303",
+          "nombre": "ADMINISTRACIÓN FINANCIERA",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 6
+    },
+    {
+      "nombre": "cuarto año - 15to ciclo",
+      "materias": [
+        {
+          "codigo": "AD301",
+          "nombre": "TEORÍA GERENCIAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "CS325",
+          "nombre": "ESTADÍSTICA APLICADA",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 6
+    },
+    {
+      "nombre": "cuarto año - 16to ciclo",
+      "materias": [
+        {
+          "codigo": "CE005",
+          "nombre": "COMERCIO ELECTRÓNICO",
+          "creditos": 3
+        },
+        {
+          "codigo": "LGE008",
+          "nombre": "SEMINARIO DE GESTIÓN EMPRESARIAL",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 6
+    }
+  ],
+  "materias_totales": 40,
+  "creditos_totales": 120,
+  "texto_completo": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gestión Empresarial\nTotal de materias: 40\nTotal de créditos: 120\nURL: https://www.galileo.edu/facisa/carrera/lge/pensum/\n================================================================================\n\nprimer año - 1er ciclo\n============================================================\n- ANÁLISIS FINAL (FG407) - 3 créditos\n- MATEMÁTICA BÁSICA (MA001) - 3 créditos\n- MANEJO DE PAQUETES DE SOFTWARE I (RT309) - 3 créditos\n\n\nprimer año - 2do ciclo\n============================================================\n- ESTADÍSTICA I (MA311) - 3 créditos\n- MANEJO DE PAQUETES DE SOFTWARE II (RT310) - 3 créditos\n- SERVICIO AL CLIENTE (SC010) - 3 créditos\n\n\nprimer año - 3er ciclo\n============================================================\n- TEORÍA DE LA CALIDAD (LGE001) - 3 créditos\n- ESTADÍSTICA II (MA312) - 3 créditos\n- MANEJO DE PAQUETES DE SOFTWARE III (RT314) - 3 créditos\n\n\nprimer año - 4to ciclo\n============================================================\n- CONTABILIDAD GENERAL (AD203) - 3 créditos\n- ELABORACIÓN DE PROYECTOS (GE609) - 3 créditos\n- MANEJO DE PAQUETES DE SOFTWARE IV (RT315) - 3 créditos\n\n\nsegundo año - 5to ciclo\n============================================================\n- AUTOMATIZACIÓN DE OFICINAS (AD308) - 3 créditos\n- PRINCIPIOS DE ADMINISTRACIÓN (AH101) - 3 créditos\n- LA CALIDAD EN EL SERVICIO (CS100) - 3 créditos\n\n\nsegundo año - 6to ciclo\n============================================================\n- FUNDAMENTOS DE DERECHO (CS313) - 3 créditos\n- EMPRESARIALIDAD (EM020) - 3 créditos\n- PRUEBAS DE EVALUACIÓN DE PERSONAL (LGE002) - 3 créditos\n\n\nsegundo año - 7mo ciclo\n============================================================\n- ANÁLISIS DE INFORMACIÓN (D0001) - 3 créditos\n- TÉCNICAS DE INVESTIGACIÓN (FG205) - 3 créditos\n- PRINCIPIOS ECONÓMICOS (LGE003) - 3 créditos\n\n\nsegundo año - 8vo ciclo\n============================================================\n- EMPRESARIALIDAD II (EM021) - 3 créditos\n- ÉTICA (FG305) - 3 créditos\n- MERCADEO BÁSICO (LGE004) - 3 créditos\n\n\ntercer año - 9no ciclo\n============================================================\n- LIDERAZGO Y TRABAJO EN EQUIPO (LGE005) - 3 créditos\n- DERECHO EMPRESARIAL (LGE006) - 3 créditos\n\n\ntercer año - 10mo ciclo\n============================================================\n- PLANIFICACIÓN ESTRATÉGICA (AD010) - 3 créditos\n- SEMINARIO DE INFORMÁTICA (CI405) - 3 créditos\n\n\ntercer año - 11er ciclo\n============================================================\n- CONTABILIDAD GERENCIAL (AD204) - 3 créditos\n- MATEMÁTICA FINANCIERA I (LGE007) - 3 créditos\n\n\ntercer año - 12do ciclo\n============================================================\n- MATEMÁTICA FINANCIERA II (MA103) - 3 créditos\n- MERCADEO ESTRATÉGICO (NE202) - 3 créditos\n\n\ncuarto año - 13er ciclo\n============================================================\n- CONTROL Y EVALUACIÓN DE PROYECTOS (CE100) - 3 créditos\n- CALIDAD TOTAL (FR032) - 3 créditos\n\n\ncuarto año - 14to ciclo\n============================================================\n- ADMINISTRACIÓN DE RECURSOS HUMANOS (AD302) - 3 créditos\n- ADMINISTRACIÓN FINANCIERA (RA303) - 3 créditos\n\n\ncuarto año - 15to ciclo\n============================================================\n- TEORÍA GERENCIAL (AD301) - 3 créditos\n- ESTADÍSTICA APLICADA (CS325) - 3 créditos\n\n\ncuarto año - 16to ciclo\n============================================================\n- COMERCIO ELECTRÓNICO (CE005) - 3 créditos\n- SEMINARIO DE GESTIÓN EMPRESARIAL (LGE008) - 3 créditos\n"
+}

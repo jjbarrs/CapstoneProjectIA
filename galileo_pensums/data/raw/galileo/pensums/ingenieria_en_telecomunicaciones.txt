@@ -1,0 +1,89 @@
+UNIVERSIDAD GALILEO
+CARRERA: INGENIERÍA EN TELECOMUNICACIONES Y REDES TELEINFORMÁTICAS
+Total de materias: 52
+Total de créditos: 241
+URL: https://www.galileo.edu/pensums/?gphcarrera=itr
+================================================================================
+
+primer año - 1er ciclo
+============================================================
+- TÉCNICAS DE INVESTIGACIÓN Y APRENDIZAJE (FG050) - 3 créditos
+- FÍSICA I (FI201) - 5 créditos
+- INFORMÁTICA I (IN301) - 4 créditos
+- TECNOLOGÍA DESCRIPTIVA (IS425) - 3 créditos
+- MATEMÁTICA I (MA201) - 8 créditos
+- CIENCIAS DE LA COMPUTACIÓN I (PC111) - 5 créditos
+
+
+primer año - 2do ciclo
+============================================================
+- EVOLUCIÓN DE LA CIENCIA Y LA TECNOLOGÍA (FG051) - 3 créditos
+- FÍSICA II (FI202) - 5 créditos
+- INFORMÁTICA II (IN302) - 4 créditos
+- MATEMÁTICA II (MA202) - 8 créditos
+- CIENCIAS DE LA COMPUTACIÓN II (PC112) - 5 créditos
+- DIBUJO TÉCNICO (PC403) - 3 créditos
+
+
+segundo año - 3er ciclo
+============================================================
+- ELECTRICIDAD I (EL103) - 3 créditos
+- FÍSICA III (FI203) - 5 créditos
+- INFORMÁTICA III (IN303) - 4 créditos
+- MATEMÁTICA III (MA203) - 8 créditos
+- ÁLGEBRA LINEAL I (MA206) - 4 créditos
+- CIENCIAS DE LA COMPUTACIÓN III (PC117) - 7 créditos
+
+
+segundo año - 4to ciclo
+============================================================
+- ELECTRICIDAD II (EL104) - 3 créditos
+- ELECTRÓNICA I (EL201) - 4 créditos
+- FÍSICA IV (FI204) - 4 créditos
+- MATEMÁTICA IV (MA204) - 6 créditos
+- ÁLGEBRA LINEAL II (MA207) - 4 créditos
+- ECUACIONES DIFERENCIALES ORDINARIAS (MA415) - 4 créditos
+- REDES DIGITALES I (RD205) - 6 créditos
+
+
+tercer año - 5to ciclo
+============================================================
+- INSTRUMENTACIÓN ELECTRÓNICA (DICA05) - 4 créditos
+- ELECTRÓNICA II (EL204) - 4 créditos
+- FÍSICA V (FI210) - 4 créditos
+- MATEMÁTICA V (MA205) - 6 créditos
+- ESTADÍSTICA MATEMÁTICA (MA212) - 4 créditos
+- REDES DIGITALES II (RD206) - 4 créditos
+- SISTEMAS INALÁMBRICOS I (SI501) - 6 créditos
+
+
+tercer año - 6to ciclo
+============================================================
+- INSTRUMENTACIÓN ELECTRÓNICA II (EL315) - 4 créditos
+- SEGURIDAD INFORMÁTICA (LSI001) - 4 créditos
+- MATEMÁTICA VI (MA213) - 5 créditos
+- REDES DIGITALES III (RD207) - 5 créditos
+- SISTEMAS Y SEÑALES I (TC036) - 5 créditos
+- TEORÍA ELECTROMAGNÉTICA (TE408) - 5 créditos
+
+
+cuarto año - 7mo ciclo
+============================================================
+- ARQUITECTURA DEL COMPUTADOR (CH002) - 5 créditos
+- ECONOMÍA I (EC213) - 3 créditos
+- INSTALACIONES ELÉCTRICAS (EL205) - 4 créditos
+- MATEMÁTICA VII (MA214) - 4 créditos
+- INVESTIGACIÓN DE OPERACIONES I (MA307) - 4 créditos
+- REDES DIGITALES IV (RD208) - 5 créditos
+- SISTEMAS Y SEÑALES II (TC037) - 6 créditos
+
+
+cuarto año - 8vo ciclo
+============================================================
+- ECONOMÍA II (EC214) - 3 créditos
+- INVESTIGACIÓN DE OPERACIONES II (MA308) - 4 créditos
+- MICROONDA Y FIBRA ÓPTICA (MF216) - 6 créditos
+- REDES DIGITALES V (RD308) - 5 créditos
+- SISTEMAS INALÁMBRICOS II (SI801) - 5 créditos
+- SEMINARIO DE APLICACIONES DE REDES (TL801) - 5 créditos
+- TÉCNICAS DE MEDICIÓN EN SISTEMAS DE TELECOMUNICACIONES (TT102) - 4 créditos

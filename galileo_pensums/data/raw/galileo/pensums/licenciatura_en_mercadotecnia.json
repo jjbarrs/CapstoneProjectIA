@@ -1,0 +1,298 @@
+{
+  "carrera": "Licenciatura en Mercadotecnia",
+  "universidad": "Galileo",
+  "url": "https://www.galileo.edu/pensums/?gphcarrera=LMER",
+  "ciclos": [
+    {
+      "nombre": "primer año - 1er ciclo",
+      "materias": [
+        {
+          "codigo": "AC108",
+          "nombre": "TALLER DE EXPRESIÓN PROFESIONAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "AD025",
+          "nombre": "TALLER DE ADMINISTRACIÓN DE EMPRESAS",
+          "creditos": 6
+        },
+        {
+          "codigo": "CS310",
+          "nombre": "PENSAMIENTO SISTÉMICO",
+          "creditos": 3
+        },
+        {
+          "codigo": "FC018",
+          "nombre": "RAZONAMIENTO MATEMÁTICO",
+          "creditos": 6
+        },
+        {
+          "codigo": "FR034",
+          "nombre": "MARKETING",
+          "creditos": 3
+        },
+        {
+          "codigo": "MER101",
+          "nombre": "PLATAFORMA DIGITAL Y CREATIVA",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 24
+    },
+    {
+      "nombre": "primer año - 2do ciclo",
+      "materias": [
+        {
+          "codigo": "AD203",
+          "nombre": "CONTABILIDAD GENERAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "EF202",
+          "nombre": "ECONOMÍA Y POLÍTICA",
+          "creditos": 6
+        },
+        {
+          "codigo": "ID208",
+          "nombre": "TALLER DE INGLÉS GERENCIAL I",
+          "creditos": 6
+        },
+        {
+          "codigo": "LG203",
+          "nombre": "LEGISLACIÓN LABORAL Y TRIBUTARIA",
+          "creditos": 3
+        },
+        {
+          "codigo": "MA102",
+          "nombre": "MATEMÁTICA FINANCIERA",
+          "creditos": 3
+        },
+        {
+          "codigo": "NE202",
+          "nombre": "MERCADEO ESTRATÉGICO",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 24
+    },
+    {
+      "nombre": "segundo año - 3er ciclo",
+      "materias": [
+        {
+          "codigo": "AM301",
+          "nombre": "TALLER DE PROGRAMACIÓN EMPRESARIAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "CS325",
+          "nombre": "ESTADÍSTICA APLICADA",
+          "creditos": 3
+        },
+        {
+          "codigo": "DI0100",
+          "nombre": "COSTOS Y PRESUPUESTOS",
+          "creditos": 3
+        },
+        {
+          "codigo": "DI0101",
+          "nombre": "INVESTIGACIÓN DE MERCADOS",
+          "creditos": 6
+        },
+        {
+          "codigo": "ID305",
+          "nombre": "TALLER DE INGLÉS GERENCIAL II",
+          "creditos": 6
+        },
+        {
+          "codigo": "MER305",
+          "nombre": "MARKETING DIGITAL I",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 24
+    },
+    {
+      "nombre": "segundo año - 4to ciclo",
+      "materias": [
+        {
+          "codigo": "AD800",
+          "nombre": "GESTIÓN DE PROYECTOS",
+          "creditos": 3
+        },
+        {
+          "codigo": "AM401",
+          "nombre": "ÉTICA SOCIAL Y EMPRESARIAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "EC201",
+          "nombre": "MICROECONOMÍA",
+          "creditos": 3
+        },
+        {
+          "codigo": "MER401",
+          "nombre": "MARKETING DIGITAL II",
+          "creditos": 6
+        },
+        {
+          "codigo": "MER402",
+          "nombre": "MEZCLA PROMOCIONAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "RA303",
+          "nombre": "ADMINISTRACIÓN FINANCIERA",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 24
+    },
+    {
+      "nombre": "tercer año - 5to ciclo",
+      "materias": [
+        {
+          "codigo": "AC131",
+          "nombre": "ADMINISTRACIÓN DE VENTAS",
+          "creditos": 6
+        },
+        {
+          "codigo": "AM501",
+          "nombre": "GESTIÓN DEL TALENTO HUMANO I",
+          "creditos": 3
+        },
+        {
+          "codigo": "EC202",
+          "nombre": "MACROECONOMÍA",
+          "creditos": 3
+        },
+        {
+          "codigo": "IDE280",
+          "nombre": "DESARROLLO Y ADAPTACIÓN DE PRODUCTOS",
+          "creditos": 6
+        },
+        {
+          "codigo": "IG005",
+          "nombre": "LOGÍSTICA",
+          "creditos": 3
+        },
+        {
+          "codigo": "MVD001",
+          "nombre": "MERCADOTECNIA DE VENTA AL DETALLE",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 24
+    },
+    {
+      "nombre": "tercer año - 6to ciclo",
+      "materias": [
+        {
+          "codigo": "AM601",
+          "nombre": "COMPETENCIAS DIRECTIVAS",
+          "creditos": 3
+        },
+        {
+          "codigo": "CP602",
+          "nombre": "TECNOLOGÍA DE LA INFORMACIÓN Y COMUNICACIÓN (TIC)",
+          "creditos": 6
+        },
+        {
+          "codigo": "LABF20",
+          "nombre": "COMERCIO INTERNACIONAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "ME008",
+          "nombre": "MERCADO TRADICIONAL Y MODERNO",
+          "creditos": 3
+        },
+        {
+          "codigo": "MER603",
+          "nombre": "EMPRENEGOCIOS I",
+          "creditos": 6
+        },
+        {
+          "codigo": "MER605",
+          "nombre": "ESTRATEGIA DE MEDIOS",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 24
+    },
+    {
+      "nombre": "cuarto año - 7mo ciclo",
+      "materias": [
+        {
+          "codigo": "AM709",
+          "nombre": "SIX SIGMA",
+          "creditos": 6
+        },
+        {
+          "codigo": "FG407",
+          "nombre": "ANÁLISIS FINAL",
+          "creditos": 3
+        },
+        {
+          "codigo": "MCM013",
+          "nombre": "RELACIONES PÚBLICAS Y COMUNICACIÓN CORPORATIVA",
+          "creditos": 3
+        },
+        {
+          "codigo": "MDT003",
+          "nombre": "SEMINARIO DE CASOS",
+          "creditos": 6
+        },
+        {
+          "codigo": "MS",
+          "nombre": "MARKETING DE SERVICIO",
+          "creditos": 3
+        },
+        {
+          "codigo": "PPS001",
+          "nombre": "PRÁCTICA PROFESIONAL SUPERVISADA",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 27
+    },
+    {
+      "nombre": "cuarto año - 8vo ciclo",
+      "materias": [
+        {
+          "codigo": "AM802",
+          "nombre": "INNOVACIÓN Y PRODUCTIVIDAD",
+          "creditos": 3
+        },
+        {
+          "codigo": "EF805",
+          "nombre": "FINANZAS GERENCIALES (SEMINARIOS LIBRES)",
+          "creditos": 6
+        },
+        {
+          "codigo": "MEI01",
+          "nombre": "METODOLOGÍA DE LA INVESTIGACIÓN",
+          "creditos": 6
+        },
+        {
+          "codigo": "MER803",
+          "nombre": "EMPRENEGOCIOS II",
+          "creditos": 6
+        },
+        {
+          "codigo": "MER805",
+          "nombre": "MARKETING PLAN",
+          "creditos": 3
+        },
+        {
+          "codigo": "MER806",
+          "nombre": "DESARROLLO DE CAMPAÑAS PUBLICITARIAS",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 27
+    }
+  ],
+  "materias_totales": 48,
+  "creditos_totales": 198,
+  "texto_completo": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Mercadotecnia\nTotal de materias: 48\nTotal de créditos: 198\nURL: https://www.galileo.edu/pensums/?gphcarrera=LMER\n================================================================================\n\nprimer año - 1er ciclo\n============================================================\n- TALLER DE EXPRESIÓN PROFESIONAL (AC108) - 3 créditos\n- TALLER DE ADMINISTRACIÓN DE EMPRESAS (AD025) - 6 créditos\n- PENSAMIENTO SISTÉMICO (CS310) - 3 créditos\n- RAZONAMIENTO MATEMÁTICO (FC018) - 6 créditos\n- MARKETING (FR034) - 3 créditos\n- PLATAFORMA DIGITAL Y CREATIVA (MER101) - 3 créditos\n\n\nprimer año - 2do ciclo\n============================================================\n- CONTABILIDAD GENERAL (AD203) - 3 créditos\n- ECONOMÍA Y POLÍTICA (EF202) - 6 créditos\n- TALLER DE INGLÉS GERENCIAL I (ID208) - 6 créditos\n- LEGISLACIÓN LABORAL Y TRIBUTARIA (LG203) - 3 créditos\n- MATEMÁTICA FINANCIERA (MA102) - 3 créditos\n- MERCADEO ESTRATÉGICO (NE202) - 3 créditos\n\n\nsegundo año - 3er ciclo\n============================================================\n- TALLER DE PROGRAMACIÓN EMPRESARIAL (AM301) - 3 créditos\n- ESTADÍSTICA APLICADA (CS325) - 3 créditos\n- COSTOS Y PRESUPUESTOS (DI0100) - 3 créditos\n- INVESTIGACIÓN DE MERCADOS (DI0101) - 6 créditos\n- TALLER DE INGLÉS GERENCIAL II (ID305) - 6 créditos\n- MARKETING DIGITAL I (MER305) - 3 créditos\n\n\nsegundo año - 4to ciclo\n============================================================\n- GESTIÓN DE PROYECTOS (AD800) - 3 créditos\n- ÉTICA SOCIAL Y EMPRESARIAL (AM401) - 3 créditos\n- MICROECONOMÍA (EC201) - 3 créditos\n- MARKETING DIGITAL II (MER401) - 6 créditos\n- MEZCLA PROMOCIONAL (MER402) - 3 créditos\n- ADMINISTRACIÓN FINANCIERA (RA303) - 6 créditos\n\n\ntercer año - 5to ciclo\n============================================================\n- ADMINISTRACIÓN DE VENTAS (AC131) - 6 créditos\n- GESTIÓN DEL TALENTO HUMANO I (AM501) - 3 créditos\n- MACROECONOMÍA (EC202) - 3 créditos\n- DESARROLLO Y ADAPTACIÓN DE PRODUCTOS (IDE280) - 6 créditos\n- LOGÍSTICA (IG005) - 3 créditos\n- MERCADOTECNIA DE VENTA AL DETALLE (MVD001) - 3 créditos\n\n\ntercer año - 6to ciclo\n============================================================\n- COMPETENCIAS DIRECTIVAS (AM601) - 3 créditos\n- TECNOLOGÍA DE LA INFORMACIÓN Y COMUNICACIÓN (TIC) (CP602) - 6 créditos\n- COMERCIO INTERNACIONAL (LABF20) - 3 créditos\n- MERCADO TRADICIONAL Y MODERNO (ME008) - 3 créditos\n- EMPRENEGOCIOS I (MER603) - 6 créditos\n- ESTRATEGIA DE MEDIOS (MER605) - 3 créditos\n\n\ncuarto año - 7mo ciclo\n============================================================\n- SIX SIGMA (AM709) - 6 créditos\n- ANÁLISIS FINAL (FG407) - 3 créditos\n- RELACIONES PÚBLICAS Y COMUNICACIÓN CORPORATIVA (MCM013) - 3 créditos\n- SEMINARIO DE CASOS (MDT003) - 6 créditos\n- MARKETING DE SERVICIO (MS) - 3 créditos\n- PRÁCTICA PROFESIONAL SUPERVISADA (PPS001) - 6 créditos\n\n\ncuarto año - 8vo ciclo\n============================================================\n- INNOVACIÓN Y PRODUCTIVIDAD (AM802) - 3 créditos\n- FINANZAS GERENCIALES (SEMINARIOS LIBRES) (EF805) - 6 créditos\n- METODOLOGÍA DE LA INVESTIGACIÓN (MEI01) - 6 créditos\n- EMPRENEGOCIOS II (MER803) - 6 créditos\n- MARKETING PLAN (MER805) - 3 créditos\n- DESARROLLO DE CAMPAÑAS PUBLICITARIAS (MER806) - 3 créditos\n"
+}

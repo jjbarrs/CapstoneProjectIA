@@ -1,0 +1,370 @@
+{
+  "carrera": "Licenciatura en Psicopedagogía",
+  "universidad": "Galileo",
+  "url": "https://www.galileo.edu/faced/carrera/licenciatura-psicopedagogia/pensum/",
+  "ciclos": [
+    {
+      "nombre": "primer año - 1er ciclo",
+      "materias": [
+        {
+          "codigo": "INEC00",
+          "nombre": "INSTRUMENTOS DE EVALUACIÓN DE LA CONDUCTA",
+          "creditos": 2
+        },
+        {
+          "codigo": "IPA00",
+          "nombre": "INTRODUCCIÓN A LOS PROBLEMAS DE APRENDIZAJE",
+          "creditos": 2
+        },
+        {
+          "codigo": "MA201",
+          "nombre": "MATEMÁTICA I",
+          "creditos": 2
+        },
+        {
+          "codigo": "PD001",
+          "nombre": "PSICOPEDAGOGÍA DEL DESARROLLO I",
+          "creditos": 2
+        },
+        {
+          "codigo": "PEAN",
+          "nombre": "PEDAGOGÍA Y ANDRAGOGÍA",
+          "creditos": 2
+        },
+        {
+          "codigo": "TALEC",
+          "nombre": "TALLER DE LECTURA Y ESCRITURA",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 13
+    },
+    {
+      "nombre": "primer año - 2do ciclo",
+      "materias": [
+        {
+          "codigo": "LE007",
+          "nombre": "TÉCNICAS DE COMUNICACIÓN ORAL Y ESCRITA",
+          "creditos": 2
+        },
+        {
+          "codigo": "LPP103",
+          "nombre": "PSICOPEDAGOGÍA DE LA DIVERSIDAD",
+          "creditos": 2
+        },
+        {
+          "codigo": "MOI027",
+          "nombre": "TÉCNICAS DE INVESTIGACIÓN I",
+          "creditos": 2
+        },
+        {
+          "codigo": "PTA00",
+          "nombre": "PSICOPEDAGOGÍA DE LOS TRASTORNOS DE APRENDIZAJE",
+          "creditos": 2
+        },
+        {
+          "codigo": "RT309",
+          "nombre": "MANEJO DE PAQUETES DE SOFTWARE I",
+          "creditos": 2
+        },
+        {
+          "codigo": "TEA01",
+          "nombre": "TEORÍAS DEL APRENDIZAJE",
+          "creditos": 2
+        }
+      ],
+      "total_creditos": 12
+    },
+    {
+      "nombre": "segundo año - 3er ciclo",
+      "materias": [
+        {
+          "codigo": "ABEREP",
+          "nombre": "ABORDAJE DEL BAJO RENDIMIENTO ESCOLAR Y PROBLEMAS DE DISCIPLINA",
+          "creditos": 2
+        },
+        {
+          "codigo": "C0310",
+          "nombre": "TECNOLOGÍA EDUCATIVA",
+          "creditos": 2
+        },
+        {
+          "codigo": "EPSI01",
+          "nombre": "EVALUACIÓN PSICOPEDAGÓGICA I",
+          "creditos": 2
+        },
+        {
+          "codigo": "HU312",
+          "nombre": "HISTORIA DE GUATEMALA",
+          "creditos": 2
+        },
+        {
+          "codigo": "LPP004",
+          "nombre": "PSICOPEDAGOGÍA DEL DESARROLLO II",
+          "creditos": 2
+        },
+        {
+          "codigo": "LPP010",
+          "nombre": "NEUROCIENCIAS DE LA CONDUCTA",
+          "creditos": 2
+        }
+      ],
+      "total_creditos": 12
+    },
+    {
+      "nombre": "segundo año - 4to ciclo",
+      "materias": [
+        {
+          "codigo": "ABDI00",
+          "nombre": "ABORDAJE DE LA DISCALCULIA",
+          "creditos": 2
+        },
+        {
+          "codigo": "ADDI00",
+          "nombre": "ABORDAJE DE LA DISLEXIA Y LA DISGRAFÍA",
+          "creditos": 2
+        },
+        {
+          "codigo": "ECDA00",
+          "nombre": "ESTRATEGIAS CONSTRUCTIVISTAS DEL APRENDIZAJE",
+          "creditos": 2
+        },
+        {
+          "codigo": "LPP03",
+          "nombre": "DISEÑO Y ELABORACIÓN DE MATERIAL EDUCATIVO",
+          "creditos": 2
+        },
+        {
+          "codigo": "MA311",
+          "nombre": "ESTADÍSTICA I",
+          "creditos": 2
+        },
+        {
+          "codigo": "PTCO00",
+          "nombre": "PSICOPEDAGOGÍA DE LOS TRASTORNOS DE COMUNICACIÓN ORAL",
+          "creditos": 2
+        }
+      ],
+      "total_creditos": 12
+    },
+    {
+      "nombre": "tercer año - 5to ciclo",
+      "materias": [
+        {
+          "codigo": "EPSI02",
+          "nombre": "EVALUACIÓN PSICOPEDAGÓGICA II",
+          "creditos": 2
+        },
+        {
+          "codigo": "EU313",
+          "nombre": "EVALUACIÓN DEL RENDIMIENTO ESCOLAR",
+          "creditos": 2
+        },
+        {
+          "codigo": "HELE00",
+          "nombre": "HISTORIA DE LA EDUCACIÓN Y LEGISLACIÓN EDUCATIVA",
+          "creditos": 2
+        },
+        {
+          "codigo": "LPP014",
+          "nombre": "PSICOPEDAGOGÍA DEL DESARROLLO III",
+          "creditos": 2
+        },
+        {
+          "codigo": "PP1",
+          "nombre": "PRÁCTICA PROFESIONAL I",
+          "creditos": 3
+        },
+        {
+          "codigo": "TELP00",
+          "nombre": "TEORÍA DE LA PERSONALIDAD",
+          "creditos": 2
+        }
+      ],
+      "total_creditos": 13
+    },
+    {
+      "nombre": "tercer año - 6to ciclo",
+      "materias": [
+        {
+          "codigo": "CS304",
+          "nombre": "INTRODUCCIÓN AL PENSAMIENTO SISTÉMICO",
+          "creditos": 2
+        },
+        {
+          "codigo": "LEH02",
+          "nombre": "INVESTIGACIÓN EDUCATIVA I",
+          "creditos": 3
+        },
+        {
+          "codigo": "LPP102",
+          "nombre": "PSICODIAGNÓSTICO I",
+          "creditos": 2
+        },
+        {
+          "codigo": "PEJD00",
+          "nombre": "PSICOPEDAGOGÍA DEL EJERCICIO Y DEPORTE",
+          "creditos": 2
+        },
+        {
+          "codigo": "PSDI00",
+          "nombre": "PSICOPEDAGOGÍA DE LA DISCAPACIDAD INTELECTUAL",
+          "creditos": 2
+        },
+        {
+          "codigo": "RT310",
+          "nombre": "MANEJO DE PAQUETES DE SOFTWARE II",
+          "creditos": 2
+        }
+      ],
+      "total_creditos": 13
+    },
+    {
+      "nombre": "cuarto año - 7mo ciclo",
+      "materias": [
+        {
+          "codigo": "EAL02",
+          "nombre": "ESTRATEGIAS PARA ENFRENTAR PROBLEMAS DEL SISTEMA EDUCATIVO GUATEMALTECO",
+          "creditos": 2
+        },
+        {
+          "codigo": "EPCA",
+          "nombre": "EDUCACIÓN POR COMPETENCIAS",
+          "creditos": 3
+        },
+        {
+          "codigo": "LPP028",
+          "nombre": "COMUNICACIÓN Y ÉTICA PROFESIONAL",
+          "creditos": 2
+        },
+        {
+          "codigo": "PDSO00",
+          "nombre": "PSICOPEDAGOGÍA DE LA SOBREDOTACIÓN",
+          "creditos": 2
+        },
+        {
+          "codigo": "PPCD00",
+          "nombre": "PSICOPEDAGOGÍA DE LOS PROCESOS COGNITIVOS DEFICIENTES",
+          "creditos": 2
+        },
+        {
+          "codigo": "PTEA00",
+          "nombre": "PSICOPEDAGOGÍA DE LOS TRASTORNOS DEL ESPECTRO AUTISTA",
+          "creditos": 2
+        }
+      ],
+      "total_creditos": 13
+    },
+    {
+      "nombre": "cuarto año - 8vo ciclo",
+      "materias": [
+        {
+          "codigo": "LPP025",
+          "nombre": "DISEÑO Y ELABORACIÓN DE PROYECTOS EDUCATIVOS",
+          "creditos": 2
+        },
+        {
+          "codigo": "LPP033",
+          "nombre": "PSICOLOGÍA COMUNITARIA",
+          "creditos": 2
+        },
+        {
+          "codigo": "MA312",
+          "nombre": "ESTADÍSTICA II",
+          "creditos": 2
+        },
+        {
+          "codigo": "PDMO00",
+          "nombre": "PSICOPEDAGOGÍA DE LAS DISCAPACIDADES MOTORAS",
+          "creditos": 2
+        },
+        {
+          "codigo": "PP2",
+          "nombre": "PRÁCTICA PROFESIONAL II",
+          "creditos": 3
+        },
+        {
+          "codigo": "PSDS00",
+          "nombre": "PSICOPEDAGOGÍA DE LAS DISCAPACIDADES SENSORIALES",
+          "creditos": 2
+        }
+      ],
+      "total_creditos": 13
+    },
+    {
+      "nombre": "quinto año - 9no ciclo",
+      "materias": [
+        {
+          "codigo": "DC010",
+          "nombre": "DISEÑO CURRICULAR",
+          "creditos": 2
+        },
+        {
+          "codigo": "IE112",
+          "nombre": "INVESTIGACIÓN EDUCATIVA II",
+          "creditos": 2
+        },
+        {
+          "codigo": "IELA00",
+          "nombre": "INTEGRACIÓN ESCOLAR Y LABORAL",
+          "creditos": 2
+        },
+        {
+          "codigo": "MACO00",
+          "nombre": "MÉTODOS ALTERNATIVOS PARA LA COMUNICACIÓN",
+          "creditos": 3
+        },
+        {
+          "codigo": "PANE00",
+          "nombre": "PROGRAMAS ESPECÍFICOS PARA EL ABORDAJE DE LAS NECESIDADES EDUCATIVAS ESPECIALES",
+          "creditos": 2
+        },
+        {
+          "codigo": "RT314",
+          "nombre": "MANEJO DE PAQUETES DE SOFTWARE III",
+          "creditos": 2
+        }
+      ],
+      "total_creditos": 13
+    },
+    {
+      "nombre": "quinto año - 10mo ciclo",
+      "materias": [
+        {
+          "codigo": "INPC00",
+          "nombre": "INTRODUCCIÓN A LA PSICOLOGÍA CLÍNICA",
+          "creditos": 2
+        },
+        {
+          "codigo": "LPP031",
+          "nombre": "ADMINISTRACIÓN ESCOLAR",
+          "creditos": 2
+        },
+        {
+          "codigo": "LPP035",
+          "nombre": "INVESTIGACIÓN CUALITATIVA",
+          "creditos": 2
+        },
+        {
+          "codigo": "OVOC00",
+          "nombre": "ORIENTACIÓN VOCACIONAL Y OCUPACIONAL",
+          "creditos": 2
+        },
+        {
+          "codigo": "PADL00",
+          "nombre": "PENSAMIENTO ADLERIANO",
+          "creditos": 2
+        },
+        {
+          "codigo": "PP3",
+          "nombre": "PRÁCTICA PROFESIONAL III",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 13
+    }
+  ],
+  "materias_totales": 60,
+  "creditos_totales": 127,
+  "texto_completo": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Psicopedagogía\nTotal de materias: 60\nTotal de créditos: 127\nURL: https://www.galileo.edu/faced/carrera/licenciatura-psicopedagogia/pensum/\n================================================================================\n\nprimer año - 1er ciclo\n============================================================\n- INSTRUMENTOS DE EVALUACIÓN DE LA CONDUCTA (INEC00) - 2 créditos\n- INTRODUCCIÓN A LOS PROBLEMAS DE APRENDIZAJE (IPA00) - 2 créditos\n- MATEMÁTICA I (MA201) - 2 créditos\n- PSICOPEDAGOGÍA DEL DESARROLLO I (PD001) - 2 créditos\n- PEDAGOGÍA Y ANDRAGOGÍA (PEAN) - 2 créditos\n- TALLER DE LECTURA Y ESCRITURA (TALEC) - 3 créditos\n\n\nprimer año - 2do ciclo\n============================================================\n- TÉCNICAS DE COMUNICACIÓN ORAL Y ESCRITA (LE007) - 2 créditos\n- PSICOPEDAGOGÍA DE LA DIVERSIDAD (LPP103) - 2 créditos\n- TÉCNICAS DE INVESTIGACIÓN I (MOI027) - 2 créditos\n- PSICOPEDAGOGÍA DE LOS TRASTORNOS DE APRENDIZAJE (PTA00) - 2 créditos\n- MANEJO DE PAQUETES DE SOFTWARE I (RT309) - 2 créditos\n- TEORÍAS DEL APRENDIZAJE (TEA01) - 2 créditos\n\n\nsegundo año - 3er ciclo\n============================================================\n- ABORDAJE DEL BAJO RENDIMIENTO ESCOLAR Y PROBLEMAS DE DISCIPLINA (ABEREP) - 2 créditos\n- TECNOLOGÍA EDUCATIVA (C0310) - 2 créditos\n- EVALUACIÓN PSICOPEDAGÓGICA I (EPSI01) - 2 créditos\n- HISTORIA DE GUATEMALA (HU312) - 2 créditos\n- PSICOPEDAGOGÍA DEL DESARROLLO II (LPP004) - 2 créditos\n- NEUROCIENCIAS DE LA CONDUCTA (LPP010) - 2 créditos\n\n\nsegundo año - 4to ciclo\n============================================================\n- ABORDAJE DE LA DISCALCULIA (ABDI00) - 2 créditos\n- ABORDAJE DE LA DISLEXIA Y LA DISGRAFÍA (ADDI00) - 2 créditos\n- ESTRATEGIAS CONSTRUCTIVISTAS DEL APRENDIZAJE (ECDA00) - 2 créditos\n- DISEÑO Y ELABORACIÓN DE MATERIAL EDUCATIVO (LPP03) - 2 créditos\n- ESTADÍSTICA I (MA311) - 2 créditos\n- PSICOPEDAGOGÍA DE LOS TRASTORNOS DE COMUNICACIÓN ORAL (PTCO00) - 2 créditos\n\n\ntercer año - 5to ciclo\n============================================================\n- EVALUACIÓN PSICOPEDAGÓGICA II (EPSI02) - 2 créditos\n- EVALUACIÓN DEL RENDIMIENTO ESCOLAR (EU313) - 2 créditos\n- HISTORIA DE LA EDUCACIÓN Y LEGISLACIÓN EDUCATIVA (HELE00) - 2 créditos\n- PSICOPEDAGOGÍA DEL DESARROLLO III (LPP014) - 2 créditos\n- PRÁCTICA PROFESIONAL I (PP1) - 3 créditos\n- TEORÍA DE LA PERSONALIDAD (TELP00) - 2 créditos\n\n\ntercer año - 6to ciclo\n============================================================\n- INTRODUCCIÓN AL PENSAMIENTO SISTÉMICO (CS304) - 2 créditos\n- INVESTIGACIÓN EDUCATIVA I (LEH02) - 3 créditos\n- PSICODIAGNÓSTICO I (LPP102) - 2 créditos\n- PSICOPEDAGOGÍA DEL EJERCICIO Y DEPORTE (PEJD00) - 2 créditos\n- PSICOPEDAGOGÍA DE LA DISCAPACIDAD INTELECTUAL (PSDI00) - 2 créditos\n- MANEJO DE PAQUETES DE SOFTWARE II (RT310) - 2 créditos\n\n\ncuarto año - 7mo ciclo\n============================================================\n- ESTRATEGIAS PARA ENFRENTAR PROBLEMAS DEL SISTEMA EDUCATIVO GUATEMALTECO (EAL02) - 2 créditos\n- EDUCACIÓN POR COMPETENCIAS (EPCA) - 3 créditos\n- COMUNICACIÓN Y ÉTICA PROFESIONAL (LPP028) - 2 créditos\n- PSICOPEDAGOGÍA DE LA SOBREDOTACIÓN (PDSO00) - 2 créditos\n- PSICOPEDAGOGÍA DE LOS PROCESOS COGNITIVOS DEFICIENTES (PPCD00) - 2 créditos\n- PSICOPEDAGOGÍA DE LOS TRASTORNOS DEL ESPECTRO AUTISTA (PTEA00) - 2 créditos\n\n\ncuarto año - 8vo ciclo\n============================================================\n- DISEÑO Y ELABORACIÓN DE PROYECTOS EDUCATIVOS (LPP025) - 2 créditos\n- PSICOLOGÍA COMUNITARIA (LPP033) - 2 créditos\n- ESTADÍSTICA II (MA312) - 2 créditos\n- PSICOPEDAGOGÍA DE LAS DISCAPACIDADES MOTORAS (PDMO00) - 2 créditos\n- PRÁCTICA PROFESIONAL II (PP2) - 3 créditos\n- PSICOPEDAGOGÍA DE LAS DISCAPACIDADES SENSORIALES (PSDS00) - 2 créditos\n\n\nquinto año - 9no ciclo\n============================================================\n- DISEÑO CURRICULAR (DC010) - 2 créditos\n- INVESTIGACIÓN EDUCATIVA II (IE112) - 2 créditos\n- INTEGRACIÓN ESCOLAR Y LABORAL (IELA00) - 2 créditos\n- MÉTODOS ALTERNATIVOS PARA LA COMUNICACIÓN (MACO00) - 3 créditos\n- PROGRAMAS ESPECÍFICOS PARA EL ABORDAJE DE LAS NECESIDADES EDUCATIVAS ESPECIALES (PANE00) - 2 créditos\n- MANEJO DE PAQUETES DE SOFTWARE III (RT314) - 2 créditos\n\n\nquinto año - 10mo ciclo\n============================================================\n- INTRODUCCIÓN A LA PSICOLOGÍA CLÍNICA (INPC00) - 2 créditos\n- ADMINISTRACIÓN ESCOLAR (LPP031) - 2 créditos\n- INVESTIGACIÓN CUALITATIVA (LPP035) - 2 créditos\n- ORIENTACIÓN VOCACIONAL Y OCUPACIONAL (OVOC00) - 2 créditos\n- PENSAMIENTO ADLERIANO (PADL00) - 2 créditos\n- PRÁCTICA PROFESIONAL III (PP3) - 3 créditos\n"
+}

@@ -1,0 +1,318 @@
+{
+  "carrera": "INGENIERÍA EN TELECOMUNICACIONES Y REDES TELEINFORMÁTICAS",
+  "universidad": "Galileo",
+  "url": "https://www.galileo.edu/pensums/?gphcarrera=itr",
+  "ciclos": [
+    {
+      "nombre": "primer año - 1er ciclo",
+      "materias": [
+        {
+          "codigo": "FG050",
+          "nombre": "TÉCNICAS DE INVESTIGACIÓN Y APRENDIZAJE",
+          "creditos": 3
+        },
+        {
+          "codigo": "FI201",
+          "nombre": "FÍSICA I",
+          "creditos": 5
+        },
+        {
+          "codigo": "IN301",
+          "nombre": "INFORMÁTICA I",
+          "creditos": 4
+        },
+        {
+          "codigo": "IS425",
+          "nombre": "TECNOLOGÍA DESCRIPTIVA",
+          "creditos": 3
+        },
+        {
+          "codigo": "MA201",
+          "nombre": "MATEMÁTICA I",
+          "creditos": 8
+        },
+        {
+          "codigo": "PC111",
+          "nombre": "CIENCIAS DE LA COMPUTACIÓN I",
+          "creditos": 5
+        }
+      ],
+      "total_creditos": 28
+    },
+    {
+      "nombre": "primer año - 2do ciclo",
+      "materias": [
+        {
+          "codigo": "FG051",
+          "nombre": "EVOLUCIÓN DE LA CIENCIA Y LA TECNOLOGÍA",
+          "creditos": 3
+        },
+        {
+          "codigo": "FI202",
+          "nombre": "FÍSICA II",
+          "creditos": 5
+        },
+        {
+          "codigo": "IN302",
+          "nombre": "INFORMÁTICA II",
+          "creditos": 4
+        },
+        {
+          "codigo": "MA202",
+          "nombre": "MATEMÁTICA II",
+          "creditos": 8
+        },
+        {
+          "codigo": "PC112",
+          "nombre": "CIENCIAS DE LA COMPUTACIÓN II",
+          "creditos": 5
+        },
+        {
+          "codigo": "PC403",
+          "nombre": "DIBUJO TÉCNICO",
+          "creditos": 3
+        }
+      ],
+      "total_creditos": 28
+    },
+    {
+      "nombre": "segundo año - 3er ciclo",
+      "materias": [
+        {
+          "codigo": "EL103",
+          "nombre": "ELECTRICIDAD I",
+          "creditos": 3
+        },
+        {
+          "codigo": "FI203",
+          "nombre": "FÍSICA III",
+          "creditos": 5
+        },
+        {
+          "codigo": "IN303",
+          "nombre": "INFORMÁTICA III",
+          "creditos": 4
+        },
+        {
+          "codigo": "MA203",
+          "nombre": "MATEMÁTICA III",
+          "creditos": 8
+        },
+        {
+          "codigo": "MA206",
+          "nombre": "ÁLGEBRA LINEAL I",
+          "creditos": 4
+        },
+        {
+          "codigo": "PC117",
+          "nombre": "CIENCIAS DE LA COMPUTACIÓN III",
+          "creditos": 7
+        }
+      ],
+      "total_creditos": 31
+    },
+    {
+      "nombre": "segundo año - 4to ciclo",
+      "materias": [
+        {
+          "codigo": "EL104",
+          "nombre": "ELECTRICIDAD II",
+          "creditos": 3
+        },
+        {
+          "codigo": "EL201",
+          "nombre": "ELECTRÓNICA I",
+          "creditos": 4
+        },
+        {
+          "codigo": "FI204",
+          "nombre": "FÍSICA IV",
+          "creditos": 4
+        },
+        {
+          "codigo": "MA204",
+          "nombre": "MATEMÁTICA IV",
+          "creditos": 6
+        },
+        {
+          "codigo": "MA207",
+          "nombre": "ÁLGEBRA LINEAL II",
+          "creditos": 4
+        },
+        {
+          "codigo": "MA415",
+          "nombre": "ECUACIONES DIFERENCIALES ORDINARIAS",
+          "creditos": 4
+        },
+        {
+          "codigo": "RD205",
+          "nombre": "REDES DIGITALES I",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 31
+    },
+    {
+      "nombre": "tercer año - 5to ciclo",
+      "materias": [
+        {
+          "codigo": "DICA05",
+          "nombre": "INSTRUMENTACIÓN ELECTRÓNICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "EL204",
+          "nombre": "ELECTRÓNICA II",
+          "creditos": 4
+        },
+        {
+          "codigo": "FI210",
+          "nombre": "FÍSICA V",
+          "creditos": 4
+        },
+        {
+          "codigo": "MA205",
+          "nombre": "MATEMÁTICA V",
+          "creditos": 6
+        },
+        {
+          "codigo": "MA212",
+          "nombre": "ESTADÍSTICA MATEMÁTICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "RD206",
+          "nombre": "REDES DIGITALES II",
+          "creditos": 4
+        },
+        {
+          "codigo": "SI501",
+          "nombre": "SISTEMAS INALÁMBRICOS I",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 32
+    },
+    {
+      "nombre": "tercer año - 6to ciclo",
+      "materias": [
+        {
+          "codigo": "EL315",
+          "nombre": "INSTRUMENTACIÓN ELECTRÓNICA II",
+          "creditos": 4
+        },
+        {
+          "codigo": "LSI001",
+          "nombre": "SEGURIDAD INFORMÁTICA",
+          "creditos": 4
+        },
+        {
+          "codigo": "MA213",
+          "nombre": "MATEMÁTICA VI",
+          "creditos": 5
+        },
+        {
+          "codigo": "RD207",
+          "nombre": "REDES DIGITALES III",
+          "creditos": 5
+        },
+        {
+          "codigo": "TC036",
+          "nombre": "SISTEMAS Y SEÑALES I",
+          "creditos": 5
+        },
+        {
+          "codigo": "TE408",
+          "nombre": "TEORÍA ELECTROMAGNÉTICA",
+          "creditos": 5
+        }
+      ],
+      "total_creditos": 28
+    },
+    {
+      "nombre": "cuarto año - 7mo ciclo",
+      "materias": [
+        {
+          "codigo": "CH002",
+          "nombre": "ARQUITECTURA DEL COMPUTADOR",
+          "creditos": 5
+        },
+        {
+          "codigo": "EC213",
+          "nombre": "ECONOMÍA I",
+          "creditos": 3
+        },
+        {
+          "codigo": "EL205",
+          "nombre": "INSTALACIONES ELÉCTRICAS",
+          "creditos": 4
+        },
+        {
+          "codigo": "MA214",
+          "nombre": "MATEMÁTICA VII",
+          "creditos": 4
+        },
+        {
+          "codigo": "MA307",
+          "nombre": "INVESTIGACIÓN DE OPERACIONES I",
+          "creditos": 4
+        },
+        {
+          "codigo": "RD208",
+          "nombre": "REDES DIGITALES IV",
+          "creditos": 5
+        },
+        {
+          "codigo": "TC037",
+          "nombre": "SISTEMAS Y SEÑALES II",
+          "creditos": 6
+        }
+      ],
+      "total_creditos": 31
+    },
+    {
+      "nombre": "cuarto año - 8vo ciclo",
+      "materias": [
+        {
+          "codigo": "EC214",
+          "nombre": "ECONOMÍA II",
+          "creditos": 3
+        },
+        {
+          "codigo": "MA308",
+          "nombre": "INVESTIGACIÓN DE OPERACIONES II",
+          "creditos": 4
+        },
+        {
+          "codigo": "MF216",
+          "nombre": "MICROONDA Y FIBRA ÓPTICA",
+          "creditos": 6
+        },
+        {
+          "codigo": "RD308",
+          "nombre": "REDES DIGITALES V",
+          "creditos": 5
+        },
+        {
+          "codigo": "SI801",
+          "nombre": "SISTEMAS INALÁMBRICOS II",
+          "creditos": 5
+        },
+        {
+          "codigo": "TL801",
+          "nombre": "SEMINARIO DE APLICACIONES DE REDES",
+          "creditos": 5
+        },
+        {
+          "codigo": "TT102",
+          "nombre": "TÉCNICAS DE MEDICIÓN EN SISTEMAS DE TELECOMUNICACIONES",
+          "creditos": 4
+        }
+      ],
+      "total_creditos": 32
+    }
+  ],
+  "materias_totales": 52,
+  "creditos_totales": 241,
+  "texto_completo": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN TELECOMUNICACIONES Y REDES TELEINFORMÁTICAS\nTotal de materias: 52\nTotal de créditos: 241\nURL: https://www.galileo.edu/pensums/?gphcarrera=itr\n================================================================================\n\nprimer año - 1er ciclo\n============================================================\n- TÉCNICAS DE INVESTIGACIÓN Y APRENDIZAJE (FG050) - 3 créditos\n- FÍSICA I (FI201) - 5 créditos\n- INFORMÁTICA I (IN301) - 4 créditos\n- TECNOLOGÍA DESCRIPTIVA (IS425) - 3 créditos\n- MATEMÁTICA I (MA201) - 8 créditos\n- CIENCIAS DE LA COMPUTACIÓN I (PC111) - 5 créditos\n\n\nprimer año - 2do ciclo\n============================================================\n- EVOLUCIÓN DE LA CIENCIA Y LA TECNOLOGÍA (FG051) - 3 créditos\n- FÍSICA II (FI202) - 5 créditos\n- INFORMÁTICA II (IN302) - 4 créditos\n- MATEMÁTICA II (MA202) - 8 créditos\n- CIENCIAS DE LA COMPUTACIÓN II (PC112) - 5 créditos\n- DIBUJO TÉCNICO (PC403) - 3 créditos\n\n\nsegundo año - 3er ciclo\n============================================================\n- ELECTRICIDAD I (EL103) - 3 créditos\n- FÍSICA III (FI203) - 5 créditos\n- INFORMÁTICA III (IN303) - 4 créditos\n- MATEMÁTICA III (MA203) - 8 créditos\n- ÁLGEBRA LINEAL I (MA206) - 4 créditos\n- CIENCIAS DE LA COMPUTACIÓN III (PC117) - 7 créditos\n\n\nsegundo año - 4to ciclo\n============================================================\n- ELECTRICIDAD II (EL104) - 3 créditos\n- ELECTRÓNICA I (EL201) - 4 créditos\n- FÍSICA IV (FI204) - 4 créditos\n- MATEMÁTICA IV (MA204) - 6 créditos\n- ÁLGEBRA LINEAL II (MA207) - 4 créditos\n- ECUACIONES DIFERENCIALES ORDINARIAS (MA415) - 4 créditos\n- REDES DIGITALES I (RD205) - 6 créditos\n\n\ntercer año - 5to ciclo\n============================================================\n- INSTRUMENTACIÓN ELECTRÓNICA (DICA05) - 4 créditos\n- ELECTRÓNICA II (EL204) - 4 créditos\n- FÍSICA V (FI210) - 4 créditos\n- MATEMÁTICA V (MA205) - 6 créditos\n- ESTADÍSTICA MATEMÁTICA (MA212) - 4 créditos\n- REDES DIGITALES II (RD206) - 4 créditos\n- SISTEMAS INALÁMBRICOS I (SI501) - 6 créditos\n\n\ntercer año - 6to ciclo\n============================================================\n- INSTRUMENTACIÓN ELECTRÓNICA II (EL315) - 4 créditos\n- SEGURIDAD INFORMÁTICA (LSI001) - 4 créditos\n- MATEMÁTICA VI (MA213) - 5 créditos\n- REDES DIGITALES III (RD207) - 5 créditos\n- SISTEMAS Y SEÑALES I (TC036) - 5 créditos\n- TEORÍA ELECTROMAGNÉTICA (TE408) - 5 créditos\n\n\ncuarto año - 7mo ciclo\n============================================================\n- ARQUITECTURA DEL COMPUTADOR (CH002) - 5 créditos\n- ECONOMÍA I (EC213) - 3 créditos\n- INSTALACIONES ELÉCTRICAS (EL205) - 4 créditos\n- MATEMÁTICA VII (MA214) - 4 créditos\n- INVESTIGACIÓN DE OPERACIONES I (MA307) - 4 créditos\n- REDES DIGITALES IV (RD208) - 5 créditos\n- SISTEMAS Y SEÑALES II (TC037) - 6 créditos\n\n\ncuarto año - 8vo ciclo\n============================================================\n- ECONOMÍA II (EC214) - 3 créditos\n- INVESTIGACIÓN DE OPERACIONES II (MA308) - 4 créditos\n- MICROONDA Y FIBRA ÓPTICA (MF216) - 6 créditos\n- REDES DIGITALES V (RD308) - 5 créditos\n- SISTEMAS INALÁMBRICOS II (SI801) - 5 créditos\n- SEMINARIO DE APLICACIONES DE REDES (TL801) - 5 créditos\n- TÉCNICAS DE MEDICIÓN EN SISTEMAS DE TELECOMUNICACIONES (TT102) - 4 créditos\n"
+}

@@ -1,0 +1,2492 @@
+[
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Mercadotecnia\n============================================================\n\nprimer año - 1er ciclo\nTotal de créditos del ciclo: 24\n\n- TALLER DE EXPRESIÓN PROFESIONAL (Código: AC108) - 3 créditos\n- TALLER DE ADMINISTRACIÓN DE EMPRESAS (Código: AD025) - 6 créditos\n- PENSAMIENTO SISTÉMICO (Código: CS310) - 3 créditos\n- RAZONAMIENTO MATEMÁTICO (Código: FC018) - 6 créditos\n- MARKETING (Código: FR034) - 3 créditos\n- PLATAFORMA DIGITAL Y CREATIVA (Código: MER101) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Mercadotecnia",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 1er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_mercadotecnia.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Mercadotecnia\n============================================================\n\nprimer año - 2do ciclo\nTotal de créditos del ciclo: 24\n\n- CONTABILIDAD GENERAL (Código: AD203) - 3 créditos\n- ECONOMÍA Y POLÍTICA (Código: EF202) - 6 créditos\n- TALLER DE INGLÉS GERENCIAL I (Código: ID208) - 6 créditos\n- LEGISLACIÓN LABORAL Y TRIBUTARIA (Código: LG203) - 3 créditos\n- MATEMÁTICA FINANCIERA (Código: MA102) - 3 créditos\n- MERCADEO ESTRATÉGICO (Código: NE202) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Mercadotecnia",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 2do ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_mercadotecnia.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Mercadotecnia\n============================================================\n\nsegundo año - 3er ciclo\nTotal de créditos del ciclo: 24\n\n- TALLER DE PROGRAMACIÓN EMPRESARIAL (Código: AM301) - 3 créditos\n- ESTADÍSTICA APLICADA (Código: CS325) - 3 créditos\n- COSTOS Y PRESUPUESTOS (Código: DI0100) - 3 créditos\n- INVESTIGACIÓN DE MERCADOS (Código: DI0101) - 6 créditos\n- TALLER DE INGLÉS GERENCIAL II (Código: ID305) - 6 créditos\n- MARKETING DIGITAL I (Código: MER305) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Mercadotecnia",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 3er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_mercadotecnia.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Mercadotecnia\n============================================================\n\nsegundo año - 4to ciclo\nTotal de créditos del ciclo: 24\n\n- GESTIÓN DE PROYECTOS (Código: AD800) - 3 créditos\n- ÉTICA SOCIAL Y EMPRESARIAL (Código: AM401) - 3 créditos\n- MICROECONOMÍA (Código: EC201) - 3 créditos\n- MARKETING DIGITAL II (Código: MER401) - 6 créditos\n- MEZCLA PROMOCIONAL (Código: MER402) - 3 créditos\n- ADMINISTRACIÓN FINANCIERA (Código: RA303) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Mercadotecnia",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 4to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_mercadotecnia.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Mercadotecnia\n============================================================\n\ntercer año - 5to ciclo\nTotal de créditos del ciclo: 24\n\n- ADMINISTRACIÓN DE VENTAS (Código: AC131) - 6 créditos\n- GESTIÓN DEL TALENTO HUMANO I (Código: AM501) - 3 créditos\n- MACROECONOMÍA (Código: EC202) - 3 créditos\n- DESARROLLO Y ADAPTACIÓN DE PRODUCTOS (Código: IDE280) - 6 créditos\n- LOGÍSTICA (Código: IG005) - 3 créditos\n- MERCADOTECNIA DE VENTA AL DETALLE (Código: MVD001) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Mercadotecnia",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 5to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_mercadotecnia.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Mercadotecnia\n============================================================\n\ntercer año - 6to ciclo\nTotal de créditos del ciclo: 24\n\n- COMPETENCIAS DIRECTIVAS (Código: AM601) - 3 créditos\n- TECNOLOGÍA DE LA INFORMACIÓN Y COMUNICACIÓN (TIC) (Código: CP602) - 6 créditos\n- COMERCIO INTERNACIONAL (Código: LABF20) - 3 créditos\n- MERCADO TRADICIONAL Y MODERNO (Código: ME008) - 3 créditos\n- EMPRENEGOCIOS I (Código: MER603) - 6 créditos\n- ESTRATEGIA DE MEDIOS (Código: MER605) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Mercadotecnia",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 6to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_mercadotecnia.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Mercadotecnia\n============================================================\n\ncuarto año - 7mo ciclo\nTotal de créditos del ciclo: 27\n\n- SIX SIGMA (Código: AM709) - 6 créditos\n- ANÁLISIS FINAL (Código: FG407) - 3 créditos\n- RELACIONES PÚBLICAS Y COMUNICACIÓN CORPORATIVA (Código: MCM013) - 3 créditos\n- SEMINARIO DE CASOS (Código: MDT003) - 6 créditos\n- MARKETING DE SERVICIO (Código: MS) - 3 créditos\n- PRÁCTICA PROFESIONAL SUPERVISADA (Código: PPS001) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Mercadotecnia",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 7mo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_mercadotecnia.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Mercadotecnia\n============================================================\n\ncuarto año - 8vo ciclo\nTotal de créditos del ciclo: 27\n\n- INNOVACIÓN Y PRODUCTIVIDAD (Código: AM802) - 3 créditos\n- FINANZAS GERENCIALES (SEMINARIOS LIBRES) (Código: EF805) - 6 créditos\n- METODOLOGÍA DE LA INVESTIGACIÓN (Código: MEI01) - 6 créditos\n- EMPRENEGOCIOS II (Código: MER803) - 6 créditos\n- MARKETING PLAN (Código: MER805) - 3 créditos\n- DESARROLLO DE CAMPAÑAS PUBLICITARIAS (Código: MER806) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Mercadotecnia",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 8vo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_mercadotecnia.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Diplomacia y Relaciones Internacionales\n============================================================\n\nprimer año - 1er ciclo\nTotal de créditos del ciclo: 9\n\n- LIDERAZGO (Código: AD322) - 3 créditos\n- INTRODUCCIÓN AL PROTOCOLO Y CEREMONIAL DIPLOMÁTICO INTERNACIONAL (Código: DPG) - 3 créditos\n- COMUNICACIÓN EFICAZ Y ALTO DESEMPEÑO (Código: LIS013) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Diplomacia y Relaciones Internacionales",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 1er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_diplomacia_y_relaciones_internacionales.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Diplomacia y Relaciones Internacionales\n============================================================\n\nprimer año - 2do ciclo\nTotal de créditos del ciclo: 12\n\n- TALLER APA Y METODOLOGÍA DE LA ELABORACIÓN DE TRABAJOS (Código: APA201) - 3 créditos\n- PROTOCOLO Y CEREMONIAL DIPLOMÁTICO INTERNACIONAL (Código: DPG00) - 3 créditos\n- HERRAMIENTAS ORTOGRÁFICAS Y GRAMATICALES (Código: HOG01) - 3 créditos\n- METODOLOGÍA DE LA INVESTIGACIÓN APLICADA (Código: METINV) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Diplomacia y Relaciones Internacionales",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 2do ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_diplomacia_y_relaciones_internacionales.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Diplomacia y Relaciones Internacionales\n============================================================\n\nprimer año - 3er ciclo\nTotal de créditos del ciclo: 9\n\n- IMAGEN PÚBLICA (Código: DPG03) - 3 créditos\n- ETIQUETA Y ANFITRIONÍA (Código: MRIP03) - 3 créditos\n- NEGOCIACIÓN Y RESOLUCIÓN DE CONFLICTOS (Código: NRC01) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Diplomacia y Relaciones Internacionales",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 3er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_diplomacia_y_relaciones_internacionales.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Diplomacia y Relaciones Internacionales\n============================================================\n\nprimer año - 4to ciclo\nTotal de créditos del ciclo: 11\n\n- TALLER DE NEGOCIACIÓN, RESOLUCIÓN DE CONFLICTOS Y MANEJO DE CRISIS (Código: DIP004) - 2 créditos\n- USO Y COMPRENSIÓN DE MEDIOS DE COMUNICACIÓN (Código: DPG04) - 3 créditos\n- DISCURSO Y PRESENTACIONES EN PUBLICO (Código: DPG05) - 3 créditos\n- TALLER DE REDACCIÓN (Código: TRE001) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Diplomacia y Relaciones Internacionales",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 4to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_diplomacia_y_relaciones_internacionales.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Diplomacia y Relaciones Internacionales\n============================================================\n\nsegundo año - 5to ciclo\nTotal de créditos del ciclo: 9\n\n- SEMINARIO DE INFORMÁTICA (Código: CI405) - 3 créditos\n- LOGÍSTICA DE EVENTOS ESPECIALES (Código: LEV01) - 3 créditos\n- TALLER DE LITERATURA (Código: TLI001) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Diplomacia y Relaciones Internacionales",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 5to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_diplomacia_y_relaciones_internacionales.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Diplomacia y Relaciones Internacionales\n============================================================\n\nsegundo año - 6to ciclo\nTotal de créditos del ciclo: 11\n\n- TALLER DE FORMULACIÓN, EVALUACIÓN, GESTIÓN Y COOPERACIÓN DE PROYECTOS (Código: DIP006) - 2 créditos\n- FUNDAMENTOS DE LA COMUNICACIÓN POLÍTICA (Código: FDCP1) - 3 créditos\n- ANÁLISIS FINAL (Código: FG407) - 3 créditos\n- FORMULACIÓN Y EVALUACIÓN DE PROYECTOS (Código: IS420) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Diplomacia y Relaciones Internacionales",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 6to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_diplomacia_y_relaciones_internacionales.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Diplomacia y Relaciones Internacionales\n============================================================\n\nsegundo año - 7mo ciclo\nTotal de créditos del ciclo: 9\n\n- FUNDAMENTOS DE ECONOMÍA (Código: FDEC01) - 3 créditos\n- HISTORIA DE LA CIENCIA Y TECNOLOGÍA (Código: IS301) - 3 créditos\n- GRUPOMÁTICA (Código: TN005) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Diplomacia y Relaciones Internacionales",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 7mo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_diplomacia_y_relaciones_internacionales.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Diplomacia y Relaciones Internacionales\n============================================================\n\nsegundo año - 8vo ciclo\nTotal de créditos del ciclo: 11\n\n- INTRODUCCIÓN AL DERECHO (Código: DGL01) - 3 créditos\n- TALLER DE LOBBY Y RELACIONES PÚBLICAS (Código: DIP008) - 2 créditos\n- ÉTICA (Código: FG305) - 3 créditos\n- RELACIONES PÚBLICAS, LOBBING Y COORDINACIÓN DE LA OFICINA DE PRENSA (Código: RPLOF) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Diplomacia y Relaciones Internacionales",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 8vo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_diplomacia_y_relaciones_internacionales.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Diplomacia y Relaciones Internacionales\n============================================================\n\ntercer año - 9no ciclo\nTotal de créditos del ciclo: 9\n\n- FUNDAMENTOS DE E-COMMERCE (Código: DPG01) - 3 créditos\n- HISTORIA DE LA FILOSOFÍA (Código: HDLFI1) - 3 créditos\n- TEORÍA DE LAS RELACIONES INTERNACIONALES (Código: REIN01) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Diplomacia y Relaciones Internacionales",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 9no ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_diplomacia_y_relaciones_internacionales.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Diplomacia y Relaciones Internacionales\n============================================================\n\ntercer año - 10mo ciclo\nTotal de créditos del ciclo: 11\n\n- ANÁLISIS DE HECHOS HISTÓRICOS (Código: ANHIS1) - 3 créditos\n- DIPLOMACIA (Código: DIP001) - 3 créditos\n- TALLER DE IMAGEN PÚBLICA Y PROYECCIÓN INTERNACIONAL (Código: DIP010) - 2 créditos\n- FUNDAMENTOS DE LA IMAGEN PÚBLICA (Código: FDLIM) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Diplomacia y Relaciones Internacionales",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 10mo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_diplomacia_y_relaciones_internacionales.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Diplomacia y Relaciones Internacionales\n============================================================\n\ntercer año - 11er ciclo\nTotal de créditos del ciclo: 9\n\n- INTRODUCCIÓN AL DERECHO DIPLOMÁTICO Y CONSULAR (Código: DIP011) - 3 créditos\n- INTRODUCCIÓN A LA TEORÍA GENERAL DEL ESTADO (Código: INTGE) - 3 créditos\n- REALIDAD MUNDIAL (Código: RMUN01) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Diplomacia y Relaciones Internacionales",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 11er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_diplomacia_y_relaciones_internacionales.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Diplomacia y Relaciones Internacionales\n============================================================\n\ntercer año - 12do ciclo\nTotal de créditos del ciclo: 12\n\n- TALLER PLANEACIÓN ESTRATÉGICA Y GEOPOLÍTICA (Código: DIP012) - 3 créditos\n- GEOPOLÍTICA MODERNA (Código: GEOPM) - 3 créditos\n- INTRODUCCIÓN AL DERECHO CONSTITUCIONAL POLÍTICO (Código: INTDCP) - 3 créditos\n- SEMIOLOGÍA DEL DISCURSO (Código: LCCS2) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Diplomacia y Relaciones Internacionales",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 12do ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_diplomacia_y_relaciones_internacionales.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Diplomacia y Relaciones Internacionales\n============================================================\n\ncuarto año - 13er ciclo\nTotal de créditos del ciclo: 9\n\n- CONVENIOS INTERNACIONALES, TRATADOS Y CONVENCIÓN DEL MAR (Código: DIP013) - 3 créditos\n- INTRODUCCIÓN AL DERECHO INTERNACIONAL PUBLICO (Código: IDIP01) - 3 créditos\n- INTEGRACIÓN ECONÓMICA INTERNACIONAL (Código: IECI01) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Diplomacia y Relaciones Internacionales",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 13er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_diplomacia_y_relaciones_internacionales.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Diplomacia y Relaciones Internacionales\n============================================================\n\ncuarto año - 14to ciclo\nTotal de créditos del ciclo: 12\n\n- ASIA-PACIFICO HISTÓRICO POLÍTICO (Código: ASPCH) - 3 créditos\n- CASOS DE PROTOCOLO (Código: CASP) - 3 créditos\n- TALLER INTEGRACIÓN ECONÓMICA INTERNACIONAL (Código: DIP014) - 3 créditos\n- DERECHO INTERNACIONAL PRIVADO (Código: DIPRIV) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Diplomacia y Relaciones Internacionales",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 14to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_diplomacia_y_relaciones_internacionales.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Diplomacia y Relaciones Internacionales\n============================================================\n\ncuarto año - 15to ciclo\nTotal de créditos del ciclo: 9\n\n- ANÁLISIS POLÍTICO (Código: ANP001) - 3 créditos\n- DERECHO INTERNACIONAL DE LOS DERECHOS HUMANOS (Código: DIP015) - 3 créditos\n- PRINCIPIOS DE POLÍTICA EXTERIOR DE GUATEMALA (Código: PDPEG) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Diplomacia y Relaciones Internacionales",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 15to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_diplomacia_y_relaciones_internacionales.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Diplomacia y Relaciones Internacionales\n============================================================\n\ncuarto año - 16to ciclo\nTotal de créditos del ciclo: 12\n\n- TALLER DE ORGANISMOS INTERNACIONALES, REGIONALES Y ONG'S (Código: DIP016) - 3 créditos\n- ORGANISMOS INTERNACIONALES Y REGIONALES (Código: OINRE) - 3 créditos\n- SEMINARIO DE TESIS (Código: SE00T) - 3 créditos\n- TURISMO INTERNO (Código: TUR001) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Diplomacia y Relaciones Internacionales",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 16to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_diplomacia_y_relaciones_internacionales.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Enfermería\n============================================================\n\nprimer año - 7mo ciclo\nTotal de créditos del ciclo: 17\n\n- SALUD MENTAL (Código: AE004) - 4 créditos\n- BIOÉTICA (Código: DTF012) - 4 créditos\n- TEORÍAS Y MODELOS DE ENFERMERÍA (Código: LEN) - 5 créditos\n- ENFERMERÍA GERIÁTRICA (Código: LEN00) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Enfermería",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 7mo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_enfermeria.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Enfermería\n============================================================\n\nprimer año - 8vo ciclo\nTotal de créditos del ciclo: 16\n\n- ENFERMERÍA EN URGENCIAS Y DESASTRES (Código: LEN001) - 4 créditos\n- INVESTIGACIÓN EN ENFERMERÍA I (Código: LEN003) - 4 créditos\n- CUIDADOS DE ENFERMERÍA A PACIENTES CRÓNICOS (Código: LEN004) - 4 créditos\n- ENFERMERÍA EN GÉNERO, INTERCULTURALIDAD Y SALUD (Código: LEN005) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Enfermería",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 8vo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_enfermeria.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Enfermería\n============================================================\n\nsegundo año - 9no ciclo\nTotal de créditos del ciclo: 16\n\n- SALUD PÚBLICA (Código: AE019) - 4 créditos\n- ENFERMERÍA LABORAL (Código: LEN006) - 4 créditos\n- ENFERMERÍA AMBIENTAL (Código: LEN007) - 4 créditos\n- ENFERMERÍA FAMILIAR Y COMUNITARIA (Código: LEN008) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Enfermería",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 9no ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_enfermeria.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Enfermería\n============================================================\n\nsegundo año - 10mo ciclo\nTotal de créditos del ciclo: 22\n\n- ADMINISTRACIÓN Y GESTIÓN DE LA CALIDAD (Código: LEN009) - 6 créditos\n- PLANIFICACIÓN ESTRATÉGICA EN ENFERMERÍA (Código: LEN010) - 6 créditos\n- INVESTIGACIÓN EN ENFERMERÍA II (Código: LEN011) - 6 créditos\n- ENFERMERÍA EN DISEÑO, GESTIÓN Y DESARROLLO DE PROYECTOS (Código: LEN012) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Enfermería",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 10mo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_enfermeria.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Fisioterapia\n============================================================\n\nprimer año - 1er ciclo\nTotal de créditos del ciclo: 46\n\n- ÉTICA Y SENTIDO HUMANO (Código: FG435) - 6 créditos\n- ENFOQUE PSICOLÓGICO DE LA DISCAPACIDAD (Código: FG437) - 6 créditos\n- ANATOMÍA MUSCULO ESQUELÉTICA (Código: SL024) - 8 créditos\n- FISIOLOGÍA APLICADA A LA FISIOTERAPIA I (Código: SL025) - 8 créditos\n- BIOQUÍMICA APLICADA A LA FISIOTERAPIA (Código: SL026) - 8 créditos\n- INTRODUCCIÓN A LA FISIOTERAPIA (Código: SL027) - 6 créditos\n- TÉCNICAS DOCUMENTALES (Código: SL029) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Fisioterapia",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 1er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_fisioterapia.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Fisioterapia\n============================================================\n\nprimer año - 2do ciclo\nTotal de créditos del ciclo: 48\n\n- ANATOMÍA DE APARATOS Y SISTEMAS (Código: SL028) - 8 créditos\n- FISIOLOGÍA APLICADA A LA FISIOTERAPIA II (Código: SL030) - 8 créditos\n- FÍSICA APLICADA A LA FISIOTERAPIA (Código: SL032) - 6 créditos\n- CRECIMIENTO Y DESARROLLO HUMANO (Código: SL033) - 6 créditos\n- KINESIOLOGÍA I (Código: SL035) - 6 créditos\n- CLÍNICA PROPEDÉUTICA I (Código: SL039) - 8 créditos\n- METODOLOGÍA DE LA INVESTIGACIÓN I (Código: TA0009) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Fisioterapia",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 2do ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_fisioterapia.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Fisioterapia\n============================================================\n\nsegundo año - 3er ciclo\nTotal de créditos del ciclo: 56\n\n- KINESIOLOGÍA II (Código: SL031) - 6 créditos\n- CLÍNICA PROPEDÉUTICA II (Código: SL034) - 6 créditos\n- AGENTES FÍSICOS Y SU APLICACIÓN TERAPÉUTICA I (Código: SL036) - 6 créditos\n- EJERCICIO TERAPÉUTICO I (Código: SL037) - 6 créditos\n- INTRODUCCIÓN A LA PRÁCTICA TERAPÉUTICA (Código: SL038) - 12 créditos\n- EJERCICIO TERAPÉUTICO II (Código: SL041) - 6 créditos\n- KINEFILAXIA (Código: SL044) - 6 créditos\n- FISIOLOGÍA DEL EJERCICIO (Código: TUA13) - 8 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Fisioterapia",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 3er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_fisioterapia.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Fisioterapia\n============================================================\n\nsegundo año - 4to ciclo\nTotal de créditos del ciclo: 52\n\n- GENÉTICA HUMANA (Código: BBI05) - 6 créditos\n- PRÁCTICA CLÍNICA I (Código: DTF031) - 12 créditos\n- INGLÉS TÉCNICO APLICADO I (Código: FG444) - 6 créditos\n- AGENTES FÍSICOS Y SU APLICACIÓN TERAPÉUTICA II (Código: SL040) - 6 créditos\n- FISIOTERAPIA NEUROLÓGICA I (Código: SL042) - 8 créditos\n- FISIOTERAPIA EN TRAUMATOLOGÍA Y ORTOPEDIA I (Código: SL043) - 8 créditos\n- EPIDEMIOLOGIA EN REHABILITACIÓN (Código: SL045) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Fisioterapia",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 4to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_fisioterapia.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Fisioterapia\n============================================================\n\ntercer año - 5to ciclo\nTotal de créditos del ciclo: 54\n\n- PRÁCTICA CLÍNICA II (Código: DTF036) - 12 créditos\n- INGLÉS TÉCNICO APLICADO II (Código: FG447) - 6 créditos\n- CULTURA EMPRENDEDORA (Código: FG448) - 4 créditos\n- FISIOTERAPIA NEUROLÓGICA II (Código: SL046) - 8 créditos\n- FISIOTERAPIA EN PEDIATRÍA (Código: SL047) - 8 créditos\n- FISIOTERAPIA EN TRAUMATOLOGÍA Y ORTOPEDIA II (Código: SL048) - 8 créditos\n- FISIOTERAPIA EN MANO (Código: SL050) - 8 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Fisioterapia",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 5to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_fisioterapia.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Fisioterapia\n============================================================\n\ntercer año - 6to ciclo\nTotal de créditos del ciclo: 50\n\n- INGLÉS TÉCNICO APLICADO III (Código: FG451) - 6 créditos\n- PRÁCTICA CLÍNICA III (Código: PR346) - 12 créditos\n- TEMAS SELECTOS EN FISIOTERAPIA (Código: SL049) - 4 créditos\n- FISIOTERAPIA NEUROLÓGICA III (Código: SL051) - 8 créditos\n- FISIOTERAPIA EN REUMATOLOGÍA (Código: SL052) - 8 créditos\n- FISIOTERAPIA EN GERIATRÍA (Código: SL053) - 8 créditos\n- TEMAS CONTEMPORÁNEOS DE FISIOTERAPIA (Código: SL055) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Fisioterapia",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 6to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_fisioterapia.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Fisioterapia\n============================================================\n\ncuarto año - 7mo ciclo\nTotal de créditos del ciclo: 44\n\n- BIOÉTICA (Código: DTF012) - 4 créditos\n- PRÁCTICA CLÍNICA IV (Código: PR347) - 12 créditos\n- TÉCNICAS DE APLICACIÓN EN FISIOTERAPIA (Código: SL054) - 6 créditos\n- FISIOTERAPIA CARDIOPULMONAR (Código: SL056) - 8 créditos\n- REHABILITACIÓN EN CUIDADOS PALIATIVOS (Código: SL057) - 8 créditos\n- METODOLOGÍA DE LA INVESTIGACIÓN II (Código: TA0110) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Fisioterapia",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 7mo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_fisioterapia.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Fisioterapia\n============================================================\n\ncuarto año - 8vo ciclo\nTotal de créditos del ciclo: 12\n\n- SERVICIO SOCIAL I (Código: RN001) - 6 créditos\n- SERVICIO SOCIAL II (Código: RN002) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Fisioterapia",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 8vo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_fisioterapia.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\nprimer año - 1er ciclo\nTotal de créditos del ciclo: 28\n\n- TÉCNICAS DE INVESTIGACIÓN Y APRENDIZAJE (Código: FG050) - 3 créditos\n- FÍSICA I (Código: FI201) - 5 créditos\n- INFORMÁTICA I (Código: IN301) - 4 créditos\n- TECNOLOGÍA DESCRIPTIVA (Código: IS425) - 3 créditos\n- MATEMÁTICA I (Código: MA201) - 8 créditos\n- CIENCIAS DE LA COMPUTACIÓN I (Código: PC111) - 5 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 1er ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_electronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\nprimer año - 2do ciclo\nTotal de créditos del ciclo: 28\n\n- EVOLUCIÓN DE LA CIENCIA Y LA TECNOLOGÍA (Código: FG051) - 3 créditos\n- FÍSICA II (Código: FI202) - 5 créditos\n- INFORMÁTICA II (Código: IN302) - 4 créditos\n- MATEMÁTICA II (Código: MA202) - 8 créditos\n- CIENCIAS DE LA COMPUTACIÓN II (Código: PC112) - 5 créditos\n- DIBUJO TÉCNICO (Código: PC403) - 3 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 2do ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_electronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\nsegundo año - 3er ciclo\nTotal de créditos del ciclo: 31\n\n- ELECTRICIDAD I (Código: EL103) - 3 créditos\n- FÍSICA III (Código: FI203) - 5 créditos\n- INFORMÁTICA III (Código: IN303) - 4 créditos\n- MATEMÁTICA III (Código: MA203) - 8 créditos\n- ÁLGEBRA LINEAL I (Código: MA206) - 4 créditos\n- CIENCIAS DE LA COMPUTACIÓN III (Código: PC117) - 7 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 3er ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_electronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\nsegundo año - 4to ciclo\nTotal de créditos del ciclo: 28\n\n- ELECTRICIDAD II (Código: EL104) - 3 créditos\n- ELECTRÓNICA I (Código: EL201) - 4 créditos\n- FÍSICA IV (Código: FI204) - 4 créditos\n- MATEMÁTICA IV (Código: MA204) - 6 créditos\n- ÁLGEBRA LINEAL II (Código: MA207) - 4 créditos\n- ECUACIONES DIFERENCIALES ORDINARIAS (Código: MA415) - 4 créditos\n- CIENCIAS DE LA COMPUTACIÓN IV(E) (Código: PC121) - 3 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 4to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_electronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\ntercer año - 5to ciclo\nTotal de créditos del ciclo: 28\n\n- INSTRUMENTACIÓN ELECTRÓNICA (Código: DICA05) - 4 créditos\n- ELECTRÓNICA II (Código: EL204) - 4 créditos\n- ELECTRÓNICA III (Código: EL206) - 3 créditos\n- FÍSICA V (Código: FI210) - 4 créditos\n- MATEMÁTICA V (Código: MA205) - 6 créditos\n- ESTADÍSTICA MATEMÁTICA (Código: MA212) - 4 créditos\n- DISEÑO Y CONSTRUCCIÓN DE DISPOSITIVOS ELECTRÓNICOS (Código: PC212) - 3 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 5to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_electronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\ntercer año - 6to ciclo\nTotal de créditos del ciclo: 28\n\n- INSTALACIONES ELÉCTRICAS (Código: EL205) - 3 créditos\n- MICROPROCESADORES (Código: EL207) - 5 créditos\n- ELECTRÓNICA IV (Código: EL208) - 6 créditos\n- INFORMÁTICA IV (Código: IN205) - 4 créditos\n- TEORÍA DE CONTROL (Código: IN211) - 5 créditos\n- MATEMÁTICA VI (Código: MA213) - 5 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 6to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_electronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\ncuarto año - 7mo ciclo\nTotal de créditos del ciclo: 28\n\n- APLICACIONES DE MICROPROCESADORES (Código: AM100) - 5 créditos\n- TEORÍA DE SISTEMAS I (Código: CO209) - 4 créditos\n- ECONOMÍA I (Código: EC213) - 3 créditos\n- POTENCIA Y MOTORES (Código: EL210) - 5 créditos\n- MATEMÁTICA VII (Código: MA214) - 4 créditos\n- SEMINARIO DE INVESTIGACIÓN DE OPERACIONES I (Código: MA229) - 4 créditos\n- MEDIOS DE TRANSMISIÓN I (Código: TR201) - 3 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 7mo ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_electronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\ncuarto año - 8vo ciclo\nTotal de créditos del ciclo: 28\n\n- TEORÍA DE SISTEMAS II (Código: CO206) - 4 créditos\n- ECONOMÍA II (Código: EC214) - 3 créditos\n- AUTOMATIZACIÓN INDUSTRIAL (Código: EL209) - 6 créditos\n- ROBÓTICA (Código: IN212) - 6 créditos\n- SEMINARIO DE INVESTIGACIÓN DE OPERACIONES II (Código: MA228) - 4 créditos\n- TELECOMUNICACIONES (Código: PC315) - 5 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN ELECTRÓNICA, INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 8vo ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_electronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Psicopedagogía\n============================================================\n\nprimer año - 1er ciclo\nTotal de créditos del ciclo: 13\n\n- INSTRUMENTOS DE EVALUACIÓN DE LA CONDUCTA (Código: INEC00) - 2 créditos\n- INTRODUCCIÓN A LOS PROBLEMAS DE APRENDIZAJE (Código: IPA00) - 2 créditos\n- MATEMÁTICA I (Código: MA201) - 2 créditos\n- PSICOPEDAGOGÍA DEL DESARROLLO I (Código: PD001) - 2 créditos\n- PEDAGOGÍA Y ANDRAGOGÍA (Código: PEAN) - 2 créditos\n- TALLER DE LECTURA Y ESCRITURA (Código: TALEC) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Psicopedagogía",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 1er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_psicopedagogia.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Psicopedagogía\n============================================================\n\nprimer año - 2do ciclo\nTotal de créditos del ciclo: 12\n\n- TÉCNICAS DE COMUNICACIÓN ORAL Y ESCRITA (Código: LE007) - 2 créditos\n- PSICOPEDAGOGÍA DE LA DIVERSIDAD (Código: LPP103) - 2 créditos\n- TÉCNICAS DE INVESTIGACIÓN I (Código: MOI027) - 2 créditos\n- PSICOPEDAGOGÍA DE LOS TRASTORNOS DE APRENDIZAJE (Código: PTA00) - 2 créditos\n- MANEJO DE PAQUETES DE SOFTWARE I (Código: RT309) - 2 créditos\n- TEORÍAS DEL APRENDIZAJE (Código: TEA01) - 2 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Psicopedagogía",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 2do ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_psicopedagogia.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Psicopedagogía\n============================================================\n\nsegundo año - 3er ciclo\nTotal de créditos del ciclo: 12\n\n- ABORDAJE DEL BAJO RENDIMIENTO ESCOLAR Y PROBLEMAS DE DISCIPLINA (Código: ABEREP) - 2 créditos\n- TECNOLOGÍA EDUCATIVA (Código: C0310) - 2 créditos\n- EVALUACIÓN PSICOPEDAGÓGICA I (Código: EPSI01) - 2 créditos\n- HISTORIA DE GUATEMALA (Código: HU312) - 2 créditos\n- PSICOPEDAGOGÍA DEL DESARROLLO II (Código: LPP004) - 2 créditos\n- NEUROCIENCIAS DE LA CONDUCTA (Código: LPP010) - 2 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Psicopedagogía",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 3er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_psicopedagogia.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Psicopedagogía\n============================================================\n\nsegundo año - 4to ciclo\nTotal de créditos del ciclo: 12\n\n- ABORDAJE DE LA DISCALCULIA (Código: ABDI00) - 2 créditos\n- ABORDAJE DE LA DISLEXIA Y LA DISGRAFÍA (Código: ADDI00) - 2 créditos\n- ESTRATEGIAS CONSTRUCTIVISTAS DEL APRENDIZAJE (Código: ECDA00) - 2 créditos\n- DISEÑO Y ELABORACIÓN DE MATERIAL EDUCATIVO (Código: LPP03) - 2 créditos\n- ESTADÍSTICA I (Código: MA311) - 2 créditos\n- PSICOPEDAGOGÍA DE LOS TRASTORNOS DE COMUNICACIÓN ORAL (Código: PTCO00) - 2 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Psicopedagogía",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 4to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_psicopedagogia.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Psicopedagogía\n============================================================\n\ntercer año - 5to ciclo\nTotal de créditos del ciclo: 13\n\n- EVALUACIÓN PSICOPEDAGÓGICA II (Código: EPSI02) - 2 créditos\n- EVALUACIÓN DEL RENDIMIENTO ESCOLAR (Código: EU313) - 2 créditos\n- HISTORIA DE LA EDUCACIÓN Y LEGISLACIÓN EDUCATIVA (Código: HELE00) - 2 créditos\n- PSICOPEDAGOGÍA DEL DESARROLLO III (Código: LPP014) - 2 créditos\n- PRÁCTICA PROFESIONAL I (Código: PP1) - 3 créditos\n- TEORÍA DE LA PERSONALIDAD (Código: TELP00) - 2 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Psicopedagogía",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 5to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_psicopedagogia.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Psicopedagogía\n============================================================\n\ntercer año - 6to ciclo\nTotal de créditos del ciclo: 13\n\n- INTRODUCCIÓN AL PENSAMIENTO SISTÉMICO (Código: CS304) - 2 créditos\n- INVESTIGACIÓN EDUCATIVA I (Código: LEH02) - 3 créditos\n- PSICODIAGNÓSTICO I (Código: LPP102) - 2 créditos\n- PSICOPEDAGOGÍA DEL EJERCICIO Y DEPORTE (Código: PEJD00) - 2 créditos\n- PSICOPEDAGOGÍA DE LA DISCAPACIDAD INTELECTUAL (Código: PSDI00) - 2 créditos\n- MANEJO DE PAQUETES DE SOFTWARE II (Código: RT310) - 2 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Psicopedagogía",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 6to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_psicopedagogia.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Psicopedagogía\n============================================================\n\ncuarto año - 7mo ciclo\nTotal de créditos del ciclo: 13\n\n- ESTRATEGIAS PARA ENFRENTAR PROBLEMAS DEL SISTEMA EDUCATIVO GUATEMALTECO (Código: EAL02) - 2 créditos\n- EDUCACIÓN POR COMPETENCIAS (Código: EPCA) - 3 créditos\n- COMUNICACIÓN Y ÉTICA PROFESIONAL (Código: LPP028) - 2 créditos\n- PSICOPEDAGOGÍA DE LA SOBREDOTACIÓN (Código: PDSO00) - 2 créditos\n- PSICOPEDAGOGÍA DE LOS PROCESOS COGNITIVOS DEFICIENTES (Código: PPCD00) - 2 créditos\n- PSICOPEDAGOGÍA DE LOS TRASTORNOS DEL ESPECTRO AUTISTA (Código: PTEA00) - 2 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Psicopedagogía",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 7mo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_psicopedagogia.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Psicopedagogía\n============================================================\n\ncuarto año - 8vo ciclo\nTotal de créditos del ciclo: 13\n\n- DISEÑO Y ELABORACIÓN DE PROYECTOS EDUCATIVOS (Código: LPP025) - 2 créditos\n- PSICOLOGÍA COMUNITARIA (Código: LPP033) - 2 créditos\n- ESTADÍSTICA II (Código: MA312) - 2 créditos\n- PSICOPEDAGOGÍA DE LAS DISCAPACIDADES MOTORAS (Código: PDMO00) - 2 créditos\n- PRÁCTICA PROFESIONAL II (Código: PP2) - 3 créditos\n- PSICOPEDAGOGÍA DE LAS DISCAPACIDADES SENSORIALES (Código: PSDS00) - 2 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Psicopedagogía",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 8vo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_psicopedagogia.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Psicopedagogía\n============================================================\n\nquinto año - 9no ciclo\nTotal de créditos del ciclo: 13\n\n- DISEÑO CURRICULAR (Código: DC010) - 2 créditos\n- INVESTIGACIÓN EDUCATIVA II (Código: IE112) - 2 créditos\n- INTEGRACIÓN ESCOLAR Y LABORAL (Código: IELA00) - 2 créditos\n- MÉTODOS ALTERNATIVOS PARA LA COMUNICACIÓN (Código: MACO00) - 3 créditos\n- PROGRAMAS ESPECÍFICOS PARA EL ABORDAJE DE LAS NECESIDADES EDUCATIVAS ESPECIALES (Código: PANE00) - 2 créditos\n- MANEJO DE PAQUETES DE SOFTWARE III (Código: RT314) - 2 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Psicopedagogía",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "quinto año - 9no ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_psicopedagogia.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Psicopedagogía\n============================================================\n\nquinto año - 10mo ciclo\nTotal de créditos del ciclo: 13\n\n- INTRODUCCIÓN A LA PSICOLOGÍA CLÍNICA (Código: INPC00) - 2 créditos\n- ADMINISTRACIÓN ESCOLAR (Código: LPP031) - 2 créditos\n- INVESTIGACIÓN CUALITATIVA (Código: LPP035) - 2 créditos\n- ORIENTACIÓN VOCACIONAL Y OCUPACIONAL (Código: OVOC00) - 2 créditos\n- PENSAMIENTO ADLERIANO (Código: PADL00) - 2 créditos\n- PRÁCTICA PROFESIONAL III (Código: PP3) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Psicopedagogía",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "quinto año - 10mo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_psicopedagogia.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Ingeniería Industrial\n============================================================\n\nprimer año - 1er ciclo\nTotal de créditos del ciclo: 29\n\n- TECNOLOGÍA DESCRIPTIVA (Código: IS425) - 3 créditos\n- INICIATIVA EMPRESARIAL (Código: IU01) - 3 créditos\n- NIVELACIÓN MATEMÁTICA (Código: IU02) - 8 créditos\n- LABORATORIO DE QUÍMICA GENERAL (Código: LQ001) - 1 créditos\n- CIENCIAS DE LA COMPUTACIÓN I (Código: PC111) - 5 créditos\n- DIBUJO TÉCNICO (Código: PC403) - 5 créditos\n- QUÍMICA GENERAL (Código: QU401) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Ingeniería Industrial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 1er ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_industrial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Ingeniería Industrial\n============================================================\n\nprimer año - 2do ciclo\nTotal de créditos del ciclo: 29\n\n- INTRODUCCIÓN A LA ADMINISTRACIÓN DE EMPRESAS (Código: AD501) - 4 créditos\n- FÍSICA GENERAL I (Código: FI402) - 4 créditos\n- CONTABILIDAD GENERAL I (Código: IAD01) - 3 créditos\n- LABORATORIO DE FÍSICA GENERAL I (Código: LFG01) - 1 créditos\n- MATEMÁTICA 108 (Código: MA0101) - 8 créditos\n- CIENCIAS DE LA COMPUTACIÓN II (Código: PC112) - 5 créditos\n- DISEÑO ASISTIDO POR COMPUTADORAS (Código: PC404) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Ingeniería Industrial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 2do ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_industrial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Ingeniería Industrial\n============================================================\n\nsegundo año - 3er ciclo\nTotal de créditos del ciclo: 30\n\n- CONTABILIDAD II (Código: AD202) - 4 créditos\n- LEGISLACIÓN (Código: CS318) - 4 créditos\n- FÍSICA GENERAL II (Código: FI403) - 4 créditos\n- DISEÑO GRAFICO (Código: IG006) - 4 créditos\n- LABORATORIO DE FÍSICA GENERAL II (Código: LFG02) - 1 créditos\n- MATEMÁTICA 208 (Código: MA0208) - 8 créditos\n- CIENCIAS DE LA COMPUTACIÓN III (Código: PC117) - 5 créditos\n",
+    "metadata": {
+      "carrera": "Ingeniería Industrial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 3er ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_industrial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Ingeniería Industrial\n============================================================\n\nsegundo año - 4to ciclo\nTotal de créditos del ciclo: 30\n\n- MERCADOTECNIA (Código: EC411) - 4 créditos\n- NORMAS Y REGULACIONES (Código: IAD02) - 4 créditos\n- PSICOLOGÍA INDUSTRIAL (Código: IS422) - 4 créditos\n- MATEMÁTICA 308 (Código: MA0308) - 6 créditos\n- ESTADÍSTICA I (Código: MA311) - 4 créditos\n- MECÁNICA PARA INGENIEROS (Código: MPI01) - 4 créditos\n- CONTABILIDAD FINANCIERA (Código: RA301) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Ingeniería Industrial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 4to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_industrial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Ingeniería Industrial\n============================================================\n\ntercer año - 5to ciclo\nTotal de créditos del ciclo: 26\n\n- ADMINISTRACIÓN DE RECURSOS HUMANOS (Código: AD302) - 4 créditos\n- COMERCIO ELECTRÓNICO (Código: CE005) - 4 créditos\n- DISEÑO INDUSTRIAL (Código: DI101) - 4 créditos\n- GERENCIA (Código: GE100) - 4 créditos\n- MÉTODOS APLICADOS I (Código: IU10) - 5 créditos\n- ESTADÍSTICA II (Código: MA312) - 5 créditos\n",
+    "metadata": {
+      "carrera": "Ingeniería Industrial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 5to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_industrial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Ingeniería Industrial\n============================================================\n\ntercer año - 6to ciclo\nTotal de créditos del ciclo: 29\n\n- ESTADÍSTICA PARA LA CALIDAD (Código: IS407) - 5 créditos\n- INGENIERÍA DE MÉTODOS (Código: IS411) - 5 créditos\n- FORMULACIÓN Y EVALUACIÓN DE PROYECTOS (Código: IS420) - 5 créditos\n- MÉTODOS APLICADOS II (Código: IU06) - 5 créditos\n- COMERCIO INTERNACIONAL (Código: LABF20) - 5 créditos\n- ADMINISTRACIÓN FINANCIERA (Código: RA303) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Ingeniería Industrial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 6to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_industrial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Ingeniería Industrial\n============================================================\n\ncuarto año - 7mo ciclo\nTotal de créditos del ciclo: 29\n\n- ECONOMÍA I (Código: EC213) - 4 créditos\n- INGENIERÍA DE COSTOS (Código: IS409) - 4 créditos\n- MONEDA Y BANCA (Código: IU07) - 4 créditos\n- INVESTIGACIÓN DE OPERACIONES I (Código: MA307) - 5 créditos\n- SEGURIDAD INDUSTRIAL (Código: RA313) - 4 créditos\n- TEORÍA DE DECISIONES (Código: RA315) - 4 créditos\n- SEMINARIO DE NEGOCIOS Y PROCESOS DE ADMINISTRACIÓN (Código: SNP10) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Ingeniería Industrial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 7mo ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_industrial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Ingeniería Industrial\n============================================================\n\ncuarto año - 8vo ciclo\nTotal de créditos del ciclo: 26\n\n- ADMINISTRACIÓN DE LA PRODUCCIÓN (Código: AR501) - 4 créditos\n- APLICACIONES DE SOFTWARE PARA ADMINISTRACIÓN (Código: AS010) - 4 créditos\n- ECONOMÍA II (Código: EC214) - 5 créditos\n- LOGÍSTICA (Código: IG005) - 4 créditos\n- ECONOMETRÍA (Código: MA216) - 4 créditos\n- INVESTIGACIÓN DE OPERACIONES II (Código: MA308) - 5 créditos\n",
+    "metadata": {
+      "carrera": "Ingeniería Industrial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 8vo ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_industrial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Optometría\n============================================================\n\nprimer año - 1er ciclo\nTotal de créditos del ciclo: 36\n\n- ANATOMÍA OCULAR (Código: AO010) - 6 créditos\n- BIOLOGÍA APLICADA A LA OPTOMETRÍA (Código: BO010) - 6 créditos\n- PAQUETES DE SOFTWARE I (Código: CP001) - 6 créditos\n- FÍSICA APLICADA PARA LA OPTOMETRÍA (Código: FO010) - 6 créditos\n- MATEMÁTICA APLICADA PARA LA OPTOMETRÍA (Código: MO010) - 6 créditos\n- QUÍMICA APLICADA A LA OPTOMETRÍA (Código: QO010) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Optometría",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 1er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_optometria.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Optometría\n============================================================\n\nprimer año - 2do ciclo\nTotal de créditos del ciclo: 36\n\n- PAQUETES DE SOFTWARE II (Código: CP002) - 6 créditos\n- EMBRIOLOGÍA OCULAR (Código: EO110) - 6 créditos\n- FUNDAMENTOS DE MICROBIOLOGÍA (Código: FM001) - 6 créditos\n- ÓPTICA FÍSICA (Código: OPF00) - 6 créditos\n- ÓPTICA OFTÁLMICA (Código: OPF01) - 6 créditos\n- SERVICIO AL CLIENTE (Código: SC010) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Optometría",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 2do ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_optometria.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Optometría\n============================================================\n\nsegundo año - 3er ciclo\nTotal de créditos del ciclo: 36\n\n- ANATOMÍA OCULAR Y DE LA ORBITA (Código: ATM07) - 6 créditos\n- CLÍNICA DE REFRACCIÓN I (Código: CR001) - 6 créditos\n- LENTES DE CONTACTO I (Código: OF015) - 6 créditos\n- CONTROL DE CALIDAD (Código: TC026) - 6 créditos\n- ÓPTICA GEOMÉTRICA (Código: TO215) - 6 créditos\n- VISIÓN FUNCIONAL (Código: VF005) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Optometría",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 3er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_optometria.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Optometría\n============================================================\n\nsegundo año - 4to ciclo\nTotal de créditos del ciclo: 33\n\n- CLÍNICA INTEGRAL Y PRIMEROS AUXILIOS (Código: CI001) - 6 créditos\n- CLÍNICA DE REFRACCIÓN II (Código: CR002) - 6 créditos\n- FUNDAMENTOS DE PLANEACIÓN ESTRATÉGICA (Código: FP001) - 6 créditos\n- LENTES DE CONTACTO II (Código: OF016) - 3 créditos\n- ÓPTICA FÍSICA E INSTRUMENTAL (Código: OF017) - 6 créditos\n- VISIÓN SUBNORMAL (Código: VS001) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Optometría",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 4to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_optometria.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Optometría\n============================================================\n\ntercer año - 5to ciclo\nTotal de créditos del ciclo: 30\n\n- EXAMEN FINAL TEÓRICO PRÁCTICO (Código: EFT01) - 6 créditos\n- EJERCICIO PROFESIONAL SUPERVISADO (Código: EJPS01) - 6 créditos\n- INTRODUCCIÓN A LA EPIDEMIOLOGIA (Código: IE006) - 6 créditos\n- OPTOMETRÍA CLÍNICA INTEGRAL (Código: OC003) - 6 créditos\n- TÉCNICAS DE INVESTIGACIÓN Y ELABORACIÓN DE INFORMES (Código: TI010) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Optometría",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 5to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_optometria.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Optometría\n============================================================\n\nprimer año - 6to ciclo\nTotal de créditos del ciclo: 18\n\n- CALCULO MATEMÁTICO (Código: CAM00) - 3 créditos\n- CONCEPTOS DE PATOLOGÍA GENERAL (Código: COPG00) - 3 créditos\n- FISIOLOGÍA GENERAL (Código: FIGE00) - 3 créditos\n- ÓPTICA FISIOLÓGICA CLÍNICA (Código: OP602) - 3 créditos\n- OPTOMETRÍA TERAPÉUTICA I (Código: OPT01) - 3 créditos\n- ORGANIZACIÓN DE EMPRESAS (Código: RA311) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Optometría",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 6to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_optometria.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Optometría\n============================================================\n\nprimer año - 7mo ciclo\nTotal de créditos del ciclo: 18\n\n- CONCEPTOS DE PATOLOGÍA OCULAR (Código: CPO00) - 3 créditos\n- FUNDAMENTOS DE FARMACOLOGÍA (Código: FUF00) - 3 créditos\n- INTRODUCCIÓN A LA ORTÓPTICA (Código: INRO00) - 3 créditos\n- INTRODUCCIÓN AL TRATAMIENTO PLEOPTICO (Código: INTP00) - 3 créditos\n- OPTOMETRÍA TERAPÉUTICA II (Código: OPT02) - 3 créditos\n- TERAPÉUTICA EN PRIMEROS AUXILIOS (Código: TEPA00) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Optometría",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 7mo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_optometria.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Optometría\n============================================================\n\nsegundo año - 8vo ciclo\nTotal de créditos del ciclo: 18\n\n- ÉTICA PROFESIONAL Y DEONTOLÓGICA (Código: ETPYD) - 3 créditos\n- INTRODUCCIÓN A LA SALUD PÚBLICA (Código: ILSP00) - 3 créditos\n- INTRODUCCIÓN A LA TECNOLOGÍA DE FRENTE DE ONDA (Código: ITFO00) - 3 créditos\n- LEGISLACIÓN SANITARIA (Código: LESA00) - 3 créditos\n- OPTOMETRÍA GERIÁTRICA APLICADA (Código: OGA00) - 3 créditos\n- OPTOMETRÍA PEDIÁTRICA APLICADA (Código: OPA00) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Optometría",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 8vo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_optometria.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Optometría\n============================================================\n\nsegundo año - 9no ciclo\nTotal de créditos del ciclo: 18\n\n- TESIS O PROYECTO (Código: LCTA16) - 6 créditos\n- EJERCICIO PROFESIONAL SUPERVISADO II (Código: MOI033) - 12 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Optometría",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 9no ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_optometria.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Ingeniería Administrativa\n============================================================\n\nprimer año - 1er ciclo\nTotal de créditos del ciclo: 29\n\n- TECNOLOGÍA DESCRIPTIVA (Código: IS425) - 3 créditos\n- INICIATIVA EMPRESARIAL (Código: IU01) - 3 créditos\n- NIVELACIÓN MATEMÁTICA (Código: IU02) - 8 créditos\n- LABORATORIO DE QUÍMICA GENERAL (Código: LQ001) - 1 créditos\n- CIENCIAS DE LA COMPUTACIÓN I (Código: PC111) - 5 créditos\n- DIBUJO TÉCNICO (Código: PC403) - 5 créditos\n- QUÍMICA GENERAL (Código: QU401) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Ingeniería Administrativa",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 1er ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_administrativa.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Ingeniería Administrativa\n============================================================\n\nprimer año - 2do ciclo\nTotal de créditos del ciclo: 29\n\n- INTRODUCCIÓN A LA ADMINISTRACIÓN DE EMPRESAS (Código: AD501) - 4 créditos\n- FÍSICA GENERAL I (Código: FI402) - 4 créditos\n- CONTABILIDAD GENERAL I (Código: IAD01) - 3 créditos\n- LABORATORIO DE FÍSICA GENERAL I (Código: LFG01) - 1 créditos\n- MATEMÁTICA 108 (Código: MA0101) - 8 créditos\n- CIENCIAS DE LA COMPUTACIÓN II (Código: PC112) - 5 créditos\n- DISEÑO ASISTIDO POR COMPUTADORAS (Código: PC404) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Ingeniería Administrativa",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 2do ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_administrativa.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Ingeniería Administrativa\n============================================================\n\nsegundo año - 3er ciclo\nTotal de créditos del ciclo: 30\n\n- CONTABILIDAD II (Código: AD202) - 4 créditos\n- LEGISLACIÓN (Código: CS318) - 4 créditos\n- FÍSICA GENERAL II (Código: FI403) - 4 créditos\n- DISEÑO GRAFICO (Código: IG006) - 4 créditos\n- LABORATORIO DE FÍSICA GENERAL II (Código: LFG02) - 1 créditos\n- MATEMÁTICA 208 (Código: MA0208) - 8 créditos\n- CIENCIAS DE LA COMPUTACIÓN III (Código: PC117) - 5 créditos\n",
+    "metadata": {
+      "carrera": "Ingeniería Administrativa",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 3er ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_administrativa.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Ingeniería Administrativa\n============================================================\n\nsegundo año - 4to ciclo\nTotal de créditos del ciclo: 30\n\n- MERCADOTECNIA (Código: EC411) - 4 créditos\n- NORMAS Y REGULACIONES (Código: IAD02) - 4 créditos\n- PSICOLOGÍA INDUSTRIAL (Código: IS422) - 4 créditos\n- MATEMÁTICA 308 (Código: MA0308) - 6 créditos\n- ESTADÍSTICA I (Código: MA311) - 4 créditos\n- MECÁNICA PARA INGENIEROS (Código: MPI01) - 4 créditos\n- CONTABILIDAD FINANCIERA (Código: RA301) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Ingeniería Administrativa",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 4to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_administrativa.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Ingeniería Administrativa\n============================================================\n\ntercer año - 5to ciclo\nTotal de créditos del ciclo: 26\n\n- ADMINISTRACIÓN DE RECURSOS HUMANOS (Código: AD302) - 4 créditos\n- COMERCIO ELECTRÓNICO (Código: CE005) - 4 créditos\n- DISEÑO INDUSTRIAL (Código: DI101) - 4 créditos\n- GERENCIA (Código: GE100) - 4 créditos\n- MÉTODOS APLICADOS I (Código: IU10) - 5 créditos\n- ESTADÍSTICA II (Código: MA312) - 5 créditos\n",
+    "metadata": {
+      "carrera": "Ingeniería Administrativa",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 5to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_administrativa.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Ingeniería Administrativa\n============================================================\n\ntercer año - 6to ciclo\nTotal de créditos del ciclo: 29\n\n- ESTADÍSTICA PARA LA CALIDAD (Código: IS407) - 5 créditos\n- INGENIERÍA DE MÉTODOS (Código: IS411) - 5 créditos\n- FORMULACIÓN Y EVALUACIÓN DE PROYECTOS (Código: IS420) - 5 créditos\n- MÉTODOS APLICADOS II (Código: IU06) - 5 créditos\n- COMERCIO INTERNACIONAL (Código: LABF20) - 5 créditos\n- ADMINISTRACIÓN FINANCIERA (Código: RA303) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Ingeniería Administrativa",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 6to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_administrativa.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Ingeniería Administrativa\n============================================================\n\ncuarto año - 7mo ciclo\nTotal de créditos del ciclo: 29\n\n- ECONOMÍA I (Código: EC213) - 4 créditos\n- INGENIERÍA DE COSTOS (Código: IS409) - 4 créditos\n- MONEDA Y BANCA (Código: IU07) - 4 créditos\n- INVESTIGACIÓN DE OPERACIONES I (Código: MA307) - 5 créditos\n- SEGURIDAD INDUSTRIAL (Código: RA313) - 4 créditos\n- TEORÍA DE DECISIONES (Código: RA315) - 4 créditos\n- SEMINARIO DE NEGOCIOS Y PROCESOS DE ADMINISTRACIÓN (Código: SNP10) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Ingeniería Administrativa",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 7mo ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_administrativa.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Ingeniería Administrativa\n============================================================\n\ncuarto año - 8vo ciclo\nTotal de créditos del ciclo: 26\n\n- ADMINISTRACIÓN DE LA PRODUCCIÓN (Código: AR501) - 4 créditos\n- APLICACIONES DE SOFTWARE PARA ADMINISTRACIÓN (Código: AS010) - 4 créditos\n- ECONOMÍA II (Código: EC214) - 5 créditos\n- LOGÍSTICA (Código: IG005) - 4 créditos\n- ECONOMETRÍA (Código: MA216) - 4 créditos\n- INVESTIGACIÓN DE OPERACIONES II (Código: MA308) - 5 créditos\n",
+    "metadata": {
+      "carrera": "Ingeniería Administrativa",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 8vo ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_administrativa.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gerencia de Negocios y Servicios\n============================================================\n\nprimer año - 1er ciclo\nTotal de créditos del ciclo: 20\n\n- SERVICIO Y ATENCIÓN AL CLIENTE (Código: AC708) - 4 créditos\n- ADMINISTRACIÓN I (Código: AD110) - 4 créditos\n- COMPUTACIÓN APLICADA I (Código: CP028) - 4 créditos\n- HERRAMIENTAS PARA LA PRODUCTIVIDAD (Código: HP101) - 4 créditos\n- TÉCNICAS DE INVESTIGACIÓN Y PRESENTACIÓN DE INFORMES (Código: LGNS08) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gerencia de Negocios y Servicios",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 1er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gerencia_de_negocios_y_servicios.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gerencia de Negocios y Servicios\n============================================================\n\nprimer año - 2do ciclo\nTotal de créditos del ciclo: 20\n\n- INTRODUCCIÓN A LA GESTIÓN DE LA CALIDAD (Código: AC709) - 4 créditos\n- SEGURIDAD OCUPACIONAL (Código: AC710) - 4 créditos\n- COMPUTACIÓN APLICADA II (Código: CP029) - 4 créditos\n- ÉTICA Y LIDERAZGO (Código: ET215) - 4 créditos\n- ADMINISTRACIÓN II (Código: GE303) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gerencia de Negocios y Servicios",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 2do ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gerencia_de_negocios_y_servicios.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gerencia de Negocios y Servicios\n============================================================\n\nsegundo año - 3er ciclo\nTotal de créditos del ciclo: 24\n\n- KAIZEN Y BUENAS PRÁCTICAS EN LOS PROCESOS (Código: AC711) - 4 créditos\n- FUNDAMENTOS DE CONTABILIDAD (Código: FC100) - 6 créditos\n- COMPORTAMIENTO DEL CONSUMIDOR (Código: IAM001) - 4 créditos\n- FUNDAMENTOS MATEMÁTICOS (Código: MA707) - 6 créditos\n- GESTIÓN DEL RECURSO HUMANO (Código: MAN03) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gerencia de Negocios y Servicios",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 3er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gerencia_de_negocios_y_servicios.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gerencia de Negocios y Servicios\n============================================================\n\nsegundo año - 4to ciclo\nTotal de créditos del ciclo: 20\n\n- TÉCNICAS PRÁCTICAS PARA MEJORAR LA CALIDAD (Código: AC712) - 4 créditos\n- CONTABILIDAD GENERAL (Código: AD203) - 6 créditos\n- COMPETENCIAS GERENCIALES (Código: CPG002) - 4 créditos\n- MATEMÁTICA PARA ADMINISTRACIÓN (Código: MPA100) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gerencia de Negocios y Servicios",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 4to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gerencia_de_negocios_y_servicios.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gerencia de Negocios y Servicios\n============================================================\n\ntercer año - 5to ciclo\nTotal de créditos del ciclo: 26\n\n- MERCADOTECNIA GENERAL (Código: AD331) - 4 créditos\n- FUNDAMENTOS DE ECONOMÍA (Código: FDEC01) - 4 créditos\n- ESTADÍSTICA GENERAL (Código: IN403) - 6 créditos\n- CONTABILIDAD INTERMEDIA (Código: LSA02) - 6 créditos\n- ORGANIZACIÓN Y MÉTODOS (Código: OM102) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gerencia de Negocios y Servicios",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 5to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gerencia_de_negocios_y_servicios.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gerencia de Negocios y Servicios\n============================================================\n\ntercer año - 6to ciclo\nTotal de créditos del ciclo: 28\n\n- COSTOS Y PRESUPUESTOS (Código: DI0100) - 6 créditos\n- ANÁLISIS E INTERPRETACIÓN DE DATOS (Código: EC005) - 6 créditos\n- EMPRESARIALIDAD (Código: EM020) - 4 créditos\n- ADMINISTRACIÓN DE OPERACIONES (Código: IY08) - 6 créditos\n- FUNDAMENTOS DE MICROECONOMÍA (Código: LGNS13) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gerencia de Negocios y Servicios",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 6to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gerencia_de_negocios_y_servicios.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gerencia de Negocios y Servicios\n============================================================\n\ncuarto año - 7mo ciclo\nTotal de créditos del ciclo: 22\n\n- ADMINISTRACIÓN FINANCIERA I (Código: AC114) - 6 créditos\n- PLANEACIÓN Y DESARROLLO DE PROYECTOS (Código: AC713) - 4 créditos\n- LOGÍSTICA Y DISTRIBUCIÓN (Código: LGNS09) - 6 créditos\n- FUNDAMENTOS DE MACROECONOMÍA (Código: LGNS14) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gerencia de Negocios y Servicios",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 7mo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gerencia_de_negocios_y_servicios.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gerencia de Negocios y Servicios\n============================================================\n\ncuarto año - 8vo ciclo\nTotal de créditos del ciclo: 20\n\n- ADMINISTRACIÓN DE INVENTARIOS (Código: AD106) - 4 créditos\n- ADMINISTRACIÓN FINANCIERA II (Código: AE405) - 6 créditos\n- LEGISLACIÓN (Código: CS318) - 6 créditos\n- EVALUACIÓN Y ADMINISTRACIÓN DE PROYECTOS (Código: EADP1) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gerencia de Negocios y Servicios",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 8vo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gerencia_de_negocios_y_servicios.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Medios de Comunicación e Informativos\n============================================================\n\nprimer año - 1er ciclo\nTotal de créditos del ciclo: 9\n\n- MEDIOS DE COMUNICACIÓN (Código: LMCI) - 3 créditos\n- ORTOGRAFÍA (Código: LMCI00) - 3 créditos\n- COMUNICACIÓN (Código: NT034) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Medios de Comunicación e Informativos",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 1er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_medios_de_comunicacion_e_informativos.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Medios de Comunicación e Informativos\n============================================================\n\nprimer año - 2do ciclo\nTotal de créditos del ciclo: 9\n\n- ESTILÍSTICA (Código: LCD312) - 3 créditos\n- INTRODUCCIÓN AL PERIODISMO (Código: LMCI01) - 3 créditos\n- PSICOLOGÍA (Código: RH309) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Medios de Comunicación e Informativos",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 2do ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_medios_de_comunicacion_e_informativos.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Medios de Comunicación e Informativos\n============================================================\n\nprimer año - 3er ciclo\nTotal de créditos del ciclo: 9\n\n- HISTORIA (Código: HP015) - 3 créditos\n- LA TELEVISIÓN (Código: LMCI02) - 3 créditos\n- REDACCIÓN PERIODÍSTICA (Código: RP022) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Medios de Comunicación e Informativos",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 3er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_medios_de_comunicacion_e_informativos.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Medios de Comunicación e Informativos\n============================================================\n\nprimer año - 4to ciclo\nTotal de créditos del ciclo: 9\n\n- INTRODUCCIÓN AL DERECHO (Código: DGL01) - 3 créditos\n- HISTORIA UNIVERSAL (Código: HU350) - 3 créditos\n- SOCIEDAD DE LA INFORMACIÓN (Código: LMCI03) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Medios de Comunicación e Informativos",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 4to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_medios_de_comunicacion_e_informativos.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Medios de Comunicación e Informativos\n============================================================\n\nsegundo año - 5to ciclo\nTotal de créditos del ciclo: 9\n\n- TEMAS DE ACTUALIDAD PERIODÍSTICA (Código: LMCI04) - 3 créditos\n- LENGUAJE ORAL (Código: LMCI05) - 3 créditos\n- LIBERTAD DE EXPRESIÓN (Código: LMCI06) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Medios de Comunicación e Informativos",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 5to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_medios_de_comunicacion_e_informativos.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Medios de Comunicación e Informativos\n============================================================\n\nsegundo año - 6to ciclo\nTotal de créditos del ciclo: 9\n\n- INTRODUCCIÓN A LA ECONOMÍA (Código: EC010) - 3 créditos\n- TECNOLOGÍA (Código: LMCI07) - 3 créditos\n- PRINCIPIOS FOTOGRÁFICOS (Código: LMCI08) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Medios de Comunicación e Informativos",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 6to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_medios_de_comunicacion_e_informativos.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Medios de Comunicación e Informativos\n============================================================\n\nsegundo año - 7mo ciclo\nTotal de créditos del ciclo: 9\n\n- ANÁLISIS DE LA OPINIÓN PÚBLICA (Código: AC038) - 3 créditos\n- LIDERAZGO (Código: AD322) - 3 créditos\n- INTRODUCCIÓN A LA POLÍTICA (Código: LMCI09) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Medios de Comunicación e Informativos",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 7mo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_medios_de_comunicacion_e_informativos.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Medios de Comunicación e Informativos\n============================================================\n\nsegundo año - 8vo ciclo\nTotal de créditos del ciclo: 9\n\n- PRINCIPIOS DE ADMINISTRACIÓN (Código: AH101) - 3 créditos\n- INVESTIGACIÓN SOCIAL (Código: LMCI10) - 3 créditos\n- FUNDAMENTOS DEL PERIODISMO ESPECIALIZADO (Código: LMCI11) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Medios de Comunicación e Informativos",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 8vo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_medios_de_comunicacion_e_informativos.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Medios de Comunicación e Informativos\n============================================================\n\ntercer año - 9no ciclo\nTotal de créditos del ciclo: 9\n\n- ANÁLISIS DE MEDIOS DE COMUNICACIÓN (Código: LCD115) - 3 créditos\n- TEORÍA DE LA COMUNICACIÓN DE MASAS (Código: LMCI12) - 3 créditos\n- REDACCIÓN Y LENGUAJE (Código: LMCI13) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Medios de Comunicación e Informativos",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 9no ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_medios_de_comunicacion_e_informativos.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Medios de Comunicación e Informativos\n============================================================\n\ntercer año - 10mo ciclo\nTotal de créditos del ciclo: 9\n\n- ANÁLISIS FINAL (Código: FG407) - 3 créditos\n- GÉNEROS PERIODÍSTICOS I (Código: IPG001) - 3 créditos\n- HISTORIA DEL PERIODISMO EN GUATEMALA (Código: LMCI14) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Medios de Comunicación e Informativos",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 10mo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_medios_de_comunicacion_e_informativos.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Medios de Comunicación e Informativos\n============================================================\n\ntercer año - 11er ciclo\nTotal de créditos del ciclo: 9\n\n- GÉNEROS PERIODÍSTICOS II (Código: GP006) - 3 créditos\n- REALIDAD DE GUATEMALA (Código: LMCI15) - 3 créditos\n- PERIODISMO TELEVISIVO Y RADIAL (Código: LMCI16) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Medios de Comunicación e Informativos",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 11er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_medios_de_comunicacion_e_informativos.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Medios de Comunicación e Informativos\n============================================================\n\ntercer año - 12do ciclo\nTotal de créditos del ciclo: 9\n\n- PRINCIPIOS DE DERECHO Y ORGANIZACIÓN DEL ESTADO (Código: LMCI17) - 3 créditos\n- PERIODISMO ESCRITO Y DIGITAL (Código: LMCI18) - 3 créditos\n- ENTORNO INTERNACIONAL (Código: LMCI19) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Medios de Comunicación e Informativos",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 12do ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_medios_de_comunicacion_e_informativos.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Medios de Comunicación e Informativos\n============================================================\n\ncuarto año - 13er ciclo\nTotal de créditos del ciclo: 9\n\n- PERIODISMO DE INVESTIGACIÓN (Código: LMCI20) - 3 créditos\n- COMUNICACIÓN Y EXPRESIÓN ORAL (Código: LMCI21) - 3 créditos\n- LEGISLACIÓN EN LOS MEDIOS DE COMUNICACIÓN (Código: LPD011) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Medios de Comunicación e Informativos",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 13er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_medios_de_comunicacion_e_informativos.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Medios de Comunicación e Informativos\n============================================================\n\ncuarto año - 14to ciclo\nTotal de créditos del ciclo: 9\n\n- ECONOMÍA (Código: EC221) - 3 créditos\n- FOTOGRAFÍA PERIODÍSTICA (Código: LMCI22) - 3 créditos\n- TECNOLOGÍAS DE LA COMUNICACIÓN (Código: TECO1) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Medios de Comunicación e Informativos",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 14to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_medios_de_comunicacion_e_informativos.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Medios de Comunicación e Informativos\n============================================================\n\ncuarto año - 15to ciclo\nTotal de créditos del ciclo: 9\n\n- OPINIÓN PÚBLICA (Código: CS326) - 3 créditos\n- SOCIOPOLÍTICA (Código: LMCI23) - 3 créditos\n- DIRECCIÓN DE LA SALA DE REDACCIÓN Y AGENDA SETTING (Código: LMCI24) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Medios de Comunicación e Informativos",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 15to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_medios_de_comunicacion_e_informativos.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Medios de Comunicación e Informativos\n============================================================\n\ncuarto año - 16to ciclo\nTotal de créditos del ciclo: 9\n\n- ADMINISTRACIÓN DE MEDIOS DE COMUNICACIÓN (Código: LMCI25) - 3 créditos\n- TÉCNICAS DE INVESTIGACIÓN SOCIAL (TESIS) (Código: LMCI26) - 3 créditos\n- PERIODISMO ESPECIALIZADO (CULTURAL, DEPORTIVO, CIENTÍFICO Y ECONÓMICO) (Código: LMCI27) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Medios de Comunicación e Informativos",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 16to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_medios_de_comunicacion_e_informativos.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERIA QUIMICA\n============================================================\n\nprimer año - 1er ciclo\nTotal de créditos del ciclo: 28\n\n- BIOLOGÍA (Código: BB001) - 3 créditos\n- QUÍMICA I (Código: BQU01) - 4 créditos\n- TÉCNICAS DE COMUNICACIÓN ORAL Y ESCRITA (Código: LE007) - 3 créditos\n- LABORATORIO DE QUÍMICA I (Código: LQ101) - 2 créditos\n- MATEMÁTICA I (Código: MA201) - 8 créditos\n- CIENCIAS DE LA COMPUTACIÓN I (Código: PC111) - 5 créditos\n- TALLER DE INTRODUCCIÓN A LA INGENIERÍA QUÍMICA (Código: SOS101) - 3 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERIA QUIMICA",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 1er ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_quimica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERIA QUIMICA\n============================================================\n\nprimer año - 2do ciclo\nTotal de créditos del ciclo: 30\n\n- QUÍMICA II (Código: BQU02) - 4 créditos\n- CIENCIAS AMBIENTALES (Código: FG514) - 3 créditos\n- LABORATORIO DE FÍSICA I (Código: FI105) - 1 créditos\n- FÍSICA I (Código: FI201) - 4 créditos\n- MATEMÁTICA II (Código: MA202) - 8 créditos\n- METODOLOGÍA DE LA INVESTIGACIÓN (Código: MEI01) - 3 créditos\n- CIENCIAS DE LA COMPUTACIÓN II (Código: PC112) - 5 créditos\n- LABORATORIO DE QUÍMICA II (Código: QU101) - 2 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERIA QUIMICA",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 2do ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_quimica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERIA QUIMICA\n============================================================\n\nsegundo año - 3er ciclo\nTotal de créditos del ciclo: 30\n\n- LABORATORIO DE FÍSICA II (Código: FI106) - 1 créditos\n- FÍSICA II (Código: FI202) - 4 créditos\n- LABORATORIO DE QUÍMICA ORGÁNICA I (Código: LQF25) - 2 créditos\n- MATEMÁTICA III (Código: MA203) - 8 créditos\n- ÁLGEBRA LINEAL (Código: MA208) - 4 créditos\n- ESTADÍSTICA (Código: MA304) - 4 créditos\n- QUÍMICA ORGÁNICA I (Código: Q3304) - 4 créditos\n- TECNOLOGÍA INDUSTRIAL (Código: TIU301) - 3 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERIA QUIMICA",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 3er ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_quimica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERIA QUIMICA\n============================================================\n\nsegundo año - 4to ciclo\nTotal de créditos del ciclo: 29\n\n- LEGISLACIÓN (Código: LG601) - 3 créditos\n- LABORATORIO QUÍMICA ORGÁNICA II (Código: LQF27) - 2 créditos\n- LABORATORIO DE FISICOQUÍMICA (Código: LQF31) - 2 créditos\n- MATEMÁTICA IV (Código: MA204) - 6 créditos\n- ECUACIONES DIFERENCIALES ORDINARIAS (Código: MA415) - 4 créditos\n- FISICOQUÍMICA (Código: Q3305) - 3 créditos\n- QUÍMICA ORGÁNICA II (Código: Q3307) - 4 créditos\n- QUÍMICA ANALÍTICA I (Código: QA002) - 3 créditos\n- LABORATORIO DE QUÍMICA ANALÍTICA I (Código: QA004) - 2 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERIA QUIMICA",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 4to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_quimica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERIA QUIMICA\n============================================================\n\ntercer año - 5to ciclo\nTotal de créditos del ciclo: 25\n\n- ANÁLISIS INSTRUMENTAL (Código: AI400) - 3 créditos\n- DISEÑO DE PROYECTOS E INNOVACIÓN (Código: DPI501) - 3 créditos\n- CIENCIA DE LOS MATERIALES (Código: HU320) - 4 créditos\n- MATEMÁTICA V (Código: MA205) - 6 créditos\n- QUÍMICA ANALÍTICA II (Código: QA003) - 3 créditos\n- LABORATORIO DE QUÍMICA ANALÍTICA II (Código: QA005) - 2 créditos\n- BALANCE DE MASA Y ENERGÍA (Código: QU501) - 4 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERIA QUIMICA",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 5to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_quimica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERIA QUIMICA\n============================================================\n\ntercer año - 6to ciclo\nTotal de créditos del ciclo: 25\n\n- ADMINISTRACIÓN DE EMPRESAS (Código: AD305) - 3 créditos\n- COMPUTACIÓN CIENTÍFICA (Código: CP601) - 5 créditos\n- FINANZAS (Código: EC204) - 3 créditos\n- LABORATORIO DE MICROBIOLOGÍA INDUSTRIAL (Código: LMB601) - 2 créditos\n- MECÁNICA DE FLUIDOS (Código: MF100) - 4 créditos\n- SISTEMAS ENERGÉTICOS (Código: PRI601) - 5 créditos\n- MICROBIOLOGÍA INDUSTRIAL (Código: QU602) - 3 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERIA QUIMICA",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 6to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_quimica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Administración y Microfinanzas\n============================================================\n\nprimer año - 1er ciclo\nTotal de créditos del ciclo: 12\n\n- INTRODUCCIÓN A MICROFINANZAS (Código: AC0012) - 3 créditos\n- CONTABILIDAD I (Código: AD201) - 3 créditos\n- ANÁLISIS FINAL I (Código: FG402) - 3 créditos\n- COMUNICACIÓN I (Código: LE111) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Administración y Microfinanzas",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 1er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_administracion_y_microfinanzas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Administración y Microfinanzas\n============================================================\n\nprimer año - 2do ciclo\nTotal de créditos del ciclo: 12\n\n- CONTABILIDAD II (Código: AD202) - 3 créditos\n- ANÁLISIS FINAL II (Código: FG403) - 3 créditos\n- COMUNICACIÓN II (Código: LE112) - 3 créditos\n- GESTIÓN DE CRÉDITO EN MICROFINANZAS (Código: MCFNS01) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Administración y Microfinanzas",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 2do ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_administracion_y_microfinanzas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Administración y Microfinanzas\n============================================================\n\nprimer año - 3er ciclo\nTotal de créditos del ciclo: 12\n\n- ANÁLISIS DE ESTADOS FINANCIEROS (Código: EID04) - 3 créditos\n- ÉTICA Y RESPONSABILIDAD EN MICROFINANZAS (Código: FG307) - 3 créditos\n- COMUNICACIÓN III (Código: LE113) - 3 créditos\n- INFORMÁTICA I CON APLICACIÓN A LAS MICROFINANZAS (Código: PC522) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Administración y Microfinanzas",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 3er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_administracion_y_microfinanzas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Administración y Microfinanzas\n============================================================\n\nprimer año - 4to ciclo\nTotal de créditos del ciclo: 12\n\n- MATEMÁTICA I (Código: MA201) - 3 créditos\n- METODOLOGÍA DE CRÉDITOS PARA MICROFINANZAS (Código: MCFNS002) - 3 créditos\n- INFORMÁTICA II CON APLICACIÓN A MICROFINANZAS (Código: MIF002) - 3 créditos\n- ADMINISTRACIÓN DE CARTERA Y CONTROL DE MOROSIDAD (Código: TOB11) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Administración y Microfinanzas",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 4to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_administracion_y_microfinanzas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Administración y Microfinanzas\n============================================================\n\nsegundo año - 5to ciclo\nTotal de créditos del ciclo: 12\n\n- PLAN DE NEGOCIOS CON APLICACIÓN A MICROFINANZAS (Código: AC065) - 3 créditos\n- INCLUSIÓN FINANCIERA (Código: EC125) - 3 créditos\n- MATEMÁTICA II (Código: MA202) - 3 créditos\n- INFORMÁTICA III CON APLICACIÓN A MICROFINANZAS (Código: MIF003) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Administración y Microfinanzas",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 5to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_administracion_y_microfinanzas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Administración y Microfinanzas\n============================================================\n\nsegundo año - 6to ciclo\nTotal de créditos del ciclo: 12\n\n- MERCADEO I (Código: AD316) - 3 créditos\n- INTELIGENCIA EMOCIONAL (Código: DCG001) - 3 créditos\n- GESTIÓN DE DESEMPEÑO SOCIAL (GDS) (Código: GS004) - 3 créditos\n- SOCIOECONOMÍA DE GUATEMALA I (Código: SOEC02) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Administración y Microfinanzas",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 6to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_administracion_y_microfinanzas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Administración y Microfinanzas\n============================================================\n\nsegundo año - 7mo ciclo\nTotal de créditos del ciclo: 12\n\n- MERCADEO II (Código: AD317) - 3 créditos\n- NEGOCIACIÓN I (Código: EC423) - 3 créditos\n- MATEMÁTICA PARA MICROFINANZAS I (Código: MA130) - 3 créditos\n- SOCIOECONOMÍA DE GUATEMALA II (Código: SOEC03) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Administración y Microfinanzas",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 7mo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_administracion_y_microfinanzas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Administración y Microfinanzas\n============================================================\n\nsegundo año - 8vo ciclo\nTotal de créditos del ciclo: 12\n\n- PLAN DE MERCADEO (Código: AC610) - 3 créditos\n- NEGOCIACIÓN II (Código: EC425) - 3 créditos\n- MATEMÁTICA PARA MICROFINANZAS II (Código: MA131) - 3 créditos\n- SOCIOECONOMÍA DE GUATEMALA III (Código: SOEC04) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Administración y Microfinanzas",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 8vo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_administracion_y_microfinanzas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Administración y Microfinanzas\n============================================================\n\ntercer año - 9no ciclo\nTotal de créditos del ciclo: 12\n\n- ANÁLISIS DE ESTADOS FINANCIEROS, MOD 4 ESAN (Código: EID09) - 3 créditos\n- ELABORACIÓN DE PROYECTOS (Código: GE609) - 3 créditos\n- MATEMÁTICA FINANCIERA III (Código: MA104) - 3 créditos\n- LEGISLACIÓN PARA MICROFINANZAS I (Código: MIF004) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Administración y Microfinanzas",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 9no ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_administracion_y_microfinanzas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Administración y Microfinanzas\n============================================================\n\ntercer año - 10mo ciclo\nTotal de créditos del ciclo: 12\n\n- ANÁLISIS DE RIESGO CREDITICIO MOD.5 ESAN (Código: AR006) - 3 créditos\n- EVALUACIÓN FINANCIERA DE PROYECTOS (Código: EC413) - 3 créditos\n- AVALÚOS DE BIENES MUEBLES E INMUEBLES PARA MICROFINANZAS (Código: LMF010) - 3 créditos\n- LEGISLACIÓN PARA MICROFINANZAS II (Código: MIF005) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Administración y Microfinanzas",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 10mo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_administracion_y_microfinanzas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Administración y Microfinanzas\n============================================================\n\ntercer año - 11er ciclo\nTotal de créditos del ciclo: 12\n\n- DISEÑO DE PROCESOS I (Código: ME117) - 3 créditos\n- LEGISLACIÓN PARA MICROFINANZAS III (Código: MIF006) - 3 créditos\n- PENSAMIENTO CREATIVO (Código: PENSA00) - 3 créditos\n- TEORÍA GERENCIAL I (Código: RA309) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Administración y Microfinanzas",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 11er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_administracion_y_microfinanzas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Administración y Microfinanzas\n============================================================\n\ntercer año - 12do ciclo\nTotal de créditos del ciclo: 12\n\n- MEJORA CONTINUA (Código: AC07) - 3 créditos\n- PLANEACIÓN ESTRATÉGICA I (Código: GT002) - 3 créditos\n- DISEÑO DE PROCESOS II (Código: ME118) - 3 créditos\n- TEORÍA GERENCIAL II (Código: RA310) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Administración y Microfinanzas",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 12do ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_administracion_y_microfinanzas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Administración y Microfinanzas\n============================================================\n\ncuarto año - 13er ciclo\nTotal de créditos del ciclo: 12\n\n- ANÁLISIS DE SISTEMAS (Código: AS301) - 3 créditos\n- PRINCIPIOS DE ECONOMÍA (Código: EC0002) - 3 créditos\n- PLANEACIÓN ESTRATÉGICA II (Código: GT003) - 3 créditos\n- TEORÍA GERENCIAL III (Código: TG03) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Administración y Microfinanzas",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 13er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_administracion_y_microfinanzas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Administración y Microfinanzas\n============================================================\n\ncuarto año - 14to ciclo\nTotal de créditos del ciclo: 12\n\n- PRESUPUESTOS (Código: AC025) - 3 créditos\n- BASE DE DATOS (Código: AS403) - 3 créditos\n- PRINCIPIOS DE AUDITORÍA (Código: AUD001) - 3 créditos\n- MICROECONOMÍA (Código: EC201) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Administración y Microfinanzas",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 14to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_administracion_y_microfinanzas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Administración y Microfinanzas\n============================================================\n\ncuarto año - 15to ciclo\nTotal de créditos del ciclo: 12\n\n- AUDITORÍA DE SISTEMAS (Código: A3610) - 3 créditos\n- RRHH I (Código: ADRRH003) - 3 créditos\n- DIRECCIÓN ESTRATÉGICA (Código: DE0015) - 3 créditos\n- MACROECONOMÍA (Código: EC202) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Administración y Microfinanzas",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 15to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_administracion_y_microfinanzas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Administración y Microfinanzas\n============================================================\n\ncuarto año - 16to ciclo\nTotal de créditos del ciclo: 12\n\n- RRHH II (Código: ADRRH004) - 3 créditos\n- GOBERNABILIDAD EN MICROFINANZAS (Código: MIF007) - 3 créditos\n- MODELOS DE DESARROLLO (Código: MIF008) - 3 créditos\n- SEMINARIO DE APLICACIÓN (Código: SA101) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Administración y Microfinanzas",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 16to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_administracion_y_microfinanzas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Comunicacion y Diseño\n============================================================\n\nprimer año - 1er ciclo\nTotal de créditos del ciclo: 13\n\n- GEOMETRÍA BÁSICA (Código: CAX101) - 3 créditos\n- HISTORIA DEL ARTE UNIVERSAL (Código: HISARU) - 2 créditos\n- COMUNICACIÓN I (Código: LE111) - 2 créditos\n- FUNDAMENTOS PARA EL DISEÑO (Código: TCDF1) - 2 créditos\n- SOFTWARE I (Código: TCDS1) - 2 créditos\n- VISUALIZACIÓN GRAFICA I (Código: TCDV1) - 2 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Comunicacion y Diseño",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 1er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_comunicacion_y_diseno.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Comunicacion y Diseño\n============================================================\n\nprimer año - 2do ciclo\nTotal de créditos del ciclo: 14\n\n- LÓGICA PARA EL DISEÑO (Código: CAX201) - 3 créditos\n- HISTORIA DEL DISEÑO GRAFICO (Código: LCD011) - 3 créditos\n- COMUNICACIÓN II (Código: LE112) - 2 créditos\n- DISEÑO VISUAL Y COMPOSICIÓN (Código: TCDD2) - 2 créditos\n- SOFTWARE II (Código: TCDS2) - 2 créditos\n- VISUALIZACIÓN GRAFICA II (Código: TCDV2) - 2 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Comunicacion y Diseño",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 2do ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_comunicacion_y_diseno.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Comunicacion y Diseño\n============================================================\n\nprimer año - 3er ciclo\nTotal de créditos del ciclo: 14\n\n- ESTADÍSTICA DESCRIPTIVA (Código: BIM01) - 3 créditos\n- FUNDAMENTOS DE INTELIGENCIA ARTIFICIAL (Código: IA003) - 3 créditos\n- DISEÑO PUBLICITARIO (Código: IG012) - 2 créditos\n- COMUNICACIÓN III (Código: LE113) - 2 créditos\n- SOFTWARE III (Código: TCDS3) - 2 créditos\n- VISUALIZACIÓN GRAFICA III (Código: TCDV3) - 2 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Comunicacion y Diseño",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 3er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_comunicacion_y_diseno.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Comunicacion y Diseño\n============================================================\n\nprimer año - 4to ciclo\nTotal de créditos del ciclo: 13\n\n- ANÁLISIS FINAL (Código: FG407) - 3 créditos\n- CREACIÓN DE CONTENIDOS CON INTELIGENCIA ARTIFICIAL (Código: IA108) - 2 créditos\n- COMUNICACIÓN IV (Código: LE205) - 2 créditos\n- DISEÑO EDITORIAL (Código: TCDD4) - 2 créditos\n- SOFTWARE IV (Código: TCDS4) - 2 créditos\n- VISUALIZACIÓN GRAFICA IV (Código: TCDV4) - 2 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Comunicacion y Diseño",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 4to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_comunicacion_y_diseno.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Comunicacion y Diseño\n============================================================\n\nsegundo año - 5to ciclo\nTotal de créditos del ciclo: 14\n\n- INTRODUCCIÓN A LA ADMINISTRACIÓN (Código: IC002) - 2 créditos\n- DISEÑO GRAFICO ELECTRÓNICO (Código: IG007) - 2 créditos\n- LENGUAJE Y GRAMÁTICA (Código: LCCL1) - 3 créditos\n- PSICOLOGÍA DE LA COMUNICACIÓN (Código: LCD001) - 3 créditos\n- SOFTWARE V (Código: TCDS5) - 2 créditos\n- FUNDAMENTOS DE FOTOGRAFÍA (Código: VS501) - 2 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Comunicacion y Diseño",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 5to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_comunicacion_y_diseno.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Comunicacion y Diseño\n============================================================\n\nsegundo año - 6to ciclo\nTotal de créditos del ciclo: 15\n\n- PLANEACIÓN ESTRATÉGICA APLICADA (Código: AM104) - 3 créditos\n- FOTOGRAFÍA DIGITAL (Código: FD110) - 2 créditos\n- PSICOLOGÍA DEL CONSUMIDOR (Código: LCCP5) - 3 créditos\n- TÉCNICAS DE REDACCIÓN (Código: LCCT3) - 3 créditos\n- DISEÑO INTERACTIVO (Código: TCDD6) - 2 créditos\n- SOFTWARE VI (Código: TCDS6) - 2 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Comunicacion y Diseño",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 6to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_comunicacion_y_diseno.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Comunicacion y Diseño\n============================================================\n\nsegundo año - 7mo ciclo\nTotal de créditos del ciclo: 16\n\n- ADMINISTRACIÓN DE RECURSOS HUMANOS (Código: AD302) - 3 créditos\n- ESCRITURA CREATIVA (Código: CL701) - 3 créditos\n- SEMIOLOGÍA (Código: SM010) - 3 créditos\n- SOFTWARE VII (Código: TCDS7) - 2 créditos\n- DISEÑO DE PAGINAS WEB (Código: TCDW7) - 2 créditos\n- FOTOGRAFÍA PERSUASIVA (Código: VS701) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Comunicacion y Diseño",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 7mo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_comunicacion_y_diseno.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Comunicacion y Diseño\n============================================================\n\nsegundo año - 8vo ciclo\nTotal de créditos del ciclo: 23\n\n- COMUNICACIÓN ORAL Y DESARROLLO PERSONAL (Código: CM802) - 2 créditos\n- CREATIVIDAD I (Código: DI0107) - 3 créditos\n- DISEÑO DE LA EXPERIENCIA LABORAL (Código: DI801) - 6 créditos\n- ADMINISTRACIÓN DE EMPRESAS DE COMUNICACIÓN (Código: LCA11) - 3 créditos\n- COMUNICACIÓN AUDIOVISUAL (Código: LCCC4) - 3 créditos\n- SOFTWARE VIII (Código: MPS801) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Comunicacion y Diseño",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 8vo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_comunicacion_y_diseno.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Comunicacion y Diseño\n============================================================\n\ntercer año - 9no ciclo\nTotal de créditos del ciclo: 18\n\n- TÉCNICAS GERENCIALES (Código: AM902) - 3 créditos\n- CREATIVIDAD II (Código: DG002) - 3 créditos\n- DISEÑO GRAFICO I (Código: IG100) - 3 créditos\n- TALLER I (Código: LCCT9) - 3 créditos\n- SEMIOLOGÍA DE LA IMAGEN (Código: LCD116) - 3 créditos\n- COMUNICACIÓN ORGANIZACIONAL (Código: LG107) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Comunicacion y Diseño",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 9no ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_comunicacion_y_diseno.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Comunicacion y Diseño\n============================================================\n\ntercer año - 10mo ciclo\nTotal de créditos del ciclo: 18\n\n- ADMINISTRACIÓN DE LA INNOVACIÓN Y LA CONECTIVIDAD (Código: CAX902) - 3 créditos\n- CREATIVIDAD III (Código: DI0114) - 3 créditos\n- COMUNICACIÓN CORPORATIVA (Código: DI0130) - 3 créditos\n- DISEÑO GRAFICO II (Código: IG008) - 3 créditos\n- TALLER II (Código: LCDT10) - 3 créditos\n- FUNDAMENTOS DE MARKETING (Código: MER105) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Comunicacion y Diseño",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 10mo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_comunicacion_y_diseno.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Comunicacion y Diseño\n============================================================\n\ntercer año - 11er ciclo\nTotal de créditos del ciclo: 18\n\n- DISEÑO GRAFICO III (Código: CI0108) - 3 créditos\n- INVESTIGACIÓN DE MERCADOS (Código: DI0101) - 3 créditos\n- ÉTICA Y DEONTOLOGÍA (Código: ED100) - 3 créditos\n- COMUNICACIÓN Y PODER (Código: LCCC7) - 3 créditos\n- TALLER III (Código: LCCT11) - 3 créditos\n- CREATIVIDAD IV (Código: LCD002) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Comunicacion y Diseño",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 11er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_comunicacion_y_diseno.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Comunicacion y Diseño\n============================================================\n\ntercer año - 12do ciclo\nTotal de créditos del ciclo: 17\n\n- DISEÑO GRAFICO IV (Código: DG001) - 3 créditos\n- METODOLOGÍA PARA PROYECTO DE GRADUACIÓN (Código: FP121) - 3 créditos\n- MANEJO DE CAMPAÑAS PUBLICITARIAS (Código: LCCM5) - 3 créditos\n- TALLER IV (Código: LCCT12) - 3 créditos\n- MODELOS INNOVADORES DE COMUNICACIÓN (Código: MAE14) - 3 créditos\n- PRE-PRENSA Y REPRODUCCIÓN (Código: TCDP7) - 2 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Comunicacion y Diseño",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 12do ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_comunicacion_y_diseno.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Comunicacion y Diseño\n============================================================\n\ncuarto año - 13er ciclo\nTotal de créditos del ciclo: 18\n\n- EMPRENDIMIENTO CREATIVO (Código: EMC101) - 3 créditos\n- DESARROLLO Y POSICIONAMIENTO DE MARCAS (Código: FP131) - 3 créditos\n- DISEÑO DE ESTRATEGIAS DE COMPETITIVIDAD (Código: FP132) - 3 créditos\n- COMUNICACIÓN INTERCULTURAL (Código: LCCI6) - 3 créditos\n- MERCADEO EN EL PUNTO DE VENTA (Código: MAE10) - 3 créditos\n- PROYECTOS I (Código: PY001) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Comunicacion y Diseño",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 13er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_comunicacion_y_diseno.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Comunicacion y Diseño\n============================================================\n\ncuarto año - 14to ciclo\nTotal de créditos del ciclo: 15\n\n- COYUNTURA DE LA EVOLUCIÓN DIGITAL (Código: CM105) - 3 créditos\n- RELACIONES PÚBLICAS Y DIPLOMÁTICAS (Código: LCCR12) - 3 créditos\n- E-MARKETING (Código: MCM008) - 3 créditos\n- PROYECTOS II (Código: PY002) - 3 créditos\n- TESIS I (Código: TE001) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Comunicacion y Diseño",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 14to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_comunicacion_y_diseno.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Comunicacion y Diseño\n============================================================\n\ncuarto año - 15to ciclo\nTotal de créditos del ciclo: 12\n\n- FUNDAMENTOS DE DERECHO (Código: CS313) - 3 créditos\n- PROYECTOS III (Código: FG523) - 3 créditos\n- ESTRATEGIAS INNOVADORAS EN REDES SOCIALES (Código: FP151) - 3 créditos\n- TESIS II (Código: TE002) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Comunicacion y Diseño",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 15to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_comunicacion_y_diseno.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Comunicacion y Diseño\n============================================================\n\ncuarto año - 16to ciclo\nTotal de créditos del ciclo: 9\n\n- EDICIÓN Y PUBLICACIÓN DE TESIS (Código: FP161) - 3 créditos\n- PROYECTOS IV (Código: PRY401) - 3 créditos\n- TESIS III (Código: TE003) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Comunicacion y Diseño",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 16to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_comunicacion_y_diseno.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\nprimer año - 1er ciclo\nTotal de créditos del ciclo: 28\n\n- TÉCNICAS DE INVESTIGACIÓN Y APRENDIZAJE (Código: FG050) - 3 créditos\n- FÍSICA I (Código: FI201) - 5 créditos\n- INFORMÁTICA I (Código: IN301) - 4 créditos\n- TECNOLOGÍA DESCRIPTIVA (Código: IS425) - 3 créditos\n- MATEMÁTICA I (Código: MA201) - 8 créditos\n- CIENCIAS DE LA COMPUTACIÓN I (Código: PC111) - 5 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 1er ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_sistemas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\nprimer año - 2do ciclo\nTotal de créditos del ciclo: 28\n\n- EVOLUCIÓN DE LA CIENCIA Y LA TECNOLOGÍA (Código: FG051) - 3 créditos\n- FÍSICA II (Código: FI202) - 5 créditos\n- INFORMÁTICA II (Código: IN302) - 4 créditos\n- MATEMÁTICA II (Código: MA202) - 8 créditos\n- CIENCIAS DE LA COMPUTACIÓN II (Código: PC112) - 5 créditos\n- DIBUJO TÉCNICO (Código: PC403) - 3 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 2do ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_sistemas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\nsegundo año - 3er ciclo\nTotal de créditos del ciclo: 31\n\n- FÍSICA III (Código: FI203) - 5 créditos\n- ELECTRICIDAD (Código: FI306) - 3 créditos\n- INFORMÁTICA III (Código: IN303) - 4 créditos\n- MATEMÁTICA III (Código: MA203) - 8 créditos\n- ÁLGEBRA LINEAL I (Código: MA206) - 4 créditos\n- CIENCIAS DE LA COMPUTACIÓN III (Código: PC117) - 7 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 3er ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_sistemas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\nsegundo año - 4to ciclo\nTotal de créditos del ciclo: 28\n\n- ELECTRÓNICA I(S) (Código: EL216) - 3 créditos\n- FÍSICA IV (Código: FI204) - 4 créditos\n- MATEMÁTICA IV (Código: MA204) - 6 créditos\n- ÁLGEBRA LINEAL II (Código: MA207) - 4 créditos\n- ECUACIONES DIFERENCIALES ORDINARIAS (Código: MA415) - 4 créditos\n- CIENCIAS DE LA COMPUTACIÓN IV (Código: PC118) - 7 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 4to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_sistemas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\ntercer año - 5to ciclo\nTotal de créditos del ciclo: 28\n\n- SISTEMAS DE ARQUITECTURA (Código: CO210) - 4 créditos\n- FUNDAMENTOS DE APLICACIONES WEB (Código: EL501) - 3 créditos\n- FÍSICA V (Código: FI210) - 4 créditos\n- MATEMÁTICA V (Código: MA205) - 6 créditos\n- ESTADÍSTICA MATEMÁTICA (Código: MA212) - 4 créditos\n- CIENCIAS DE LA COMPUTACIÓN V (Código: PC119) - 7 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 5to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_sistemas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\ntercer año - 6to ciclo\nTotal de créditos del ciclo: 28\n\n- MICROPROCESADORES (Código: EL207) - 5 créditos\n- CLOUD COMPUTING (Código: EL601) - 4 créditos\n- INFORMÁTICA IV (Código: IN205) - 4 créditos\n- INGENIERÍA DE SOFTWARE (Código: IS100) - 4 créditos\n- MATEMÁTICA VI (Código: MA213) - 5 créditos\n- CIENCIAS DE LA COMPUTACIÓN VI (Código: PC226) - 6 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 6to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_sistemas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\ncuarto año - 7mo ciclo\nTotal de créditos del ciclo: 28\n\n- TEORÍA DE SISTEMAS I (Código: CO209) - 4 créditos\n- ECONOMÍA I (Código: EC213) - 3 créditos\n- MATEMÁTICA VII (Código: MA214) - 4 créditos\n- SEMINARIO DE INVESTIGACIÓN DE OPERACIONES I (Código: MA229) - 4 créditos\n- CIENCIAS DE LA COMPUTACIÓN VII (Código: PC227) - 8 créditos\n- SEMINARIO PROFESIONAL I (Código: SP101) - 5 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 7mo ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_sistemas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN\n============================================================\n\ncuarto año - 8vo ciclo\nTotal de créditos del ciclo: 28\n\n- TEORÍA DE SISTEMAS II (Código: CO206) - 4 créditos\n- ECONOMÍA II (Código: EC214) - 3 créditos\n- INGENIERÍA DE PROCESOS (Código: IP100) - 4 créditos\n- SEMINARIO DE INVESTIGACIÓN DE OPERACIONES II (Código: MA228) - 4 créditos\n- CIENCIAS DE LA COMPUTACIÓN VIII (Código: PC228) - 8 créditos\n- SEMINARIO PROFESIONAL II (Código: SP102) - 5 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA DE SISTEMAS INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 8vo ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_sistemas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gestión Empresarial\n============================================================\n\nprimer año - 1er ciclo\nTotal de créditos del ciclo: 9\n\n- ANÁLISIS FINAL (Código: FG407) - 3 créditos\n- MATEMÁTICA BÁSICA (Código: MA001) - 3 créditos\n- MANEJO DE PAQUETES DE SOFTWARE I (Código: RT309) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gestión Empresarial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 1er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gestion_empresarial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gestión Empresarial\n============================================================\n\nprimer año - 2do ciclo\nTotal de créditos del ciclo: 9\n\n- ESTADÍSTICA I (Código: MA311) - 3 créditos\n- MANEJO DE PAQUETES DE SOFTWARE II (Código: RT310) - 3 créditos\n- SERVICIO AL CLIENTE (Código: SC010) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gestión Empresarial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 2do ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gestion_empresarial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gestión Empresarial\n============================================================\n\nprimer año - 3er ciclo\nTotal de créditos del ciclo: 9\n\n- TEORÍA DE LA CALIDAD (Código: LGE001) - 3 créditos\n- ESTADÍSTICA II (Código: MA312) - 3 créditos\n- MANEJO DE PAQUETES DE SOFTWARE III (Código: RT314) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gestión Empresarial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 3er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gestion_empresarial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gestión Empresarial\n============================================================\n\nprimer año - 4to ciclo\nTotal de créditos del ciclo: 9\n\n- CONTABILIDAD GENERAL (Código: AD203) - 3 créditos\n- ELABORACIÓN DE PROYECTOS (Código: GE609) - 3 créditos\n- MANEJO DE PAQUETES DE SOFTWARE IV (Código: RT315) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gestión Empresarial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 4to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gestion_empresarial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gestión Empresarial\n============================================================\n\nsegundo año - 5to ciclo\nTotal de créditos del ciclo: 9\n\n- AUTOMATIZACIÓN DE OFICINAS (Código: AD308) - 3 créditos\n- PRINCIPIOS DE ADMINISTRACIÓN (Código: AH101) - 3 créditos\n- LA CALIDAD EN EL SERVICIO (Código: CS100) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gestión Empresarial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 5to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gestion_empresarial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gestión Empresarial\n============================================================\n\nsegundo año - 6to ciclo\nTotal de créditos del ciclo: 9\n\n- FUNDAMENTOS DE DERECHO (Código: CS313) - 3 créditos\n- EMPRESARIALIDAD (Código: EM020) - 3 créditos\n- PRUEBAS DE EVALUACIÓN DE PERSONAL (Código: LGE002) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gestión Empresarial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 6to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gestion_empresarial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gestión Empresarial\n============================================================\n\nsegundo año - 7mo ciclo\nTotal de créditos del ciclo: 9\n\n- ANÁLISIS DE INFORMACIÓN (Código: D0001) - 3 créditos\n- TÉCNICAS DE INVESTIGACIÓN (Código: FG205) - 3 créditos\n- PRINCIPIOS ECONÓMICOS (Código: LGE003) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gestión Empresarial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 7mo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gestion_empresarial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gestión Empresarial\n============================================================\n\nsegundo año - 8vo ciclo\nTotal de créditos del ciclo: 9\n\n- EMPRESARIALIDAD II (Código: EM021) - 3 créditos\n- ÉTICA (Código: FG305) - 3 créditos\n- MERCADEO BÁSICO (Código: LGE004) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gestión Empresarial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 8vo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gestion_empresarial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gestión Empresarial\n============================================================\n\ntercer año - 9no ciclo\nTotal de créditos del ciclo: 6\n\n- LIDERAZGO Y TRABAJO EN EQUIPO (Código: LGE005) - 3 créditos\n- DERECHO EMPRESARIAL (Código: LGE006) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gestión Empresarial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 9no ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gestion_empresarial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gestión Empresarial\n============================================================\n\ntercer año - 10mo ciclo\nTotal de créditos del ciclo: 6\n\n- PLANIFICACIÓN ESTRATÉGICA (Código: AD010) - 3 créditos\n- SEMINARIO DE INFORMÁTICA (Código: CI405) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gestión Empresarial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 10mo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gestion_empresarial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gestión Empresarial\n============================================================\n\ntercer año - 11er ciclo\nTotal de créditos del ciclo: 6\n\n- CONTABILIDAD GERENCIAL (Código: AD204) - 3 créditos\n- MATEMÁTICA FINANCIERA I (Código: LGE007) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gestión Empresarial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 11er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gestion_empresarial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gestión Empresarial\n============================================================\n\ntercer año - 12do ciclo\nTotal de créditos del ciclo: 6\n\n- MATEMÁTICA FINANCIERA II (Código: MA103) - 3 créditos\n- MERCADEO ESTRATÉGICO (Código: NE202) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gestión Empresarial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 12do ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gestion_empresarial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gestión Empresarial\n============================================================\n\ncuarto año - 13er ciclo\nTotal de créditos del ciclo: 6\n\n- CONTROL Y EVALUACIÓN DE PROYECTOS (Código: CE100) - 3 créditos\n- CALIDAD TOTAL (Código: FR032) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gestión Empresarial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 13er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gestion_empresarial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gestión Empresarial\n============================================================\n\ncuarto año - 14to ciclo\nTotal de créditos del ciclo: 6\n\n- ADMINISTRACIÓN DE RECURSOS HUMANOS (Código: AD302) - 3 créditos\n- ADMINISTRACIÓN FINANCIERA (Código: RA303) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gestión Empresarial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 14to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gestion_empresarial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gestión Empresarial\n============================================================\n\ncuarto año - 15to ciclo\nTotal de créditos del ciclo: 6\n\n- TEORÍA GERENCIAL (Código: AD301) - 3 créditos\n- ESTADÍSTICA APLICADA (Código: CS325) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gestión Empresarial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 15to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gestion_empresarial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gestión Empresarial\n============================================================\n\ncuarto año - 16to ciclo\nTotal de créditos del ciclo: 6\n\n- COMERCIO ELECTRÓNICO (Código: CE005) - 3 créditos\n- SEMINARIO DE GESTIÓN EMPRESARIAL (Código: LGE008) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gestión Empresarial",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 16to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gestion_empresarial.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Música\n============================================================\n\nprimer año - 1er ciclo\nTotal de créditos del ciclo: 18\n\n- ENTRENAMIENTO AUDITIVO Y LECTOESCRITURA MUSICAL I (Código: EM011) - 4 créditos\n- LENGUAJE Y TÉCNICAS DE REDACCIÓN (Código: FG628) - 4 créditos\n- SONIDO BÁSICO I (Código: LIM) - 4 créditos\n- TÉCNICAS DEL INSTRUMENTO I (Código: LIME05) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Música",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 1er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_musica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Música\n============================================================\n\nprimer año - 2do ciclo\nTotal de créditos del ciclo: 18\n\n- ENTRENAMIENTO AUDITIVO Y LECTOESCRITURA MUSICAL II (Código: EM012) - 4 créditos\n- SONIDO BÁSICO II (Código: LIM002) - 4 créditos\n- TÉCNICA DE INSTRUMENTO II (Código: LIME19) - 6 créditos\n- CABLEADO (Código: LIS019) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Música",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 2do ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_musica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Música\n============================================================\n\nprimer año - 3er ciclo\nTotal de créditos del ciclo: 18\n\n- ENTRENAMIENTO AUDITIVO Y LECTOESCRITURA MUSICAL III (Código: EM013) - 4 créditos\n- ELECTRICIDAD (Código: FI306) - 4 créditos\n- TÉCNICA DE INSTRUMENTO 3 (Código: LIME22) - 6 créditos\n- PROCESOS DEL SONIDO (Código: SN102) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Música",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 3er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_musica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Música\n============================================================\n\nprimer año - 4to ciclo\nTotal de créditos del ciclo: 18\n\n- USO DE PROCESADORES / SISTEMA MIDI (Código: AATEC01) - 4 créditos\n- ENTRENAMIENTO AUDITIVO Y LECTOESCRITURA MUSICAL IV (Código: EM014) - 4 créditos\n- ESTÉTICA (Código: ESTI01) - 4 créditos\n- TÉCNICA DE INSTRUMENTO IV (Código: LIME23) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Música",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 4to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_musica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Música\n============================================================\n\nsegundo año - 5to ciclo\nTotal de créditos del ciclo: 18\n\n- PAQUETES DE SOFTWARE I (Código: CP001) - 4 créditos\n- MICROFONÍA (Código: LIM006) - 4 créditos\n- TÉCNICA DE INSTRUMENTO V (Código: LIME25) - 6 créditos\n- ARMONÍA (Código: LIME50) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Música",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 5to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_musica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Música\n============================================================\n\nsegundo año - 6to ciclo\nTotal de créditos del ciclo: 18\n\n- PAQUETES DE SOFTWARE II (Código: CP002) - 4 créditos\n- TÉCNICA DE INSTRUMENTO VI (Código: LIME27) - 6 créditos\n- ACÚSTICA I (Código: LIS020) - 4 créditos\n- ARMONÍA APLICADA (Código: MUS01) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Música",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 6to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_musica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Música\n============================================================\n\nsegundo año - 7mo ciclo\nTotal de créditos del ciclo: 18\n\n- APRECIACIÓN DE LA MÚSICA (Código: AM011) - 4 créditos\n- ARTE ESCÉNICO (Código: LIME18) - 4 créditos\n- TÉCNICA DE INSTRUMENTO VII (Código: LIME28) - 6 créditos\n- CONTRAPUNTO (Código: PGAM02) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Música",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 7mo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_musica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Música\n============================================================\n\nsegundo año - 8vo ciclo\nTotal de créditos del ciclo: 18\n\n- FILOSOFÍA DE LA MÚSICA (Código: FM010) - 4 créditos\n- ANÁLISIS DE LA FORMA (Código: LIME12) - 4 créditos\n- SONIDO EN VIVO (Código: LIS001) - 4 créditos\n- TÉCNICA DE INSTRUMENTO 8 (Código: TAL010) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Música",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 8vo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_musica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Música\n============================================================\n\ntercer año - 9no ciclo\nTotal de créditos del ciclo: 18\n\n- PROCESO DE MERCADO (Código: LIM001) - 4 créditos\n- REPERTORIO DEL INSTRUMENTO I (Código: LIME08) - 6 créditos\n- PSICOLOGÍA DE LA MÚSICA (Código: LIME11) - 4 créditos\n- COMUNICACIÓN EFICAZ Y ALTO DESEMPEÑO (Código: LIS013) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Música",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 9no ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_musica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Música\n============================================================\n\ntercer año - 10mo ciclo\nTotal de créditos del ciclo: 18\n\n- REPERTORIO DEL INSTRUMENTO II (Código: LIME33) - 6 créditos\n- ORQUESTACIÓN Y COMPOSICIÓN (Código: LIME48) - 4 créditos\n- ETIQUETA Y PROTOCOLO (Código: LIS014) - 4 créditos\n- MERCADEO ESTRATÉGICO (Código: NE202) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Música",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 10mo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_musica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Música\n============================================================\n\ntercer año - 11er ciclo\nTotal de créditos del ciclo: 18\n\n- PLANEACIÓN ESTRATÉGICA (Código: AD310) - 4 créditos\n- PRÁCTICA Y DIRECCIÓN ORQUESTAL I (Código: LIME17) - 4 créditos\n- CREACIÓN MUSICAL (Código: LIME20) - 4 créditos\n- REPERTORIO DEL INSTRUMENTO III (Código: LIME34) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Música",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 11er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_musica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Música\n============================================================\n\ntercer año - 12do ciclo\nTotal de créditos del ciclo: 18\n\n- EMPRESARIALIDAD (Código: EM020) - 4 créditos\n- REPERTORIO DEL INSTRUMENTO IV (Código: LIME35) - 6 créditos\n- PRÁCTICA Y DIRECCIÓN ORQUESTAL II (Código: LIME41) - 4 créditos\n- TECNOLOGÍA Y PRODUCCIÓN (Código: LIS003) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Música",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 12do ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_musica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Música\n============================================================\n\ncuarto año - 13er ciclo\nTotal de créditos del ciclo: 18\n\n- ADMINISTRACIÓN DE RECURSOS HUMANOS (Código: AD302) - 4 créditos\n- PRODUCCIÓN ARTÍSTICA (Código: LAR28) - 4 créditos\n- MATEMÁTICA (Código: MA100) - 4 créditos\n- PRÁCTICA PROFESIONAL I (Código: PP1) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Música",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 13er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_musica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Música\n============================================================\n\ncuarto año - 14to ciclo\nTotal de créditos del ciclo: 18\n\n- DIRECCIÓN ARTÍSTICA (Código: LAR30) - 4 créditos\n- DERECHO Y LEGISLACIÓN (Código: LIS026) - 4 créditos\n- PRÁCTICA PROFESIONAL II (Código: PP2) - 6 créditos\n- ADMINISTRACIÓN FINANCIERA (Código: RA303) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Música",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 14to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_musica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Música\n============================================================\n\ncuarto año - 15to ciclo\nTotal de créditos del ciclo: 18\n\n- LÓGICA (Código: FG106) - 4 créditos\n- DISEÑO Y PRODUCCIÓN (Código: LIS004) - 4 créditos\n- DIRECCIÓN MUSICAL (RÍTMICA, MÉTRICA Y AGÓGICA) (Código: MUS02) - 4 créditos\n- PROYECTO DE GRADUACIÓN I (Código: PGI) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Música",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 15to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_musica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Música\n============================================================\n\ncuarto año - 16to ciclo\nTotal de créditos del ciclo: 18\n\n- ÉTICA (Código: FG305) - 4 créditos\n- PRODUCCIÓN DE ESPECTÁCULOS (Código: LIME49) - 4 créditos\n- MANAGEMENT (Código: LIS036) - 4 créditos\n- PROYECTO DE GRADUACIÓN II (Código: PGII) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Música",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 16to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_musica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Administracion de Empresas\n============================================================\n\nprimer año - 1er ciclo\nTotal de créditos del ciclo: 24\n\n- TALLER DE EXPRESIÓN PROFESIONAL (Código: AC108) - 3 créditos\n- TALLER DE ADMINISTRACIÓN DE EMPRESAS (Código: AD025) - 6 créditos\n- PENSAMIENTO SISTÉMICO (Código: CS310) - 3 créditos\n- RAZONAMIENTO MATEMÁTICO (Código: FC018) - 6 créditos\n- MARKETING (Código: FR034) - 3 créditos\n- PLATAFORMA DIGITAL Y CREATIVA (Código: MER101) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Administracion de Empresas",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 1er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_administracion_de_empresas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Administracion de Empresas\n============================================================\n\nprimer año - 2do ciclo\nTotal de créditos del ciclo: 24\n\n- CONTABILIDAD GENERAL (Código: AD203) - 3 créditos\n- ECONOMÍA Y POLÍTICA (Código: EF202) - 6 créditos\n- TALLER DE INGLÉS GERENCIAL I (Código: ID208) - 6 créditos\n- LEGISLACIÓN LABORAL Y TRIBUTARIA (Código: LG203) - 3 créditos\n- MATEMÁTICA FINANCIERA (Código: MA102) - 3 créditos\n- MERCADEO ESTRATÉGICO (Código: NE202) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Administracion de Empresas",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 2do ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_administracion_de_empresas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Administracion de Empresas\n============================================================\n\nsegundo año - 3er ciclo\nTotal de créditos del ciclo: 24\n\n- TALLER DE PROGRAMACIÓN EMPRESARIAL (Código: AM301) - 3 créditos\n- ESTADÍSTICA APLICADA (Código: CS325) - 3 créditos\n- COSTOS Y PRESUPUESTOS (Código: DI0100) - 3 créditos\n- INVESTIGACIÓN DE MERCADOS (Código: DI0101) - 6 créditos\n- TALLER DE INGLÉS GERENCIAL II (Código: ID305) - 6 créditos\n- MARKETING DIGITAL I (Código: MER305) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Administracion de Empresas",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 3er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_administracion_de_empresas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Administracion de Empresas\n============================================================\n\nsegundo año - 4to ciclo\nTotal de créditos del ciclo: 24\n\n- GESTIÓN DE PROYECTOS (Código: AD800) - 3 créditos\n- ÉTICA SOCIAL Y EMPRESARIAL (Código: AM401) - 3 créditos\n- MICROECONOMÍA (Código: EC201) - 3 créditos\n- MARKETING DIGITAL II (Código: MER401) - 6 créditos\n- MEZCLA PROMOCIONAL (Código: MER402) - 3 créditos\n- ADMINISTRACIÓN FINANCIERA (Código: RA303) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Administracion de Empresas",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 4to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_administracion_de_empresas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Administracion de Empresas\n============================================================\n\ntercer año - 5to ciclo\nTotal de créditos del ciclo: 24\n\n- ADMINISTRACIÓN DE VENTAS (Código: AC131) - 6 créditos\n- PLANEACIÓN ESTRATÉGICA (Código: AD310) - 6 créditos\n- GESTIÓN DEL TALENTO HUMANO I (Código: AM501) - 3 créditos\n- MACROECONOMÍA (Código: EC202) - 3 créditos\n- LOGÍSTICA (Código: IG005) - 3 créditos\n- MERCADO DE CAPITAL Y VALORES (Código: ME012) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Administracion de Empresas",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 5to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_administracion_de_empresas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Administracion de Empresas\n============================================================\n\ntercer año - 6to ciclo\nTotal de créditos del ciclo: 24\n\n- ADMINISTRACIÓN DE LA PRODUCCIÓN Y RENDIMIENTO (Código: AM003) - 3 créditos\n- COMPETENCIAS DIRECTIVAS (Código: AM601) - 3 créditos\n- AUDITORÍA EMPRESARIAL (Código: AM602) - 3 créditos\n- TECNOLOGÍA DE LA INFORMACIÓN Y COMUNICACIÓN (TIC) (Código: CP602) - 6 créditos\n- COMERCIO INTERNACIONAL (Código: LABF20) - 3 créditos\n- EMPRENEGOCIOS I (Código: MER603) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Administracion de Empresas",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 6to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_administracion_de_empresas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Administracion de Empresas\n============================================================\n\ncuarto año - 7mo ciclo\nTotal de créditos del ciclo: 27\n\n- GESTIÓN DEL TALENTO HUMANO II (Código: AM701) - 3 créditos\n- SIX SIGMA (Código: AM709) - 6 créditos\n- ANÁLISIS FINAL (Código: FG407) - 3 créditos\n- INVESTIGACIÓN DE OPERACIONES (Código: MA408) - 3 créditos\n- SEMINARIO DE CASOS (Código: MDT003) - 6 créditos\n- PRÁCTICA PROFESIONAL SUPERVISADA (Código: PPS001) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Administracion de Empresas",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 7mo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_administracion_de_empresas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Administracion de Empresas\n============================================================\n\ncuarto año - 8vo ciclo\nTotal de créditos del ciclo: 27\n\n- INNOVACIÓN Y PRODUCTIVIDAD (Código: AM802) - 3 créditos\n- FINANZAS GERENCIALES (SEMINARIOS LIBRES) (Código: EF805) - 6 créditos\n- METODOLOGÍA DE LA INVESTIGACIÓN (Código: MEI01) - 6 créditos\n- EMPRENEGOCIOS II (Código: MER803) - 6 créditos\n- GESTIÓN DE CADENA DE SUMINISTROS (Código: MER804) - 3 créditos\n- SALUD Y SEGURIDAD OCUPACIONAL (Código: SSO01) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Administracion de Empresas",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 8vo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_administracion_de_empresas.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Química Biológica\n============================================================\n\nprimer año - 1er ciclo\nTotal de créditos del ciclo: 24\n\n- APLICATIVOS DE SOFTWARE I (Código: APS002) - 3 créditos\n- MATEMÁTICA I (Código: MA201) - 4 créditos\n- QUÍMICA GENERAL I (Código: QU405) - 7 créditos\n- PSICOLOGÍA GENERAL (Código: RG001) - 3 créditos\n- BIOLOGÍA GENERAL I (Código: TAN001) - 7 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Química Biológica",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 1er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_quimica_biologica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Química Biológica\n============================================================\n\nprimer año - 2do ciclo\nTotal de créditos del ciclo: 25\n\n- APLICATIVOS DE SOFTWARE II (Código: APS003) - 3 créditos\n- FÍSICA I (Código: FI201) - 4 créditos\n- MATEMÁTICA II (Código: MA202) - 4 créditos\n- QUÍMICA GENERAL II (Código: QU406) - 7 créditos\n- BIOLOGÍA GENERAL II (Código: TAN002) - 7 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Química Biológica",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 2do ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_quimica_biologica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Química Biológica\n============================================================\n\nsegundo año - 3er ciclo\nTotal de créditos del ciclo: 28\n\n- HÁBITOS DE ORGANIZACIÓN PERSONAL (Código: AD333) - 3 créditos\n- ANATOMÍA Y FISIOLOGÍA 1 (Código: AF001) - 7 créditos\n- FÍSICA II (Código: FI202) - 4 créditos\n- PARASITOLOGÍA (Código: TLC01) - 7 créditos\n- QUÍMICA INORGÁNICA (Código: TN114) - 7 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Química Biológica",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 3er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_quimica_biologica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Química Biológica\n============================================================\n\nsegundo año - 4to ciclo\nTotal de créditos del ciclo: 27\n\n- ANATOMÍA Y FISIOLOGÍA 2 (Código: AF002) - 7 créditos\n- BIOESTADÍSTICA (Código: BF002) - 3 créditos\n- BIOÉTICA (Código: DTF012) - 3 créditos\n- QUÍMICA ORGÁNICA (Código: Q3303) - 7 créditos\n- MICROBIOLOGÍA GENERAL (Código: TCT015) - 7 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Química Biológica",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 4to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_quimica_biologica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Química Biológica\n============================================================\n\ntercer año - 5to ciclo\nTotal de créditos del ciclo: 27\n\n- CONTABILIDAD GENERAL (Código: AD203) - 3 créditos\n- GESTIÓN DE LA CALIDAD I (Código: GC100) - 3 créditos\n- HEMATOLOGÍA BÁSICA (Código: LBC05) - 7 créditos\n- CITOHISTOLOGÍA (Código: SL013) - 7 créditos\n- BIOQUÍMICA GENERAL (Código: TCT016) - 7 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Química Biológica",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 5to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_quimica_biologica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Química Biológica\n============================================================\n\ntercer año - 6to ciclo\nTotal de créditos del ciclo: 28\n\n- ANÁLISIS INSTRUMENTAL (Código: AI400) - 4 créditos\n- GESTIÓN DE LA CALIDAD II (Código: GC002) - 3 créditos\n- BIOQUÍMICA CLÍNICA (Código: LBC07) - 7 créditos\n- INMUNOLOGÍA BÁSICA (Código: SL014) - 7 créditos\n- BACTERIOLOGÍA (Código: TLC02) - 7 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Química Biológica",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 6to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_quimica_biologica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Química Biológica\n============================================================\n\ncuarto año - 7mo ciclo\nTotal de créditos del ciclo: 29\n\n- HEMATOLOGÍA CLÍNICA (Código: LBC08) - 7 créditos\n- SALUD PÚBLICA Y LEGISLACIÓN (Código: LBC10) - 3 créditos\n- INTRODUCCIÓN A LA INVESTIGACIÓN (Código: LCTA) - 4 créditos\n- VIROLOGÍA (Código: SL015) - 4 créditos\n- MICROBIOLOGÍA CLÍNICA AVANZADA (Código: SL016) - 7 créditos\n- PRÁCTICA SUPERVISADA I (Código: VSS012) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Química Biológica",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 7mo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_quimica_biologica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Química Biológica\n============================================================\n\ncuarto año - 8vo ciclo\nTotal de créditos del ciclo: 32\n\n- ADMINISTRACIÓN DE LABORATORIO (Código: AM030) - 3 créditos\n- BIOLOGÍA MOLECULAR (Código: BI302) - 7 créditos\n- MICOLOGÍA (Código: LBC16) - 7 créditos\n- INTERPRETACIÓN DE PRUEBAS BIOQUÍMICAS (Código: SL017) - 4 créditos\n- MICROBIOLOGÍA APLICADA I (Código: TN116) - 7 créditos\n- PRÁCTICA SUPERVISADA II (Código: VSS011) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Química Biológica",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 8vo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_quimica_biologica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Química Biológica\n============================================================\n\nquinto año - 9no ciclo\nTotal de créditos del ciclo: 23\n\n- ADMINISTRACIÓN DE RECURSOS HUMANOS (Código: AD302) - 3 créditos\n- EPIDEMIOLOGIA (Código: BF004) - 3 créditos\n- BANCO DE SANGRE (Código: LBC13) - 7 créditos\n- MERCADEO Y PUBLICIDAD (Código: MP001) - 3 créditos\n- MICROBIOLOGÍA APLICADA II (Código: SL018) - 7 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Química Biológica",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "quinto año - 9no ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_quimica_biologica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Química Biológica\n============================================================\n\nquinto año - 10mo ciclo\nTotal de créditos del ciclo: 12\n\n- EPS (EJERCICIO PROFESIONAL SUPERVISADO) (Código: LQF16) - 12 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Química Biológica",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "quinto año - 10mo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_quimica_biologica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: LICENCIATURA EN ALIMENTACION Y NUTRICION\n============================================================\n\nprimer año - 1er ciclo\nTotal de créditos del ciclo: 21\n\n- PAQUETES DE SOFTWARE I (Código: CP001) - 2 créditos\n- LABORATORIO DE BIOLOGÍA GENERAL I (Código: LQ002) - 2 créditos\n- LABORATORIO DE QUÍMICA INORGÁNICA (Código: LQ115) - 2 créditos\n- MATEMÁTICA GENERAL (Código: MA301) - 4 créditos\n- METODOLOGÍA DE LA INVESTIGACIÓN (Código: MEI01) - 2 créditos\n- SOCIOLOGÍA (Código: RH310) - 2 créditos\n- BIOLOGÍA GENERAL I (Código: TAN001) - 3 créditos\n- QUÍMICA INORGÁNICA (Código: TN114) - 4 créditos\n",
+    "metadata": {
+      "carrera": "LICENCIATURA EN ALIMENTACION Y NUTRICION",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 1er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_alimentacion_y_nutricion.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: LICENCIATURA EN ALIMENTACION Y NUTRICION\n============================================================\n\nprimer año - 2do ciclo\nTotal de créditos del ciclo: 23\n\n- PAQUETES DE SOFTWARE II (Código: CP002) - 2 créditos\n- LABORATORIO DE BIOLOGÍA GENERAL II (Código: LAN024) - 2 créditos\n- LABORATORIO DE QUÍMICA ORGÁNICA (Código: LAN025) - 2 créditos\n- MATEMÁTICA APLICADA (Código: MA708) - 4 créditos\n- QUÍMICA ORGÁNICA (Código: Q3303) - 4 créditos\n- PSICOLOGÍA GENERAL (Código: RG001) - 2 créditos\n- BIOLOGÍA GENERAL II (Código: TAN002) - 3 créditos\n- ECONOMÍA ALIMENTARIA (Código: TAN003) - 2 créditos\n- ANTROPOLOGÍA NUTRICIONAL (Código: TAN004) - 2 créditos\n",
+    "metadata": {
+      "carrera": "LICENCIATURA EN ALIMENTACION Y NUTRICION",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 2do ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_alimentacion_y_nutricion.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: LICENCIATURA EN ALIMENTACION Y NUTRICION\n============================================================\n\nsegundo año - 3er ciclo\nTotal de créditos del ciclo: 22\n\n- BIOQUÍMICA I (Código: BIO1) - 3 créditos\n- ESTADÍSTICA BÁSICA (Código: EB402) - 4 créditos\n- LABORATORIO DE ANATOMÍA Y FISIOLOGÍA HUMANA (Código: LAN019) - 2 créditos\n- LABORATORIO DE MICROBIOLOGÍA BÁSICA (Código: LAN020) - 2 créditos\n- LABORATORIO DE BIOQUÍMICA I (Código: LAN028) - 2 créditos\n- MICROBIOLOGÍA BÁSICA (Código: TAN005) - 3 créditos\n- ANTROPOMETRÍA (Código: TAN018) - 3 créditos\n- ANATOMÍA Y FISIOLOGÍA HUMANA (Código: TESO2) - 3 créditos\n",
+    "metadata": {
+      "carrera": "LICENCIATURA EN ALIMENTACION Y NUTRICION",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 3er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_alimentacion_y_nutricion.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: LICENCIATURA EN ALIMENTACION Y NUTRICION\n============================================================\n\nsegundo año - 4to ciclo\nTotal de créditos del ciclo: 23\n\n- BIOQUÍMICA II (Código: BI309) - 3 créditos\n- DISEÑO Y ANÁLISIS DE EXPERIMENTOS (Código: LAN002) - 3 créditos\n- EVALUACIÓN DEL ESTADO NUTRICIONAL (Código: LAN008) - 3 créditos\n- LABORATORIO DE MICROBIOLOGÍA APLICADA (Código: LAN029) - 2 créditos\n- FISIOPATOLOGÍA NUTRICIONAL I (Código: LAN24) - 3 créditos\n- LABORATORIO DE BIOQUÍMICA II (Código: LQ401) - 2 créditos\n- PEDAGOGÍA Y DIDÁCTICA (Código: TAN007) - 2 créditos\n- EPIDEMIOLOGIA GENERAL (Código: TAN008) - 2 créditos\n- MICROBIOLOGÍA APLICADA (Código: TAN011) - 3 créditos\n",
+    "metadata": {
+      "carrera": "LICENCIATURA EN ALIMENTACION Y NUTRICION",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 4to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_alimentacion_y_nutricion.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: LICENCIATURA EN ALIMENTACION Y NUTRICION\n============================================================\n\ntercer año - 5to ciclo\nTotal de créditos del ciclo: 24\n\n- BROMATOLOGÍA (Código: LAN001) - 3 créditos\n- EPIDEMIOLOGIA NUTRICIONAL (Código: LAN003) - 3 créditos\n- FISIOPATOLOGÍA NUTRICIONAL II (Código: LAN005) - 3 créditos\n- ADMINISTRACIÓN DE RECURSOS HUMANOS Y PERSONAL (Código: LAN027) - 2 créditos\n- LABORATORIO DE BROMATOLOGÍA (Código: LAN031) - 2 créditos\n- ASEGURAMIENTO DE LA CALIDAD I (Código: LAN20) - 3 créditos\n- NUTRICIÓN BÁSICA I (Código: TAN009) - 4 créditos\n- DIETÉTICA I (Código: TAN014) - 4 créditos\n",
+    "metadata": {
+      "carrera": "LICENCIATURA EN ALIMENTACION Y NUTRICION",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 5to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_alimentacion_y_nutricion.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: LICENCIATURA EN ALIMENTACION Y NUTRICION\n============================================================\n\ntercer año - 6to ciclo\nTotal de créditos del ciclo: 24\n\n- ASEGURAMIENTO DE LA CALIDAD II (Código: AC325) - 3 créditos\n- DIETÉTICA II (Código: LAN004) - 4 créditos\n- SITUACIÓN ALIMENTARIA NUTRICIONAL DE GUATEMALA (Código: LAN026) - 3 créditos\n- LABORATORIO DE INTRODUCCIÓN A LA TECNOLOGÍA DE ALIMENTOS (Código: LTA601) - 2 créditos\n- INTRODUCCIÓN A LA TECNOLOGÍA DE ALIMENTOS (Código: TAN013) - 3 créditos\n- SERVICIOS DE ALIMENTACIÓN (Código: TAN015) - 2 créditos\n- NUTRICIÓN BÁSICA II (Código: TAN016) - 4 créditos\n- INVESTIGACIÓN APLICADA I (Código: TAN017) - 3 créditos\n",
+    "metadata": {
+      "carrera": "LICENCIATURA EN ALIMENTACION Y NUTRICION",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 6to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_alimentacion_y_nutricion.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: LICENCIATURA EN ALIMENTACION Y NUTRICION\n============================================================\n\ncuarto año - 7mo ciclo\nTotal de créditos del ciclo: 20\n\n- FORMULACIÓN DE PROYECTOS (Código: IS310) - 3 créditos\n- ANÁLISIS SENSORIAL DE ALIMENTOS (Código: LAN009) - 3 créditos\n- NUTRICIÓN APLICADA (Código: LAN017) - 2 créditos\n- LABORATORIO DE NUTRICIÓN APLICADA (Código: LAN023) - 3 créditos\n- LABORATORIO DE TECNOLOGÍA APLICADA DE ALIMENTOS I (Código: LAN030) - 2 créditos\n- TECNOLOGÍA APLICADA A ALIMENTOS I (Código: LAN22) - 3 créditos\n- FARMACOLOGÍA GENERAL Y TOXICOLOGÍA DE ALIMENTOS (Código: LAN23) - 4 créditos\n",
+    "metadata": {
+      "carrera": "LICENCIATURA EN ALIMENTACION Y NUTRICION",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 7mo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_alimentacion_y_nutricion.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: LICENCIATURA EN ALIMENTACION Y NUTRICION\n============================================================\n\ncuarto año - 8vo ciclo\nTotal de créditos del ciclo: 24\n\n- PLANIFICACIÓN ESTRATÉGICA (Código: AD010) - 3 créditos\n- ADMINISTRACIÓN DE EMPRESAS (Código: AD305) - 2 créditos\n- LEGISLACIÓN (Código: CS318) - 2 créditos\n- DIETOTERAPIA I ADULTOS (Código: DT1A) - 4 créditos\n- TECNOLOGÍA APLICADA DE ALIMENTOS II (Código: LAN011) - 3 créditos\n- MERCADOTECNIA Y PUBLICIDAD (Código: LAN014) - 2 créditos\n- LABORATORIO DE DIETOTERAPIA I ADULTOS (Código: LDDA) - 3 créditos\n- LABORATORIO DE TECNOLOGÍA APLICADA DE ALIMENTOS II (Código: LTA801) - 2 créditos\n- PRÁCTICA INSTITUCIONAL SUPERVISADA (Código: PIS) - 3 créditos\n",
+    "metadata": {
+      "carrera": "LICENCIATURA EN ALIMENTACION Y NUTRICION",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 8vo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_alimentacion_y_nutricion.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: LICENCIATURA EN ALIMENTACION Y NUTRICION\n============================================================\n\nquinto año - 9no ciclo\nTotal de créditos del ciclo: 20\n\n- TEORÍA GERENCIAL (Código: AD301) - 2 créditos\n- DIETOTERAPIA II PEDIÁTRICO (Código: DT2) - 4 créditos\n- GERENCIA DE PROYECTOS (Código: F009) - 2 créditos\n- INVESTIGACIÓN APLICADA II (Código: LAN016) - 3 créditos\n- INVESTIGACIÓN Y DESARROLLO DE PRODUCTOS ALIMENTICIOS (Código: LAN018) - 3 créditos\n- NUTRICIÓN DEL DEPORTE (Código: LCT018) - 3 créditos\n- LABORATORIO DE DIETOTERAPIA II PEDIÁTRICO (Código: LDT2P) - 3 créditos\n",
+    "metadata": {
+      "carrera": "LICENCIATURA EN ALIMENTACION Y NUTRICION",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "quinto año - 9no ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_alimentacion_y_nutricion.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: LICENCIATURA EN ALIMENTACION Y NUTRICION\n============================================================\n\nquinto año - 10mo ciclo\nTotal de créditos del ciclo: 18\n\n- EPS (EJERCICIO PROFESIONAL SUPERVISADO) (Código: LQF16) - 18 créditos\n",
+    "metadata": {
+      "carrera": "LICENCIATURA EN ALIMENTACION Y NUTRICION",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "quinto año - 10mo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_alimentacion_y_nutricion.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN MECATRÓNICA\n============================================================\n\nprimer año - 1er ciclo\nTotal de créditos del ciclo: 28\n\n- TÉCNICAS DE INVESTIGACIÓN Y APRENDIZAJE (Código: FG050) - 3 créditos\n- FÍSICA I (Código: FI201) - 5 créditos\n- INFORMÁTICA I (Código: IN301) - 4 créditos\n- TECNOLOGÍA DESCRIPTIVA (Código: IS425) - 3 créditos\n- MATEMÁTICA I (Código: MA201) - 8 créditos\n- CIENCIAS DE LA COMPUTACIÓN I (Código: PC111) - 5 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN MECATRÓNICA",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 1er ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_mecatronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN MECATRÓNICA\n============================================================\n\nprimer año - 2do ciclo\nTotal de créditos del ciclo: 28\n\n- EVOLUCIÓN DE LA CIENCIA Y LA TECNOLOGÍA (Código: FG051) - 3 créditos\n- FÍSICA II (Código: FI202) - 5 créditos\n- INFORMÁTICA II (Código: IN302) - 4 créditos\n- MATEMÁTICA II (Código: MA202) - 8 créditos\n- CIENCIAS DE LA COMPUTACIÓN II (Código: PC112) - 5 créditos\n- DIBUJO TÉCNICO (Código: PC403) - 3 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN MECATRÓNICA",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 2do ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_mecatronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN MECATRÓNICA\n============================================================\n\nsegundo año - 3er ciclo\nTotal de créditos del ciclo: 31\n\n- ELECTRICIDAD I (Código: EL103) - 3 créditos\n- FÍSICA III (Código: FI203) - 5 créditos\n- INFORMÁTICA III (Código: IN303) - 4 créditos\n- MATEMÁTICA III (Código: MA203) - 8 créditos\n- ÁLGEBRA LINEAL I (Código: MA206) - 4 créditos\n- CIENCIAS DE LA COMPUTACIÓN III (Código: PC117) - 7 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN MECATRÓNICA",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 3er ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_mecatronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN MECATRÓNICA\n============================================================\n\nsegundo año - 4to ciclo\nTotal de créditos del ciclo: 29\n\n- ELECTRICIDAD II (Código: EL104) - 3 créditos\n- ELECTRÓNICA I (Código: EL201) - 4 créditos\n- FÍSICA IV (Código: FI204) - 4 créditos\n- DIBUJO ASISTIDO POR COMPUTADORA (Código: IME10) - 4 créditos\n- MATEMÁTICA IV (Código: MA204) - 6 créditos\n- ÁLGEBRA LINEAL II (Código: MA207) - 4 créditos\n- ECUACIONES DIFERENCIALES ORDINARIAS (Código: MA415) - 4 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN MECATRÓNICA",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 4to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_mecatronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN MECATRÓNICA\n============================================================\n\ntercer año - 5to ciclo\nTotal de créditos del ciclo: 29\n\n- INSTRUMENTACIÓN ELECTRÓNICA (Código: DICA05) - 4 créditos\n- ELECTRÓNICA II (Código: EL204) - 4 créditos\n- ELECTRÓNICA III (Código: EL206) - 3 créditos\n- MANUFACTURA ASISTIDA POR COMPUTADORA (Código: IME01) - 4 créditos\n- CIENCIA DE LOS MATERIALES I (Código: IS416) - 4 créditos\n- MATEMÁTICA V (Código: MA205) - 6 créditos\n- ESTADÍSTICA MATEMÁTICA (Código: MA212) - 4 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN MECATRÓNICA",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 5to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_mecatronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN MECATRÓNICA\n============================================================\n\ntercer año - 6to ciclo\nTotal de créditos del ciclo: 28\n\n- INSTALACIONES ELÉCTRICAS (Código: EL205) - 3 créditos\n- MICROPROCESADORES (Código: EL207) - 5 créditos\n- DISEÑO DE MECANISMOS Y MAQUINAS I (Código: IME02) - 6 créditos\n- TEORÍA DE CONTROL (Código: IN211) - 5 créditos\n- CIENCIA DE LOS MATERIALES II (Código: IS417) - 4 créditos\n- MATEMÁTICA VI (Código: MA213) - 5 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN MECATRÓNICA",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 6to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_mecatronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN MECATRÓNICA\n============================================================\n\ncuarto año - 7mo ciclo\nTotal de créditos del ciclo: 32\n\n- APLICACIONES DE MICROPROCESADORES (Código: AM100) - 5 créditos\n- ECONOMÍA I (Código: EC213) - 3 créditos\n- AUTOMATIZACIÓN INDUSTRIAL (Código: EL209) - 5 créditos\n- POTENCIA Y MOTORES (Código: EL210) - 5 créditos\n- DISEÑO DE MECANISMOS Y MAQUINAS II (Código: IME03) - 6 créditos\n- MATEMÁTICA VII (Código: MA214) - 4 créditos\n- SEMINARIO DE INVESTIGACIÓN DE OPERACIONES I (Código: MA229) - 4 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN MECATRÓNICA",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 7mo ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_mecatronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN MECATRÓNICA\n============================================================\n\ncuarto año - 8vo ciclo\nTotal de créditos del ciclo: 28\n\n- ECONOMÍA II (Código: EC214) - 3 créditos\n- ACTUADORES Y SENSORES (Código: IME04) - 4 créditos\n- REDES INDUSTRIALES (Código: IME05) - 5 créditos\n- INTEGRACIÓN DE SISTEMAS DE MANUFACTURA (Código: IME06) - 6 créditos\n- ROBÓTICA (Código: IN212) - 6 créditos\n- SEMINARIO DE INVESTIGACIÓN DE OPERACIONES II (Código: MA228) - 4 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN MECATRÓNICA",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 8vo ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_mecatronica.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Arte\n============================================================\n\nprimer año - 1er ciclo\nTotal de créditos del ciclo: 18\n\n- LENGUAJE Y TÉCNICAS DE REDACCIÓN (Código: FG628) - 4 créditos\n- HISTORIA Y ARTE (Código: LAR00) - 4 créditos\n- TALLER INTEGRAL 1 (Código: LAR01) - 6 créditos\n- SONIDO BÁSICO I (Código: LIM) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Arte",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 1er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_arte.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Arte\n============================================================\n\nprimer año - 2do ciclo\nTotal de créditos del ciclo: 18\n\n- FILOSOFÍA Y ARTE (Código: LAR02) - 4 créditos\n- TALLER INTEGRAL 2 (Código: LAR04) - 6 créditos\n- ARMONÍA DEL ARTE (Código: LAR17) - 4 créditos\n- SONIDO BÁSICO II (Código: LIM002) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Arte",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 2do ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_arte.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Arte\n============================================================\n\nprimer año - 3er ciclo\nTotal de créditos del ciclo: 18\n\n- COMPOSICIÓN (Código: IM007) - 4 créditos\n- ARTES Y OFICIOS (Código: LAR03) - 4 créditos\n- SOCIOLOGÍA Y ARTE (Código: LAR05) - 4 créditos\n- TALLER INTEGRAL 3 (Código: LAR07) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Arte",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 3er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_arte.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Arte\n============================================================\n\nprimer año - 4to ciclo\nTotal de créditos del ciclo: 18\n\n- BELLAS ARTES (Código: LAR06) - 4 créditos\n- ANTROPOLOGÍA Y ARTE (Código: LAR08) - 4 créditos\n- ELEMENTOS DEL FENÓMENO ARTÍSTICO (Código: LAR09) - 4 créditos\n- TALLER INTEGRAL 4 (Código: LAR10) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Arte",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 4to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_arte.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Arte\n============================================================\n\nsegundo año - 5to ciclo\nTotal de créditos del ciclo: 18\n\n- ARTE CONTEMPORÁNEO (Código: ART11) - 4 créditos\n- PAQUETES DE SOFTWARE I (Código: CP001) - 4 créditos\n- TALLER INTEGRAL 5 (Código: LAR13) - 6 créditos\n- ARMONÍA (Código: LIME50) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Arte",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 5to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_arte.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Arte\n============================================================\n\nsegundo año - 6to ciclo\nTotal de créditos del ciclo: 18\n\n- CURADURÍA (Código: ART612) - 4 créditos\n- PAQUETES DE SOFTWARE II (Código: CP002) - 4 créditos\n- ARTE Y ESTÉTICA (Código: LAR12) - 4 créditos\n- TALLER INTEGRAL 6 (Código: LAR15) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Arte",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 6to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_arte.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Arte\n============================================================\n\nsegundo año - 7mo ciclo\nTotal de créditos del ciclo: 18\n\n- APRECIACIÓN DE LA MÚSICA (Código: AM011) - 4 créditos\n- GESTIÓN CULTURAL (Código: ART613) - 4 créditos\n- TALLER INTEGRAL 7 (Código: LAR16) - 6 créditos\n- ARTE ESCÉNICO (Código: LIME18) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Arte",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 7mo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_arte.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Arte\n============================================================\n\nsegundo año - 8vo ciclo\nTotal de créditos del ciclo: 18\n\n- GESTIÓN DEL ARTE (Código: ART614) - 4 créditos\n- FILOSOFÍA DE LA MÚSICA (Código: FM010) - 4 créditos\n- ARTE REGIONAL (Código: LAR14) - 4 créditos\n- TALLER INTEGRAL 8 (Código: LAR18) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Arte",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 8vo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_arte.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Arte\n============================================================\n\ntercer año - 9no ciclo\nTotal de créditos del ciclo: 18\n\n- TALLER DE ESPECIALIDAD I (Código: ART101) - 6 créditos\n- ARTES VISUALES (Código: LAR59) - 4 créditos\n- PROCESO DE MERCADO (Código: LIM001) - 4 créditos\n- COMUNICACIÓN EFICAZ Y ALTO DESEMPEÑO (Código: LIS013) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Arte",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 9no ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_arte.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Arte\n============================================================\n\ntercer año - 10mo ciclo\nTotal de créditos del ciclo: 18\n\n- TALLER DE ESPECIALIDAD II (Código: ART102) - 6 créditos\n- ARTES LITERARIAS (Código: LAR26) - 4 créditos\n- ETIQUETA Y PROTOCOLO (Código: LIS014) - 4 créditos\n- MERCADEO ESTRATÉGICO (Código: NE202) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Arte",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 10mo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_arte.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Arte\n============================================================\n\ntercer año - 11er ciclo\nTotal de créditos del ciclo: 18\n\n- PLANIFICACIÓN ESTRATÉGICA (Código: AD010) - 4 créditos\n- TALLER DE ESPECIALIDAD III (Código: ART103) - 6 créditos\n- TEORÍA DEL CONSUMIDOR (Código: FG629) - 4 créditos\n- ARTES MUSICALES (Código: LAR23) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Arte",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 11er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_arte.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Arte\n============================================================\n\ntercer año - 12do ciclo\nTotal de créditos del ciclo: 18\n\n- ARTES ESCÉNICAS (Código: ARES01) - 4 créditos\n- TALLER DE ESPECIALIDAD IV (Código: ART104) - 6 créditos\n- EMPRESARIALIDAD (Código: EM020) - 4 créditos\n- TECNOLOGÍA Y PRODUCCIÓN (ARTE Y TECNOLOGÍA) (Código: FG630) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Arte",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 12do ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_arte.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Arte\n============================================================\n\ncuarto año - 13er ciclo\nTotal de créditos del ciclo: 18\n\n- ADMINISTRACIÓN DE RECURSOS HUMANOS (Código: AD302) - 4 créditos\n- PRODUCCIÓN ARTÍSTICA (Código: LAR28) - 4 créditos\n- MATEMÁTICA (Código: MA100) - 4 créditos\n- PRÁCTICA PROFESIONAL I (Código: PP1) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Arte",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 13er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_arte.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Arte\n============================================================\n\ncuarto año - 14to ciclo\nTotal de créditos del ciclo: 18\n\n- DIRECCIÓN ARTÍSTICA (Código: LAR30) - 4 créditos\n- DERECHO Y LEGISLACIÓN (Código: LIS026) - 4 créditos\n- PRÁCTICA PROFESIONAL II (Código: PP2) - 6 créditos\n- ADMINISTRACIÓN FINANCIERA (Código: RA303) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Arte",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 14to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_arte.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Arte\n============================================================\n\ncuarto año - 15to ciclo\nTotal de créditos del ciclo: 18\n\n- ESCENOGRAFÍA (Código: ART631) - 4 créditos\n- LÓGICA (Código: FG106) - 4 créditos\n- DISEÑO Y PRODUCCIÓN (Código: LIS004) - 4 créditos\n- SEMINARIO DE GRADUACIÓN 1 (Código: MPG012) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Arte",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 15to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_arte.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Arte\n============================================================\n\ncuarto año - 16to ciclo\nTotal de créditos del ciclo: 18\n\n- ÉTICA (Código: FG305) - 4 créditos\n- PRODUCCIÓN DE ESPECTÁCULOS (Código: LIME49) - 4 créditos\n- MANAGEMENT (Código: LIS036) - 4 créditos\n- SEMINARIO DE GRADUACIÓN 2 (Código: MPG013) - 6 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Arte",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 16to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_arte.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN TELECOMUNICACIONES Y REDES TELEINFORMÁTICAS\n============================================================\n\nprimer año - 1er ciclo\nTotal de créditos del ciclo: 28\n\n- TÉCNICAS DE INVESTIGACIÓN Y APRENDIZAJE (Código: FG050) - 3 créditos\n- FÍSICA I (Código: FI201) - 5 créditos\n- INFORMÁTICA I (Código: IN301) - 4 créditos\n- TECNOLOGÍA DESCRIPTIVA (Código: IS425) - 3 créditos\n- MATEMÁTICA I (Código: MA201) - 8 créditos\n- CIENCIAS DE LA COMPUTACIÓN I (Código: PC111) - 5 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN TELECOMUNICACIONES Y REDES TELEINFORMÁTICAS",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 1er ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_telecomunicaciones.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN TELECOMUNICACIONES Y REDES TELEINFORMÁTICAS\n============================================================\n\nprimer año - 2do ciclo\nTotal de créditos del ciclo: 28\n\n- EVOLUCIÓN DE LA CIENCIA Y LA TECNOLOGÍA (Código: FG051) - 3 créditos\n- FÍSICA II (Código: FI202) - 5 créditos\n- INFORMÁTICA II (Código: IN302) - 4 créditos\n- MATEMÁTICA II (Código: MA202) - 8 créditos\n- CIENCIAS DE LA COMPUTACIÓN II (Código: PC112) - 5 créditos\n- DIBUJO TÉCNICO (Código: PC403) - 3 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN TELECOMUNICACIONES Y REDES TELEINFORMÁTICAS",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 2do ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_telecomunicaciones.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN TELECOMUNICACIONES Y REDES TELEINFORMÁTICAS\n============================================================\n\nsegundo año - 3er ciclo\nTotal de créditos del ciclo: 31\n\n- ELECTRICIDAD I (Código: EL103) - 3 créditos\n- FÍSICA III (Código: FI203) - 5 créditos\n- INFORMÁTICA III (Código: IN303) - 4 créditos\n- MATEMÁTICA III (Código: MA203) - 8 créditos\n- ÁLGEBRA LINEAL I (Código: MA206) - 4 créditos\n- CIENCIAS DE LA COMPUTACIÓN III (Código: PC117) - 7 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN TELECOMUNICACIONES Y REDES TELEINFORMÁTICAS",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 3er ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_telecomunicaciones.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN TELECOMUNICACIONES Y REDES TELEINFORMÁTICAS\n============================================================\n\nsegundo año - 4to ciclo\nTotal de créditos del ciclo: 31\n\n- ELECTRICIDAD II (Código: EL104) - 3 créditos\n- ELECTRÓNICA I (Código: EL201) - 4 créditos\n- FÍSICA IV (Código: FI204) - 4 créditos\n- MATEMÁTICA IV (Código: MA204) - 6 créditos\n- ÁLGEBRA LINEAL II (Código: MA207) - 4 créditos\n- ECUACIONES DIFERENCIALES ORDINARIAS (Código: MA415) - 4 créditos\n- REDES DIGITALES I (Código: RD205) - 6 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN TELECOMUNICACIONES Y REDES TELEINFORMÁTICAS",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 4to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_telecomunicaciones.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN TELECOMUNICACIONES Y REDES TELEINFORMÁTICAS\n============================================================\n\ntercer año - 5to ciclo\nTotal de créditos del ciclo: 32\n\n- INSTRUMENTACIÓN ELECTRÓNICA (Código: DICA05) - 4 créditos\n- ELECTRÓNICA II (Código: EL204) - 4 créditos\n- FÍSICA V (Código: FI210) - 4 créditos\n- MATEMÁTICA V (Código: MA205) - 6 créditos\n- ESTADÍSTICA MATEMÁTICA (Código: MA212) - 4 créditos\n- REDES DIGITALES II (Código: RD206) - 4 créditos\n- SISTEMAS INALÁMBRICOS I (Código: SI501) - 6 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN TELECOMUNICACIONES Y REDES TELEINFORMÁTICAS",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 5to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_telecomunicaciones.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN TELECOMUNICACIONES Y REDES TELEINFORMÁTICAS\n============================================================\n\ntercer año - 6to ciclo\nTotal de créditos del ciclo: 28\n\n- INSTRUMENTACIÓN ELECTRÓNICA II (Código: EL315) - 4 créditos\n- SEGURIDAD INFORMÁTICA (Código: LSI001) - 4 créditos\n- MATEMÁTICA VI (Código: MA213) - 5 créditos\n- REDES DIGITALES III (Código: RD207) - 5 créditos\n- SISTEMAS Y SEÑALES I (Código: TC036) - 5 créditos\n- TEORÍA ELECTROMAGNÉTICA (Código: TE408) - 5 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN TELECOMUNICACIONES Y REDES TELEINFORMÁTICAS",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 6to ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_telecomunicaciones.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN TELECOMUNICACIONES Y REDES TELEINFORMÁTICAS\n============================================================\n\ncuarto año - 7mo ciclo\nTotal de créditos del ciclo: 31\n\n- ARQUITECTURA DEL COMPUTADOR (Código: CH002) - 5 créditos\n- ECONOMÍA I (Código: EC213) - 3 créditos\n- INSTALACIONES ELÉCTRICAS (Código: EL205) - 4 créditos\n- MATEMÁTICA VII (Código: MA214) - 4 créditos\n- INVESTIGACIÓN DE OPERACIONES I (Código: MA307) - 4 créditos\n- REDES DIGITALES IV (Código: RD208) - 5 créditos\n- SISTEMAS Y SEÑALES II (Código: TC037) - 6 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN TELECOMUNICACIONES Y REDES TELEINFORMÁTICAS",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 7mo ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_telecomunicaciones.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: INGENIERÍA EN TELECOMUNICACIONES Y REDES TELEINFORMÁTICAS\n============================================================\n\ncuarto año - 8vo ciclo\nTotal de créditos del ciclo: 32\n\n- ECONOMÍA II (Código: EC214) - 3 créditos\n- INVESTIGACIÓN DE OPERACIONES II (Código: MA308) - 4 créditos\n- MICROONDA Y FIBRA ÓPTICA (Código: MF216) - 6 créditos\n- REDES DIGITALES V (Código: RD308) - 5 créditos\n- SISTEMAS INALÁMBRICOS II (Código: SI801) - 5 créditos\n- SEMINARIO DE APLICACIONES DE REDES (Código: TL801) - 5 créditos\n- TÉCNICAS DE MEDICIÓN EN SISTEMAS DE TELECOMUNICACIONES (Código: TT102) - 4 créditos\n",
+    "metadata": {
+      "carrera": "INGENIERÍA EN TELECOMUNICACIONES Y REDES TELEINFORMÁTICAS",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 8vo ciclo",
+      "fuente": "data/raw/galileo/pensums/ingenieria_en_telecomunicaciones.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gastronomía y Administración Culinaria\n============================================================\n\nprimer año - 1er ciclo\nTotal de créditos del ciclo: 21\n\n- TÉCNICAS BÁSICAS CULINARIAS I (Código: CU01) - 4 créditos\n- TÉCNICAS BÁSICAS CULINARIAS II (Código: CU02) - 4 créditos\n- TÉCNICAS BÁSICAS CULINARIAS III (Código: CU03) - 4 créditos\n- HISTORIA GASTRONÓMICA (Código: HGAS01) - 3 créditos\n- HIGIENE Y SANIDAD (Código: HYGS01) - 3 créditos\n- TÉCNICAS DE INVESTIGACIÓN Y ESTUDIO (Código: TF003) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gastronomía y Administración Culinaria",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 1er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gastronomia_y_administracion_culinaria.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gastronomía y Administración Culinaria\n============================================================\n\nprimer año - 2do ciclo\nTotal de créditos del ciclo: 21\n\n- PRINCIPIOS DE ADMINISTRACIÓN (Código: AH101) - 3 créditos\n- PAQUETES DE SOFTWARE (Código: CP006) - 3 créditos\n- TÉCNICAS DE COCCIÓN I (Código: CU04) - 4 créditos\n- TÉCNICAS DE COCCIÓN II (Código: CU05) - 4 créditos\n- TÉCNICAS DE COCCIÓN III (Código: CU06) - 4 créditos\n- MATEMÁTICA (Código: MA100) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gastronomía y Administración Culinaria",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "primer año - 2do ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gastronomia_y_administracion_culinaria.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gastronomía y Administración Culinaria\n============================================================\n\nsegundo año - 3er ciclo\nTotal de créditos del ciclo: 21\n\n- COCINA ASIÁTICA (Código: ACO01) - 4 créditos\n- COCINA CLÁSICA FRANCESA (Código: CCF01) - 3 créditos\n- COCINA MEDITERRÁNEA (Código: COM01) - 4 créditos\n- COCINA FRANCESA CONTEMPORÁNEA (Código: CU07) - 4 créditos\n- COSTOS I (Código: FG685) - 3 créditos\n- GESTIÓN EMPRESARIAL (Código: GE001) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gastronomía y Administración Culinaria",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 3er ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gastronomia_y_administracion_culinaria.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gastronomía y Administración Culinaria\n============================================================\n\nsegundo año - 4to ciclo\nTotal de créditos del ciclo: 21\n\n- CREACIÓN DE MENÚS (Código: CDM01) - 3 créditos\n- COCINA LATINOAMERICANA (Código: CLA01) - 4 créditos\n- COCINA REGIONAL CONTEMPORÁNEA (Código: CU08) - 4 créditos\n- COCINA DEL MUNDO (Código: CU09) - 4 créditos\n- SERVICIO AL CLIENTE (Código: IDL10SC01) - 3 créditos\n- TIPOS DE SERVICIO Y ETIQUETA (Código: TSYE01) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gastronomía y Administración Culinaria",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "segundo año - 4to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gastronomia_y_administracion_culinaria.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gastronomía y Administración Culinaria\n============================================================\n\ntercer año - 5to ciclo\nTotal de créditos del ciclo: 21\n\n- ENOLOGÍA (Código: CU010) - 3 créditos\n- COCINA GUATEMALTECA I (Código: CU011) - 4 créditos\n- COCINA GUATEMALTECA II (Código: CU012) - 4 créditos\n- COCINA GUATEMALTECA III (Código: CU013) - 4 créditos\n- NUTRICIÓN I (Código: FG107) - 3 créditos\n- IDENTIFICACIÓN Y COMPRA DE INSUMOS (Código: FG687) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gastronomía y Administración Culinaria",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 5to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gastronomia_y_administracion_culinaria.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gastronomía y Administración Culinaria\n============================================================\n\ntercer año - 6to ciclo\nTotal de créditos del ciclo: 21\n\n- COCINA GUATEMALTECA IV (Código: CU014) - 4 créditos\n- PANADERÍA (Código: CU015) - 4 créditos\n- BASES DE LA COCINA NUTRITIVA (Código: CU016) - 4 créditos\n- LINGÜÍSTICA Y EXPRESIÓN ORAL (Código: FG684) - 3 créditos\n- COSTOS II (Código: FG686) - 3 créditos\n- NUTRICIÓN II (Código: TUA08) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gastronomía y Administración Culinaria",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "tercer año - 6to ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gastronomia_y_administracion_culinaria.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gastronomía y Administración Culinaria\n============================================================\n\ncuarto año - 7mo ciclo\nTotal de créditos del ciclo: 21\n\n- TRABAJO DE CAMPO SOBRE LA GASTRONOMÍA E INGREDIENTES DE GUATEMALA (Código: CU017) - 3 créditos\n- RECURSOS HUMANOS PARA ALIMENTOS Y BEBIDAS (Código: CU018) - 3 créditos\n- MARKETING DE ALIMENTOS Y BEBIDAS (Código: CU019) - 3 créditos\n- COCINA MOLECULAR (Código: CU020) - 4 créditos\n- COCINA DE COMPETENCIA INTERNACIONAL (Código: CU021) - 4 créditos\n- MONTAJE Y PRESENTACIÓN AVANZADO (Código: FG683) - 4 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gastronomía y Administración Culinaria",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 7mo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gastronomia_y_administracion_culinaria.json"
+    }
+  },
+  {
+    "texto": "UNIVERSIDAD GALILEO\nCARRERA: Licenciatura en Gastronomía y Administración Culinaria\n============================================================\n\ncuarto año - 8vo ciclo\nTotal de créditos del ciclo: 21\n\n- CATERING (Código: CU022) - 3 créditos\n- COCTELERÍA PARA HOTELES Y RESTAURANTES (Código: CU023) - 3 créditos\n- COCINA GUATEMALTECA CONTEMPORÁNEA (Código: CU024) - 4 créditos\n- COCINA SOUS-VIDE (Código: CU025) - 4 créditos\n- COCINA REGENERATIVA (Código: CU026) - 4 créditos\n- SEMINARIO DE ALIMENTOS Y BEBIDAS (Código: SE004) - 3 créditos\n",
+    "metadata": {
+      "carrera": "Licenciatura en Gastronomía y Administración Culinaria",
+      "universidad": "Galileo",
+      "tipo": "pensum_ciclo",
+      "ciclo": "cuarto año - 8vo ciclo",
+      "fuente": "data/raw/galileo/pensums/licenciatura_en_gastronomia_y_administracion_culinaria.json"
+    }
+  }
+]

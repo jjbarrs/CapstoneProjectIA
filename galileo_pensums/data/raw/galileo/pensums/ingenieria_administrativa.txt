@@ -1,0 +1,90 @@
+UNIVERSIDAD GALILEO
+CARRERA: Ingeniería Administrativa
+Total de materias: 53
+Total de créditos: 228
+URL: https://www.galileo.edu/facti/carrera/iad/informacion-de-la-carrera/pensum/
+================================================================================
+
+primer año - 1er ciclo
+============================================================
+- TECNOLOGÍA DESCRIPTIVA (IS425) - 3 créditos
+- INICIATIVA EMPRESARIAL (IU01) - 3 créditos
+- NIVELACIÓN MATEMÁTICA (IU02) - 8 créditos
+- LABORATORIO DE QUÍMICA GENERAL (LQ001) - 1 créditos
+- CIENCIAS DE LA COMPUTACIÓN I (PC111) - 5 créditos
+- DIBUJO TÉCNICO (PC403) - 5 créditos
+- QUÍMICA GENERAL (QU401) - 4 créditos
+
+
+primer año - 2do ciclo
+============================================================
+- INTRODUCCIÓN A LA ADMINISTRACIÓN DE EMPRESAS (AD501) - 4 créditos
+- FÍSICA GENERAL I (FI402) - 4 créditos
+- CONTABILIDAD GENERAL I (IAD01) - 3 créditos
+- LABORATORIO DE FÍSICA GENERAL I (LFG01) - 1 créditos
+- MATEMÁTICA 108 (MA0101) - 8 créditos
+- CIENCIAS DE LA COMPUTACIÓN II (PC112) - 5 créditos
+- DISEÑO ASISTIDO POR COMPUTADORAS (PC404) - 4 créditos
+
+
+segundo año - 3er ciclo
+============================================================
+- CONTABILIDAD II (AD202) - 4 créditos
+- LEGISLACIÓN (CS318) - 4 créditos
+- FÍSICA GENERAL II (FI403) - 4 créditos
+- DISEÑO GRAFICO (IG006) - 4 créditos
+- LABORATORIO DE FÍSICA GENERAL II (LFG02) - 1 créditos
+- MATEMÁTICA 208 (MA0208) - 8 créditos
+- CIENCIAS DE LA COMPUTACIÓN III (PC117) - 5 créditos
+
+
+segundo año - 4to ciclo
+============================================================
+- MERCADOTECNIA (EC411) - 4 créditos
+- NORMAS Y REGULACIONES (IAD02) - 4 créditos
+- PSICOLOGÍA INDUSTRIAL (IS422) - 4 créditos
+- MATEMÁTICA 308 (MA0308) - 6 créditos
+- ESTADÍSTICA I (MA311) - 4 créditos
+- MECÁNICA PARA INGENIEROS (MPI01) - 4 créditos
+- CONTABILIDAD FINANCIERA (RA301) - 4 créditos
+
+
+tercer año - 5to ciclo
+============================================================
+- ADMINISTRACIÓN DE RECURSOS HUMANOS (AD302) - 4 créditos
+- COMERCIO ELECTRÓNICO (CE005) - 4 créditos
+- DISEÑO INDUSTRIAL (DI101) - 4 créditos
+- GERENCIA (GE100) - 4 créditos
+- MÉTODOS APLICADOS I (IU10) - 5 créditos
+- ESTADÍSTICA II (MA312) - 5 créditos
+
+
+tercer año - 6to ciclo
+============================================================
+- ESTADÍSTICA PARA LA CALIDAD (IS407) - 5 créditos
+- INGENIERÍA DE MÉTODOS (IS411) - 5 créditos
+- FORMULACIÓN Y EVALUACIÓN DE PROYECTOS (IS420) - 5 créditos
+- MÉTODOS APLICADOS II (IU06) - 5 créditos
+- COMERCIO INTERNACIONAL (LABF20) - 5 créditos
+- ADMINISTRACIÓN FINANCIERA (RA303) - 4 créditos
+
+
+cuarto año - 7mo ciclo
+============================================================
+- ECONOMÍA I (EC213) - 4 créditos
+- INGENIERÍA DE COSTOS (IS409) - 4 créditos
+- MONEDA Y BANCA (IU07) - 4 créditos
+- INVESTIGACIÓN DE OPERACIONES I (MA307) - 5 créditos
+- SEGURIDAD INDUSTRIAL (RA313) - 4 créditos
+- TEORÍA DE DECISIONES (RA315) - 4 créditos
+- SEMINARIO DE NEGOCIOS Y PROCESOS DE ADMINISTRACIÓN (SNP10) - 4 créditos
+
+
+cuarto año - 8vo ciclo
+============================================================
+- ADMINISTRACIÓN DE LA PRODUCCIÓN (AR501) - 4 créditos
+- APLICACIONES DE SOFTWARE PARA ADMINISTRACIÓN (AS010) - 4 créditos
+- ECONOMÍA II (EC214) - 5 créditos
+- LOGÍSTICA (IG005) - 4 créditos
+- ECONOMETRÍA (MA216) - 4 créditos
+- INVESTIGACIÓN DE OPERACIONES II (MA308) - 5 créditos

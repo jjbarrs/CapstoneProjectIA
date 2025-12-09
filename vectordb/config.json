@@ -1,0 +1,6 @@
+{
+  "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
+  "total_chunks": 249,
+  "chunk_size": 1000,
+  "chunk_overlap": 200
+}

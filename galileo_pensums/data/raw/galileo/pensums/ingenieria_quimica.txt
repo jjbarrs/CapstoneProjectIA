@@ -1,0 +1,75 @@
+UNIVERSIDAD GALILEO
+CARRERA: INGENIERIA QUIMICA
+Total de materias: 46
+Total de créditos: 167
+URL: https://www.galileo.edu/pensums/?gphcarrera=INQ
+================================================================================
+
+primer año - 1er ciclo
+============================================================
+- BIOLOGÍA (BB001) - 3 créditos
+- QUÍMICA I (BQU01) - 4 créditos
+- TÉCNICAS DE COMUNICACIÓN ORAL Y ESCRITA (LE007) - 3 créditos
+- LABORATORIO DE QUÍMICA I (LQ101) - 2 créditos
+- MATEMÁTICA I (MA201) - 8 créditos
+- CIENCIAS DE LA COMPUTACIÓN I (PC111) - 5 créditos
+- TALLER DE INTRODUCCIÓN A LA INGENIERÍA QUÍMICA (SOS101) - 3 créditos
+
+
+primer año - 2do ciclo
+============================================================
+- QUÍMICA II (BQU02) - 4 créditos
+- CIENCIAS AMBIENTALES (FG514) - 3 créditos
+- LABORATORIO DE FÍSICA I (FI105) - 1 créditos
+- FÍSICA I (FI201) - 4 créditos
+- MATEMÁTICA II (MA202) - 8 créditos
+- METODOLOGÍA DE LA INVESTIGACIÓN (MEI01) - 3 créditos
+- CIENCIAS DE LA COMPUTACIÓN II (PC112) - 5 créditos
+- LABORATORIO DE QUÍMICA II (QU101) - 2 créditos
+
+
+segundo año - 3er ciclo
+============================================================
+- LABORATORIO DE FÍSICA II (FI106) - 1 créditos
+- FÍSICA II (FI202) - 4 créditos
+- LABORATORIO DE QUÍMICA ORGÁNICA I (LQF25) - 2 créditos
+- MATEMÁTICA III (MA203) - 8 créditos
+- ÁLGEBRA LINEAL (MA208) - 4 créditos
+- ESTADÍSTICA (MA304) - 4 créditos
+- QUÍMICA ORGÁNICA I (Q3304) - 4 créditos
+- TECNOLOGÍA INDUSTRIAL (TIU301) - 3 créditos
+
+
+segundo año - 4to ciclo
+============================================================
+- LEGISLACIÓN (LG601) - 3 créditos
+- LABORATORIO QUÍMICA ORGÁNICA II (LQF27) - 2 créditos
+- LABORATORIO DE FISICOQUÍMICA (LQF31) - 2 créditos
+- MATEMÁTICA IV (MA204) - 6 créditos
+- ECUACIONES DIFERENCIALES ORDINARIAS (MA415) - 4 créditos
+- FISICOQUÍMICA (Q3305) - 3 créditos
+- QUÍMICA ORGÁNICA II (Q3307) - 4 créditos
+- QUÍMICA ANALÍTICA I (QA002) - 3 créditos
+- LABORATORIO DE QUÍMICA ANALÍTICA I (QA004) - 2 créditos
+
+
+tercer año - 5to ciclo
+============================================================
+- ANÁLISIS INSTRUMENTAL (AI400) - 3 créditos
+- DISEÑO DE PROYECTOS E INNOVACIÓN (DPI501) - 3 créditos
+- CIENCIA DE LOS MATERIALES (HU320) - 4 créditos
+- MATEMÁTICA V (MA205) - 6 créditos
+- QUÍMICA ANALÍTICA II (QA003) - 3 créditos
+- LABORATORIO DE QUÍMICA ANALÍTICA II (QA005) - 2 créditos
+- BALANCE DE MASA Y ENERGÍA (QU501) - 4 créditos
+
+
+tercer año - 6to ciclo
+============================================================
+- ADMINISTRACIÓN DE EMPRESAS (AD305) - 3 créditos
+- COMPUTACIÓN CIENTÍFICA (CP601) - 5 créditos
+- FINANZAS (EC204) - 3 créditos
+- LABORATORIO DE MICROBIOLOGÍA INDUSTRIAL (LMB601) - 2 créditos
+- MECÁNICA DE FLUIDOS (MF100) - 4 créditos
+- SISTEMAS ENERGÉTICOS (PRI601) - 5 créditos
+- MICROBIOLOGÍA INDUSTRIAL (QU602) - 3 créditos
